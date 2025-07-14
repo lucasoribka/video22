@@ -1273,6 +1273,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-07-2025/18h/QUADRA_14-07-2025_18-58-54.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-07-2025_19-41-45.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-07-2025/19h/QUADRA_14-07-2025_19-41-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/14-07-2025/19h/QUADRA_14-07-2025_19-41-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_Q7SSXe-8mqRrOuH4gTwS_p_fXk2jdn8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-07-2025/19h/QUADRA_14-07-2025_19-41-45.jpg"
+                }
+              ]
             }
           }
         }
@@ -2138,6 +2149,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/STALL%20BEACH%20-%20BOM%20JESUS/QUADRA%205/13-07-2025/18h/QUADRA_13-07-2025_18-57-44.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Evn-yDogZF6HqLi5tXZRi2mOJjY6ECou&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/STALL BEACH - BOM JESUS/QUADRA 5/13-07-2025/18h/QUADRA_13-07-2025_18-57-44.jpg"
+                }
+              ]
+            }
+          },
+          "14-07-2025": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-07-2025_19-44-04.mp4",
+                  "path": "/PR/RIO NEGRO-PR/STALL BEACH - BOM JESUS/QUADRA 5/14-07-2025/19h/QUADRA_14-07-2025_19-44-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/STALL%20BEACH%20-%20BOM%20JESUS/QUADRA%205/14-07-2025/19h/QUADRA_14-07-2025_19-44-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=13iPT4WH_GlVh420fL_gKLHl38HwfHwVw&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/STALL BEACH - BOM JESUS/QUADRA 5/14-07-2025/19h/QUADRA_14-07-2025_19-44-04.jpg"
                 }
               ]
             }
@@ -3780,6 +3804,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/14-07-2025/16h/QUADRA_14-07-2025_16-28-55.mp4",
                   "url_download": "https://drive.google.com/uc?id=1RMmjV-yUZTMtJW2bUAIUhL8caNk8TXPy&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/14-07-2025/16h/QUADRA_14-07-2025_16-28-55.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-07-2025_19-42-59.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/14-07-2025/19h/QUADRA_14-07-2025_19-42-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/14-07-2025/19h/QUADRA_14-07-2025_19-42-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wTphzIy_HpdqmCqedv6jvVwJ2zSqSBhB&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/14-07-2025/19h/QUADRA_14-07-2025_19-42-59.jpg"
                 }
               ]
             }
