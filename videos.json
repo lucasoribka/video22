@@ -5356,6 +5356,26 @@
                 }
               ]
             }
+          },
+          "17-07-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-07-2025_09-14-46.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-07-2025/09h/QUADRA_17-07-2025_09-14-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-07-2025/09h/QUADRA_17-07-2025_09-14-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wR_7HoTxHAS-AmsJPNduuNmW7faSwW3T&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-07-2025/09h/QUADRA_17-07-2025_09-14-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-07-2025_09-15-24.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-07-2025/09h/QUADRA_17-07-2025_09-15-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-07-2025/09h/QUADRA_17-07-2025_09-15-24.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1bGO8DQl0OHoOSiuMyFhQ11IlGNc-fU4r&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-07-2025/09h/QUADRA_17-07-2025_09-15-24.jpg"
+                }
+              ]
+            }
           }
         }
       }
