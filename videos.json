@@ -2802,6 +2802,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/02-08-2025/15h/QUADRA_02-08-2025_15-26-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1I8-8qck-Py_Xi0jNmICX5j8CRRU3eWJ1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/02-08-2025/15h/QUADRA_02-08-2025_15-26-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-08-2025_15-40-54.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/02-08-2025/15h/QUADRA_02-08-2025_15-40-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/02-08-2025/15h/QUADRA_02-08-2025_15-40-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1t_FfNIdFptN-7pKGZIOFM2U6bLrUuM_J&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/02-08-2025/15h/QUADRA_02-08-2025_15-40-54.jpg"
                 }
               ]
             }
@@ -3595,6 +3602,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/02-08-2025/15h/QUADRA_02-08-2025_15-23-07.mp4",
                   "url_download": "https://drive.google.com/uc?id=1AyUUnD5hhRxobQ4y7QMIPQrIkDXm0jVd&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/02-08-2025/15h/QUADRA_02-08-2025_15-23-07.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-08-2025_15-39-33.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/02-08-2025/15h/QUADRA_02-08-2025_15-39-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/02-08-2025/15h/QUADRA_02-08-2025_15-39-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18RzcmdJN0CLbhlKhdwubFpZU5dd3ltp1&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/02-08-2025/15h/QUADRA_02-08-2025_15-39-33.jpg"
                 }
               ]
             }
@@ -5223,6 +5237,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-08-2025/21h/QUADRA_01-08-2025_21-00-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1qb1Tw55luzzAvqae3tnVX6RC_DUyNcLS&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-08-2025/21h/QUADRA_01-08-2025_21-00-30.jpg"
+                }
+              ]
+            }
+          },
+          "02-08-2025": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-08-2025_15-40-47.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/02-08-2025/15h/QUADRA_02-08-2025_15-40-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/02-08-2025/15h/QUADRA_02-08-2025_15-40-47.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1bsLh6peaC-eg434RDXMXw9KnyxRyH-99&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/02-08-2025/15h/QUADRA_02-08-2025_15-40-47.jpg"
                 }
               ]
             }
