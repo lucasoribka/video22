@@ -5042,6 +5042,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/09-08-2025/08h/QUADRA_09-08-2025_08-55-14.jpg"
                 }
               ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-08-2025_09-45-14.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/09-08-2025/09h/QUADRA_09-08-2025_09-45-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/09-08-2025/09h/QUADRA_09-08-2025_09-45-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WqPBrtop02vqjcinT5X6zOUaWXIOUH1I&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/09-08-2025/09h/QUADRA_09-08-2025_09-45-14.jpg"
+                }
+              ]
             }
           }
         }
@@ -5313,6 +5324,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/09-08-2025/09h/QUADRA_09-08-2025_09-27-49.mp4",
                   "url_download": "https://drive.google.com/uc?id=1wT2ZDjZd966MY-69LXKd-rfQ5mNj1wFw&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/09-08-2025/09h/QUADRA_09-08-2025_09-27-49.jpg"
+                },
+                {
+                  "nome": "QUADRA_09-08-2025_09-46-40.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/09-08-2025/09h/QUADRA_09-08-2025_09-46-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/09-08-2025/09h/QUADRA_09-08-2025_09-46-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1VI0DOQVYRqXiGH0GIlpjS-G2zMXn1BqA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/09-08-2025/09h/QUADRA_09-08-2025_09-46-40.jpg"
                 }
               ]
             }
