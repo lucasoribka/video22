@@ -1384,6 +1384,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-08-2025/06h/QUADRA_14-08-2025_06-42-46.jpg"
                 }
               ]
+            },
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-08-2025_08-38-14.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-08-2025/08h/QUADRA_14-08-2025_08-38-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/14-08-2025/08h/QUADRA_14-08-2025_08-38-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ismiVDzD5VQce4AmkF1SszPyYzGIKrJf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-08-2025/08h/QUADRA_14-08-2025_08-38-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-08-2025_08-43-55.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-08-2025/08h/QUADRA_14-08-2025_08-43-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/14-08-2025/08h/QUADRA_14-08-2025_08-43-55.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1m6eqMhyYiTUD3c8VCRcbSx1Q0o5rwLon&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-08-2025/08h/QUADRA_14-08-2025_08-43-55.jpg"
+                }
+              ]
             }
           }
         }
@@ -3078,6 +3096,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/14-08-2025/07h/QUADRA_14-08-2025_07-53-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=1K09nv19pj9rJ7Hty5gpVcttr_Xnu-CK1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/14-08-2025/07h/QUADRA_14-08-2025_07-53-19.jpg"
+                }
+              ]
+            },
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-08-2025_08-43-51.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/14-08-2025/08h/QUADRA_14-08-2025_08-43-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/14-08-2025/08h/QUADRA_14-08-2025_08-43-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1s3PWCkklLKMFa7-aspcXXtRaGH4KxpoJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/14-08-2025/08h/QUADRA_14-08-2025_08-43-51.jpg"
                 }
               ]
             }
