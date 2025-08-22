@@ -1499,6 +1499,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/22-08-2025/18h/QUADRA_22-08-2025_18-54-03.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-08-2025_19-27-46.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-27-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-27-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=183wxII95GAoYrGJSJnX4XD6RYAftPq-R&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-27-46.jpg"
+                }
+              ]
             }
           }
         }
@@ -2493,6 +2504,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/21-08-2025/21h/QUADRA_21-08-2025_21-01-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=1U3Bh-OV645f5lQmKikdluAVVoWPUCa2T&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-08-2025/21h/QUADRA_21-08-2025_21-01-21.jpg"
+                }
+              ]
+            }
+          },
+          "22-08-2025": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-08-2025_19-33-08.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/22-08-2025/19h/QUADRA_22-08-2025_19-33-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/22-08-2025/19h/QUADRA_22-08-2025_19-33-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1C6oReOnW2o66vpAMlACYAWr7izbUMJIr&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/22-08-2025/19h/QUADRA_22-08-2025_19-33-08.jpg"
                 }
               ]
             }
@@ -4772,6 +4796,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-08-2025/19h/QUADRA_22-08-2025_19-12-42.mp4",
                   "url_download": "https://drive.google.com/uc?id=11pM7y3CYA5_JK1s4mH6lffe8xoNM8JQ2&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-08-2025/19h/QUADRA_22-08-2025_19-12-42.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-08-2025_19-36-15.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-08-2025/19h/QUADRA_22-08-2025_19-36-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-08-2025/19h/QUADRA_22-08-2025_19-36-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1FldWZ1RlPvgKu46wESDYiYIkfZ2jv_s0&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-08-2025/19h/QUADRA_22-08-2025_19-36-15.jpg"
                 }
               ]
             }
@@ -6202,6 +6233,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-20-32.mp4",
                   "url_download": "https://drive.google.com/uc?id=1vEJfUBv4rYM-GfmH22XeGXSR5JYF6loj&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-20-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-08-2025_19-33-03.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-33-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-33-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WJ3zlz7X4o5OdaUmhHaQY1vXYchU_pm7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2025/19h/QUADRA_22-08-2025_19-33-03.jpg"
                 }
               ]
             }
