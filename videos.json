@@ -1446,6 +1446,31 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/11h/QUADRA_31-08-2025_11-56-37.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-08-2025_12-00-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-00-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-00-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1oCepOkSmuKMpX6qtW2spqxvwCduFjqC4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-00-06.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-08-2025_12-00-36.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-00-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-00-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1neYDJqT4KTV0HG6WPszpBTqvkZFM0rVC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-00-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-08-2025_12-01-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-01-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-01-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jZ0WXKtgEXJnttyD_3i6s4KT1PVl7oax&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/31-08-2025/12h/QUADRA_31-08-2025_12-01-01.jpg"
+                }
+              ]
             }
           }
         }
