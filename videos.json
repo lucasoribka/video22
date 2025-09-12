@@ -5173,6 +5173,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/12-09-2025/09h/QUADRA_12-09-2025_09-28-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1lAXe5MyWjLKlF4GuJF1fts3sGQ1lpGpE&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-09-2025/09h/QUADRA_12-09-2025_09-28-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-09-2025_09-29-09.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-09-2025/09h/QUADRA_12-09-2025_09-29-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/12-09-2025/09h/QUADRA_12-09-2025_09-29-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NpnltfDALWzl_tRkO0C4XkixhOITiYUZ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-09-2025/09h/QUADRA_12-09-2025_09-29-09.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-09-2025_10-50-36.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-09-2025/10h/QUADRA_12-09-2025_10-50-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/12-09-2025/10h/QUADRA_12-09-2025_10-50-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18cNR_W6BjC7jGxMUVpm518V8TmYBtTiY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-09-2025/10h/QUADRA_12-09-2025_10-50-36.jpg"
                 }
               ]
             }
@@ -6433,6 +6451,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/11-09-2025/15h/QUADRA_11-09-2025_15-43-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ctP7B_FN1HxrPteeqfcp72aihATvuqqt&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/11-09-2025/15h/QUADRA_11-09-2025_15-43-15.jpg"
+                }
+              ]
+            }
+          },
+          "12-09-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-09-2025_09-45-41.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/12-09-2025/09h/QUADRA_12-09-2025_09-45-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/12-09-2025/09h/QUADRA_12-09-2025_09-45-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1iQQhD1Qwuao_htPAqvwtXgpT0V_dgUF1&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/12-09-2025/09h/QUADRA_12-09-2025_09-45-41.jpg"
                 }
               ]
             }
