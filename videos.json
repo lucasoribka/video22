@@ -795,6 +795,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/19-09-2025/19h/QUADRA_19-09-2025_19-55-43.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2025_20-52-04.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-52-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-52-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1zMToO03oKX-nEiuHeQz8Lg_MKKHmJ6dF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-52-04.jpg"
+                }
+              ]
             }
           }
         }
@@ -1998,6 +2009,19 @@
                 }
               ]
             }
+          },
+          "19-09-2025": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2025_20-53-00.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/19-09-2025/20h/QUADRA_19-09-2025_20-53-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/19-09-2025/20h/QUADRA_19-09-2025_20-53-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1czH5r39NHJ8KiXAYKfwlEuGFe9G2UXOj&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/19-09-2025/20h/QUADRA_19-09-2025_20-53-00.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -2098,6 +2122,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/19-09-2025/19h/QUADRA_19-09-2025_19-23-50.mp4",
                   "url_download": "https://drive.google.com/uc?id=1u1z3qbvCwvZMB1mjkfiFfvERqFVm8yYr&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/19-09-2025/19h/QUADRA_19-09-2025_19-23-50.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2025_20-55-32.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/19-09-2025/20h/QUADRA_19-09-2025_20-55-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/19-09-2025/20h/QUADRA_19-09-2025_20-55-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=17Jg8S5ry5OwUXITeJEGC_wVjw0y98n-n&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/19-09-2025/20h/QUADRA_19-09-2025_20-55-32.jpg"
                 }
               ]
             }
@@ -5813,6 +5848,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-45-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1qNMCab19HmpDn8Aa6zeClCmUKH7ij9BC&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-45-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-09-2025_20-52-28.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-52-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-52-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1W13XPB-9ISQqo3OE2lOICQNoSCg7dQEA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-09-2025/20h/QUADRA_19-09-2025_20-52-28.jpg"
                 }
               ]
             }
