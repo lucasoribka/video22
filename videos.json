@@ -3796,6 +3796,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/23-09-2025/12h/QUADRA_23-09-2025_12-02-49.jpg"
                 }
               ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_13-25-46.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/23-09-2025/13h/QUADRA_23-09-2025_13-25-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/23-09-2025/13h/QUADRA_23-09-2025_13-25-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1pYrEVDx638lMpCZ35I1SA6Y8xMZJVxhX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/23-09-2025/13h/QUADRA_23-09-2025_13-25-46.jpg"
+                }
+              ]
             }
           }
         },
@@ -7578,6 +7589,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-09-2025/22h/QUADRA_22-09-2025_22-00-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Jj8kGaNW54HE4XZnV8he271RDc076355&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-09-2025/22h/QUADRA_22-09-2025_22-00-54.jpg"
+                }
+              ]
+            }
+          },
+          "23-09-2025": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_13-16-11.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/23-09-2025/13h/QUADRA_23-09-2025_13-16-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/23-09-2025/13h/QUADRA_23-09-2025_13-16-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1eU6rvE4TJkjRvbofz34Q9Iunb4swfRLs&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/23-09-2025/13h/QUADRA_23-09-2025_13-16-11.jpg"
                 }
               ]
             }
@@ -11595,6 +11619,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/23-09-2025/11h/QUADRA_23-09-2025_11-50-35.mp4",
                   "url_download": "https://drive.google.com/uc?id=1WM1GaZn8qSD6uHj8FT6lXNfj_zmW-bA5&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/23-09-2025/11h/QUADRA_23-09-2025_11-50-35.jpg"
+                }
+              ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_13-15-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/23-09-2025/13h/QUADRA_23-09-2025_13-15-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/23-09-2025/13h/QUADRA_23-09-2025_13-15-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1k26vErNHZp1hh_9mKMtWNwkOZwxstpsK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/23-09-2025/13h/QUADRA_23-09-2025_13-15-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-09-2025_13-16-41.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/23-09-2025/13h/QUADRA_23-09-2025_13-16-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/23-09-2025/13h/QUADRA_23-09-2025_13-16-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1MVM-gS0bCvTOIML7sN9UtHwnqRHEogdo&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/23-09-2025/13h/QUADRA_23-09-2025_13-16-41.jpg"
                 }
               ]
             }
