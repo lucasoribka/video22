@@ -483,6 +483,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/23-09-2025/19h/QUADRA_23-09-2025_19-43-49.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_20-08-44.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/23-09-2025/20h/QUADRA_23-09-2025_20-08-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/23-09-2025/20h/QUADRA_23-09-2025_20-08-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1kU4G6LVxJJqxR9fsvcQYCLkxxitlGJEM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/23-09-2025/20h/QUADRA_23-09-2025_20-08-44.jpg"
+                }
+              ]
             }
           }
         }
@@ -2177,6 +2188,19 @@
                 }
               ]
             }
+          },
+          "23-09-2025": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_20-09-55.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/23-09-2025/20h/QUADRA_23-09-2025_20-09-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/23-09-2025/20h/QUADRA_23-09-2025_20-09-55.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yRT_FEeWarLbxSH1kVoDGbO-1HwWDC2E&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/23-09-2025/20h/QUADRA_23-09-2025_20-09-55.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -3251,6 +3275,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/23-09-2025/19h/QUADRA_23-09-2025_19-51-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=1CZBYAtSQS4s1OF9q87V_SkDFSKroSqv1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/23-09-2025/19h/QUADRA_23-09-2025_19-51-01.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_20-06-18.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/23-09-2025/20h/QUADRA_23-09-2025_20-06-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/23-09-2025/20h/QUADRA_23-09-2025_20-06-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wr-MDjmYXdpV7p7NEXHX65_t1aeGP55h&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/23-09-2025/20h/QUADRA_23-09-2025_20-06-18.jpg"
                 }
               ]
             }
@@ -5875,6 +5910,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/23-09-2025/19h/QUADRA_23-09-2025_19-18-45.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TlU1CdLw3oZFYZ-H4h5DsXx2O6moAThn&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/23-09-2025/19h/QUADRA_23-09-2025_19-18-45.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-09-2025_20-01-12.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/23-09-2025/20h/QUADRA_23-09-2025_20-01-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/23-09-2025/20h/QUADRA_23-09-2025_20-01-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15vedEsst1G53qtuhvVDq5zgHSG27HSQn&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/23-09-2025/20h/QUADRA_23-09-2025_20-01-12.jpg"
                 }
               ]
             }
