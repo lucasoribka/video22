@@ -1388,6 +1388,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/06h/QUADRA_24-09-2025_06-12-02.jpg"
                 }
               ]
+            },
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_24-09-2025_07-16-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-16-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-16-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WcEFJNjkqhQHcW3q5F6vm57L_gciVgMl&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-16-06.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-09-2025_07-17-43.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-17-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-17-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PPWWWFKFDxY368QpEGnIzOqZDov5heiW&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-17-43.jpg"
+                }
+              ]
             }
           }
         }
