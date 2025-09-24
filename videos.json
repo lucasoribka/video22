@@ -1418,6 +1418,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-37-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=1YSbMXZDoR9mAaPT8N1VI6OJfKHldD49s&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-37-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-09-2025_07-44-16.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-44-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-44-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qcAkiOo9fV2Va54SvwGS2h7CUj3OlwCK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-09-2025/07h/QUADRA_24-09-2025_07-44-16.jpg"
                 }
               ]
             }
@@ -3962,6 +3969,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/23-09-2025/22h/QUADRA_23-09-2025_22-29-47.mp4",
                   "url_download": "https://drive.google.com/uc?id=1p6S5ytU-GftMdNpyBUwJxhRPxB6EtJRW&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/23-09-2025/22h/QUADRA_23-09-2025_22-29-47.jpg"
+                }
+              ]
+            }
+          },
+          "24-09-2025": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_24-09-2025_07-48-22.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/24-09-2025/07h/QUADRA_24-09-2025_07-48-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/24-09-2025/07h/QUADRA_24-09-2025_07-48-22.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AEoMt575DFAKKzlHOE8_EzM_gCQUi91z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/24-09-2025/07h/QUADRA_24-09-2025_07-48-22.jpg"
                 }
               ]
             }
