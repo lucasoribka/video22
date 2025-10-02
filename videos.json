@@ -1687,6 +1687,13 @@
             "16h": {
               "_videos": [
                 {
+                  "nome": "QUADRA_02-10-2025_16-38-01.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/02-10-2025/16h/QUADRA_02-10-2025_16-38-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/02-10-2025/16h/QUADRA_02-10-2025_16-38-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18hFrFmLyJrp0s7j0WTAzrWpg4Siq0t-j&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/02-10-2025/16h/QUADRA_02-10-2025_16-38-01.jpg"
+                },
+                {
                   "nome": "QUADRA_02-10-2025_16-38-38.mp4",
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/02-10-2025/16h/QUADRA_02-10-2025_16-38-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/02-10-2025/16h/QUADRA_02-10-2025_16-38-38.mp4",
@@ -5756,6 +5763,19 @@
               ]
             }
           },
+          "02-10-2025": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2025_18-13-14.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/02-10-2025/18h/QUADRA_02-10-2025_18-13-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/02-10-2025/18h/QUADRA_02-10-2025_18-13-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1TVD8YnFLD0kCnZ0Xz_RA3jNSIiHf3I8O&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/02-10-2025/18h/QUADRA_02-10-2025_18-13-14.jpg"
+                }
+              ]
+            }
+          },
           "29-09-2025": {
             "08h": {
               "_videos": [
@@ -7333,6 +7353,27 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-02-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1h_5UMhPacD4gDct7APSwM2kHrtOsc9SB&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-02-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-10-2025_18-06-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-06-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-06-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1BltU5EchMIrblDaov3emb4IstPMgcCEP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-06-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-10-2025_18-10-48.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-10-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-10-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1EuEXmnkyMGmVaoCRrL6wriMs3aKcTeYM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-10-48.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-10-2025_18-11-24.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-11-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-11-24.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1UCOSr4xh3xxbp8GAYyv4ChDZuEW-yggb&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2025/18h/QUADRA_02-10-2025_18-11-24.jpg"
                 }
               ]
             }
