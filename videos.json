@@ -3396,6 +3396,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-10-2025/16h/QUADRA_04-10-2025_16-56-26.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-10-2025_19-52-52.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-10-2025/19h/QUADRA_04-10-2025_19-52-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/04-10-2025/19h/QUADRA_04-10-2025_19-52-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gdwZIEgZ1jkwKez9loDf6WW57W7qsLb2&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-10-2025/19h/QUADRA_04-10-2025_19-52-52.jpg"
+                }
+              ]
             }
           }
         },
@@ -3938,6 +3949,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-10-2025/17h/QUADRA_04-10-2025_17-04-40.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cMwNU69QI4dUk4sxkmqo9yV2SmtHmZnF&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-10-2025/17h/QUADRA_04-10-2025_17-04-40.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-10-2025_19-46-45.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-10-2025/19h/QUADRA_04-10-2025_19-46-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-10-2025/19h/QUADRA_04-10-2025_19-46-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fTyVsfgazb-kVL8Yfv24CT8xZ_u8qRhp&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-10-2025/19h/QUADRA_04-10-2025_19-46-45.jpg"
                 }
               ]
             }
@@ -5506,6 +5528,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-10-2025/20h/QUADRA_03-10-2025_20-19-47.mp4",
                   "url_download": "https://drive.google.com/uc?id=1goCVMLg3A-i3GpfGwfNmTh7i64Ix1hYU&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-10-2025/20h/QUADRA_03-10-2025_20-19-47.jpg"
+                }
+              ]
+            }
+          },
+          "04-10-2025": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-10-2025_19-42-52.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-10-2025/19h/QUADRA_04-10-2025_19-42-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-10-2025/19h/QUADRA_04-10-2025_19-42-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1chQF93uCF7PQ_9RwdiwC6TdOZ3uZSDa4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-10-2025/19h/QUADRA_04-10-2025_19-42-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-10-2025_19-49-38.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-10-2025/19h/QUADRA_04-10-2025_19-49-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-10-2025/19h/QUADRA_04-10-2025_19-49-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tHsQGj7rwg-vPFyypChRufLTQ072MJMb&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-10-2025/19h/QUADRA_04-10-2025_19-49-38.jpg"
                 }
               ]
             }
