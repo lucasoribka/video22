@@ -1724,6 +1724,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/11-10-2025/09h/QUADRA_11-10-2025_09-57-15.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-10-2025_10-46-45.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/11-10-2025/10h/QUADRA_11-10-2025_10-46-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/11-10-2025/10h/QUADRA_11-10-2025_10-46-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1P500sR-qJNbdVCbGIAytYyMu-hwi30LY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/11-10-2025/10h/QUADRA_11-10-2025_10-46-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-10-2025_10-53-37.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/11-10-2025/10h/QUADRA_11-10-2025_10-53-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/11-10-2025/10h/QUADRA_11-10-2025_10-53-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18WockT8QIWXv-k5Ze-3TaaunzlE4IOZr&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/11-10-2025/10h/QUADRA_11-10-2025_10-53-37.jpg"
+                }
+              ]
             }
           }
         }
@@ -6388,6 +6406,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/11-10-2025/10h/QUADRA_11-10-2025_10-37-50.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TPb7AvFjqrk7vmVoE0iV9-UWMsQek-kR&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/11-10-2025/10h/QUADRA_11-10-2025_10-37-50.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-10-2025_10-47-37.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/11-10-2025/10h/QUADRA_11-10-2025_10-47-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/11-10-2025/10h/QUADRA_11-10-2025_10-47-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1t6ah3C7V_Nrr1AA6Lx1YQwUyczRgObfY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/11-10-2025/10h/QUADRA_11-10-2025_10-47-37.jpg"
                 }
               ]
             }
@@ -7202,6 +7227,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/10-10-2025/22h/QUADRA_10-10-2025_22-39-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1UDeEaScBybMvNDb_pw4zg0UoX4hFC3LJ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/10-10-2025/22h/QUADRA_10-10-2025_22-39-58.jpg"
+                }
+              ]
+            }
+          },
+          "11-10-2025": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-10-2025_10-53-37.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/11-10-2025/10h/QUADRA_11-10-2025_10-53-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/11-10-2025/10h/QUADRA_11-10-2025_10-53-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yFUIPLCwI-1EK39rYLUr4o7SOjh9NlHv&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/11-10-2025/10h/QUADRA_11-10-2025_10-53-37.jpg"
                 }
               ]
             }
