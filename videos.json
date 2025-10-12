@@ -1932,6 +1932,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-10-2025/08h/QUADRA_12-10-2025_08-32-08.jpg"
                 }
               ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-10-2025_09-34-45.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-10-2025/09h/QUADRA_12-10-2025_09-34-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-10-2025/09h/QUADRA_12-10-2025_09-34-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1T0btjv1nuOVg9dxJjJEvZhCJ4cyjKdRq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-10-2025/09h/QUADRA_12-10-2025_09-34-45.jpg"
+                }
+              ]
             }
           }
         }
@@ -7171,6 +7182,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/11-10-2025/18h/QUADRA_11-10-2025_18-18-00.mp4",
                   "url_download": "https://drive.google.com/uc?id=1gledJVZSbKukRrXhMTW-ad5a7O9VCkRu&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/11-10-2025/18h/QUADRA_11-10-2025_18-18-00.jpg"
+                }
+              ]
+            }
+          },
+          "12-10-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-10-2025_09-39-50.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/12-10-2025/09h/QUADRA_12-10-2025_09-39-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/12-10-2025/09h/QUADRA_12-10-2025_09-39-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1LCOsYXkbneTtKJ5hvJE8W05_R73C6yWv&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/12-10-2025/09h/QUADRA_12-10-2025_09-39-50.jpg"
                 }
               ]
             }
