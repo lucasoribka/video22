@@ -2201,6 +2201,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-10-2025/09h/QUADRA_18-10-2025_09-08-46.mp4",
                   "url_download": "https://drive.google.com/uc?id=1iqSh0ms4aijmDwWcXrJaa1L8OhNGjkZl&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-10-2025/09h/QUADRA_18-10-2025_09-08-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-10-2025_09-50-09.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-10-2025/09h/QUADRA_18-10-2025_09-50-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-10-2025/09h/QUADRA_18-10-2025_09-50-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12ayZxi48ntcn4xFTyy1AOJjGKqLj59Vw&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-10-2025/09h/QUADRA_18-10-2025_09-50-09.jpg"
                 }
               ]
             }
@@ -5444,6 +5451,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/17-10-2025/21h/QUADRA_17-10-2025_21-59-41.mp4",
                   "url_download": "https://drive.google.com/uc?id=1GIBGqwe3pzHXNch2yc7WdmFYF64JdNeJ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/17-10-2025/21h/QUADRA_17-10-2025_21-59-41.jpg"
+                }
+              ]
+            }
+          },
+          "18-10-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-10-2025_09-39-08.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/18-10-2025/09h/QUADRA_18-10-2025_09-39-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/18-10-2025/09h/QUADRA_18-10-2025_09-39-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1MhyNGrNd9AahT8aGbptRgWby4ePptMEa&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/18-10-2025/09h/QUADRA_18-10-2025_09-39-08.jpg"
                 }
               ]
             }
@@ -12825,6 +12845,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/18-10-2025/08h/QUADRA_18-10-2025_08-31-38.mp4",
                   "url_download": "https://drive.google.com/uc?id=16DpLbOt7f_tRz03t8VUdflECJTDjqkxD&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/18-10-2025/08h/QUADRA_18-10-2025_08-31-38.jpg"
+                }
+              ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-10-2025_09-50-51.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/18-10-2025/09h/QUADRA_18-10-2025_09-50-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/18-10-2025/09h/QUADRA_18-10-2025_09-50-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gT6xI9TyD2A2ejFCVDVfF1DfLYkZ1DVD&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/18-10-2025/09h/QUADRA_18-10-2025_09-50-51.jpg"
                 }
               ]
             }
