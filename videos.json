@@ -1691,6 +1691,38 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-53-34.mp4",
                   "url_download": "https://drive.google.com/uc?id=1G3h2xfGH-A-_aF0bJSVUjzDvmfJjsCiG&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-53-34.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-10-2025_18-56-20.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-56-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-56-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18Y7AOpDhg7igy7XgAHFFMStlDzFt3FKX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-56-20.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-10-2025_18-58-26.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-58-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-58-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1L5RdL1RQWnrkv3paD3PTWWu4Wa-GUs4Y&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-58-26.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2025_19-06-07.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/19h/QUADRA_21-10-2025_19-06-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-10-2025/19h/QUADRA_21-10-2025_19-06-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1EaAvodmgbgnpeAwJEjDavNQLPRZVDJ3g&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/19h/QUADRA_21-10-2025_19-06-07.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-10-2025_19-09-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/19h/QUADRA_21-10-2025_19-09-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-10-2025/19h/QUADRA_21-10-2025_19-09-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1SVM38a-vadp0TOmbTzlEBhCFjIzIgULZ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-10-2025/19h/QUADRA_21-10-2025_19-09-59.jpg"
                 }
               ]
             }
@@ -2037,6 +2069,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/20-10-2025/20h/QUADRA_20-10-2025_20-24-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ocyRdSZVUTu7kqkghPnyWy6pY7CZrjzn&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/20-10-2025/20h/QUADRA_20-10-2025_20-24-03.jpg"
+                }
+              ]
+            }
+          },
+          "21-10-2025": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2025_19-06-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-10-2025/19h/QUADRA_21-10-2025_19-06-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/21-10-2025/19h/QUADRA_21-10-2025_19-06-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Dkb9TZfRQz2Ud6kcuihQtb6prS5wNF-Z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-10-2025/19h/QUADRA_21-10-2025_19-06-06.jpg"
                 }
               ]
             }
@@ -3527,6 +3572,19 @@
                 }
               ]
             }
+          },
+          "21-10-2025": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2025_19-11-16.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/21-10-2025/19h/QUADRA_21-10-2025_19-11-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/21-10-2025/19h/QUADRA_21-10-2025_19-11-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1csHOIQI0pUtp1nMF8NQAhkhDjm78nXjV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/21-10-2025/19h/QUADRA_21-10-2025_19-11-16.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 1": {
@@ -3946,6 +4004,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/21-10-2025/17h/QUADRA_21-10-2025_17-27-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1VgFPuIBqHF84Rvzs80eEWhribzrK_PAL&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/21-10-2025/17h/QUADRA_21-10-2025_17-27-30.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2025_19-01-56.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/21-10-2025/19h/QUADRA_21-10-2025_19-01-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/21-10-2025/19h/QUADRA_21-10-2025_19-01-56.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ugzQRp8o3aP5LlHS8JNuooMq1lN9WGzw&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/21-10-2025/19h/QUADRA_21-10-2025_19-01-56.jpg"
                 }
               ]
             }
@@ -6516,6 +6585,19 @@
                 }
               ]
             }
+          },
+          "21-10-2025": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2025_18-56-50.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-56-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-56-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1slfRN1jdr8F1WA7g0b1tI9Eqs-jlsw3f&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/21-10-2025/18h/QUADRA_21-10-2025_18-56-50.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -7910,6 +7992,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/21-10-2025/08h/QUADRA_21-10-2025_08-34-57.mp4",
                   "url_download": "https://drive.google.com/uc?id=1jKneHAgdvcwWeE-7cK3pMrn8eI7h5Df0&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/21-10-2025/08h/QUADRA_21-10-2025_08-34-57.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2025_19-03-07.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/21-10-2025/19h/QUADRA_21-10-2025_19-03-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/21-10-2025/19h/QUADRA_21-10-2025_19-03-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ozb2K0U0lb_wB7Y8wr8AXfPbyay_RDb8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/21-10-2025/19h/QUADRA_21-10-2025_19-03-07.jpg"
                 }
               ]
             }
