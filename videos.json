@@ -883,6 +883,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/31-10-2025/19h/QUADRA_31-10-2025_19-49-42.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-10-2025_20-06-52.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-06-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-06-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1RjU5StueEX91UtzFhdCqkao7OcJGIEB9&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-06-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2025_20-13-42.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-13-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-13-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mzCmNDGhexq7k_WJ_xLBcxLxeFoqF-9Q&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-13-42.jpg"
+                }
+              ]
             }
           }
         }
@@ -4184,6 +4202,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/31-10-2025/19h/QUADRA_31-10-2025_19-59-59.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-10-2025_20-16-06.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/31-10-2025/20h/QUADRA_31-10-2025_20-16-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/31-10-2025/20h/QUADRA_31-10-2025_20-16-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1b3CHsqun5heNXlXfX8XLZ0F2cyKj8Sid&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/31-10-2025/20h/QUADRA_31-10-2025_20-16-06.jpg"
+                }
+              ]
             }
           }
         },
@@ -4634,6 +4663,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/30-10-2025/22h/QUADRA_30-10-2025_22-29-08.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ekGS8iRRV4IfB8eYQscmFrh8MaNhvnjH&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/30-10-2025/22h/QUADRA_30-10-2025_22-29-08.jpg"
+                }
+              ]
+            }
+          },
+          "31-10-2025": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-10-2025_20-16-38.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/31-10-2025/20h/QUADRA_31-10-2025_20-16-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/31-10-2025/20h/QUADRA_31-10-2025_20-16-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1IWjdaTUp4Suf7ZEftf-BcyyW55pKq1EW&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/31-10-2025/20h/QUADRA_31-10-2025_20-16-38.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2025_20-19-52.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/31-10-2025/20h/QUADRA_31-10-2025_20-19-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/31-10-2025/20h/QUADRA_31-10-2025_20-19-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1H9Q6SE9BRwsVCgRqJAO-qOPdpF6heTBz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/31-10-2025/20h/QUADRA_31-10-2025_20-19-52.jpg"
                 }
               ]
             }
@@ -5485,6 +5534,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/31-10-2025/19h/QUADRA_31-10-2025_19-47-26.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-10-2025_20-19-52.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/31-10-2025/20h/QUADRA_31-10-2025_20-19-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/31-10-2025/20h/QUADRA_31-10-2025_20-19-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1dr6o4Nsj4raXpwIoDhp31JG241EpXvu4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/31-10-2025/20h/QUADRA_31-10-2025_20-19-52.jpg"
+                }
+              ]
             }
           }
         },
@@ -6272,6 +6332,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2025/19h/QUADRA_31-10-2025_19-49-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=1X1t5AalpxGj_x02H9BXk5fu8YMckZTcZ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2025/19h/QUADRA_31-10-2025_19-49-19.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-10-2025_20-15-08.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2025/20h/QUADRA_31-10-2025_20-15-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2025/20h/QUADRA_31-10-2025_20-15-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ze1rjN9zInBF11OpxF6Qqod1oo6X0itx&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2025/20h/QUADRA_31-10-2025_20-15-08.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2025_20-18-58.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2025/20h/QUADRA_31-10-2025_20-18-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2025/20h/QUADRA_31-10-2025_20-18-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1nyaHtqBiCUE7FFsI0F0RYOqexFa2-kg5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2025/20h/QUADRA_31-10-2025_20-18-58.jpg"
                 }
               ]
             }
@@ -9769,6 +9847,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-00-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TEKs9ZV327_-f6okGSoQA_rH-RNbnuGT&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-00-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2025_20-11-43.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-11-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-11-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1n9Q1-2SlsCoruQK-InCiLkIrNo09EicH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-10-2025/20h/QUADRA_31-10-2025_20-11-43.jpg"
                 }
               ]
             }
@@ -10730,6 +10815,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/31-10-2025/20h/QUADRA_31-10-2025_20-03-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1mSbFmrS6RZcLv0LPENVHcPg0yJs4xXqs&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-10-2025/20h/QUADRA_31-10-2025_20-03-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2025_20-14-26.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-10-2025/20h/QUADRA_31-10-2025_20-14-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/31-10-2025/20h/QUADRA_31-10-2025_20-14-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1c6615aiWEFlk3f3Kb3KC8sLkqeGX-vsg&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-10-2025/20h/QUADRA_31-10-2025_20-14-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2025_20-19-39.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-10-2025/20h/QUADRA_31-10-2025_20-19-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/31-10-2025/20h/QUADRA_31-10-2025_20-19-39.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1QcEsOEbGPw-m4fn2veI60MyQq3NT-D2U&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-10-2025/20h/QUADRA_31-10-2025_20-19-39.jpg"
                 }
               ]
             }
