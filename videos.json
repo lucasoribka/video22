@@ -1544,6 +1544,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-10-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=1th9clJDRnPURbyZ87SM1tKFKI9xPhg7r&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-10-20.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-11-2025_09-18-18.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-18-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-18-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1q15nVp2gGoMmOa6Icbg4MhVtCe5-vQL4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-18-18.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-11-2025_09-27-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-27-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-27-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1dn3n3PqGT5UkqyxixEoDHhynjbYU8ySI&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-11-2025/09h/QUADRA_01-11-2025_09-27-59.jpg"
                 }
               ]
             }
@@ -2670,6 +2684,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/01-11-2025/09h/QUADRA_01-11-2025_09-15-23.mp4",
                   "url_download": "https://drive.google.com/uc?id=1v5FYIimdfVuuSIvg-kczHG84YFfdwm7q&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/01-11-2025/09h/QUADRA_01-11-2025_09-15-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-11-2025_09-17-16.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/01-11-2025/09h/QUADRA_01-11-2025_09-17-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/01-11-2025/09h/QUADRA_01-11-2025_09-17-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Fxh9P9rzIxt7G_03wK-s_u1p9iTUV3jR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/01-11-2025/09h/QUADRA_01-11-2025_09-17-16.jpg"
                 }
               ]
             }
@@ -11415,6 +11436,19 @@
           }
         },
         "Quadra Caminho do Saber": {
+          "01-11-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-11-2025_09-23-00.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/01-11-2025/09h/QUADRA_01-11-2025_09-23-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/01-11-2025/09h/QUADRA_01-11-2025_09-23-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1VxGH6rlcdLaWlXUZndA5rBg5kljGW4Ka&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/01-11-2025/09h/QUADRA_01-11-2025_09-23-00.jpg"
+                }
+              ]
+            }
+          },
           "25-10-2025": {
             "09h": {
               "_videos": [
