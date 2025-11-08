@@ -2652,6 +2652,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/08h/QUADRA_08-11-2025_08-51-38.jpg"
                 }
               ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-11-2025_09-19-51.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/09h/QUADRA_08-11-2025_09-19-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/08-11-2025/09h/QUADRA_08-11-2025_09-19-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15aLklk1UUCrJnXNLZqNOoveD_GfPt0GM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/09h/QUADRA_08-11-2025_09-19-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-11-2025_09-21-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/09h/QUADRA_08-11-2025_09-21-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/08-11-2025/09h/QUADRA_08-11-2025_09-21-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=13gpKVm5dnl3iZwDS8_AHt9lJa_20T0d3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/09h/QUADRA_08-11-2025_09-21-27.jpg"
+                }
+              ]
             }
           }
         },
@@ -10777,6 +10795,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-11-2025/21h/QUADRA_07-11-2025_21-33-33.mp4",
                   "url_download": "https://drive.google.com/uc?id=1MMlaS6RWt4oS6Zs0Fb96tM-nNUPHRcPY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-11-2025/21h/QUADRA_07-11-2025_21-33-33.jpg"
+                }
+              ]
+            }
+          },
+          "08-11-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-11-2025_09-15-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/08-11-2025/09h/QUADRA_08-11-2025_09-15-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/08-11-2025/09h/QUADRA_08-11-2025_09-15-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1UwLK-15c1uOL7rXAG0T0w_EvePvOA6b8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/08-11-2025/09h/QUADRA_08-11-2025_09-15-11.jpg"
                 }
               ]
             }
