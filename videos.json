@@ -2709,6 +2709,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/09h/QUADRA_08-11-2025_09-32-39.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-11-2025_11-22-44.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/11h/QUADRA_08-11-2025_11-22-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/08-11-2025/11h/QUADRA_08-11-2025_11-22-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-xeqo50K9H_Mhi4J_VAXJwxKBOmn_43N&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/08-11-2025/11h/QUADRA_08-11-2025_11-22-44.jpg"
+                }
+              ]
             }
           }
         },
@@ -3503,6 +3514,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/07-11-2025/20h/QUADRA_07-11-2025_20-07-12.mp4",
                   "url_download": "https://drive.google.com/uc?id=1accN7uaWSPPrZ09thJO2qQnmesPYIgw9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/07-11-2025/20h/QUADRA_07-11-2025_20-07-12.jpg"
+                }
+              ]
+            }
+          },
+          "08-11-2025": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-11-2025_11-24-44.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-11-2025/11h/QUADRA_08-11-2025_11-24-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-11-2025/11h/QUADRA_08-11-2025_11-24-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1CWyXfbs6KJwrAJEk3FACxMV1iaSgWoY6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-11-2025/11h/QUADRA_08-11-2025_11-24-44.jpg"
                 }
               ]
             }
@@ -6023,6 +6047,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/08-11-2025/10h/QUADRA_08-11-2025_10-58-31.mp4",
                   "url_download": "https://drive.google.com/uc?id=1fA0e4SB3FptV5WJEC5ObNcb6DCuWkGKv&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/08-11-2025/10h/QUADRA_08-11-2025_10-58-31.jpg"
+                }
+              ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-11-2025_11-25-28.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/08-11-2025/11h/QUADRA_08-11-2025_11-25-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/08-11-2025/11h/QUADRA_08-11-2025_11-25-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1n0BdJNVk9l23AP9waQ_w0z9EoK966AYv&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/08-11-2025/11h/QUADRA_08-11-2025_11-25-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-11-2025_11-26-04.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/08-11-2025/11h/QUADRA_08-11-2025_11-26-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/08-11-2025/11h/QUADRA_08-11-2025_11-26-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1F35rZ0tuyEl5Ge1S7FAHfAbNoP0eCR5m&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/08-11-2025/11h/QUADRA_08-11-2025_11-26-04.jpg"
                 }
               ]
             }
