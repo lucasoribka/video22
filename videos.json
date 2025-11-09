@@ -2656,6 +2656,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-11-2025/16h/QUADRA_09-11-2025_16-51-55.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-11-2025_17-37-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-37-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-37-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1bXEMvVRWhpT79NDb-3ZtMjExXPJT0F_u&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-37-27.jpg"
+                }
+              ]
             }
           }
         }
@@ -11086,6 +11097,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-02-40.mp4",
                   "url_download": "https://drive.google.com/uc?id=1-LzM7r8Uz53naqjLK-LDOWrW26bojLgW&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-02-40.jpg"
+                },
+                {
+                  "nome": "QUADRA_09-11-2025_17-37-02.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-37-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-37-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qIoBvfCU9NELhJ4G39smakvnTE9-Pqgy&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-11-2025/17h/QUADRA_09-11-2025_17-37-02.jpg"
                 }
               ]
             }
