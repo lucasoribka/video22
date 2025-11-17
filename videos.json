@@ -2672,6 +2672,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/17-11-2025/15h/QUADRA_17-11-2025_15-56-35.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-11-2025_18-43-01.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/17-11-2025/18h/QUADRA_17-11-2025_18-43-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/17-11-2025/18h/QUADRA_17-11-2025_18-43-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1U9H4voTXnC_4MfxZ8lU8DWjRnBxtgDNc&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/17-11-2025/18h/QUADRA_17-11-2025_18-43-01.jpg"
+                }
+              ]
             }
           }
         },
@@ -3867,6 +3878,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/15-11-2025/18h/QUADRA_15-11-2025_18-03-41.mp4",
                   "url_download": "https://drive.google.com/uc?id=1fF6pzylKy-zjg2DNQotlHFZsTUGhm53S&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/15-11-2025/18h/QUADRA_15-11-2025_18-03-41.jpg"
+                }
+              ]
+            }
+          },
+          "17-11-2025": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-11-2025_18-37-41.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/17-11-2025/18h/QUADRA_17-11-2025_18-37-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/17-11-2025/18h/QUADRA_17-11-2025_18-37-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-uIsvy1cHEOrKYDNKgV3kqMSJHxj47Op&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/17-11-2025/18h/QUADRA_17-11-2025_18-37-41.jpg"
                 }
               ]
             }
