@@ -4643,6 +4643,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-11-2025/09h/QUADRA_20-11-2025_09-30-37.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-11-2025_11-10-36.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-11-2025/11h/QUADRA_20-11-2025_11-10-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/20-11-2025/11h/QUADRA_20-11-2025_11-10-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1aZa_NhUVgAo5vbOWcrZUX9mprVWiRySd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-11-2025/11h/QUADRA_20-11-2025_11-10-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-11-2025_11-14-06.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-11-2025/11h/QUADRA_20-11-2025_11-14-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/20-11-2025/11h/QUADRA_20-11-2025_11-14-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tvRJ35aC143MmcI9SxGB1KSFI-ICDjfD&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-11-2025/11h/QUADRA_20-11-2025_11-14-06.jpg"
+                }
+              ]
             }
           }
         },
@@ -6799,6 +6817,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-11-2025/16h/QUADRA_19-11-2025_16-05-42.mp4",
                   "url_download": "https://drive.google.com/uc?id=1_8owKHqZsKMK5iSaF-rZHJIe0n26siHS&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/19-11-2025/16h/QUADRA_19-11-2025_16-05-42.jpg"
+                }
+              ]
+            }
+          },
+          "20-11-2025": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-11-2025_11-11-25.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/20-11-2025/11h/QUADRA_20-11-2025_11-11-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/20-11-2025/11h/QUADRA_20-11-2025_11-11-25.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jYGwRJtBgQiDsKp_D05DU4fcff-_BZ9u&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/20-11-2025/11h/QUADRA_20-11-2025_11-11-25.jpg"
                 }
               ]
             }
