@@ -5665,6 +5665,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/21-11-2025/07h/QUADRA_21-11-2025_07-05-11.jpg"
                 }
               ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-11-2025_14-46-08.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/21-11-2025/14h/QUADRA_21-11-2025_14-46-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/21-11-2025/14h/QUADRA_21-11-2025_14-46-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_b0b0CrR-mghyVQpywh2U51Wo-vHVxvG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/21-11-2025/14h/QUADRA_21-11-2025_14-46-08.jpg"
+                }
+              ]
             }
           }
         },
@@ -8759,6 +8770,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/20-11-2025/20h/QUADRA_20-11-2025_20-55-34.mp4",
                   "url_download": "https://drive.google.com/uc?id=1qIy-4DBErrpT2HIrX2w84SSnbCUYKKN1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/20-11-2025/20h/QUADRA_20-11-2025_20-55-34.jpg"
+                }
+              ]
+            }
+          },
+          "21-11-2025": {
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-11-2025_14-46-57.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/21-11-2025/14h/QUADRA_21-11-2025_14-46-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/21-11-2025/14h/QUADRA_21-11-2025_14-46-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZH2r56_3eAbG9tXxYsjFympePe6wD-l5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/21-11-2025/14h/QUADRA_21-11-2025_14-46-57.jpg"
                 }
               ]
             }
