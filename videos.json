@@ -2841,6 +2841,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-11-2025/09h/QUADRA_25-11-2025_09-45-37.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-11-2025_10-48-39.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-11-2025/10h/QUADRA_25-11-2025_10-48-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/25-11-2025/10h/QUADRA_25-11-2025_10-48-39.mp4",
+                  "url_download": "https://drive.google.com/uc?id=13wRKwCV58P4BfJK84yhhBW_OERbV05gP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-11-2025/10h/QUADRA_25-11-2025_10-48-39.jpg"
+                }
+              ]
             }
           }
         },
@@ -3229,6 +3240,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/24-11-2025/22h/QUADRA_24-11-2025_22-41-53.mp4",
                   "url_download": "https://drive.google.com/uc?id=1IELv4zawyQHREYV1qSeIMIeyA5O4Ja89&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/24-11-2025/22h/QUADRA_24-11-2025_22-41-53.jpg"
+                }
+              ]
+            }
+          },
+          "25-11-2025": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-11-2025_10-42-29.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-11-2025/10h/QUADRA_25-11-2025_10-42-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/25-11-2025/10h/QUADRA_25-11-2025_10-42-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1RPzXjUlUzJK8vHzyqrCuLYGimGVON3lz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-11-2025/10h/QUADRA_25-11-2025_10-42-29.jpg"
                 }
               ]
             }
