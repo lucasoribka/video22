@@ -2797,6 +2797,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/25-11-2025/09h/QUADRA_25-11-2025_09-08-10.mp4",
                   "url_download": "https://drive.google.com/uc?id=1_98l7fk08OH7ME4Yu8ssnY4bPcxszXyf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-11-2025/09h/QUADRA_25-11-2025_09-08-10.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-11-2025_09-11-46.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-11-2025/09h/QUADRA_25-11-2025_09-11-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/25-11-2025/09h/QUADRA_25-11-2025_09-11-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yfyZ44fK60T9_xr3VtO9-czu1k1JUvyG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-11-2025/09h/QUADRA_25-11-2025_09-11-46.jpg"
                 }
               ]
             }
@@ -5937,6 +5944,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/22-11-2025/15h/QUADRA_22-11-2025_15-05-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=11OzMybnvfo6kEJEYG17SuRLMQn6CHiPf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/22-11-2025/15h/QUADRA_22-11-2025_15-05-01.jpg"
+                }
+              ]
+            }
+          },
+          "25-11-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-11-2025_09-20-52.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/25-11-2025/09h/QUADRA_25-11-2025_09-20-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/25-11-2025/09h/QUADRA_25-11-2025_09-20-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1asanYRfN45fSDR7UOggTAhMCQDe638MN&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/25-11-2025/09h/QUADRA_25-11-2025_09-20-52.jpg"
                 }
               ]
             }
