@@ -1746,6 +1746,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-11-2025/07h/QUADRA_26-11-2025_07-58-08.jpg"
                 }
               ]
+            },
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-11-2025_08-14-04.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-11-2025/08h/QUADRA_26-11-2025_08-14-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-11-2025/08h/QUADRA_26-11-2025_08-14-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1blpLehkj-xBuxCxDdeJPVL6CF703YyD7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-11-2025/08h/QUADRA_26-11-2025_08-14-04.jpg"
+                }
+              ]
             }
           }
         }
@@ -8431,6 +8442,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/25-11-2025/19h/QUADRA_25-11-2025_19-56-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cpvs7zQfQFJ4v-ooTZidReNRT4uZzasf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/25-11-2025/19h/QUADRA_25-11-2025_19-56-30.jpg"
+                }
+              ]
+            }
+          },
+          "26-11-2025": {
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-11-2025_08-12-18.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/26-11-2025/08h/QUADRA_26-11-2025_08-12-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/26-11-2025/08h/QUADRA_26-11-2025_08-12-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1VCP-VpcrA4vwqKHHlK6kKYRPtt0WAHDC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/26-11-2025/08h/QUADRA_26-11-2025_08-12-18.jpg"
                 }
               ]
             }
