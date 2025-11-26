@@ -1723,6 +1723,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-11-2025/07h/QUADRA_26-11-2025_07-17-49.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HkvQN3OMFDo_A_rV6cAMrsonENPd_8Lg&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-11-2025/07h/QUADRA_26-11-2025_07-17-49.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-11-2025_07-29-18.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-11-2025/07h/QUADRA_26-11-2025_07-29-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-11-2025/07h/QUADRA_26-11-2025_07-29-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mBWC6vbkB3BP8odVx461XuPtrZq7sSvC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-11-2025/07h/QUADRA_26-11-2025_07-29-18.jpg"
                 }
               ]
             }
@@ -2786,6 +2793,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/25-11-2025/20h/QUADRA_25-11-2025_20-39-07.mp4",
                   "url_download": "https://drive.google.com/uc?id=1x4ZVY03q4o-_tgVDJKSur0f5OfPWB_Z0&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/25-11-2025/20h/QUADRA_25-11-2025_20-39-07.jpg"
+                }
+              ]
+            }
+          },
+          "26-11-2025": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-11-2025_07-26-40.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/26-11-2025/07h/QUADRA_26-11-2025_07-26-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/26-11-2025/07h/QUADRA_26-11-2025_07-26-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1U5XS8DuY6O1zUI8HUzkCKHZoU-45sEuq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/26-11-2025/07h/QUADRA_26-11-2025_07-26-40.jpg"
                 }
               ]
             }
