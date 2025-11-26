@@ -2820,6 +2820,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/26-11-2025/07h/QUADRA_26-11-2025_07-38-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1vnWPllURc0jmk5XTkdbD3FbcP0BX_DpG&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/26-11-2025/07h/QUADRA_26-11-2025_07-38-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-11-2025_07-46-49.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/26-11-2025/07h/QUADRA_26-11-2025_07-46-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/26-11-2025/07h/QUADRA_26-11-2025_07-46-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1r-S2K8lldhPXrjEDYC59emDmHyshfj1F&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/26-11-2025/07h/QUADRA_26-11-2025_07-46-49.jpg"
                 }
               ]
             }
@@ -4444,6 +4451,19 @@
                 }
               ]
             }
+          },
+          "26-11-2025": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-11-2025_07-45-21.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/26-11-2025/07h/QUADRA_26-11-2025_07-45-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/26-11-2025/07h/QUADRA_26-11-2025_07-45-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1u5gU7lVvCJL89KhSgxo7MOqst7smqS9M&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/26-11-2025/07h/QUADRA_26-11-2025_07-45-21.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2": {
@@ -4952,6 +4972,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/25-11-2025/23h/QUADRA_25-11-2025_23-50-18.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Qbqm6nXNVTCjEpduqHFguoeeSukKRASt&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/25-11-2025/23h/QUADRA_25-11-2025_23-50-18.jpg"
+                }
+              ]
+            }
+          },
+          "26-11-2025": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-11-2025_07-49-31.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/26-11-2025/07h/QUADRA_26-11-2025_07-49-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/26-11-2025/07h/QUADRA_26-11-2025_07-49-31.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1SD60a3k6hUaY9wRuT0nAfD74ugXo4-Rz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/26-11-2025/07h/QUADRA_26-11-2025_07-49-31.jpg"
                 }
               ]
             }
