@@ -1991,6 +1991,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-19-32.mp4",
                   "url_download": "https://drive.google.com/uc?id=1XdKU8PZ1_7xEKLQuddDehcpT5BxSC8Q4&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-19-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-11-2025_09-25-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-25-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-25-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Jcp0NbbvAxUtA4K8czjtXXL6wO3w-h02&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-25-01.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-11-2025_09-31-11.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-31-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-31-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1QQcdZojUEV7m-i8T03d1gbBL8HWAjk6K&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-11-2025/09h/QUADRA_29-11-2025_09-31-11.jpg"
                 }
               ]
             }
@@ -2527,6 +2541,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/28-11-2025/20h/QUADRA_28-11-2025_20-22-23.mp4",
                   "url_download": "https://drive.google.com/uc?id=1A6u0PQiLcHXZYXVnsFG4ZUb4BJolRCf2&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/28-11-2025/20h/QUADRA_28-11-2025_20-22-23.jpg"
+                }
+              ]
+            }
+          },
+          "29-11-2025": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-11-2025_09-35-12.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/29-11-2025/09h/QUADRA_29-11-2025_09-35-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/29-11-2025/09h/QUADRA_29-11-2025_09-35-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1SVGt91NbitgUubcz-3Jp1TNQvdI0Ulft&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/29-11-2025/09h/QUADRA_29-11-2025_09-35-12.jpg"
                 }
               ]
             }
