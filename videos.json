@@ -1719,6 +1719,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-27-09.mp4",
                   "url_download": "https://drive.google.com/uc?id=1LI9G_BrXtOZDo_8Fe7NoLFTgtB-C4Qy1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-27-09.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-12-2025_18-48-07.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-48-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-48-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vtuDy2gwaszaQ3O7NX47DRxyILCaSfDu&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-48-07.jpg"
                 }
               ]
             }
@@ -9440,6 +9447,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-12-2025/19h/QUADRA_04-12-2025_19-49-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Ben8EI6FIr6-HbQa1dCWmqm3Txc8vay1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-12-2025/19h/QUADRA_04-12-2025_19-49-20.jpg"
+                }
+              ]
+            }
+          },
+          "05-12-2025": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-12-2025_18-48-51.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-48-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-48-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1uzuH72M-ivzGJRkArE5DTLbgfi0GDk1W&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/05-12-2025/18h/QUADRA_05-12-2025_18-48-51.jpg"
                 }
               ]
             }
