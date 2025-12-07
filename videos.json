@@ -1073,6 +1073,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/07-12-2025/10h/QUADRA_07-12-2025_10-05-05.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-12-2025_20-15-20.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-15-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-15-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=103R_xMNx7lH3niY9f2HK-O25Ji79Euv3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-15-20.jpg"
+                }
+              ]
             }
           }
         }
@@ -11838,6 +11849,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/19h/QUADRA_07-12-2025_19-40-31.mp4",
                   "url_download": "https://drive.google.com/uc?id=1M9dMa3ri4GUe3dKG6k3WxXV1kJfA3c_F&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/19h/QUADRA_07-12-2025_19-40-31.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-12-2025_20-15-34.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-15-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-15-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tdp1Njk058vH3ULCpjFR3DAiQQq3h4g9&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-15-34.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-12-2025_20-16-06.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-16-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-16-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=19IwXY6MpZ4016mXOI6zh86QUWzTLK3vY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/07-12-2025/20h/QUADRA_07-12-2025_20-16-06.jpg"
                 }
               ]
             }
