@@ -4737,6 +4737,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/11-12-2025/15h/QUADRA_11-12-2025_15-04-33.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-12-2025_16-00-47.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/11-12-2025/16h/QUADRA_11-12-2025_16-00-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/11-12-2025/16h/QUADRA_11-12-2025_16-00-47.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Qg2riIZnwFgN38wOuZhG2PReEDvCMr9v&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/11-12-2025/16h/QUADRA_11-12-2025_16-00-47.jpg"
+                }
+              ]
             }
           }
         },
@@ -5820,6 +5831,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/11-12-2025/15h/QUADRA_11-12-2025_15-49-39.mp4",
                   "url_download": "https://drive.google.com/uc?id=11LYlxHts7Hcj12Qivjv58PxZ0CQ9-5L3&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/11-12-2025/15h/QUADRA_11-12-2025_15-49-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-12-2025_15-56-23.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/11-12-2025/15h/QUADRA_11-12-2025_15-56-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/11-12-2025/15h/QUADRA_11-12-2025_15-56-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=157wRWN4kk3zBfa_sJK94295w0ikR8nRH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/11-12-2025/15h/QUADRA_11-12-2025_15-56-23.jpg"
                 }
               ]
             }
