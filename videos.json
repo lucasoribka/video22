@@ -2447,6 +2447,26 @@
                 }
               ]
             }
+          },
+          "12-12-2025": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-12-2025_18-02-45.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/12-12-2025/18h/QUADRA_12-12-2025_18-02-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/12-12-2025/18h/QUADRA_12-12-2025_18-02-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1X9AbqdEHowEFnLnmYxRPc_RoUwrXRzaF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/12-12-2025/18h/QUADRA_12-12-2025_18-02-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-12-2025_18-03-23.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/12-12-2025/18h/QUADRA_12-12-2025_18-03-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/12-12-2025/18h/QUADRA_12-12-2025_18-03-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Yode5-tk-kd9pgts9IfZnW34jFPphBR-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/12-12-2025/18h/QUADRA_12-12-2025_18-03-23.jpg"
+                }
+              ]
+            }
           }
         }
       }
