@@ -6896,6 +6896,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/12-12-2025/20h/QUADRA_12-12-2025_20-36-27.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-12-2025_21-19-58.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/12-12-2025/21h/QUADRA_12-12-2025_21-19-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/12-12-2025/21h/QUADRA_12-12-2025_21-19-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1v9GHh6FACh28jbGbfpAZBUH04ePvPlni&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/12-12-2025/21h/QUADRA_12-12-2025_21-19-58.jpg"
+                }
+              ]
             }
           }
         }
@@ -8849,6 +8860,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/10-12-2025/20h/QUADRA_10-12-2025_20-42-07.mp4",
                   "url_download": "https://drive.google.com/uc?id=1SkS5C27VQWGM1JX9t-Jil8XWxASalHLe&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/10-12-2025/20h/QUADRA_10-12-2025_20-42-07.jpg"
+                }
+              ]
+            }
+          },
+          "12-12-2025": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-12-2025_21-15-54.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/12-12-2025/21h/QUADRA_12-12-2025_21-15-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/12-12-2025/21h/QUADRA_12-12-2025_21-15-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18xY-u5hIIWULANb2u555Pld0tHAk7UY_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/12-12-2025/21h/QUADRA_12-12-2025_21-15-54.jpg"
                 }
               ]
             }
