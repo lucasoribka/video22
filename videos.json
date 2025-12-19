@@ -1852,6 +1852,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/19-12-2025/19h/QUADRA_19-12-2025_19-04-16.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-12-2025_20-22-54.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/19-12-2025/20h/QUADRA_19-12-2025_20-22-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/19-12-2025/20h/QUADRA_19-12-2025_20-22-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=17Whhi1OFr_UtZDRoEaNk9tDusOhiKP_E&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/19-12-2025/20h/QUADRA_19-12-2025_20-22-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-12-2025_20-24-00.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/19-12-2025/20h/QUADRA_19-12-2025_20-24-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/19-12-2025/20h/QUADRA_19-12-2025_20-24-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1amewGqqraSKyfX_9uBJGYHU64j4DPkdR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/19-12-2025/20h/QUADRA_19-12-2025_20-24-00.jpg"
+                }
+              ]
             }
           }
         },
@@ -2851,6 +2869,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/19-12-2025/18h/QUADRA_19-12-2025_18-13-08.mp4",
                   "url_download": "https://drive.google.com/uc?id=1aoXwKbemBT5AiKb2HVlhvcGk-5APqioZ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/19-12-2025/18h/QUADRA_19-12-2025_18-13-08.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-12-2025_20-24-36.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/19-12-2025/20h/QUADRA_19-12-2025_20-24-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/19-12-2025/20h/QUADRA_19-12-2025_20-24-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=13kmYM8FpCw4CWYDZ0bXxDJeuPvMdMw2t&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/19-12-2025/20h/QUADRA_19-12-2025_20-24-36.jpg"
                 }
               ]
             }
@@ -7950,6 +7979,19 @@
                 }
               ]
             }
+          },
+          "19-12-2025": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-12-2025_20-24-07.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-12-2025/20h/QUADRA_19-12-2025_20-24-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-12-2025/20h/QUADRA_19-12-2025_20-24-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GuWgSAM26FDLdz0lHD6wdJHilv9QFJyC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/19-12-2025/20h/QUADRA_19-12-2025_20-24-07.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -9839,6 +9881,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-12-2025/20h/QUADRA_19-12-2025_20-06-55.mp4",
                   "url_download": "https://drive.google.com/uc?id=1onr0gdrUu0iDIQNLAXRCZliIVHc5jCCj&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/19-12-2025/20h/QUADRA_19-12-2025_20-06-55.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-12-2025_20-22-34.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/19-12-2025/20h/QUADRA_19-12-2025_20-22-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-12-2025/20h/QUADRA_19-12-2025_20-22-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Dy3ikiERbPoaYiFQSmrp39Nxc3vT_fr5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/19-12-2025/20h/QUADRA_19-12-2025_20-22-34.jpg"
                 }
               ]
             }
