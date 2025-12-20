@@ -1902,6 +1902,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/20-12-2025/08h/QUADRA_20-12-2025_08-12-02.mp4",
                   "url_download": "https://drive.google.com/uc?id=1BmzfGt0JBKXGwIZT7mwSX1jKt40T4LXU&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/08h/QUADRA_20-12-2025_08-12-02.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-12-2025_08-17-52.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/08h/QUADRA_20-12-2025_08-17-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/20-12-2025/08h/QUADRA_20-12-2025_08-17-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1q7ZDDExldCrcDnohbbjtMTaJDESunKly&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/08h/QUADRA_20-12-2025_08-17-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-12-2025_08-22-00.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/08h/QUADRA_20-12-2025_08-22-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/20-12-2025/08h/QUADRA_20-12-2025_08-22-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1z9IbzbxBFJS0FfbzP_lG9s2slYDnCgcI&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/08h/QUADRA_20-12-2025_08-22-00.jpg"
                 }
               ]
             }
@@ -4438,6 +4452,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/19-12-2025/23h/QUADRA_19-12-2025_23-23-38.mp4",
                   "url_download": "https://drive.google.com/uc?id=1O3qSIHMYkQuSIdJ1TCYMN05SnZOtgckN&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/19-12-2025/23h/QUADRA_19-12-2025_23-23-38.jpg"
+                }
+              ]
+            }
+          },
+          "20-12-2025": {
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-12-2025_08-16-49.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-12-2025/08h/QUADRA_20-12-2025_08-16-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/20-12-2025/08h/QUADRA_20-12-2025_08-16-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1eEc8J3CS7QaKmErjXjbiprf60x_EXsKt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-12-2025/08h/QUADRA_20-12-2025_08-16-49.jpg"
                 }
               ]
             }
