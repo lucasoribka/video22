@@ -1918,6 +1918,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/08h/QUADRA_20-12-2025_08-22-00.jpg"
                 }
               ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-12-2025_09-01-56.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/09h/QUADRA_20-12-2025_09-01-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/20-12-2025/09h/QUADRA_20-12-2025_09-01-56.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GtQjlXR4AcR8c7HBsIOQD92lVsgCQEho&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-12-2025/09h/QUADRA_20-12-2025_09-01-56.jpg"
+                }
+              ]
             }
           }
         },
@@ -3171,6 +3182,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/19-12-2025/23h/QUADRA_19-12-2025_23-20-47.mp4",
                   "url_download": "https://drive.google.com/uc?id=1k20hm9zb-Zwl6CBq1VID2bKCBu-IfoOV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/19-12-2025/23h/QUADRA_19-12-2025_23-20-47.jpg"
+                }
+              ]
+            }
+          },
+          "20-12-2025": {
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-12-2025_08-57-25.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/20-12-2025/08h/QUADRA_20-12-2025_08-57-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/20-12-2025/08h/QUADRA_20-12-2025_08-57-25.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HWXB4ys2KB9xfg44ulBjTstu_QuF_THm&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/20-12-2025/08h/QUADRA_20-12-2025_08-57-25.jpg"
                 }
               ]
             }
