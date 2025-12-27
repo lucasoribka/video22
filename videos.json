@@ -5441,6 +5441,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/27-12-2025/15h/QUADRA_27-12-2025_15-20-28.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TUEOlbyqK06sHZPDv8WYAV-D_R3eSRMR&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-20-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-12-2025_15-56-25.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-56-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/27-12-2025/15h/QUADRA_27-12-2025_15-56-25.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1TIr3U8qjNo9jkHD0-D8WbHbb4tBNYI4V&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-56-25.jpg"
                 }
               ]
             }
@@ -8609,6 +8616,19 @@
                 }
               ]
             }
+          },
+          "27-12-2025": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-12-2025_16-01-57.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-12-2025/16h/QUADRA_27-12-2025_16-01-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-12-2025/16h/QUADRA_27-12-2025_16-01-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1w6AbspqbG-eQ7ttEyFHjPJ0DvJq1Egk5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-12-2025/16h/QUADRA_27-12-2025_16-01-57.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -9215,6 +9235,19 @@
                 }
               ]
             }
+          },
+          "27-12-2025": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-12-2025_15-57-27.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/27-12-2025/15h/QUADRA_27-12-2025_15-57-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/27-12-2025/15h/QUADRA_27-12-2025_15-57-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1RxWC8kUMtNGWSNpqUF4taSE94ZJIvNDR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/27-12-2025/15h/QUADRA_27-12-2025_15-57-27.jpg"
+                }
+              ]
+            }
           }
         },
         "AREIA 3": {
@@ -9732,6 +9765,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/27-12-2025/15h/QUADRA_27-12-2025_15-49-04.mp4",
                   "url_download": "https://drive.google.com/uc?id=1d226A2EnEE3DtMnfHtZmjHFOTeZoq1aE&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-49-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-12-2025_15-54-27.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-54-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/27-12-2025/15h/QUADRA_27-12-2025_15-54-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_rYQohcSqxggLIkHOJPXXfMDB04IPoLK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-54-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-12-2025_15-56-17.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-56-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/27-12-2025/15h/QUADRA_27-12-2025_15-56-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1P2MOL8pKqKljNaQLwZDzn2hf-AZehUK7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/27-12-2025/15h/QUADRA_27-12-2025_15-56-17.jpg"
                 }
               ]
             }
@@ -10887,6 +10934,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/27-12-2025/15h/QUADRA_27-12-2025_15-25-47.mp4",
                   "url_download": "https://drive.google.com/uc?id=18uNjob-RwugZ7QRaeVwaSS1Ts4VyuNud&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/27-12-2025/15h/QUADRA_27-12-2025_15-25-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-12-2025_15-55-09.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/27-12-2025/15h/QUADRA_27-12-2025_15-55-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/27-12-2025/15h/QUADRA_27-12-2025_15-55-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11uaK-7JyXatbe6_J7Xsi5-fz-uzM8civ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/27-12-2025/15h/QUADRA_27-12-2025_15-55-09.jpg"
                 }
               ]
             }
