@@ -2824,6 +2824,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/02-01-2026/15h/QUADRA_02-01-2026_15-50-19.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-01-2026_16-00-03.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/02-01-2026/16h/QUADRA_02-01-2026_16-00-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/02-01-2026/16h/QUADRA_02-01-2026_16-00-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1A4tCriuF-7csY7rI75P3_sgDQ6t8BMuc&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/02-01-2026/16h/QUADRA_02-01-2026_16-00-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-01-2026_16-00-42.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/02-01-2026/16h/QUADRA_02-01-2026_16-00-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/02-01-2026/16h/QUADRA_02-01-2026_16-00-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1C1wrSBpapNjVXQ0nm-Ejvi5GnvruEmrV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/02-01-2026/16h/QUADRA_02-01-2026_16-00-42.jpg"
+                }
+              ]
             }
           },
           "27-12-2025": {
@@ -4503,6 +4521,19 @@
           }
         },
         "QUADRA SUSIN": {
+          "02-01-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-01-2026_16-05-39.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/02-01-2026/16h/QUADRA_02-01-2026_16-05-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/02-01-2026/16h/QUADRA_02-01-2026_16-05-39.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1P2fvErBg5DcR7MR5_Q5qVJxHPUhVfJ7D&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/02-01-2026/16h/QUADRA_02-01-2026_16-05-39.jpg"
+                }
+              ]
+            }
+          },
           "28-12-2025": {
             "18h": {
               "_videos": [
