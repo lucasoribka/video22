@@ -4578,6 +4578,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/03-01-2026/10h/QUADRA_03-01-2026_10-23-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1CIkCotFe5P0AAGkiehsWm7I621JKbnaD&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/03-01-2026/10h/QUADRA_03-01-2026_10-23-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-01-2026_10-37-26.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/03-01-2026/10h/QUADRA_03-01-2026_10-37-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/03-01-2026/10h/QUADRA_03-01-2026_10-37-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1n-vD1tBsSA5myVNtkoyCbhalKwjdx2es&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/03-01-2026/10h/QUADRA_03-01-2026_10-37-26.jpg"
                 }
               ]
             }
@@ -6444,6 +6451,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/02-01-2026/18h/QUADRA_02-01-2026_18-20-38.mp4",
                   "url_download": "https://drive.google.com/uc?id=1KjEz7sSXEGq_uaZdJWoDyDIWw9Rw0af9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/02-01-2026/18h/QUADRA_02-01-2026_18-20-38.jpg"
+                }
+              ]
+            }
+          },
+          "03-01-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-01-2026_10-34-32.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/03-01-2026/10h/QUADRA_03-01-2026_10-34-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/03-01-2026/10h/QUADRA_03-01-2026_10-34-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WjobFgbta9Tv65r2GUfydzR8eRfLS59C&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/03-01-2026/10h/QUADRA_03-01-2026_10-34-32.jpg"
                 }
               ]
             }
