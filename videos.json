@@ -3714,6 +3714,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/10-01-2026/09h/QUADRA_10-01-2026_09-29-27.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-01-2026_11-26-14.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/10-01-2026/11h/QUADRA_10-01-2026_11-26-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/10-01-2026/11h/QUADRA_10-01-2026_11-26-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1nuWis_X9mlGzirs2ZUwH_w1Zgt4mA3Se&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/10-01-2026/11h/QUADRA_10-01-2026_11-26-14.jpg"
+                }
+              ]
             }
           }
         }
@@ -8421,6 +8432,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/10-01-2026/10h/QUADRA_10-01-2026_10-16-16.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-01-2026_11-18-53.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/10-01-2026/11h/QUADRA_10-01-2026_11-18-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/10-01-2026/11h/QUADRA_10-01-2026_11-18-53.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gPXM3rpIY31-TUfNzLMxk10ryEhLMUgd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/10-01-2026/11h/QUADRA_10-01-2026_11-18-53.jpg"
+                }
+              ]
             }
           }
         }
@@ -11341,6 +11363,19 @@
                 }
               ]
             }
+          },
+          "10-01-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-01-2026_11-18-35.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/10-01-2026/11h/QUADRA_10-01-2026_11-18-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/10-01-2026/11h/QUADRA_10-01-2026_11-18-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wVOEA4r-RClcGB02G8hyoMuqK8VhQzlp&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/10-01-2026/11h/QUADRA_10-01-2026_11-18-35.jpg"
+                }
+              ]
+            }
           }
         },
         "Quadra Manchester": {
@@ -11816,6 +11851,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/10-01-2026/11h/QUADRA_10-01-2026_11-16-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1P0pCJcUaWCfudpqqTPUn7IZAGMMKnI5Q&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/10-01-2026/11h/QUADRA_10-01-2026_11-16-59.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-01-2026_11-26-08.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/10-01-2026/11h/QUADRA_10-01-2026_11-26-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/10-01-2026/11h/QUADRA_10-01-2026_11-26-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1hMODxUQ8a8DUF49yj5TCOqg3Pv38Bsy-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/10-01-2026/11h/QUADRA_10-01-2026_11-26-08.jpg"
                 }
               ]
             }
