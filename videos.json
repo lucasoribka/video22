@@ -2267,6 +2267,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/11-01-2026/13h/QUADRA_11-01-2026_13-54-23.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-01-2026_17-01-42.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/11-01-2026/17h/QUADRA_11-01-2026_17-01-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/11-01-2026/17h/QUADRA_11-01-2026_17-01-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1N-siLsyciQ_Uut8MNYApIVvlHeDF0X9r&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/11-01-2026/17h/QUADRA_11-01-2026_17-01-42.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-01-2026_17-04-22.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/11-01-2026/17h/QUADRA_11-01-2026_17-04-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/11-01-2026/17h/QUADRA_11-01-2026_17-04-22.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fxYnmSRhE93ok6aSnxyfRrNLPekc8kDU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/11-01-2026/17h/QUADRA_11-01-2026_17-04-22.jpg"
+                }
+              ]
             }
           }
         },
@@ -5483,6 +5501,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/10-01-2026/18h/QUADRA_10-01-2026_18-59-22.mp4",
                   "url_download": "https://drive.google.com/uc?id=1VptK8y269-0p4VcvOLnu2NfFtpwctRX7&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/10-01-2026/18h/QUADRA_10-01-2026_18-59-22.jpg"
+                }
+              ]
+            }
+          },
+          "11-01-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-01-2026_17-04-50.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/11-01-2026/17h/QUADRA_11-01-2026_17-04-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/11-01-2026/17h/QUADRA_11-01-2026_17-04-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ckpK8pjTad8pI7xrjuByFsXW_wWsT8_k&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/11-01-2026/17h/QUADRA_11-01-2026_17-04-50.jpg"
                 }
               ]
             }
