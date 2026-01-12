@@ -1486,6 +1486,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-19-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1NmPNbjD839EV2KmLYy9XeLqapsluTJm3&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-19-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-01-2026_19-23-49.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-23-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-23-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1BEm8tGpG8eC_6uQxlPJ4Z5n27rv41rxx&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-23-49.jpg"
                 }
               ]
             }
@@ -1656,6 +1663,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/12-01-2026/19h/QUADRA_12-01-2026_19-14-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=1LLgsrt5PVfvkN21O-u3GXBsC2kJthe60&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/12-01-2026/19h/QUADRA_12-01-2026_19-14-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-01-2026_19-32-04.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/12-01-2026/19h/QUADRA_12-01-2026_19-32-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/12-01-2026/19h/QUADRA_12-01-2026_19-32-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ylFMz0u3QjkzJQuPcN8wQAX5ZRgxRTPz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/12-01-2026/19h/QUADRA_12-01-2026_19-32-04.jpg"
                 }
               ]
             }
@@ -3808,6 +3822,19 @@
                 }
               ]
             }
+          },
+          "12-01-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_19-26-14.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/12-01-2026/19h/QUADRA_12-01-2026_19-26-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/12-01-2026/19h/QUADRA_12-01-2026_19-26-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=130NdO3AfSXIJF8Y7DfglR0Zcz0sAphMs&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/12-01-2026/19h/QUADRA_12-01-2026_19-26-14.jpg"
+                }
+              ]
+            }
           }
         },
         "AREIA 3": {
@@ -4122,6 +4149,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-01-2026/19h/QUADRA_12-01-2026_19-06-26.mp4",
                   "url_download": "https://drive.google.com/uc?id=1IeVJ_tNvekROKz3fF7fFUheXmNUU2w__&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-01-2026/19h/QUADRA_12-01-2026_19-06-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-01-2026_19-26-48.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-01-2026/19h/QUADRA_12-01-2026_19-26-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-01-2026/19h/QUADRA_12-01-2026_19-26-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yVZoqAxO5nQIEmIUmLsz6_uTuZUqUomg&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-01-2026/19h/QUADRA_12-01-2026_19-26-48.jpg"
                 }
               ]
             }
@@ -4501,6 +4535,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/10-01-2026/19h/QUADRA_10-01-2026_19-40-42.mp4",
                   "url_download": "https://drive.google.com/uc?id=1o7-nD9nYxR_jO7BKJkjL5GSKU-uOO_A2&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/10-01-2026/19h/QUADRA_10-01-2026_19-40-42.jpg"
+                }
+              ]
+            }
+          },
+          "12-01-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_19-29-00.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-01-2026/19h/QUADRA_12-01-2026_19-29-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/12-01-2026/19h/QUADRA_12-01-2026_19-29-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NNi7GLoNBzKK3N5vRgIvV3MoJqeG7Gf2&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/12-01-2026/19h/QUADRA_12-01-2026_19-29-00.jpg"
                 }
               ]
             }
@@ -5417,6 +5464,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/12-01-2026/16h/QUADRA_12-01-2026_16-54-13.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Dij80EZsQ0MOS4RxW7PgHxES7TLovXiV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/12-01-2026/16h/QUADRA_12-01-2026_16-54-13.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_19-23-46.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/12-01-2026/19h/QUADRA_12-01-2026_19-23-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/12-01-2026/19h/QUADRA_12-01-2026_19-23-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yyF1cbwEc-puBejx4VK9FYDlvF-C3Mzt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/12-01-2026/19h/QUADRA_12-01-2026_19-23-46.jpg"
                 }
               ]
             }
@@ -6786,6 +6844,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-19-47.mp4",
                   "url_download": "https://drive.google.com/uc?id=1fjJas7X9roJU2F2vPbcvFuteaLEDr5j_&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-19-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-01-2026_19-25-03.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-25-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-25-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1MDSNu1aL453YePDIUhamvlNt9RSKkhUn&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-01-2026/19h/QUADRA_12-01-2026_19-25-03.jpg"
                 }
               ]
             }
@@ -8069,6 +8134,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/11-01-2026/19h/QUADRA_11-01-2026_19-18-29.mp4",
                   "url_download": "https://drive.google.com/uc?id=1LugGjBp-vSOCWBQSeF688NWoW4sYjdwB&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/11-01-2026/19h/QUADRA_11-01-2026_19-18-29.jpg"
+                }
+              ]
+            }
+          },
+          "12-01-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_19-27-43.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/12-01-2026/19h/QUADRA_12-01-2026_19-27-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/12-01-2026/19h/QUADRA_12-01-2026_19-27-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XC0fxY1w9JXa3juQTWKoec-KN1ts325t&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/12-01-2026/19h/QUADRA_12-01-2026_19-27-43.jpg"
                 }
               ]
             }
