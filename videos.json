@@ -2849,6 +2849,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/12-01-2026/09h/QUADRA_12-01-2026_09-39-18.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_17-25-14.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/12-01-2026/17h/QUADRA_12-01-2026_17-25-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/12-01-2026/17h/QUADRA_12-01-2026_17-25-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Dr2m2zfY6Ekws2sNEBs1zFv8XAlhvnlI&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/12-01-2026/17h/QUADRA_12-01-2026_17-25-14.jpg"
+                }
+              ]
             }
           }
         }
@@ -4909,6 +4920,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/12-01-2026/15h/QUADRA_12-01-2026_15-41-08.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cFRjyOYHSqLSpb3h0cbFIlBP5pPSAEtc&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/12-01-2026/15h/QUADRA_12-01-2026_15-41-08.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_16-07-31.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/12-01-2026/16h/QUADRA_12-01-2026_16-07-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/12-01-2026/16h/QUADRA_12-01-2026_16-07-31.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gla1lsrS8oA96IsrN7pRNkVnnK6Epu7L&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/12-01-2026/16h/QUADRA_12-01-2026_16-07-31.jpg"
                 }
               ]
             }
@@ -7574,6 +7596,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/11-01-2026/18h/QUADRA_11-01-2026_18-20-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=1nz6yXPf3LreLJeV8z-MRVr7P9sS6DfBY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/11-01-2026/18h/QUADRA_11-01-2026_18-20-15.jpg"
+                }
+              ]
+            }
+          },
+          "12-01-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-01-2026_16-35-40.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/12-01-2026/16h/QUADRA_12-01-2026_16-35-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/12-01-2026/16h/QUADRA_12-01-2026_16-35-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HV_uW4sD3zYwdJG96oKMydnh0B0daZIU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/12-01-2026/16h/QUADRA_12-01-2026_16-35-40.jpg"
                 }
               ]
             }
