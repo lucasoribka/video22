@@ -1260,6 +1260,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-01-2026/08h/QUADRA_14-01-2026_08-47-21.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-01-2026_18-16-58.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-16-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-16-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15XbaYCAihT13mLLp4xjHw5BMkeTPy2jy&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-16-58.jpg"
+                }
+              ]
             }
           }
         }
@@ -7594,6 +7605,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-12-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1P_cBCm0-R6sLNf3E86Ce7cdEBZdG6mKl&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-12-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-01-2026_18-25-09.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-25-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-25-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1aglp0rY7RuccEV2EAYMtxb5xvnmOqrrt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/14-01-2026/18h/QUADRA_14-01-2026_18-25-09.jpg"
                 }
               ]
             }
