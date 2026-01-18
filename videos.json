@@ -709,6 +709,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-01-2026/10h/QUADRA_18-01-2026_10-21-01.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-01-2026_16-28-51.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-28-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-28-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jA3UUjmoa4jRTiU7uLNsLRQ4Z4sx7ETN&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-28-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-01-2026_16-33-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-33-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-33-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1w_BCCrltqAsIxLdoZBiYFcexjQwrzPZU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-33-01.jpg"
+                }
+              ]
             }
           }
         }
@@ -4555,6 +4573,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-01-57.mp4",
                   "url_download": "https://drive.google.com/uc?id=1tN6AqQNTx4y29qfgHiSgAX7aJtfsg4Na&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-01-57.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-01-2026_16-31-17.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-31-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-31-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=104aWUkaX_AQh2LJLhGHSrGeJdQgta6ld&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-01-2026/16h/QUADRA_18-01-2026_16-31-17.jpg"
                 }
               ]
             }
@@ -5236,6 +5261,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-01-2026/17h/QUADRA_17-01-2026_17-08-39.mp4",
                   "url_download": "https://drive.google.com/uc?id=1XIizFohhY-wl7aaIVTEkGd77XnCVrB7O&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-01-2026/17h/QUADRA_17-01-2026_17-08-39.jpg"
+                }
+              ]
+            }
+          },
+          "18-01-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-01-2026_16-30-42.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/18-01-2026/16h/QUADRA_18-01-2026_16-30-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/18-01-2026/16h/QUADRA_18-01-2026_16-30-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WjpXQscdl9GVzItJEqaw62jSNYhN3sur&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/18-01-2026/16h/QUADRA_18-01-2026_16-30-42.jpg"
                 }
               ]
             }
