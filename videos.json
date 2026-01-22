@@ -2488,6 +2488,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/22-01-2026/15h/QUADRA_22-01-2026_15-14-38.mp4",
                   "url_download": "https://drive.google.com/uc?id=1uxY-D9vBOfdgb6wfdR4ypE5TI533rdQF&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/22-01-2026/15h/QUADRA_22-01-2026_15-14-38.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-01-2026_15-57-48.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/22-01-2026/15h/QUADRA_22-01-2026_15-57-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/22-01-2026/15h/QUADRA_22-01-2026_15-57-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NkXneKD2NbL3a_RB3C6h8AwFEhwaUwnJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/22-01-2026/15h/QUADRA_22-01-2026_15-57-48.jpg"
                 }
               ]
             }
@@ -4954,6 +4961,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/21-01-2026/23h/QUADRA_21-01-2026_23-25-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=14198IcD_aNT1hPbCqruRwmQGjDKeJRvt&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/21-01-2026/23h/QUADRA_21-01-2026_23-25-54.jpg"
+                }
+              ]
+            }
+          },
+          "22-01-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-01-2026_15-57-28.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-01-2026/15h/QUADRA_22-01-2026_15-57-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-01-2026/15h/QUADRA_22-01-2026_15-57-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1BWAsjtjV420Bz5kPz1JAk7Gti17agAvC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-01-2026/15h/QUADRA_22-01-2026_15-57-28.jpg"
                 }
               ]
             }
