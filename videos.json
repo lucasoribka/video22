@@ -1441,6 +1441,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/22-01-2026/01h/QUADRA_22-01-2026_01-21-50.mp4",
                   "url_download": "https://drive.google.com/uc?id=1QZiEW7pUKEQ38B0BCnMF8GMxbs9Zx2j-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/22-01-2026/01h/QUADRA_22-01-2026_01-21-50.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-01-2026_01-57-13.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/22-01-2026/01h/QUADRA_22-01-2026_01-57-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/22-01-2026/01h/QUADRA_22-01-2026_01-57-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gy34C4bmE-qADP-2GoJQJzF0CG1xbd12&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/22-01-2026/01h/QUADRA_22-01-2026_01-57-13.jpg"
                 }
               ]
             }
@@ -2945,6 +2952,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/20-01-2026/20h/QUADRA_20-01-2026_20-43-04.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Wokid62XZp41xLN3T2TtlH3Eqj4HQ7cl&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/20-01-2026/20h/QUADRA_20-01-2026_20-43-04.jpg"
+                }
+              ]
+            }
+          },
+          "22-01-2026": {
+            "01h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-01-2026_01-55-16.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/22-01-2026/01h/QUADRA_22-01-2026_01-55-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/22-01-2026/01h/QUADRA_22-01-2026_01-55-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OWEzHKWgDW4VLEtoG2-DlGd6j790fWH9&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/22-01-2026/01h/QUADRA_22-01-2026_01-55-16.jpg"
                 }
               ]
             }
