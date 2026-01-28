@@ -5443,6 +5443,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/27-01-2026/19h/QUADRA_27-01-2026_19-51-20.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-01-2026_21-27-35.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/27-01-2026/21h/QUADRA_27-01-2026_21-27-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/27-01-2026/21h/QUADRA_27-01-2026_21-27-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1lfMyIvo7Vyf0Jsr3SJhCGU8SVsVp1I9I&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/27-01-2026/21h/QUADRA_27-01-2026_21-27-35.jpg"
+                }
+              ]
             }
           }
         },
@@ -9098,6 +9109,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-01-2026/20h/QUADRA_27-01-2026_20-55-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=10bOBK-WT6oFP2cq0lAA4LC96wNzGMHxY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-01-2026/20h/QUADRA_27-01-2026_20-55-20.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-01-2026_21-22-54.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-01-2026/21h/QUADRA_27-01-2026_21-22-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-01-2026/21h/QUADRA_27-01-2026_21-22-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XKOAYuGeP5TR46N7digePdYpEGkyTvlf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/27-01-2026/21h/QUADRA_27-01-2026_21-22-54.jpg"
                 }
               ]
             }
