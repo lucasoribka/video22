@@ -4790,6 +4790,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/31-01-2026/09h/QUADRA_31-01-2026_09-59-55.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-01-2026_10-21-49.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/31-01-2026/10h/QUADRA_31-01-2026_10-21-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/31-01-2026/10h/QUADRA_31-01-2026_10-21-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZggNTR-Ey3soKdZjgxFsMSdZY1fMFX0E&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/31-01-2026/10h/QUADRA_31-01-2026_10-21-49.jpg"
+                }
+              ]
             }
           }
         }
@@ -5181,6 +5192,19 @@
                 }
               ]
             }
+          },
+          "31-01-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-01-2026_10-30-08.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/31-01-2026/10h/QUADRA_31-01-2026_10-30-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/31-01-2026/10h/QUADRA_31-01-2026_10-30-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XN7KqNNTuQhOIf6r5HbYJux7Jjt-Zvjz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/31-01-2026/10h/QUADRA_31-01-2026_10-30-08.jpg"
+                }
+              ]
+            }
           }
         },
         "QUADRA 2": {
@@ -5503,6 +5527,19 @@
                 }
               ]
             }
+          },
+          "31-01-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-01-2026_10-25-10.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/31-01-2026/10h/QUADRA_31-01-2026_10-25-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/31-01-2026/10h/QUADRA_31-01-2026_10-25-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1EAtXDrhXfQbceUyUAS0hq9hKSex_XFxE&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/31-01-2026/10h/QUADRA_31-01-2026_10-25-10.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -5792,6 +5829,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/31-01-2026/07h/QUADRA_31-01-2026_07-55-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1z5jj-vx6p6MvHXS1D0gVmfjsKyXFjR94&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/31-01-2026/07h/QUADRA_31-01-2026_07-55-54.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-01-2026_10-29-06.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/31-01-2026/10h/QUADRA_31-01-2026_10-29-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/31-01-2026/10h/QUADRA_31-01-2026_10-29-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-eXteNKzfncHeb_8i-5xfBrxVzhb7Xcw&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/31-01-2026/10h/QUADRA_31-01-2026_10-29-06.jpg"
                 }
               ]
             }
@@ -9765,6 +9813,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/31-01-2026/09h/QUADRA_31-01-2026_09-57-36.mp4",
                   "url_download": "https://drive.google.com/uc?id=1n9lyhTz628dpPMmBFxuBH6At-25a3DD4&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/31-01-2026/09h/QUADRA_31-01-2026_09-57-36.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-01-2026_10-31-11.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/31-01-2026/10h/QUADRA_31-01-2026_10-31-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/31-01-2026/10h/QUADRA_31-01-2026_10-31-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1T1Ks3LVPbczMPvGAmD8dq9a30Z7tLd98&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/31-01-2026/10h/QUADRA_31-01-2026_10-31-11.jpg"
                 }
               ]
             }
@@ -13879,6 +13938,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/30-01-2026/19h/QUADRA_30-01-2026_19-48-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1oE7ZswGPL3yg0n-WfVrcHrbAnVUt9U8T&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/30-01-2026/19h/QUADRA_30-01-2026_19-48-30.jpg"
+                }
+              ]
+            }
+          },
+          "31-01-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-01-2026_10-23-28.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-01-2026/10h/QUADRA_31-01-2026_10-23-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/31-01-2026/10h/QUADRA_31-01-2026_10-23-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-SR5lgglNfLTwcnHJsPDFtz0Gs0g9ry-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-01-2026/10h/QUADRA_31-01-2026_10-23-28.jpg"
                 }
               ]
             }
