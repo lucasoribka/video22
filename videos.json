@@ -9476,6 +9476,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-02-2026/19h/QUADRA_01-02-2026_19-40-27.mp4",
                   "url_download": "https://drive.google.com/uc?id=1veWhwpatFP8VaKNTSNG_qLQNLjtze1Kw&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/01-02-2026/19h/QUADRA_01-02-2026_19-40-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-02-2026_19-46-59.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/01-02-2026/19h/QUADRA_01-02-2026_19-46-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-02-2026/19h/QUADRA_01-02-2026_19-46-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KFHkkwwIljUkeo5LF2A-ApyTBw9bJT-X&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/01-02-2026/19h/QUADRA_01-02-2026_19-46-59.jpg"
                 }
               ]
             }
@@ -9617,6 +9624,19 @@
           }
         },
         "AREIA 3": {
+          "01-02-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-02-2026_19-47-12.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/01-02-2026/19h/QUADRA_01-02-2026_19-47-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/01-02-2026/19h/QUADRA_01-02-2026_19-47-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12IVLYMWLGvpxFC0lfqfHvaCLibMvsiMv&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/01-02-2026/19h/QUADRA_01-02-2026_19-47-12.jpg"
+                }
+              ]
+            }
+          },
           "17-01-2026": {
             "14h": {
               "_videos": [
