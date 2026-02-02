@@ -6957,6 +6957,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-02-2026/16h/QUADRA_02-02-2026_16-06-49.mp4",
                   "url_download": "https://drive.google.com/uc?id=16jZb6dDULMVp6vAygoz1HJ_DNt2MMsi2&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-02-2026/16h/QUADRA_02-02-2026_16-06-49.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-02-2026_16-57-15.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-02-2026/16h/QUADRA_02-02-2026_16-57-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-02-2026/16h/QUADRA_02-02-2026_16-57-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PiCAaUOecJEyqMUokPS4ZNxKVB8CXIOY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-02-2026/16h/QUADRA_02-02-2026_16-57-15.jpg"
                 }
               ]
             }
@@ -8300,6 +8307,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/01-02-2026/20h/QUADRA_01-02-2026_20-57-02.mp4",
                   "url_download": "https://drive.google.com/uc?id=15lyptVMhiro7OddlQKyRc69XcnJC1ovL&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/01-02-2026/20h/QUADRA_01-02-2026_20-57-02.jpg"
+                }
+              ]
+            }
+          },
+          "02-02-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-02-2026_16-59-09.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/02-02-2026/16h/QUADRA_02-02-2026_16-59-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/02-02-2026/16h/QUADRA_02-02-2026_16-59-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1MghHDWbvk2arNYC3x1aZlMYkGMaDii1p&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/02-02-2026/16h/QUADRA_02-02-2026_16-59-09.jpg"
                 }
               ]
             }
