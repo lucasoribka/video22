@@ -1527,6 +1527,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/04-02-2026/07h/QUADRA_04-02-2026_07-47-23.jpg"
                 }
               ]
+            },
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-02-2026_08-00-05.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/04-02-2026/08h/QUADRA_04-02-2026_08-00-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/04-02-2026/08h/QUADRA_04-02-2026_08-00-05.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1w1O-WbdGmQw3VK93wcW7xHSAeoFy5SZS&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/04-02-2026/08h/QUADRA_04-02-2026_08-00-05.jpg"
+                }
+              ]
             }
           }
         }
@@ -1867,6 +1878,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/04-02-2026/07h/QUADRA_04-02-2026_07-17-02.mp4",
                   "url_download": "https://drive.google.com/uc?id=12SWk-fXRF_E5OOGy21N-jje8OJeY0fX4&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-17-02.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-02-2026_07-57-33.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-57-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/04-02-2026/07h/QUADRA_04-02-2026_07-57-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1l1O5InQs3TvG-ylhTuJzXiciUgOqLzwW&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-57-33.jpg"
                 }
               ]
             }
@@ -5671,6 +5689,33 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/03-02-2026/23h/QUADRA_03-02-2026_23-46-05.mp4",
                   "url_download": "https://drive.google.com/uc?id=1hcTcANPJXplqT9BUs6aS9in5tAvNhlaX&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/03-02-2026/23h/QUADRA_03-02-2026_23-46-05.jpg"
+                }
+              ]
+            }
+          },
+          "04-02-2026": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-02-2026_07-51-30.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-51-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/04-02-2026/07h/QUADRA_04-02-2026_07-51-30.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ynOXnvmlKF8vNHhhfeqZC5Jt7aS5-mm_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-51-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-02-2026_07-53-00.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-53-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/04-02-2026/07h/QUADRA_04-02-2026_07-53-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1QsA6d4Iu96Bu6zCk8PjfRZw6oF8glXJP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-53-00.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-02-2026_07-54-02.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-54-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/04-02-2026/07h/QUADRA_04-02-2026_07-54-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yQs-07wd4rAzUH4yJwU_tlAq9ONxObq6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/04-02-2026/07h/QUADRA_04-02-2026_07-54-02.jpg"
                 }
               ]
             }
