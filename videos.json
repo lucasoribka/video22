@@ -2780,6 +2780,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-02-2026/15h/QUADRA_07-02-2026_15-55-26.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-02-2026_19-01-26.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-02-2026/19h/QUADRA_07-02-2026_19-01-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/07-02-2026/19h/QUADRA_07-02-2026_19-01-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1FnmlZdNFySKD-iTKLjRUEdpLzgQ0ZhO5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-02-2026/19h/QUADRA_07-02-2026_19-01-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-02-2026_19-03-18.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-02-2026/19h/QUADRA_07-02-2026_19-03-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/07-02-2026/19h/QUADRA_07-02-2026_19-03-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1husId0X9acXVIantp-1dz3TZ4TSj2sVj&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-02-2026/19h/QUADRA_07-02-2026_19-03-18.jpg"
+                }
+              ]
             }
           }
         },
