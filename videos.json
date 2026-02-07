@@ -7056,6 +7056,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/07-02-2026/12h/QUADRA_07-02-2026_12-02-31.mp4",
                   "url_download": "https://drive.google.com/uc?id=1LPRu3rOEq8xqvq7BsNRiEIed9BiuU-KR&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/07-02-2026/12h/QUADRA_07-02-2026_12-02-31.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-02-2026_12-06-59.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/07-02-2026/12h/QUADRA_07-02-2026_12-06-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/07-02-2026/12h/QUADRA_07-02-2026_12-06-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18qc3jJp0o6KHmntNqlGDr7qGWDG-yg7t&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/07-02-2026/12h/QUADRA_07-02-2026_12-06-59.jpg"
                 }
               ]
             }
@@ -12073,6 +12080,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-02-2026/11h/QUADRA_07-02-2026_11-10-10.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-02-2026_12-08-25.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-02-2026/12h/QUADRA_07-02-2026_12-08-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-02-2026/12h/QUADRA_07-02-2026_12-08-25.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WLvjLmbDjJ2gRhFVW9PTaDPTAF8KTjlP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-02-2026/12h/QUADRA_07-02-2026_12-08-25.jpg"
+                }
+              ]
             }
           }
         },
@@ -12472,6 +12490,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/06-02-2026/20h/QUADRA_06-02-2026_20-16-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1LMthoVJsJ0KYEvfdW2jEM0A_9HtgACRX&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/06-02-2026/20h/QUADRA_06-02-2026_20-16-58.jpg"
+                }
+              ]
+            }
+          },
+          "07-02-2026": {
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-02-2026_12-06-27.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/07-02-2026/12h/QUADRA_07-02-2026_12-06-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/07-02-2026/12h/QUADRA_07-02-2026_12-06-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_lhIOF0CrLj9rzmaFnCbqJ6N5-l5oy4T&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/07-02-2026/12h/QUADRA_07-02-2026_12-06-27.jpg"
                 }
               ]
             }
