@@ -3025,6 +3025,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/11-02-2026/13h/QUADRA_11-02-2026_13-48-41.jpg"
                 }
               ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-02-2026_14-23-48.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/11-02-2026/14h/QUADRA_11-02-2026_14-23-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/11-02-2026/14h/QUADRA_11-02-2026_14-23-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1drOJt0hozjT08yod-K3fHCCLlYMVD2vd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/11-02-2026/14h/QUADRA_11-02-2026_14-23-48.jpg"
+                }
+              ]
             }
           }
         },
@@ -4581,6 +4592,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/10-02-2026/21h/QUADRA_10-02-2026_21-33-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1QHHjmSKzZ2igoOKp-oIrHpRRSvL3NuLH&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/10-02-2026/21h/QUADRA_10-02-2026_21-33-25.jpg"
+                }
+              ]
+            }
+          },
+          "11-02-2026": {
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-02-2026_14-23-50.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/11-02-2026/14h/QUADRA_11-02-2026_14-23-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/11-02-2026/14h/QUADRA_11-02-2026_14-23-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14q12untEnAFZHTfj2UCU481obYZC8JGz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/11-02-2026/14h/QUADRA_11-02-2026_14-23-50.jpg"
                 }
               ]
             }
