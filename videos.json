@@ -1488,6 +1488,27 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-20-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=1wHPsIccotsnSAfCzo_sqxirMuUpDtf4c&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-20-21.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_18-24-52.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-24-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-24-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1n9PhIEm2Xd_O0WbnFdHm434PgTxvrCE8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-24-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_18-29-12.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-29-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-29-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HvDZLsXpcIWaWhcwH2fgfA1efBVXK0mr&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-29-12.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_18-30-42.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-30-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-30-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PZtVY2SXUbccWnRgOVHfxtzqzhigpA7l&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-30-42.jpg"
                 }
               ]
             }
@@ -3041,6 +3062,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/13-02-2026/18h/QUADRA_13-02-2026_18-15-36.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cal6HCNKyuDLakjh-u-8PY49DKI9hp5i&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/13-02-2026/18h/QUADRA_13-02-2026_18-15-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_18-25-05.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/13-02-2026/18h/QUADRA_13-02-2026_18-25-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/13-02-2026/18h/QUADRA_13-02-2026_18-25-05.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vzxOy4g3NwFNCD9df6q5lCDDWoMJ2H70&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/13-02-2026/18h/QUADRA_13-02-2026_18-25-05.jpg"
                 }
               ]
             }
@@ -8723,6 +8751,19 @@
                 }
               ]
             }
+          },
+          "13-02-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-02-2026_18-30-27.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-30-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-30-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1imMRiT4F23OmYtXciJYsvzlfRE-pT5YQ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/13-02-2026/18h/QUADRA_13-02-2026_18-30-27.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -11335,6 +11376,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/13-02-2026/18h/QUADRA_13-02-2026_18-20-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=1DpCvdjL0NU_6BX17czmdgiU1Q5OEkEbx&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/13-02-2026/18h/QUADRA_13-02-2026_18-20-01.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_18-25-15.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/13-02-2026/18h/QUADRA_13-02-2026_18-25-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/13-02-2026/18h/QUADRA_13-02-2026_18-25-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1uvakRk3uzW2XvxF7BGm2rQT9QnGbFFtj&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/13-02-2026/18h/QUADRA_13-02-2026_18-25-15.jpg"
                 }
               ]
             }
