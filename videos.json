@@ -2852,6 +2852,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/14-02-2026/10h/QUADRA_14-02-2026_10-20-13.mp4",
                   "url_download": "https://drive.google.com/uc?id=105ikidoeXLDxSQEVoYodtIi6OwcaXBoF&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/14-02-2026/10h/QUADRA_14-02-2026_10-20-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-02-2026_10-26-08.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/14-02-2026/10h/QUADRA_14-02-2026_10-26-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/14-02-2026/10h/QUADRA_14-02-2026_10-26-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1iiN9AtwxSEDoC_AmMDdkYWz_TflMcleU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/14-02-2026/10h/QUADRA_14-02-2026_10-26-08.jpg"
                 }
               ]
             }
@@ -8678,6 +8685,19 @@
                 }
               ]
             }
+          },
+          "14-02-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-02-2026_10-32-49.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-02-2026/10h/QUADRA_14-02-2026_10-32-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/14-02-2026/10h/QUADRA_14-02-2026_10-32-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KGyAxftyj5gO0uuLGaELO3MepN2UQURX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-02-2026/10h/QUADRA_14-02-2026_10-32-49.jpg"
+                }
+              ]
+            }
           }
         },
         "QUADRA 3": {
@@ -13142,6 +13162,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/14-02-2026/10h/QUADRA_14-02-2026_10-21-45.mp4",
                   "url_download": "https://drive.google.com/uc?id=1EbFw8gVxRQug0PJ0ktjPfnEqbv0QkA0b&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/14-02-2026/10h/QUADRA_14-02-2026_10-21-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-02-2026_10-33-33.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/14-02-2026/10h/QUADRA_14-02-2026_10-33-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/14-02-2026/10h/QUADRA_14-02-2026_10-33-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1sxoBlv1VrRCVfbxQ1OovUj9qbJK4xptH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/14-02-2026/10h/QUADRA_14-02-2026_10-33-33.jpg"
                 }
               ]
             }
