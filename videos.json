@@ -1621,6 +1621,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-02-2026/20h/QUADRA_13-02-2026_20-45-23.mp4",
                   "url_download": "https://drive.google.com/uc?id=1YQo8TQR562cezRfzVUjcjmwMgke0HLrL&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/20h/QUADRA_13-02-2026_20-45-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_20-53-50.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/20h/QUADRA_13-02-2026_20-53-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-02-2026/20h/QUADRA_13-02-2026_20-53-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_pSXZtiaQtjbFKaWnSU_-I_OovHAVy9i&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-02-2026/20h/QUADRA_13-02-2026_20-53-50.jpg"
                 }
               ]
             }
@@ -10774,6 +10781,26 @@
                 }
               ]
             }
+          },
+          "13-02-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-02-2026_20-56-29.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/13-02-2026/20h/QUADRA_13-02-2026_20-56-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/13-02-2026/20h/QUADRA_13-02-2026_20-56-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_asAp8Z_Yrib88XXxwlzoI14j0752uhY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/13-02-2026/20h/QUADRA_13-02-2026_20-56-29.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-02-2026_20-58-48.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/13-02-2026/20h/QUADRA_13-02-2026_20-58-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/13-02-2026/20h/QUADRA_13-02-2026_20-58-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1CpE-If4885c1T1ldf27WYrsF_-ztrQyJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/13-02-2026/20h/QUADRA_13-02-2026_20-58-48.jpg"
+                }
+              ]
+            }
           }
         },
         "AREIA 3": {
@@ -11692,6 +11719,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/13-02-2026/12h/QUADRA_13-02-2026_12-43-51.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Umkt3y3Hz3JymhtHLbAlUB9kpwhWoKJ-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/13-02-2026/12h/QUADRA_13-02-2026_12-43-51.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-02-2026_20-59-07.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/13-02-2026/20h/QUADRA_13-02-2026_20-59-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/13-02-2026/20h/QUADRA_13-02-2026_20-59-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1E0Hwpk5tCZn8ZT2taG_I_SL8vYkyRuSB&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/13-02-2026/20h/QUADRA_13-02-2026_20-59-07.jpg"
                 }
               ]
             }
