@@ -1374,6 +1374,26 @@
                 }
               ]
             }
+          },
+          "16-02-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-02-2026_17-32-20.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-02-2026/17h/QUADRA_16-02-2026_17-32-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-02-2026/17h/QUADRA_16-02-2026_17-32-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qJP5JZDVKRW2UWf4ky_c4QFkieqypmto&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-02-2026/17h/QUADRA_16-02-2026_17-32-20.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-02-2026_17-39-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-02-2026/17h/QUADRA_16-02-2026_17-39-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-02-2026/17h/QUADRA_16-02-2026_17-39-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tyIkQyA2VuHyISdqvE7-qW6rNPP0qS3G&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-02-2026/17h/QUADRA_16-02-2026_17-39-06.jpg"
+                }
+              ]
+            }
           }
         }
       },
