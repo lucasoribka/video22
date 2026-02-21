@@ -1664,6 +1664,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-02-2026/18h/QUADRA_21-02-2026_18-35-00.mp4",
                   "url_download": "https://drive.google.com/uc?id=1eRS9E_YRyyqZEs_dgrbXNDgIsFJmfBDR&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-02-2026/18h/QUADRA_21-02-2026_18-35-00.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-02-2026_18-49-09.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-02-2026/18h/QUADRA_21-02-2026_18-49-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/21-02-2026/18h/QUADRA_21-02-2026_18-49-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1QDel91-NbzvUf81d9o2RVbJHGGmC8oIL&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/21-02-2026/18h/QUADRA_21-02-2026_18-49-09.jpg"
                 }
               ]
             }
@@ -3925,6 +3932,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/21-02-2026/17h/QUADRA_21-02-2026_17-08-08.mp4",
                   "url_download": "https://drive.google.com/uc?id=1NTt6N_8GfQRQTYPJzhn_mVQmnSYTugWW&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/21-02-2026/17h/QUADRA_21-02-2026_17-08-08.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-02-2026_18-45-22.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/21-02-2026/18h/QUADRA_21-02-2026_18-45-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/21-02-2026/18h/QUADRA_21-02-2026_18-45-22.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qpg5YEUXpbIyqjYDrS4xCUUb8DtO8pfH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/21-02-2026/18h/QUADRA_21-02-2026_18-45-22.jpg"
                 }
               ]
             }
