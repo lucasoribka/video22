@@ -657,6 +657,41 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-19-26.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Sd24VqPtenJL1BNcLnKHjl7_zfZcJHo9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-19-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-02-2026_14-19-54.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-19-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-19-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Ue1RIYyTU6biW0ofL_rDV10AZ_cb6Uzq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-19-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-02-2026_14-22-48.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-22-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-22-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cG7nLHXKGLVujCkbwktRAzf8-xWilHuk&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-22-48.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-02-2026_14-23-26.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-23-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-23-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yvCoUjCPgErVbpokOkJFwXSi8cIKbgyI&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-23-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-02-2026_14-25-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-25-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-25-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1h6dzkZgOsc7mVGYY5DKIByS3iVnBgM0z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-25-01.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-02-2026_14-27-49.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-27-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-27-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OVEt3993aSsW45n6TiGr6eU0nWFGzUtG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/21-02-2026/14h/QUADRA_21-02-2026_14-27-49.jpg"
                 }
               ]
             }
@@ -1797,6 +1832,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/21-02-2026/09h/QUADRA_21-02-2026_09-20-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=14HoWaAlGdJMzxIQROd9-vUleM6yEx7Fn&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/21-02-2026/09h/QUADRA_21-02-2026_09-20-19.jpg"
+                }
+              ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-02-2026_14-23-11.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/21-02-2026/14h/QUADRA_21-02-2026_14-23-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/21-02-2026/14h/QUADRA_21-02-2026_14-23-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NgpQQwNAxtmBDGcHCx7UZYimN6igE6YX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/21-02-2026/14h/QUADRA_21-02-2026_14-23-11.jpg"
                 }
               ]
             }
@@ -3477,6 +3523,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/20-02-2026/22h/QUADRA_20-02-2026_22-14-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=1bYtMlvNdppanqEvRs1H8AGBR-WEIJNzs&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/20-02-2026/22h/QUADRA_20-02-2026_22-14-21.jpg"
+                }
+              ]
+            }
+          },
+          "21-02-2026": {
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-02-2026_14-28-01.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/21-02-2026/14h/QUADRA_21-02-2026_14-28-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/21-02-2026/14h/QUADRA_21-02-2026_14-28-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1kdkQveZdyZ5d9Sj_5Rc2IOMUEVfhGmfF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/21-02-2026/14h/QUADRA_21-02-2026_14-28-01.jpg"
                 }
               ]
             }
