@@ -1293,6 +1293,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-02-2026/16h/QUADRA_26-02-2026_16-43-46.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-02-2026_18-31-16.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-02-2026/18h/QUADRA_26-02-2026_18-31-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-02-2026/18h/QUADRA_26-02-2026_18-31-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yNgOCjHmQZSVFQK0LG4YPzr7Umxo4YjX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-02-2026/18h/QUADRA_26-02-2026_18-31-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-02-2026_18-32-42.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-02-2026/18h/QUADRA_26-02-2026_18-32-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-02-2026/18h/QUADRA_26-02-2026_18-32-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZAQ6KyAYn-PrZauwim-L1SyNXhnC4jhc&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-02-2026/18h/QUADRA_26-02-2026_18-32-42.jpg"
+                }
+              ]
             }
           }
         }
@@ -6401,6 +6419,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/26-02-2026/18h/QUADRA_26-02-2026_18-19-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=1U255zaDLcvTx9tevtg2IM_6y-F4G1Jb8&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/26-02-2026/18h/QUADRA_26-02-2026_18-19-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-02-2026_18-33-41.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/26-02-2026/18h/QUADRA_26-02-2026_18-33-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/26-02-2026/18h/QUADRA_26-02-2026_18-33-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tmkBg7yJRTT_e0MkvXsYu_IrZzeGz2Zq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/26-02-2026/18h/QUADRA_26-02-2026_18-33-41.jpg"
                 }
               ]
             }
@@ -6918,6 +6943,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/25-02-2026/19h/QUADRA_25-02-2026_19-20-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1DHLACmOr2st478ZS_v3rbMyWv7RBY9Kb&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/25-02-2026/19h/QUADRA_25-02-2026_19-20-54.jpg"
+                }
+              ]
+            }
+          },
+          "26-02-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-02-2026_18-32-43.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/26-02-2026/18h/QUADRA_26-02-2026_18-32-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/26-02-2026/18h/QUADRA_26-02-2026_18-32-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1hpwutta7N8ysIKCri8CbiBZ2HiQDI1li&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/26-02-2026/18h/QUADRA_26-02-2026_18-32-43.jpg"
                 }
               ]
             }
