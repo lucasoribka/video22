@@ -1950,6 +1950,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/28-02-2026/12h/QUADRA_28-02-2026_12-56-24.jpg"
                 }
               ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-02-2026_13-03-52.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/28-02-2026/13h/QUADRA_28-02-2026_13-03-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/28-02-2026/13h/QUADRA_28-02-2026_13-03-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1zNGkAj7-6F1BMgyctyjWhrY0Z_Z2H0m0&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/28-02-2026/13h/QUADRA_28-02-2026_13-03-52.jpg"
+                }
+              ]
             }
           }
         }
@@ -3421,6 +3432,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/28-02-2026/12h/QUADRA_28-02-2026_12-19-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Oo9RuHcjrXcAB2BsycWrcv1XLWuTgyZA&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/28-02-2026/12h/QUADRA_28-02-2026_12-19-25.jpg"
+                }
+              ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-02-2026_13-01-40.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/28-02-2026/13h/QUADRA_28-02-2026_13-01-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/28-02-2026/13h/QUADRA_28-02-2026_13-01-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1oj1zu_szkAHUkjDDQr8o90eK__PSXm7T&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/28-02-2026/13h/QUADRA_28-02-2026_13-01-40.jpg"
                 }
               ]
             }
