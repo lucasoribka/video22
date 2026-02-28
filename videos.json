@@ -4230,6 +4230,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/27-02-2026/21h/QUADRA_27-02-2026_21-00-59.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-02-2026_22-01-45.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/27-02-2026/22h/QUADRA_27-02-2026_22-01-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/27-02-2026/22h/QUADRA_27-02-2026_22-01-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PBb6QJxbGOdhJcFgPX4kVuB5vCNV7j8f&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/27-02-2026/22h/QUADRA_27-02-2026_22-01-45.jpg"
+                }
+              ]
             }
           }
         }
@@ -5176,6 +5187,31 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/27-02-2026/21h/QUADRA_27-02-2026_21-54-34.mp4",
                   "url_download": "https://drive.google.com/uc?id=1-GQ7fRcRYeDRRx5_ota3Do-RbS5aNYO1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/21h/QUADRA_27-02-2026_21-54-34.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-02-2026_21-56-21.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/21h/QUADRA_27-02-2026_21-56-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/27-02-2026/21h/QUADRA_27-02-2026_21-56-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1aYMoFRvU6UpZyWaYtPm47gXVIlR8qVcp&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/21h/QUADRA_27-02-2026_21-56-21.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-02-2026_21-56-59.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/21h/QUADRA_27-02-2026_21-56-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/27-02-2026/21h/QUADRA_27-02-2026_21-56-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1C0OwQyxmLm52J7MzoybtfrPMke8ycEo6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/21h/QUADRA_27-02-2026_21-56-59.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-02-2026_22-00-20.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/22h/QUADRA_27-02-2026_22-00-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/27-02-2026/22h/QUADRA_27-02-2026_22-00-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mNo_cdl1ltdYo7Yb_KSCvLekk_hV8BmR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/27-02-2026/22h/QUADRA_27-02-2026_22-00-20.jpg"
                 }
               ]
             }
@@ -7217,6 +7253,19 @@
                 }
               ]
             }
+          },
+          "27-02-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-02-2026_21-59-45.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/27-02-2026/21h/QUADRA_27-02-2026_21-59-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/27-02-2026/21h/QUADRA_27-02-2026_21-59-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12SV_sQd19shzE5xNddFX-zJsDFfT-GUS&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/27-02-2026/21h/QUADRA_27-02-2026_21-59-45.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -7751,6 +7800,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/27-02-2026/21h/QUADRA_27-02-2026_21-08-44.mp4",
                   "url_download": "https://drive.google.com/uc?id=1hDkmy-z8_qdPGm3d4lCom0HVw_bG4ChK&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/27-02-2026/21h/QUADRA_27-02-2026_21-08-44.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-02-2026_22-02-08.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/27-02-2026/22h/QUADRA_27-02-2026_22-02-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/27-02-2026/22h/QUADRA_27-02-2026_22-02-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Uv12XA9hGXEpR5yqUljISwfZEwz_jiM4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/27-02-2026/22h/QUADRA_27-02-2026_22-02-08.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-02-2026_22-03-08.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/27-02-2026/22h/QUADRA_27-02-2026_22-03-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/27-02-2026/22h/QUADRA_27-02-2026_22-03-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1eDmlVFWTG3oKV6DAXzzxYkpNe7iLMbcR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/27-02-2026/22h/QUADRA_27-02-2026_22-03-08.jpg"
                 }
               ]
             }
@@ -9093,6 +9160,31 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/27-02-2026/21h/QUADRA_27-02-2026_21-37-00.mp4",
                   "url_download": "https://drive.google.com/uc?id=1-wvhy3SP_UFmxXEHrxTsxSEioA2xCJlx&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/21h/QUADRA_27-02-2026_21-37-00.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-02-2026_21-56-43.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/21h/QUADRA_27-02-2026_21-56-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/27-02-2026/21h/QUADRA_27-02-2026_21-56-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1pwai943VUuyC5Bd-0lw8SDow0LXoifc0&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/21h/QUADRA_27-02-2026_21-56-43.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-02-2026_22-03-41.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/22h/QUADRA_27-02-2026_22-03-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/27-02-2026/22h/QUADRA_27-02-2026_22-03-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Ceyx8glikFPmt11fHYPG1ds207-ayqHT&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/22h/QUADRA_27-02-2026_22-03-41.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-02-2026_22-06-12.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/22h/QUADRA_27-02-2026_22-06-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/27-02-2026/22h/QUADRA_27-02-2026_22-06-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1FRamlzFS8GRgVEsMcVbtNU0iVCQ3GynG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/27-02-2026/22h/QUADRA_27-02-2026_22-06-12.jpg"
                 }
               ]
             }
