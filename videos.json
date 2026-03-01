@@ -5152,6 +5152,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/01-03-2026/15h/QUADRA_01-03-2026_15-02-11.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Wdr5c9zc6plDlc7VIhAM4tm6WRL8iS5A&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/01-03-2026/15h/QUADRA_01-03-2026_15-02-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-03-2026_15-13-21.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/01-03-2026/15h/QUADRA_01-03-2026_15-13-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/01-03-2026/15h/QUADRA_01-03-2026_15-13-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1TE1TD2G39ys77fzHD4lBQSTYDsgaxG08&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/01-03-2026/15h/QUADRA_01-03-2026_15-13-21.jpg"
                 }
               ]
             }
@@ -10708,6 +10715,26 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "01-03-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-03-2026_15-13-20.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-03-2026/15h/QUADRA_01-03-2026_15-13-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-03-2026/15h/QUADRA_01-03-2026_15-13-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ajY5798A__gI-UxYPhEZ30bMBX6f6QDj&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-03-2026/15h/QUADRA_01-03-2026_15-13-20.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-03-2026_15-17-26.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-03-2026/15h/QUADRA_01-03-2026_15-17-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-03-2026/15h/QUADRA_01-03-2026_15-17-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_XturQP4uzRyS57o-v3azTjlL9jo4zSy&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/01-03-2026/15h/QUADRA_01-03-2026_15-17-26.jpg"
+                }
+              ]
+            }
+          },
           "25-02-2026": {
             "18h": {
               "_videos": [
