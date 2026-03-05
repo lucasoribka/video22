@@ -1052,6 +1052,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/05-03-2026/06h/QUADRA_05-03-2026_06-27-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Or_YY59CvkXL03Yh5rZUyfLNU_AwF6qI&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/05-03-2026/06h/QUADRA_05-03-2026_06-27-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-03-2026_06-29-28.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/05-03-2026/06h/QUADRA_05-03-2026_06-29-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/05-03-2026/06h/QUADRA_05-03-2026_06-29-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1lrBmzmF_d-XGRZOCAKjz9W6l3ZjLuRb3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/05-03-2026/06h/QUADRA_05-03-2026_06-29-28.jpg"
                 }
               ]
             }
@@ -9411,6 +9418,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/04-03-2026/07h/QUADRA_04-03-2026_07-49-06.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Rt2y9UJOM_OmGxcVW4n0vh6DunXfxf60&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/04-03-2026/07h/QUADRA_04-03-2026_07-49-06.jpg"
+                }
+              ]
+            }
+          },
+          "05-03-2026": {
+            "06h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-03-2026_06-32-16.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/05-03-2026/06h/QUADRA_05-03-2026_06-32-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/05-03-2026/06h/QUADRA_05-03-2026_06-32-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DI8z9OxMmAw4u0oK6QG7uhvoK5oq9lhH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/05-03-2026/06h/QUADRA_05-03-2026_06-32-16.jpg"
                 }
               ]
             }
