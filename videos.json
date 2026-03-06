@@ -7121,6 +7121,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/06-03-2026/15h/QUADRA_06-03-2026_15-14-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ac8rIObxR_irZI6K08x1hAm83SiucBrn&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/06-03-2026/15h/QUADRA_06-03-2026_15-14-59.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-03-2026_15-57-09.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/06-03-2026/15h/QUADRA_06-03-2026_15-57-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/06-03-2026/15h/QUADRA_06-03-2026_15-57-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16dg0SfacSIouS5TfUYgVnqrR0Zz7Hc2y&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/06-03-2026/15h/QUADRA_06-03-2026_15-57-09.jpg"
                 }
               ]
             }
@@ -7953,6 +7960,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/05-03-2026/22h/QUADRA_05-03-2026_22-16-45.mp4",
                   "url_download": "https://drive.google.com/uc?id=1XN1wF9yXV6G9u9huwmWVqZvNyjeEWwKW&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/05-03-2026/22h/QUADRA_05-03-2026_22-16-45.jpg"
+                }
+              ]
+            }
+          },
+          "06-03-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-03-2026_16-04-58.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/06-03-2026/16h/QUADRA_06-03-2026_16-04-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/06-03-2026/16h/QUADRA_06-03-2026_16-04-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vL_nl9wkrnQ4Em8pnkKeplhpsKzCGRuq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/06-03-2026/16h/QUADRA_06-03-2026_16-04-58.jpg"
                 }
               ]
             }
