@@ -1944,6 +1944,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/05-03-2026/23h/QUADRA_05-03-2026_23-36-56.mp4",
                   "url_download": "https://drive.google.com/uc?id=14YGXcO4f79baQByZ8dH_w_cp_hf22e-I&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/05-03-2026/23h/QUADRA_05-03-2026_23-36-56.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-03-2026_23-59-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/05-03-2026/23h/QUADRA_05-03-2026_23-59-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/05-03-2026/23h/QUADRA_05-03-2026_23-59-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1JX7FiV5g4KYqHtP-cEUvLzU14WBXOvQe&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/05-03-2026/23h/QUADRA_05-03-2026_23-59-59.jpg"
                 }
               ]
             }
@@ -10854,6 +10861,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/05-03-2026/23h/QUADRA_05-03-2026_23-03-02.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ySZdwMjxSkzFs5BR0X4ZNybBCK1fQFpi&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/05-03-2026/23h/QUADRA_05-03-2026_23-03-02.jpg"
+                }
+              ]
+            }
+          },
+          "06-03-2026": {
+            "00h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-03-2026_00-00-00.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/06-03-2026/00h/QUADRA_06-03-2026_00-00-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/06-03-2026/00h/QUADRA_06-03-2026_00-00-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1dhHI1-6ZetgegXm9OVLNOpccVnRGFlqk&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/06-03-2026/00h/QUADRA_06-03-2026_00-00-00.jpg"
                 }
               ]
             }
