@@ -2481,6 +2481,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-03-2026/16h/QUADRA_07-03-2026_16-36-30.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-11-29.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-03-2026/17h/QUADRA_07-03-2026_17-11-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/07-03-2026/17h/QUADRA_07-03-2026_17-11-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1C8AeAy-7MxXLd566j7dR-9HpUJqkn8Xi&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/07-03-2026/17h/QUADRA_07-03-2026_17-11-29.jpg"
+                }
+              ]
             }
           }
         },
@@ -2721,6 +2732,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/07-03-2026/15h/QUADRA_07-03-2026_15-51-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ht1xQZRci-E95bb2AX_An11McP1v6wTf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/07-03-2026/15h/QUADRA_07-03-2026_15-51-19.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-05-40.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/07-03-2026/17h/QUADRA_07-03-2026_17-05-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/07-03-2026/17h/QUADRA_07-03-2026_17-05-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZvsnpHgXXll3ZtAWGxJLrq5tqTHvNGww&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/07-03-2026/17h/QUADRA_07-03-2026_17-05-40.jpg"
                 }
               ]
             }
@@ -3052,6 +3074,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/07-03-2026/16h/QUADRA_07-03-2026_16-59-24.mp4",
                   "url_download": "https://drive.google.com/uc?id=14pkcxtp9u-YIN4k5BDhoO1SGxsWgEQBV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/07-03-2026/16h/QUADRA_07-03-2026_16-59-24.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-07-02.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/07-03-2026/17h/QUADRA_07-03-2026_17-07-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/07-03-2026/17h/QUADRA_07-03-2026_17-07-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=10CZ_1tNOrq8UZ2XQ63E6mctlZH9foBSz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/07-03-2026/17h/QUADRA_07-03-2026_17-07-02.jpg"
                 }
               ]
             }
@@ -4245,6 +4278,65 @@
                 }
               ]
             }
+          },
+          "07-03-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_15-23-19.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/15h/QUADRA_07-03-2026_15-23-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/15h/QUADRA_07-03-2026_15-23-19.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11A7kGvHtXNgP6MUEup6yiap3-xwFi3yV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/15h/QUADRA_07-03-2026_15-23-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_15-49-32.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/15h/QUADRA_07-03-2026_15-49-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/15h/QUADRA_07-03-2026_15-49-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15TyQh9FlWQmIKjRBHo0oa4LkvSkBB8te&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/15h/QUADRA_07-03-2026_15-49-32.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_16-11-51.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-11-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/16h/QUADRA_07-03-2026_16-11-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1pBxWHFex9pgLFSSFaTiDV135dw_dX0I_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-11-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-26-41.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-26-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/16h/QUADRA_07-03-2026_16-26-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=17ECwhF_TT0xOhrBuFv73RTvwx54iC6iA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-26-41.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-28-14.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-28-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/16h/QUADRA_07-03-2026_16-28-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NPrgleh5kgmvf76Hx73hmK0hM_daaD1r&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-28-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-43-42.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-43-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/16h/QUADRA_07-03-2026_16-43-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Aj7mUp9QuuEfCcWVRHUiaA8WL9RXrF2j&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-43-42.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-55-13.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-55-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/07-03-2026/16h/QUADRA_07-03-2026_16-55-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1LGzlIl7_u9ze5tdDF_NvtSGuW2HwPD23&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-55-13.jpg"
+                }
+              ]
+            }
           }
         },
         "QUADRA 2": {
@@ -4326,6 +4418,160 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/06-03-2026/10h/QUADRA_06-03-2026_10-07-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1dSb3RmVOfBlUlqdl8tlPSlX3JnPLClRC&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/06-03-2026/10h/QUADRA_06-03-2026_10-07-52.jpg"
+                }
+              ]
+            }
+          },
+          "07-03-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_15-10-43.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/15h/QUADRA_07-03-2026_15-10-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/15h/QUADRA_07-03-2026_15-10-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1lGIQx7SJoG_ZeDKDra--qOgw-jfakRp-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/15h/QUADRA_07-03-2026_15-10-43.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_15-22-33.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/15h/QUADRA_07-03-2026_15-22-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/15h/QUADRA_07-03-2026_15-22-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1nfF01YwzwJQNc3da4DTLM7mB8W2lGEEO&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/15h/QUADRA_07-03-2026_15-22-33.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_16-10-01.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-10-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-10-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ERXnk9Lr4gvokqu-S5hZg5vCZvnwc7wP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-10-01.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-27-14.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-27-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-27-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1SGLJryFid4-ojVLhmJyIgHvH_CFZz9nz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-27-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-27-47.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-27-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-27-47.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1hCgsiY_5ngNoPK_tP3Ljl9viFKmKBZqx&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-27-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-28-53.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-28-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-28-53.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1l0ib1x_aAY08TT0vCk62rAD1jH-7xQ7d&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-28-53.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-31-00.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-31-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-31-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=19X5zZMfppGh7yynKvDNxr2wbV6lcTSUd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-31-00.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-31-34.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-31-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-31-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NhXpJILNAbWer-BcQG3iAm75r_ywBFdN&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-31-34.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-32-28.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-32-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-32-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1aD_j2_6Fo8zDs26gRjkreAR4rhQLP5qA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-32-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-33-00.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-33-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18sia8eyi2XJD-_7sc8nc6S182v6r0jDR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-00.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-33-17.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-33-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=196Oc1VOV9_f_Rpc_CTlquoquA8nHxupM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-33-30.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-33-30.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_yEMsBKifU_K03wwB5p7fTu_FsBMTWC-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-33-49.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-33-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KNC5XJXoH2ZwqKiixu4i-3l9tirZGyyZ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-33-49.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-34-04.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-34-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-34-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16tq2JH3zsnU3oyxbUB1_sBL9xlulhx1J&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-34-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-34-16.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-34-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-34-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1UU-mb4wim3r9KhqhqjhXU0iCM89-8_NM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-34-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-34-49.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-34-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-34-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KZ4x2-8JZYf6aWmCyn4cv1Ys4S8a_PFK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-34-49.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-35-23.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-35-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-35-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1G4brdrlUaSxs6LKt7ipDRMAScFn2LAuV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-35-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-43-54.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-43-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-43-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1G-luHp8IGZ1GMEFHinahNK9EXtsuA5aK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-43-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-03-2026_16-55-36.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-55-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-55-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1r-SgT4aMZxs-M_Cm68owiX_Wl9yXYeuJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-55-36.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-08-23.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/17h/QUADRA_07-03-2026_17-08-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/07-03-2026/17h/QUADRA_07-03-2026_17-08-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1e9kShgEOK4esPvH6NcWrX6BUsey3Td5o&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/07-03-2026/17h/QUADRA_07-03-2026_17-08-23.jpg"
                 }
               ]
             }
@@ -4558,6 +4804,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/07-03-2026/16h/QUADRA_07-03-2026_16-14-09.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-04-14.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/07-03-2026/17h/QUADRA_07-03-2026_17-04-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/07-03-2026/17h/QUADRA_07-03-2026_17-04-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15ecf7bHa6Fh43bQUzf-s-b53T-CppvoA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/07-03-2026/17h/QUADRA_07-03-2026_17-04-14.jpg"
+                }
+              ]
             }
           }
         },
@@ -4718,6 +4975,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/07-03-2026/16h/QUADRA_07-03-2026_16-45-07.mp4",
                   "url_download": "https://drive.google.com/uc?id=1gNR5UXmUrQgi3eLXBV1vZDppfqoIHAgK&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/07-03-2026/16h/QUADRA_07-03-2026_16-45-07.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-15-06.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/07-03-2026/17h/QUADRA_07-03-2026_17-15-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/07-03-2026/17h/QUADRA_07-03-2026_17-15-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WI9dCnGPXyJHCLOCkFNvcWui9fG4agwg&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/07-03-2026/17h/QUADRA_07-03-2026_17-15-06.jpg"
                 }
               ]
             }
@@ -6707,6 +6975,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/07-03-2026/16h/QUADRA_07-03-2026_16-43-51.mp4",
                   "url_download": "https://drive.google.com/uc?id=1C6-7N62yabzgKytm4BROLk09fVDx6n7k&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/07-03-2026/16h/QUADRA_07-03-2026_16-43-51.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-03-2026_17-08-03.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/07-03-2026/17h/QUADRA_07-03-2026_17-08-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/07-03-2026/17h/QUADRA_07-03-2026_17-08-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Au_vV0QNicT9BZfd8JB07CB6IxwJTsRE&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/07-03-2026/17h/QUADRA_07-03-2026_17-08-03.jpg"
                 }
               ]
             }
