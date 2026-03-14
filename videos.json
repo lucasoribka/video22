@@ -1474,6 +1474,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-03-2026/13h/QUADRA_14-03-2026_13-41-36.jpg"
                 }
               ]
+            },
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-03-2026_15-42-47.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-03-2026/15h/QUADRA_14-03-2026_15-42-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/14-03-2026/15h/QUADRA_14-03-2026_15-42-47.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11ZkpFLqQTt1I2N9irEywaxNOSPrZ8T9u&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-03-2026/15h/QUADRA_14-03-2026_15-42-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-03-2026_15-50-10.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-03-2026/15h/QUADRA_14-03-2026_15-50-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/14-03-2026/15h/QUADRA_14-03-2026_15-50-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18PbVDT34ZXaashhMwhX6aoO2vEavgHFQ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/14-03-2026/15h/QUADRA_14-03-2026_15-50-10.jpg"
+                }
+              ]
             }
           }
         }
@@ -6216,6 +6234,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/14-03-2026/15h/QUADRA_14-03-2026_15-17-29.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TKpTh6Eor1bbulFg6hHxopLM3twND6Gc&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/14-03-2026/15h/QUADRA_14-03-2026_15-17-29.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-03-2026_15-45-06.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/14-03-2026/15h/QUADRA_14-03-2026_15-45-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/14-03-2026/15h/QUADRA_14-03-2026_15-45-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1E6FXnCreYXrANJspk_FcCGygPX2ythCv&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/14-03-2026/15h/QUADRA_14-03-2026_15-45-06.jpg"
                 }
               ]
             }
@@ -8175,6 +8200,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/13-03-2026/14h/QUADRA_13-03-2026_14-46-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=1bIREo1HsUuNYGJJM9KNFmxTG9ZmgD8_r&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/13-03-2026/14h/QUADRA_13-03-2026_14-46-15.jpg"
+                }
+              ]
+            }
+          },
+          "14-03-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-03-2026_15-43-08.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-03-2026/15h/QUADRA_14-03-2026_15-43-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/14-03-2026/15h/QUADRA_14-03-2026_15-43-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ORxSg9qDL6Te7BbltNn9cXpHFkxnxdU4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-03-2026/15h/QUADRA_14-03-2026_15-43-08.jpg"
                 }
               ]
             }
