@@ -4436,6 +4436,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/17h/QUADRA_14-03-2026_17-04-05.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-03-2026_18-36-38.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/18h/QUADRA_14-03-2026_18-36-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/14-03-2026/18h/QUADRA_14-03-2026_18-36-38.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/18h/QUADRA_14-03-2026_18-36-38.jpg"
+                }
+              ]
             }
           }
         }
@@ -5284,6 +5295,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/14-03-2026/14h/QUADRA_14-03-2026_14-16-06.mp4",
                   "url_download": "https://drive.google.com/uc?id=1B1wbOzXRCSvlzVBVrPpUPv36CxFq1zmQ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/14-03-2026/14h/QUADRA_14-03-2026_14-16-06.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-03-2026_18-37-02.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/14-03-2026/18h/QUADRA_14-03-2026_18-37-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/14-03-2026/18h/QUADRA_14-03-2026_18-37-02.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/14-03-2026/18h/QUADRA_14-03-2026_18-37-02.jpg"
                 }
               ]
             }
@@ -6530,6 +6552,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/14-03-2026/18h/QUADRA_14-03-2026_18-15-46.mp4",
                   "url_download": "",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/14-03-2026/18h/QUADRA_14-03-2026_18-15-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-03-2026_18-41-03.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/14-03-2026/18h/QUADRA_14-03-2026_18-41-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/14-03-2026/18h/QUADRA_14-03-2026_18-41-03.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/14-03-2026/18h/QUADRA_14-03-2026_18-41-03.jpg"
                 }
               ]
             }
