@@ -4483,6 +4483,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/18h/QUADRA_14-03-2026_18-47-34.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-03-2026_19-13-44.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/19h/QUADRA_14-03-2026_19-13-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/14-03-2026/19h/QUADRA_14-03-2026_19-13-44.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/19h/QUADRA_14-03-2026_19-13-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-03-2026_19-21-50.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/19h/QUADRA_14-03-2026_19-21-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/14-03-2026/19h/QUADRA_14-03-2026_19-21-50.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/14-03-2026/19h/QUADRA_14-03-2026_19-21-50.jpg"
+                }
+              ]
             }
           }
         }
@@ -8077,6 +8095,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/14-03-2026/17h/QUADRA_14-03-2026_17-57-09.mp4",
                   "url_download": "",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/14-03-2026/17h/QUADRA_14-03-2026_17-57-09.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-03-2026_19-19-57.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/14-03-2026/19h/QUADRA_14-03-2026_19-19-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/14-03-2026/19h/QUADRA_14-03-2026_19-19-57.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/14-03-2026/19h/QUADRA_14-03-2026_19-19-57.jpg"
                 }
               ]
             }
