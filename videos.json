@@ -1720,6 +1720,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-03-2026/19h/QUADRA_15-03-2026_19-06-43.mp4",
                   "url_download": "https://drive.google.com/uc?id=15pVVBIVx2iZL14U4f04mSZ3ZVIh7hbA9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-03-2026/19h/QUADRA_15-03-2026_19-06-43.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-03-2026_19-13-17.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-03-2026/19h/QUADRA_15-03-2026_19-13-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-03-2026/19h/QUADRA_15-03-2026_19-13-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16UR1ZyomA_Wh-lowyvwc-I42QpvO0qUO&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-03-2026/19h/QUADRA_15-03-2026_19-13-17.jpg"
                 }
               ]
             }
@@ -4366,6 +4373,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/15-03-2026/18h/QUADRA_15-03-2026_18-24-09.mp4",
                   "url_download": "https://drive.google.com/uc?id=1BFOWBaCHB3gW53KwTx0GhyxrX7ZQQymx&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/15-03-2026/18h/QUADRA_15-03-2026_18-24-09.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-03-2026_19-14-24.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/15-03-2026/19h/QUADRA_15-03-2026_19-14-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/15-03-2026/19h/QUADRA_15-03-2026_19-14-24.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1LElKjNzZg2TX45AznReD8OcAywZhVthz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/15-03-2026/19h/QUADRA_15-03-2026_19-14-24.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-03-2026_19-16-41.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/15-03-2026/19h/QUADRA_15-03-2026_19-16-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/15-03-2026/19h/QUADRA_15-03-2026_19-16-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1orQbeOjF9VrHOs4BmRbg-Xyz5RzDBksD&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/15-03-2026/19h/QUADRA_15-03-2026_19-16-41.jpg"
                 }
               ]
             }
@@ -13842,6 +13867,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/15-03-2026/18h/QUADRA_15-03-2026_18-55-45.mp4",
                   "url_download": "https://drive.google.com/uc?id=1nZqn-GV3a0a1D7fEHhCAu3Y7I7yTGv3S&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/15-03-2026/18h/QUADRA_15-03-2026_18-55-45.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-03-2026_19-13-15.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/15-03-2026/19h/QUADRA_15-03-2026_19-13-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/15-03-2026/19h/QUADRA_15-03-2026_19-13-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gVquufp5FG8Tq3bf1yPeyqCq6Dl11fMH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/15-03-2026/19h/QUADRA_15-03-2026_19-13-15.jpg"
                 }
               ]
             }
