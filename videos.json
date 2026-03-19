@@ -7324,6 +7324,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/19-03-2026/16h/QUADRA_19-03-2026_16-30-05.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-03-2026_18-12-05.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/19-03-2026/18h/QUADRA_19-03-2026_18-12-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/19-03-2026/18h/QUADRA_19-03-2026_18-12-05.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-ruzTtJ-XzBSmxxn3DedBtImlhLZSaOb&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/19-03-2026/18h/QUADRA_19-03-2026_18-12-05.jpg"
+                }
+              ]
             }
           }
         }
@@ -9326,6 +9337,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/18-03-2026/19h/QUADRA_18-03-2026_19-19-56.mp4",
                   "url_download": "https://drive.google.com/uc?id=1y4d_OMOlSBC4O3ZCOWbKj6n_4gogp4xg&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/18-03-2026/19h/QUADRA_18-03-2026_19-19-56.jpg"
+                }
+              ]
+            }
+          },
+          "19-03-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-03-2026_18-04-58.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/19-03-2026/18h/QUADRA_19-03-2026_18-04-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-03-2026/18h/QUADRA_19-03-2026_18-04-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vSbYQKJ9mLIao9TCcnyPUH_brTMPVCCG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/19-03-2026/18h/QUADRA_19-03-2026_18-04-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-03-2026_18-09-51.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/19-03-2026/18h/QUADRA_19-03-2026_18-09-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-03-2026/18h/QUADRA_19-03-2026_18-09-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tb64FK9qJcy72mJc7NauDL_8Y21a3aa6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/19-03-2026/18h/QUADRA_19-03-2026_18-09-51.jpg"
                 }
               ]
             }
