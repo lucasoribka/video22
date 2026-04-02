@@ -8732,6 +8732,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/02-04-2026/12h/QUADRA_02-04-2026_12-49-16.jpg"
                 }
               ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-04-2026_13-52-30.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/02-04-2026/13h/QUADRA_02-04-2026_13-52-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/02-04-2026/13h/QUADRA_02-04-2026_13-52-30.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Vjie--rjylGUtawKSGs1lqF9emLlD8Nj&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/02-04-2026/13h/QUADRA_02-04-2026_13-52-30.jpg"
+                }
+              ]
             }
           },
           "30-03-2026": {
@@ -9906,6 +9917,19 @@
               ]
             }
           },
+          "02-04-2026": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-04-2026_13-57-04.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/02-04-2026/13h/QUADRA_02-04-2026_13-57-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/02-04-2026/13h/QUADRA_02-04-2026_13-57-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fhBPJ9DYbVyFvULvDzejrhAA_R-wlOmT&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/02-04-2026/13h/QUADRA_02-04-2026_13-57-04.jpg"
+                }
+              ]
+            }
+          },
           "30-03-2026": {
             "15h": {
               "_videos": [
@@ -10216,6 +10240,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-35-10.mp4",
                   "url_download": "https://drive.google.com/uc?id=1h3aHeS7EzinDbsJAza7TGgfCNGZ3sBaf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-35-10.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-04-2026_13-51-42.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-51-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-51-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14ePs_GN3oSaaaPCeJXWtWf_pRcBHLIsS&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-51-42.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-04-2026_13-58-51.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-58-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-58-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NhLlovRRgk3z51svjqUU7P2zc9PjiWg7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-04-2026/13h/QUADRA_02-04-2026_13-58-51.jpg"
                 }
               ]
             }
