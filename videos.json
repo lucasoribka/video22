@@ -892,6 +892,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-32-47.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-04-2026_16-02-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-04-2026/16h/QUADRA_12-04-2026_16-02-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-04-2026/16h/QUADRA_12-04-2026_16-02-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1z_z3b-1JSZlc2BA4MqNloswerCycbHA1&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-04-2026/16h/QUADRA_12-04-2026_16-02-01.jpg"
+                }
+              ]
             }
           }
         }
@@ -7145,6 +7156,27 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-48-32.mp4",
                   "url_download": "https://drive.google.com/uc?id=16oT_hiwXwZlDvqgdC28LvnqazJeAEpYo&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-48-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-04-2026_15-56-09.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-56-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-56-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XCXP0_C0Ot63DJEmzoc0hPSfhOXeUYif&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-56-09.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-04-2026_15-58-35.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-58-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-58-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1CvQDafozP93GjSDczWML_FSOUrEkbn_U&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-58-35.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-04-2026_15-59-24.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-59-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-59-24.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mjPR2woGj_31-jVqkQCNCIgpdZ3Y8RM1&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/12-04-2026/15h/QUADRA_12-04-2026_15-59-24.jpg"
                 }
               ]
             }
@@ -7321,6 +7353,33 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/09-04-2026/21h/QUADRA_09-04-2026_21-09-00.mp4",
                   "url_download": "https://drive.google.com/uc?id=1leHn94RYdIwHCiQHHQfSsbS7VTk-TzNo&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/09-04-2026/21h/QUADRA_09-04-2026_21-09-00.jpg"
+                }
+              ]
+            }
+          },
+          "12-04-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-04-2026_15-51-44.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-04-2026/15h/QUADRA_12-04-2026_15-51-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-04-2026/15h/QUADRA_12-04-2026_15-51-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11KQyB9h7Lkqmyob8EnAQ3qDU6oIZBghO&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-04-2026/15h/QUADRA_12-04-2026_15-51-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-04-2026_15-52-19.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-04-2026/15h/QUADRA_12-04-2026_15-52-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-04-2026/15h/QUADRA_12-04-2026_15-52-19.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XsPsWYM7G6R4QKuj5kgR2BkuacafmN0b&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-04-2026/15h/QUADRA_12-04-2026_15-52-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-04-2026_15-56-14.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-04-2026/15h/QUADRA_12-04-2026_15-56-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-04-2026/15h/QUADRA_12-04-2026_15-56-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AbuYXSTMWdgUruE4z-lWqBat2nykb1qX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-04-2026/15h/QUADRA_12-04-2026_15-56-14.jpg"
                 }
               ]
             }
