@@ -1230,6 +1230,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-04-2026/15h/QUADRA_16-04-2026_15-55-34.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-04-2026_16-28-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-04-2026/16h/QUADRA_16-04-2026_16-28-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-04-2026/16h/QUADRA_16-04-2026_16-28-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1RJJT-6BIL1MoFwqCxgj9jI_idWBbONSP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-04-2026/16h/QUADRA_16-04-2026_16-28-01.jpg"
+                }
+              ]
             }
           }
         }
@@ -3171,6 +3182,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-04-2026/13h/QUADRA_16-04-2026_13-10-06.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-04-2026_16-31-16.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-04-2026/16h/QUADRA_16-04-2026_16-31-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/16-04-2026/16h/QUADRA_16-04-2026_16-31-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DXJvYtjGhKSlF_2cN2HgXJ7HTaKsl90m&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-04-2026/16h/QUADRA_16-04-2026_16-31-16.jpg"
+                }
+              ]
             }
           }
         },
@@ -3301,6 +3323,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-04-2026/16h/QUADRA_16-04-2026_16-24-37.mp4",
                   "url_download": "https://drive.google.com/uc?id=1djX2tqik7alG6JsCqTTtz4HlvgZ9Xa0F&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/16-04-2026/16h/QUADRA_16-04-2026_16-24-37.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-04-2026_16-30-27.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/16-04-2026/16h/QUADRA_16-04-2026_16-30-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-04-2026/16h/QUADRA_16-04-2026_16-30-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Hotmh-3r281Y-5Hd_kHdjzc7qeSgxleL&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/16-04-2026/16h/QUADRA_16-04-2026_16-30-27.jpg"
                 }
               ]
             }
@@ -3405,6 +3434,21 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/16-04-2026/16h/QUADRA%203_16-04-2026_16-04-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=1vKozwqeD5fH5YZM3w9gtnMxjj_qm8ghq&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/16-04-2026/16h/QUADRA 3_16-04-2026_16-04-01.jpg"
+                }
+              ]
+            }
+          }
+        },
+        "QUADRA 4": {
+          "16-04-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_16-04-2026_16-37-01.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/16-04-2026/16h/QUADRA 4_16-04-2026_16-37-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/16-04-2026/16h/QUADRA%204_16-04-2026_16-37-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=17YkhuoF3msX72eFyzPt0cwuMRFIPxRnj&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 4/16-04-2026/16h/QUADRA 4_16-04-2026_16-37-01.jpg"
                 }
               ]
             }
