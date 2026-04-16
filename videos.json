@@ -1176,6 +1176,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-04-2026/12h/QUADRA_16-04-2026_12-40-29.jpg"
                 }
               ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-04-2026_13-13-00.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-04-2026/13h/QUADRA_16-04-2026_13-13-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-04-2026/13h/QUADRA_16-04-2026_13-13-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fEL3mzJ8G6j2DO3orNYZbNlGLJpRmZih&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-04-2026/13h/QUADRA_16-04-2026_13-13-00.jpg"
+                }
+              ]
             }
           }
         }
@@ -3106,6 +3117,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-04-2026/12h/QUADRA_16-04-2026_12-59-42.jpg"
                 }
               ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-04-2026_13-10-06.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-04-2026/13h/QUADRA_16-04-2026_13-10-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/16-04-2026/13h/QUADRA_16-04-2026_13-10-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Z2d0aufpfZLfZ8mGoeu5GRJbxHN-qdH4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-04-2026/13h/QUADRA_16-04-2026_13-10-06.jpg"
+                }
+              ]
             }
           }
         },
@@ -3394,6 +3416,19 @@
                 }
               ]
             }
+          },
+          "16-04-2026": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-04-2026_13-06-04.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/16-04-2026/13h/QUADRA_16-04-2026_13-06-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/16-04-2026/13h/QUADRA_16-04-2026_13-06-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14PBjvHR0oJUOSByMMVmlCwrv-ZlqBEA4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/16-04-2026/13h/QUADRA_16-04-2026_13-06-04.jpg"
+                }
+              ]
+            }
           }
         },
         "QUADRA 2": {
@@ -3552,6 +3587,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/15-04-2026/21h/QUADRA_15-04-2026_21-36-37.mp4",
                   "url_download": "https://drive.google.com/uc?id=1U3MWqdlJ0gOsPLz9l8c-EL_vYiEgInwr&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/15-04-2026/21h/QUADRA_15-04-2026_21-36-37.jpg"
+                }
+              ]
+            }
+          },
+          "16-04-2026": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-04-2026_13-06-28.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/16-04-2026/13h/QUADRA_16-04-2026_13-06-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/16-04-2026/13h/QUADRA_16-04-2026_13-06-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HkrckKJ8V2Aix2a2xEJwsduhRmiPfnQZ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/16-04-2026/13h/QUADRA_16-04-2026_13-06-28.jpg"
                 }
               ]
             }
