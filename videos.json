@@ -3821,6 +3821,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/20-04-2026/15h/QUADRA%201_20-04-2026_15-22-10.mp4",
                   "url_download": "https://drive.google.com/uc?id=1a96ktLhZJZ-Ws-cmcXdzV5q8TkJD8hpu&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/15h/QUADRA 1_20-04-2026_15-22-10.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_20-04-2026_15-33-50.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/15h/QUADRA 1_20-04-2026_15-33-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/20-04-2026/15h/QUADRA%201_20-04-2026_15-33-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1EPvrbLWWsaYVZm6hwE2lNMe47i4HXJ1F&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/15h/QUADRA 1_20-04-2026_15-33-50.jpg"
                 }
               ]
             }
@@ -8667,6 +8674,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/18-04-2026/11h/QUADRA_18-04-2026_11-28-57.mp4",
                   "url_download": "https://drive.google.com/uc?id=1MldBiszUhwXPKDdmtwCqNO_lKrW_0DWw&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/18-04-2026/11h/QUADRA_18-04-2026_11-28-57.jpg"
+                }
+              ]
+            }
+          },
+          "20-04-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-04-2026_15-24-16.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/20-04-2026/15h/QUADRA_20-04-2026_15-24-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/20-04-2026/15h/QUADRA_20-04-2026_15-24-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fLvNogblxNbDdW2-jLavgB_5MQtXfUnK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/20-04-2026/15h/QUADRA_20-04-2026_15-24-16.jpg"
                 }
               ]
             }
