@@ -2243,6 +2243,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/20-04-2026/18h/QUADRA%201_20-04-2026_18-23-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ohQizBc7C2P4-RxwKM2cXffrkLdkS4J_&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/18h/QUADRA 1_20-04-2026_18-23-20.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_20-04-2026_18-29-33.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/18h/QUADRA 1_20-04-2026_18-29-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/20-04-2026/18h/QUADRA%201_20-04-2026_18-29-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=155z_m-oWVPhwhBKm2NcxKwpkkZh7twrs&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/18h/QUADRA 1_20-04-2026_18-29-33.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_20-04-2026_18-31-25.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/18h/QUADRA 1_20-04-2026_18-31-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/20-04-2026/18h/QUADRA%201_20-04-2026_18-31-25.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jW7IOV7svc-Q2J5CASptjRfZjTCqLDss&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/20-04-2026/18h/QUADRA 1_20-04-2026_18-31-25.jpg"
                 }
               ]
             }
@@ -3278,6 +3292,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/19-04-2026/17h/QUADRA_19-04-2026_17-09-46.mp4",
                   "url_download": "https://drive.google.com/uc?id=1hLu3Gk1XFHWv1QScqyXZe1tnm3Cgskza&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/19-04-2026/17h/QUADRA_19-04-2026_17-09-46.jpg"
+                }
+              ]
+            }
+          },
+          "20-04-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-04-2026_18-29-35.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/20-04-2026/18h/QUADRA_20-04-2026_18-29-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/20-04-2026/18h/QUADRA_20-04-2026_18-29-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GKUMTsFTcV1AyxdBCWUFJ01XrGJkG0FR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/20-04-2026/18h/QUADRA_20-04-2026_18-29-35.jpg"
                 }
               ]
             }
@@ -5932,6 +5959,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/20-04-2026/18h/QUADRA_20-04-2026_18-19-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=1NwEINsf095uHs-VqZ82jTTRYv4u7iuun&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/20-04-2026/18h/QUADRA_20-04-2026_18-19-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-04-2026_18-31-23.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/20-04-2026/18h/QUADRA_20-04-2026_18-31-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/20-04-2026/18h/QUADRA_20-04-2026_18-31-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cS3xssgJiWgznziwIpIZi3a3YHSGPEBt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/20-04-2026/18h/QUADRA_20-04-2026_18-31-23.jpg"
                 }
               ]
             }
