@@ -1483,6 +1483,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-04-2026/11h/QUADRA_21-04-2026_11-24-42.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-04-2026_12-00-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-04-2026/12h/QUADRA_21-04-2026_12-00-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/21-04-2026/12h/QUADRA_21-04-2026_12-00-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16DuOLl0SpbWRaFYTf9GbWU3eSd_2iNx3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-04-2026/12h/QUADRA_21-04-2026_12-00-01.jpg"
+                }
+              ]
             }
           }
         }
@@ -2200,6 +2211,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/21-04-2026/11h/QUADRA_21-04-2026_11-57-10.mp4",
                   "url_download": "https://drive.google.com/uc?id=1gI6dCHTwbqKpNTKHai4BpD0AnkIp8y1d&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/21-04-2026/11h/QUADRA_21-04-2026_11-57-10.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-04-2026_11-58-31.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/21-04-2026/11h/QUADRA_21-04-2026_11-58-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/21-04-2026/11h/QUADRA_21-04-2026_11-58-31.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1FKea2NtkDWkvOWWuNNktxdI_mq04LOQz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/21-04-2026/11h/QUADRA_21-04-2026_11-58-31.jpg"
                 }
               ]
             }
