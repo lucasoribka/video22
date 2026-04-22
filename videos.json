@@ -2779,6 +2779,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/22-04-2026/17h/QUADRA_22-04-2026_17-12-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1IeCIECzeUtdDo_t-5N998iLaNJMgDUY9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/22-04-2026/17h/QUADRA_22-04-2026_17-12-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-04-2026_17-56-08.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/22-04-2026/17h/QUADRA_22-04-2026_17-56-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/22-04-2026/17h/QUADRA_22-04-2026_17-56-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XhE7MDKaz0j_xAP5mYWtlLvjPVFTC8cG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/22-04-2026/17h/QUADRA_22-04-2026_17-56-08.jpg"
                 }
               ]
             }
@@ -7482,6 +7489,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-04-2026/20h/QUADRA_21-04-2026_20-22-24.mp4",
                   "url_download": "https://drive.google.com/uc?id=1BdD6cmKy0sCwDmLiDWdw6qRcvOR-VznU&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/21-04-2026/20h/QUADRA_21-04-2026_20-22-24.jpg"
+                }
+              ]
+            }
+          },
+          "22-04-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-04-2026_18-00-20.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/22-04-2026/18h/QUADRA_22-04-2026_18-00-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/22-04-2026/18h/QUADRA_22-04-2026_18-00-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DyuM-yG0HfULApbZ6d_QcXhazCXikS5w&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/22-04-2026/18h/QUADRA_22-04-2026_18-00-20.jpg"
                 }
               ]
             }
