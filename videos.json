@@ -1082,6 +1082,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/23-04-2026/16h/QUADRA_23-04-2026_16-45-14.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-04-2026_17-15-00.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/23-04-2026/17h/QUADRA_23-04-2026_17-15-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/23-04-2026/17h/QUADRA_23-04-2026_17-15-00.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wxtAw5_eh2HVtj2Kgy_tAic98Jh1lm1X&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/23-04-2026/17h/QUADRA_23-04-2026_17-15-00.jpg"
+                }
+              ]
             }
           }
         }
@@ -1908,6 +1919,19 @@
                 }
               ]
             }
+          },
+          "23-04-2026": {
+            "00h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-04-2026_00-36-40.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/23-04-2026/00h/QUADRA_23-04-2026_00-36-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/23-04-2026/00h/QUADRA_23-04-2026_00-36-40.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/23-04-2026/00h/QUADRA_23-04-2026_00-36-40.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -2680,6 +2704,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/23-04-2026/16h/QUADRA_23-04-2026_16-41-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=1N1G_xvXPYRpFlY1PSC00pK6tsrKh_R-S&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/23-04-2026/16h/QUADRA_23-04-2026_16-41-15.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-04-2026_17-10-04.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/23-04-2026/17h/QUADRA_23-04-2026_17-10-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/23-04-2026/17h/QUADRA_23-04-2026_17-10-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AqPo6ycGRBSc5dDh7MhDG7auzbT3XJg5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/23-04-2026/17h/QUADRA_23-04-2026_17-10-04.jpg"
                 }
               ]
             }
