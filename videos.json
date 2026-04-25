@@ -892,6 +892,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-04-2026/09h/QUADRA_25-04-2026_09-53-18.jpg"
                 }
               ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-04-2026_14-11-58.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-04-2026/14h/QUADRA_25-04-2026_14-11-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/25-04-2026/14h/QUADRA_25-04-2026_14-11-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GyJEpwr87hw-jJe8Xdn8P0qefzUmIRfL&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-04-2026/14h/QUADRA_25-04-2026_14-11-58.jpg"
+                }
+              ]
             }
           }
         }
@@ -2632,6 +2643,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-04-2026/10h/QUADRA%201_10-53-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=15jHkjb1lA75rfddpg3Gf8lKrOnqpBJbd&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/25-04-2026/10h/QUADRA 1_10-53-01.jpg"
+                }
+              ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_14-05-58.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/25-04-2026/14h/QUADRA 1_14-05-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-04-2026/14h/QUADRA%201_14-05-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GUq_pmwNdYTVa3a4INSEk-AZrc8fVN1d&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/25-04-2026/14h/QUADRA 1_14-05-58.jpg"
                 }
               ]
             }
@@ -6180,6 +6202,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/24-04-2026/14h/QUADRA_24-04-2026_14-08-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=1fklrJXjXie0bhQt78BrAOclPQoiqCd4R&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/24-04-2026/14h/QUADRA_24-04-2026_14-08-19.jpg"
+                }
+              ]
+            }
+          },
+          "25-04-2026": {
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-04-2026_14-09-34.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/25-04-2026/14h/QUADRA_25-04-2026_14-09-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/25-04-2026/14h/QUADRA_25-04-2026_14-09-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1N0vvjDrb5nZNMgnfoNnYY_SVWxJcNj1Y&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/25-04-2026/14h/QUADRA_25-04-2026_14-09-34.jpg"
                 }
               ]
             }
