@@ -1355,6 +1355,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/28-04-2026/16h/QUADRA_28-04-2026_16-59-05.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-04-2026_17-33-32.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/28-04-2026/17h/QUADRA_28-04-2026_17-33-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/28-04-2026/17h/QUADRA_28-04-2026_17-33-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14ARdcjnwDzUnMS3EiOIQS5vbYd-WbQhX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/28-04-2026/17h/QUADRA_28-04-2026_17-33-32.jpg"
+                }
+              ]
             }
           }
         },
@@ -3094,6 +3105,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/27-04-2026/19h/QUADRA%203_19-50-12.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Qo6KQqYYXr_ueeedQbfu0MoO05xRWeVP&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/27-04-2026/19h/QUADRA 3_19-50-12.jpg"
+                }
+              ]
+            }
+          },
+          "28-04-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_17-34-30.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/28-04-2026/17h/QUADRA 3_17-34-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/28-04-2026/17h/QUADRA%203_17-34-30.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1nbGu13y6n-gpcxXorfkcYX04qmbx6nwm&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/28-04-2026/17h/QUADRA 3_17-34-30.jpg"
                 }
               ]
             }
@@ -5163,6 +5187,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/28-04-2026/17h/QUADRA_28-04-2026_17-25-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Rn8JVSN1VlThkpuxMD__i3djKG9v8ezm&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/28-04-2026/17h/QUADRA_28-04-2026_17-25-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_28-04-2026_17-30-37.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/28-04-2026/17h/QUADRA_28-04-2026_17-30-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/28-04-2026/17h/QUADRA_28-04-2026_17-30-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AJrVAOwqpb4tuuNlXEoPVSo33D8r0sCx&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/28-04-2026/17h/QUADRA_28-04-2026_17-30-37.jpg"
                 }
               ]
             }
@@ -7623,6 +7654,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/28-04-2026/06h/QUADRA_28-04-2026_06-42-27.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Bz7kWNzjuAJN0VnmP0KYxgvuJBSZeFoF&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/28-04-2026/06h/QUADRA_28-04-2026_06-42-27.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-04-2026_17-41-18.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/28-04-2026/17h/QUADRA_28-04-2026_17-41-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/28-04-2026/17h/QUADRA_28-04-2026_17-41-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1xLuhxoAuudZ7q2WbsAa7mVxrdsjepC5P&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/28-04-2026/17h/QUADRA_28-04-2026_17-41-18.jpg"
                 }
               ]
             }
