@@ -1351,6 +1351,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/30-04-2026/18h/QUADRA_30-04-2026_18-20-36.mp4",
                   "url_download": "https://drive.google.com/uc?id=1v8c8t66hUfvk8H-4xxUmOF8NyKDhtArL&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/30-04-2026/18h/QUADRA_30-04-2026_18-20-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_30-04-2026_18-52-45.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/30-04-2026/18h/QUADRA_30-04-2026_18-52-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/30-04-2026/18h/QUADRA_30-04-2026_18-52-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ESq0xl_U1pzqLuSdHVPLAcU5peLvwBkV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/30-04-2026/18h/QUADRA_30-04-2026_18-52-45.jpg"
                 }
               ]
             }
@@ -5948,6 +5955,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/28-04-2026/19h/QUADRA_28-04-2026_19-21-24.mp4",
                   "url_download": "https://drive.google.com/uc?id=1eB3Dqfk4Dso1Gq-Z8tnhwrq4-BJsfmQ_&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/28-04-2026/19h/QUADRA_28-04-2026_19-21-24.jpg"
+                }
+              ]
+            }
+          },
+          "30-04-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-04-2026_18-47-23.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-04-2026/18h/QUADRA_30-04-2026_18-47-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-04-2026/18h/QUADRA_30-04-2026_18-47-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HJ5sDef2R06YvI_kDZs1nDKHb8Zf17O7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-04-2026/18h/QUADRA_30-04-2026_18-47-23.jpg"
                 }
               ]
             }
@@ -11864,6 +11884,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/30-04-2026/17h/QUADRA_30-04-2026_17-51-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=1z0xMpCF9HyE_6T-UQIwPRn0LNEofC21Y&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/30-04-2026/17h/QUADRA_30-04-2026_17-51-01.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-04-2026_18-56-03.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/30-04-2026/18h/QUADRA_30-04-2026_18-56-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/30-04-2026/18h/QUADRA_30-04-2026_18-56-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1p0fRdKsZPiSFbXN-HKUPY_MUCuROnPfL&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/30-04-2026/18h/QUADRA_30-04-2026_18-56-03.jpg"
                 }
               ]
             }
