@@ -1,5 +1,39 @@
 {
   "PR": {
+    "FOZ DO IGUAÇU": {
+      "CT LUCAS MENDES": {
+        "QUADRA 2": {
+          "01-05-2026": {
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_01-05-2026_12-01-54.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/01-05-2026/12h/QUADRA 2_01-05-2026_12-01-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/01-05-2026/12h/QUADRA%202_01-05-2026_12-01-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=10DNoHTB0hddmCPquuM_ZwvRpv4SrKvSo&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/01-05-2026/12h/QUADRA 2_01-05-2026_12-01-54.jpg"
+                }
+              ]
+            }
+          }
+        },
+        "QUADRA 3": {
+          "01-05-2026": {
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_01-05-2026_12-01-43.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/01-05-2026/12h/QUADRA 3_01-05-2026_12-01-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/01-05-2026/12h/QUADRA%203_01-05-2026_12-01-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Ev4-N65F2erl6KBQBcf5zMCB8N6XLBbf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/01-05-2026/12h/QUADRA 3_01-05-2026_12-01-43.jpg"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "RIO NEGRO-PR": {
       "ARENA MAIDL": {
         "QUADRA": {
@@ -6969,6 +7003,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/01-05-2026/10h/QUADRA_01-05-2026_10-17-43.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TyowbBwgxVRlT0vAVaFrA3lJUxKtWy7N&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/01-05-2026/10h/QUADRA_01-05-2026_10-17-43.jpg"
+                }
+              ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-05-2026_11-57-53.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/01-05-2026/11h/QUADRA_01-05-2026_11-57-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/01-05-2026/11h/QUADRA_01-05-2026_11-57-53.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1b3D9mjdOq2coudraDu5ofrAYvUWEhFGX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/01-05-2026/11h/QUADRA_01-05-2026_11-57-53.jpg"
                 }
               ]
             }
