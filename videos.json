@@ -2008,6 +2008,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/01-05-2026/08h/QUADRA_01-05-2026_08-51-07.mp4",
                   "url_download": "https://drive.google.com/uc?id=1i3w2ZcuVplTiuduyVmS0nVtQiNtnWLY-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/01-05-2026/08h/QUADRA_01-05-2026_08-51-07.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-05-2026_08-57-18.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/01-05-2026/08h/QUADRA_01-05-2026_08-57-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/01-05-2026/08h/QUADRA_01-05-2026_08-57-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12JF85Wbn6dt1zNhZopShWI8l1NHHCYOg&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/01-05-2026/08h/QUADRA_01-05-2026_08-57-18.jpg"
                 }
               ]
             }
@@ -11326,6 +11333,19 @@
           }
         },
         "QUADRA SUSIN": {
+          "01-05-2026": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-05-2026_09-03-46.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/01-05-2026/09h/QUADRA_01-05-2026_09-03-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/01-05-2026/09h/QUADRA_01-05-2026_09-03-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1O1iQx6VaeCpuBAst6cW8topbGmgpB7FB&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/01-05-2026/09h/QUADRA_01-05-2026_09-03-46.jpg"
+                }
+              ]
+            }
+          },
           "25-04-2026": {
             "18h": {
               "_videos": [
