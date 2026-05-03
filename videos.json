@@ -4641,6 +4641,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-05-2026/15h/QUADRA_03-05-2026_15-21-13.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-05-2026_16-01-23.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-05-2026/16h/QUADRA_03-05-2026_16-01-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/03-05-2026/16h/QUADRA_03-05-2026_16-01-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AD_ju2UJ2wEUo0uPbSNoEoXyloOKdpYn&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-05-2026/16h/QUADRA_03-05-2026_16-01-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-05-2026_16-04-10.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-05-2026/16h/QUADRA_03-05-2026_16-04-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/03-05-2026/16h/QUADRA_03-05-2026_16-04-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZTcBE-9YHAmzPwAcY6opOYr0JGEsUYnR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-05-2026/16h/QUADRA_03-05-2026_16-04-10.jpg"
+                }
+              ]
             }
           },
           "29-04-2026": {
@@ -4904,6 +4922,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/03-05-2026/15h/QUADRA_03-05-2026_15-36-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=1zf-C_6cSd-BUjpuwPFNG3E92Ur-I1jDc&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/03-05-2026/15h/QUADRA_03-05-2026_15-36-15.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-05-2026_16-05-35.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/03-05-2026/16h/QUADRA_03-05-2026_16-05-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/03-05-2026/16h/QUADRA_03-05-2026_16-05-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1FRVcq48Pj3Ee-5KiDDT40Cvlbwg9B5fM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/03-05-2026/16h/QUADRA_03-05-2026_16-05-35.jpg"
                 }
               ]
             }
