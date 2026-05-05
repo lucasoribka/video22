@@ -2166,6 +2166,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/05-05-2026/16h/QUADRA_05-05-2026_16-25-22.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-05-2026_17-06-37.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/05-05-2026/17h/QUADRA_05-05-2026_17-06-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/05-05-2026/17h/QUADRA_05-05-2026_17-06-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1uiE1lJVkee97B3SiIdSSQARfQ0H2jSUp&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/05-05-2026/17h/QUADRA_05-05-2026_17-06-37.jpg"
+                }
+              ]
             }
           },
           "29-04-2026": {
@@ -5115,6 +5126,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/04-05-2026/22h/QUADRA_04-05-2026_22-53-46.mp4",
                   "url_download": "https://drive.google.com/uc?id=1pDSZDyEBdtllAWDQbuSEDl2sHD5bK8oH&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/04-05-2026/22h/QUADRA_04-05-2026_22-53-46.jpg"
+                }
+              ]
+            }
+          },
+          "05-05-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-05-2026_17-03-28.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/05-05-2026/17h/QUADRA_05-05-2026_17-03-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/05-05-2026/17h/QUADRA_05-05-2026_17-03-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1w1ZIxO3Fb_UCsaEu0gE8MG-2-i2sN-7Z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/05-05-2026/17h/QUADRA_05-05-2026_17-03-28.jpg"
                 }
               ]
             }
@@ -8502,6 +8526,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/04-05-2026/19h/QUADRA_04-05-2026_19-53-56.mp4",
                   "url_download": "https://drive.google.com/uc?id=1P5CxmuPXFIf9nb9AKQLO4psYhCQwb4oS&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/04-05-2026/19h/QUADRA_04-05-2026_19-53-56.jpg"
+                }
+              ]
+            }
+          },
+          "05-05-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-05-2026_17-07-32.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/05-05-2026/17h/QUADRA_05-05-2026_17-07-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/05-05-2026/17h/QUADRA_05-05-2026_17-07-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1IUQ_wmjRxklTopq7u91wbzL8NnPessYl&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/05-05-2026/17h/QUADRA_05-05-2026_17-07-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-05-2026_17-10-18.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/05-05-2026/17h/QUADRA_05-05-2026_17-10-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/05-05-2026/17h/QUADRA_05-05-2026_17-10-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=10ZQjwNaHZz5u6TtOO0d6dphAn08EO7zd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/05-05-2026/17h/QUADRA_05-05-2026_17-10-18.jpg"
                 }
               ]
             }
