@@ -4356,6 +4356,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/06-05-2026/07h/QUADRA_06-05-2026_07-31-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1h-0hZbN9bJyHBJrG8UdRRJmhuak37Kqf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/06-05-2026/07h/QUADRA_06-05-2026_07-31-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-05-2026_07-55-06.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/06-05-2026/07h/QUADRA_06-05-2026_07-55-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/06-05-2026/07h/QUADRA_06-05-2026_07-55-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14lNuv-DnEBb2yDpRPLN6UxuLDo8E-6qY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/06-05-2026/07h/QUADRA_06-05-2026_07-55-06.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-05-2026_07-55-44.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/06-05-2026/07h/QUADRA_06-05-2026_07-55-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/06-05-2026/07h/QUADRA_06-05-2026_07-55-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18V5aFbrbWxzQ9nySAdpyIOW6hpqWSFrH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/06-05-2026/07h/QUADRA_06-05-2026_07-55-44.jpg"
                 }
               ]
             }
@@ -7247,6 +7261,19 @@
                 }
               ]
             }
+          },
+          "06-05-2026": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-05-2026_07-50-44.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-05-2026/07h/QUADRA_06-05-2026_07-50-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-05-2026/07h/QUADRA_06-05-2026_07-50-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XBxW1BLJ0K5Saa_gYFP7MjQDE_4T81jE&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-05-2026/07h/QUADRA_06-05-2026_07-50-44.jpg"
+                }
+              ]
+            }
           }
         },
         "Quadra Manchester": {
@@ -7542,6 +7569,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-05-2026/06h/QUADRA_06-05-2026_06-21-57.mp4",
                   "url_download": "https://drive.google.com/uc?id=1TtEY5NIXSOTIoEM9eRrGkt5CCBZ3QdHI&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/06-05-2026/06h/QUADRA_06-05-2026_06-21-57.jpg"
+                }
+              ]
+            },
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-05-2026_07-53-57.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/06-05-2026/07h/QUADRA_06-05-2026_07-53-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-05-2026/07h/QUADRA_06-05-2026_07-53-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1nnA_DC7Suf0G2GNlO7eGxXJwBRbWppbU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/06-05-2026/07h/QUADRA_06-05-2026_07-53-57.jpg"
                 }
               ]
             }
