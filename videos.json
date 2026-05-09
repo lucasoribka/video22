@@ -2105,6 +2105,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-05-2026/07h/QUADRA_09-05-2026_07-54-37.jpg"
                 }
               ]
+            },
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-05-2026_08-29-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-05-2026/08h/QUADRA_09-05-2026_08-29-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/09-05-2026/08h/QUADRA_09-05-2026_08-29-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16mj6axo5Lo6m6zHc5-3BX3uhUDW6RvzL&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-05-2026/08h/QUADRA_09-05-2026_08-29-59.jpg"
+                }
+              ]
             }
           }
         }
@@ -5213,6 +5224,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/08-05-2026/22h/QUADRA_08-05-2026_22-18-07.mp4",
                   "url_download": "https://drive.google.com/uc?id=1odroMctnJKif-PhKHb6nuoaiVsiJ33G7&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/08-05-2026/22h/QUADRA_08-05-2026_22-18-07.jpg"
+                }
+              ]
+            }
+          },
+          "09-05-2026": {
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-05-2026_08-33-21.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/09-05-2026/08h/QUADRA_09-05-2026_08-33-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/09-05-2026/08h/QUADRA_09-05-2026_08-33-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OuxBweiokDO_8QRVr_FB5ufpDtQLKzOK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/09-05-2026/08h/QUADRA_09-05-2026_08-33-21.jpg"
                 }
               ]
             }
