@@ -2264,6 +2264,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-05-2026/12h/QUADRA_09-05-2026_12-36-03.jpg"
                 }
               ]
+            },
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-05-2026_13-11-22.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-05-2026/13h/QUADRA_09-05-2026_13-11-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/09-05-2026/13h/QUADRA_09-05-2026_13-11-22.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1aUEA6kNEwiB8bUySk34xquYfh6rWF0ft&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-05-2026/13h/QUADRA_09-05-2026_13-11-22.jpg"
+                }
+              ]
             }
           }
         }
@@ -3048,6 +3059,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/08-05-2026/17h/QUADRA%201_17-21-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1H43ZHBFzKEJw1BDXdPxwCf-VC6gGnoZB&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/08-05-2026/17h/QUADRA 1_17-21-03.jpg"
+                }
+              ]
+            }
+          },
+          "09-05-2026": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_13-12-36.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/09-05-2026/13h/QUADRA 1_13-12-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/09-05-2026/13h/QUADRA%201_13-12-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1xxeMm0Aa292J0vLR_Ku5qyZzLQAZrQM8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/09-05-2026/13h/QUADRA 1_13-12-36.jpg"
                 }
               ]
             }
