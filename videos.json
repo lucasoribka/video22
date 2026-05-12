@@ -128,6 +128,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/16h/QUADRA 2_12-05-2026_16-26-19.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_12-05-2026_17-31-49.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-31-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-05-2026/17h/QUADRA%202_12-05-2026_17-31-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PeZ5oIpjuaczu3NlJxDlFButIQ5EcmAU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-31-49.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_12-05-2026_17-33-01.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-33-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-05-2026/17h/QUADRA%202_12-05-2026_17-33-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cDDlY7RDE26qYbNwpFEnY8phkNLNlIz_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-33-01.jpg"
+                }
+              ]
             }
           }
         },
@@ -8317,6 +8335,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/12-05-2026/11h/QUADRA_12-05-2026_11-32-43.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-05-2026_17-22-57.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/12-05-2026/17h/QUADRA_12-05-2026_17-22-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/12-05-2026/17h/QUADRA_12-05-2026_17-22-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Pto2YHIGjIc3ws-sj9JT6R9Kt3LTzKs8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/12-05-2026/17h/QUADRA_12-05-2026_17-22-57.jpg"
+                }
+              ]
             }
           }
         },
@@ -8746,6 +8775,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/12-05-2026/16h/QUADRA_12-05-2026_16-57-22.mp4",
                   "url_download": "https://drive.google.com/uc?id=1e7arF5Tb9jWefYJStpC-QXCfqyZzy-f0&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/12-05-2026/16h/QUADRA_12-05-2026_16-57-22.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-05-2026_17-30-22.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/12-05-2026/17h/QUADRA_12-05-2026_17-30-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/12-05-2026/17h/QUADRA_12-05-2026_17-30-22.mp4",
+                  "url_download": "https://drive.google.com/uc?id=13JwCS-G3E7NRVAKg7Af982CFjQpkAlgt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/12-05-2026/17h/QUADRA_12-05-2026_17-30-22.jpg"
                 }
               ]
             }
