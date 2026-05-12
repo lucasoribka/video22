@@ -144,6 +144,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-05-2026/17h/QUADRA%202_12-05-2026_17-33-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cDDlY7RDE26qYbNwpFEnY8phkNLNlIz_&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-33-01.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_12-05-2026_17-43-13.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-43-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-05-2026/17h/QUADRA%202_12-05-2026_17-43-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mh91k-csxXpj1WgqdONy9V6CnGIL2r8-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-05-2026/17h/QUADRA 2_12-05-2026_17-43-13.jpg"
                 }
               ]
             }
@@ -1027,6 +1034,21 @@
         }
       },
       "MF BEACH TENNIS": {
+        "QUADRA 1": {
+          "12-05-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_12-05-2026_17-34-17.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/12-05-2026/17h/QUADRA 1_12-05-2026_17-34-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/12-05-2026/17h/QUADRA%201_12-05-2026_17-34-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1a3WhLYnxM6_WW6CyV7p1FCfE40sjh9UQ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/12-05-2026/17h/QUADRA 1_12-05-2026_17-34-17.jpg"
+                }
+              ]
+            }
+          }
+        },
         "QUADRA": {
           "05-05-2026": {
             "19h": {
