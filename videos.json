@@ -479,6 +479,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/13-05-2026/20h/QUADRA%203_13-05-2026_20-13-29.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HADBu2L38V4ybD2K-Onuyjbt0Q292B3K&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/13-05-2026/20h/QUADRA 3_13-05-2026_20-13-29.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_13-05-2026_20-19-48.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/13-05-2026/20h/QUADRA 3_13-05-2026_20-19-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/13-05-2026/20h/QUADRA%203_13-05-2026_20-19-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11AAPF6uKUNMvLYoTp3CTE-36x1l5pF6l&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/13-05-2026/20h/QUADRA 3_13-05-2026_20-19-48.jpg"
                 }
               ]
             }
@@ -2354,6 +2361,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/13-05-2026/20h/QUADRA_13-05-2026_20-02-23.mp4",
                   "url_download": "https://drive.google.com/uc?id=1mGtHW1uUN9Fm4g03mbCI0UyRglvoWhSu&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/13-05-2026/20h/QUADRA_13-05-2026_20-02-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-05-2026_20-22-34.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/13-05-2026/20h/QUADRA_13-05-2026_20-22-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/13-05-2026/20h/QUADRA_13-05-2026_20-22-34.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/13-05-2026/20h/QUADRA_13-05-2026_20-22-34.jpg"
                 }
               ]
             }
@@ -2536,6 +2550,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/12-05-2026/22h/QUADRA_12-05-2026_22-06-49.mp4",
                   "url_download": "https://drive.google.com/uc?id=1GJEEHd5myIPMKpg-dn5gtlkPgN6oDRcw&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/12-05-2026/22h/QUADRA_12-05-2026_22-06-49.jpg"
+                }
+              ]
+            }
+          },
+          "13-05-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-05-2026_20-17-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/13-05-2026/20h/QUADRA_13-05-2026_20-17-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/13-05-2026/20h/QUADRA_13-05-2026_20-17-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1rtEFdLlTgFqO1fGlXsW3Lq3rKRoKXq2g&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/13-05-2026/20h/QUADRA_13-05-2026_20-17-06.jpg"
                 }
               ]
             }
