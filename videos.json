@@ -305,6 +305,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-05-2026/10h/QUADRA 2_13-05-2026_10-04-59.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_13-05-2026_19-35-29.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-05-2026/19h/QUADRA 2_13-05-2026_19-35-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-05-2026/19h/QUADRA%202_13-05-2026_19-35-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ykSvLGtcXzgRA_lCiMdP2ysBSOkNmcp8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-05-2026/19h/QUADRA 2_13-05-2026_19-35-29.jpg"
+                }
+              ]
             }
           }
         },
@@ -1511,6 +1522,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/13-05-2026/19h/QUADRA_13-05-2026_19-30-11.mp4",
                   "url_download": "https://drive.google.com/uc?id=1b4xYe1Qv2Wl5CEzWDbaXdRx74A1dkoMI&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/13-05-2026/19h/QUADRA_13-05-2026_19-30-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-05-2026_19-31-16.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/13-05-2026/19h/QUADRA_13-05-2026_19-31-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/13-05-2026/19h/QUADRA_13-05-2026_19-31-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XSS1hyQACgoGfCEas8SrIuN4jx7mafcU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/13-05-2026/19h/QUADRA_13-05-2026_19-31-16.jpg"
                 }
               ]
             }
@@ -3368,6 +3386,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/13-05-2026/18h/QUADRA 3_13-05-2026_18-52-59.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_13-05-2026_19-32-21.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/13-05-2026/19h/QUADRA 3_13-05-2026_19-32-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/13-05-2026/19h/QUADRA%203_13-05-2026_19-32-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KgbMzVmtQ6PmLop2vxOQMuFki5sV1pO0&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/13-05-2026/19h/QUADRA 3_13-05-2026_19-32-21.jpg"
+                }
+              ]
             }
           }
         },
@@ -3464,6 +3493,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-05-2026/20h/QUADRA%204_12-05-2026_20-53-50.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Hf2yT4Up9YiDdfcBVBxRuBxmb08wvKvG&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 4/12-05-2026/20h/QUADRA 4_12-05-2026_20-53-50.jpg"
+                }
+              ]
+            }
+          },
+          "13-05-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_13-05-2026_19-35-10.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/13-05-2026/19h/QUADRA 4_13-05-2026_19-35-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/13-05-2026/19h/QUADRA%204_13-05-2026_19-35-10.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 4/13-05-2026/19h/QUADRA 4_13-05-2026_19-35-10.jpg"
                 }
               ]
             }
