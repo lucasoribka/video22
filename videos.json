@@ -385,6 +385,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-05-2026/21h/QUADRA%202_13-05-2026_21-37-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1EigqJ081JqFFgMFNoOmEQ7ycD4ghf4p5&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-05-2026/21h/QUADRA 2_13-05-2026_21-37-03.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_13-05-2026_21-49-39.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-05-2026/21h/QUADRA 2_13-05-2026_21-49-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-05-2026/21h/QUADRA%202_13-05-2026_21-49-39.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qBHWUtqItLrdPA7F66QMtZEFZsri9U0_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-05-2026/21h/QUADRA 2_13-05-2026_21-49-39.jpg"
                 }
               ]
             }
@@ -3914,6 +3921,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/13-05-2026/19h/QUADRA%203_13-05-2026_19-32-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=1KgbMzVmtQ6PmLop2vxOQMuFki5sV1pO0&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/13-05-2026/19h/QUADRA 3_13-05-2026_19-32-21.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_13-05-2026_21-47-45.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/13-05-2026/21h/QUADRA 3_13-05-2026_21-47-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/13-05-2026/21h/QUADRA%203_13-05-2026_21-47-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KLn-LS38AjqKmx5AOiFUb2p-JjACNEBP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/13-05-2026/21h/QUADRA 3_13-05-2026_21-47-45.jpg"
                 }
               ]
             }
