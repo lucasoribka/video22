@@ -594,6 +594,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/17h/QUADRA 2_14-05-2026_17-23-36.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_14-05-2026_18-09-08.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/18h/QUADRA 2_14-05-2026_18-09-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-05-2026/18h/QUADRA%202_14-05-2026_18-09-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=17NOyOIo0UvdFeYdJYBNsI5WalyBpfMAG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/18h/QUADRA 2_14-05-2026_18-09-08.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_14-05-2026_18-10-04.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/18h/QUADRA 2_14-05-2026_18-10-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-05-2026/18h/QUADRA%202_14-05-2026_18-10-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1hiE6Tc9h5BxXPnd3PMS-8_Kcqgayapvq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/18h/QUADRA 2_14-05-2026_18-10-04.jpg"
+                }
+              ]
             }
           }
         },
@@ -766,6 +784,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/14-05-2026/17h/QUADRA%203_14-05-2026_17-01-28.mp4",
                   "url_download": "https://drive.google.com/uc?id=1b1RWLTECiE4NGVHHAM1jcZfalwJ78v0-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/14-05-2026/17h/QUADRA 3_14-05-2026_17-01-28.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_14-05-2026_18-08-58.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/14-05-2026/18h/QUADRA 3_14-05-2026_18-08-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/14-05-2026/18h/QUADRA%203_14-05-2026_18-08-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tFTKsz-gFPl04XM3k8So45kuciq-c6XV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/14-05-2026/18h/QUADRA 3_14-05-2026_18-08-58.jpg"
                 }
               ]
             }
@@ -7206,6 +7235,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/14-05-2026/17h/QUADRA_14-05-2026_17-52-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=11jd02-Z9J_OyUiDoR_LyFKSedCMJu13v&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-05-2026/17h/QUADRA_14-05-2026_17-52-54.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-05-2026_18-10-18.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-05-2026/18h/QUADRA_14-05-2026_18-10-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/14-05-2026/18h/QUADRA_14-05-2026_18-10-18.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/14-05-2026/18h/QUADRA_14-05-2026_18-10-18.jpg"
                 }
               ]
             }
