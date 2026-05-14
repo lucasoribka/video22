@@ -619,6 +619,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/18h/QUADRA 2_14-05-2026_18-19-08.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_14-05-2026_19-01-26.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/19h/QUADRA 2_14-05-2026_19-01-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-05-2026/19h/QUADRA%202_14-05-2026_19-01-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vehSmp0ZbX78BPyhf0R4zZw_lbRWElSg&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-05-2026/19h/QUADRA 2_14-05-2026_19-01-26.jpg"
+                }
+              ]
             }
           }
         },
@@ -1370,6 +1381,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/13-05-2026/22h/QUADRA_13-05-2026_22-01-05.mp4",
                   "url_download": "https://drive.google.com/uc?id=1tRmgYiEJMLS3Ui4TE28a99hyaABINxAQ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/13-05-2026/22h/QUADRA_13-05-2026_22-01-05.jpg"
+                }
+              ]
+            }
+          },
+          "14-05-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-05-2026_19-03-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/14-05-2026/19h/QUADRA_14-05-2026_19-03-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/14-05-2026/19h/QUADRA_14-05-2026_19-03-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1De7yxHn-Yd4T0zus4XREDKN349ZJtypJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/14-05-2026/19h/QUADRA_14-05-2026_19-03-27.jpg"
                 }
               ]
             }
@@ -2417,6 +2441,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/14-05-2026/18h/QUADRA_14-05-2026_18-46-00.mp4",
                   "url_download": "https://drive.google.com/uc?id=1gzP-6D4Vx1gCR0ycdyKwUpH7VpPdcfZ4&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/14-05-2026/18h/QUADRA_14-05-2026_18-46-00.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-05-2026_19-00-02.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/14-05-2026/19h/QUADRA_14-05-2026_19-00-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/14-05-2026/19h/QUADRA_14-05-2026_19-00-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12Hs7TrmMAtIaSuNXl_atRGnd062QB0--&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/14-05-2026/19h/QUADRA_14-05-2026_19-00-02.jpg"
                 }
               ]
             }
@@ -3978,8 +4013,26 @@
                   "nome": "QUADRA 1_14-05-2026_18-59-05.mp4",
                   "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/14-05-2026/18h/QUADRA 1_14-05-2026_18-59-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/14-05-2026/18h/QUADRA%201_14-05-2026_18-59-05.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1MZ_kdu6WDdj_xG0AntxEqc4rSneiqCiu&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/14-05-2026/18h/QUADRA 1_14-05-2026_18-59-05.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_14-05-2026_19-03-12.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/14-05-2026/19h/QUADRA 1_14-05-2026_19-03-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/14-05-2026/19h/QUADRA%201_14-05-2026_19-03-12.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/14-05-2026/19h/QUADRA 1_14-05-2026_19-03-12.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_14-05-2026_19-04-25.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/14-05-2026/19h/QUADRA 1_14-05-2026_19-04-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/14-05-2026/19h/QUADRA%201_14-05-2026_19-04-25.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/14-05-2026/19h/QUADRA 1_14-05-2026_19-04-25.jpg"
                 }
               ]
             }
@@ -5772,7 +5825,7 @@
                   "nome": "QUADRA_14-05-2026_18-58-22.mp4",
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/14-05-2026/18h/QUADRA_14-05-2026_18-58-22.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/14-05-2026/18h/QUADRA_14-05-2026_18-58-22.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1r27v9mzjP0VDAwsY_w-521aG8IdcMsI_&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/14-05-2026/18h/QUADRA_14-05-2026_18-58-22.jpg"
                 }
               ]
@@ -9104,7 +9157,7 @@
                   "nome": "QUADRA_14-05-2026_18-56-54.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/14-05-2026/18h/QUADRA_14-05-2026_18-56-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/14-05-2026/18h/QUADRA_14-05-2026_18-56-54.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1hAo9QiCNn2EEUgKOiegdhNin0AyLHxXM&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/14-05-2026/18h/QUADRA_14-05-2026_18-56-54.jpg"
                 }
               ]
@@ -10017,6 +10070,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/14-05-2026/17h/QUADRA_14-05-2026_17-46-10.mp4",
                   "url_download": "https://drive.google.com/uc?id=11IrHQBz9bNPHwtmt7kfPJGxYwZGv_Irx&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/14-05-2026/17h/QUADRA_14-05-2026_17-46-10.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-05-2026_19-04-26.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/14-05-2026/19h/QUADRA_14-05-2026_19-04-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/14-05-2026/19h/QUADRA_14-05-2026_19-04-26.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/14-05-2026/19h/QUADRA_14-05-2026_19-04-26.jpg"
                 }
               ]
             }
