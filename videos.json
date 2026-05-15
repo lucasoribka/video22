@@ -5596,6 +5596,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/15-05-2026/14h/QUADRA 1_15-05-2026_14-56-40.jpg"
                 }
               ]
+            },
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_15-05-2026_15-34-32.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/15-05-2026/15h/QUADRA 1_15-05-2026_15-34-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/15-05-2026/15h/QUADRA%201_15-05-2026_15-34-32.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/15-05-2026/15h/QUADRA 1_15-05-2026_15-34-32.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_15-05-2026_15-34-38.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/15-05-2026/15h/QUADRA 1_15-05-2026_15-34-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/15-05-2026/15h/QUADRA%201_15-05-2026_15-34-38.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/15-05-2026/15h/QUADRA 1_15-05-2026_15-34-38.jpg"
+                }
+              ]
             }
           }
         },
@@ -11787,7 +11805,7 @@
                   "nome": "QUADRA_15-05-2026_15-25-52.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/15-05-2026/15h/QUADRA_15-05-2026_15-25-52.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/15-05-2026/15h/QUADRA_15-05-2026_15-25-52.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1rw6D2yMpOw3LYua-0MwPjhFAKxARlCIx&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/15-05-2026/15h/QUADRA_15-05-2026_15-25-52.jpg"
                 }
               ]
