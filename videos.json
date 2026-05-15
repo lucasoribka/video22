@@ -7741,6 +7741,26 @@
                 }
               ]
             }
+          },
+          "15-05-2026": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-05-2026_07-53-11.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/15-05-2026/07h/QUADRA_15-05-2026_07-53-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/15-05-2026/07h/QUADRA_15-05-2026_07-53-11.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/15-05-2026/07h/QUADRA_15-05-2026_07-53-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-05-2026_07-54-03.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/15-05-2026/07h/QUADRA_15-05-2026_07-54-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/15-05-2026/07h/QUADRA_15-05-2026_07-54-03.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/15-05-2026/07h/QUADRA_15-05-2026_07-54-03.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2": {
@@ -11207,7 +11227,7 @@
                   "nome": "QUADRA_15-05-2026_07-47-00.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/15-05-2026/07h/QUADRA_15-05-2026_07-47-00.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/15-05-2026/07h/QUADRA_15-05-2026_07-47-00.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1I692fcQDHkbK3VXz_T7F5QY7GPsepW_y&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/15-05-2026/07h/QUADRA_15-05-2026_07-47-00.jpg"
                 }
               ]
