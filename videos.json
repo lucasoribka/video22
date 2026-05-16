@@ -3964,6 +3964,19 @@
                 }
               ]
             }
+          },
+          "16-05-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_16-05-2026_20-25-34.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/16-05-2026/20h/QUADRA 2_16-05-2026_20-25-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/16-05-2026/20h/QUADRA%202_16-05-2026_20-25-34.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/16-05-2026/20h/QUADRA 2_16-05-2026_20-25-34.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -10796,8 +10809,15 @@
                   "nome": "QUADRA_16-05-2026_20-17-19.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/16-05-2026/20h/QUADRA_16-05-2026_20-17-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/16-05-2026/20h/QUADRA_16-05-2026_20-17-19.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1CrUmcQWx9Zt8-pwvZVUK_oc6__RAVZH5&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/16-05-2026/20h/QUADRA_16-05-2026_20-17-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-05-2026_20-29-24.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/16-05-2026/20h/QUADRA_16-05-2026_20-29-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/16-05-2026/20h/QUADRA_16-05-2026_20-29-24.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/16-05-2026/20h/QUADRA_16-05-2026_20-29-24.jpg"
                 }
               ]
             }
