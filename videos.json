@@ -1915,6 +1915,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-20-37.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HPry-7QkUncnsQZO8uKxeH1y1G2iuEjr&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-20-37.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-05-2026_16-27-30.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-30.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Mlsaa5-RR63owBMzgdlz1ezzM5A9kKdJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-05-2026_16-27-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1BkeUQ-5G4E2aLUj-B34d_fdXzhHVTfY-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-59.jpg"
                 }
               ]
             }
@@ -10926,6 +10940,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/17-05-2026/15h/QUADRA_17-05-2026_15-32-20.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-05-2026_16-27-42.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/17-05-2026/16h/QUADRA_17-05-2026_16-27-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/17-05-2026/16h/QUADRA_17-05-2026_16-27-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16GkWyIW5GnZuNfKXlrc27zXR8_kZb9c7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/17-05-2026/16h/QUADRA_17-05-2026_16-27-42.jpg"
+                }
+              ]
             }
           }
         }
@@ -11153,22 +11178,29 @@
                   "nome": "QUADRA_17-05-2026_16-24-57.mp4",
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-24-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-24-57.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1VIWsh9JGYBNLGwKdKmCrWr7NklMDWiE-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-24-57.jpg"
                 },
                 {
                   "nome": "QUADRA_17-05-2026_16-25-26.mp4",
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-25-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-25-26.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1kMBRkPabGl9AFi0SxCvQvWQIu5pQIjSk&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-25-26.jpg"
                 },
                 {
                   "nome": "QUADRA_17-05-2026_16-26-32.mp4",
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-26-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-26-32.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=13chChUYaShS1Ka0quJN578--1NUU1Yq6&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-26-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-05-2026_16-34-46.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-34-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-34-46.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-34-46.jpg"
                 }
               ]
             }
@@ -14365,7 +14397,7 @@
                   "nome": "QUADRA_17-05-2026_16-25-09.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/17-05-2026/16h/QUADRA_17-05-2026_16-25-09.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/17-05-2026/16h/QUADRA_17-05-2026_16-25-09.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1CnQfab4yNm7Xzb2HATbeuVrJMG92cdJ1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/17-05-2026/16h/QUADRA_17-05-2026_16-25-09.jpg"
                 }
               ]
