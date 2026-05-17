@@ -4559,21 +4559,21 @@
                   "nome": "QUADRA 2_17-05-2026_12-04-12.mp4",
                   "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/17-05-2026/12h/QUADRA 2_17-05-2026_12-04-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/17-05-2026/12h/QUADRA%202_17-05-2026_12-04-12.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1666lXWb7dBazyUMY21BC9R_kVMcwBlJq&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/17-05-2026/12h/QUADRA 2_17-05-2026_12-04-12.jpg"
                 },
                 {
                   "nome": "QUADRA 2_17-05-2026_12-05-35.mp4",
                   "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/17-05-2026/12h/QUADRA 2_17-05-2026_12-05-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/17-05-2026/12h/QUADRA%202_17-05-2026_12-05-35.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1RtGbqLPA0n4bW7X5fJZQhsnB7RX2cLyz&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/17-05-2026/12h/QUADRA 2_17-05-2026_12-05-35.jpg"
                 },
                 {
                   "nome": "QUADRA 2_17-05-2026_12-07-29.mp4",
                   "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/17-05-2026/12h/QUADRA 2_17-05-2026_12-07-29.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/17-05-2026/12h/QUADRA%202_17-05-2026_12-07-29.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1d9P83w06cn4sRk2GyHZt9zTsoRMIEgyX&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/17-05-2026/12h/QUADRA 2_17-05-2026_12-07-29.jpg"
                 }
               ]
@@ -12143,6 +12143,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/17-05-2026/11h/QUADRA_17-05-2026_11-59-10.mp4",
                   "url_download": "https://drive.google.com/uc?id=16hgCtTiSH4OyHEU_n9awy-FYHP0nKAMV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/17-05-2026/11h/QUADRA_17-05-2026_11-59-10.jpg"
+                }
+              ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-05-2026_12-11-15.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/17-05-2026/12h/QUADRA_17-05-2026_12-11-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/17-05-2026/12h/QUADRA_17-05-2026_12-11-15.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/17-05-2026/12h/QUADRA_17-05-2026_12-11-15.jpg"
                 }
               ]
             }
