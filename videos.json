@@ -1929,6 +1929,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1BkeUQ-5G4E2aLUj-B34d_fdXzhHVTfY-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-27-59.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-05-2026_16-35-19.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-35-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-35-19.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1hOQZXvkJLAxEMGoQbXPL8LATGZnOwBw7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-35-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-05-2026_16-39-20.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-39-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-39-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HySDeuWg0GycNfiekhWXWc0e99nUl94-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-39-20.jpg"
                 }
               ]
             }
@@ -2515,6 +2529,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-05-2026/11h/QUADRA_17-05-2026_11-28-38.mp4",
                   "url_download": "https://drive.google.com/uc?id=1sthN85CQAs2sdcRCtO4AEWTLlvviTi9S&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-05-2026/11h/QUADRA_17-05-2026_11-28-38.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-05-2026_16-38-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-38-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-38-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_MTlH42n-nCTDWuR9VjKNj8th-a_wMkd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-38-59.jpg"
                 }
               ]
             }
@@ -11199,8 +11224,15 @@
                   "nome": "QUADRA_17-05-2026_16-34-46.mp4",
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-34-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-34-46.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1RTWOm63p9Q9sWAA3aFo3A_ZjaE_hm6dN&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-34-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-05-2026_16-37-44.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-37-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-37-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1eDDRXmbBA3T1JQc9KHCl66RtG9VwJs1e&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-05-2026/16h/QUADRA_17-05-2026_16-37-44.jpg"
                 }
               ]
             }
