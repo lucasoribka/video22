@@ -6471,6 +6471,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/19-05-2026/17h/QUADRA 3_19-05-2026_17-54-08.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_19-05-2026_18-10-48.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/19-05-2026/18h/QUADRA 3_19-05-2026_18-10-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/19-05-2026/18h/QUADRA%203_19-05-2026_18-10-48.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/19-05-2026/18h/QUADRA 3_19-05-2026_18-10-48.jpg"
+                }
+              ]
             }
           }
         },
@@ -7100,6 +7111,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/19-05-2026/17h/QUADRA_19-05-2026_17-37-18.mp4",
                   "url_download": "https://drive.google.com/uc?id=1hXBOZZHj-5np6X47_j3qMCae5X5rD_ud&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/19-05-2026/17h/QUADRA_19-05-2026_17-37-18.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-05-2026_18-05-52.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/19-05-2026/18h/QUADRA_19-05-2026_18-05-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/19-05-2026/18h/QUADRA_19-05-2026_18-05-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1G6Ez8WzDLTjtF1_8hwk6ToUSDi4xEh7g&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/19-05-2026/18h/QUADRA_19-05-2026_18-05-52.jpg"
                 }
               ]
             }
