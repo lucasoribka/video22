@@ -6478,7 +6478,7 @@
                   "nome": "QUADRA 3_19-05-2026_18-10-48.mp4",
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/19-05-2026/18h/QUADRA 3_19-05-2026_18-10-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/19-05-2026/18h/QUADRA%203_19-05-2026_18-10-48.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1MYBAWSiKrOlD5MK4b8HddcioXdyfWbrS&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/19-05-2026/18h/QUADRA 3_19-05-2026_18-10-48.jpg"
                 }
               ]
@@ -10157,6 +10157,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/19-05-2026/09h/QUADRA_19-05-2026_09-06-51.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ZaQOLuPisLAGcPjFvdr16XOhGgsvqJ6a&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/19-05-2026/09h/QUADRA_19-05-2026_09-06-51.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-05-2026_18-20-12.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/19-05-2026/18h/QUADRA_19-05-2026_18-20-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/19-05-2026/18h/QUADRA_19-05-2026_18-20-12.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/19-05-2026/18h/QUADRA_19-05-2026_18-20-12.jpg"
                 }
               ]
             }
