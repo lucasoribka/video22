@@ -6033,6 +6033,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/20-05-2026/11h/QUADRA_20-05-2026_11-14-39.mp4",
                   "url_download": "https://drive.google.com/uc?id=1WQAV10VtUTg_2D0WfDpxoe7F6P1NUaCY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-05-2026/11h/QUADRA_20-05-2026_11-14-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-05-2026_11-30-24.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-05-2026/11h/QUADRA_20-05-2026_11-30-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/20-05-2026/11h/QUADRA_20-05-2026_11-30-24.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1YsbTynhqsLQq9WMKELtqxYYw1-fqDCg-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/20-05-2026/11h/QUADRA_20-05-2026_11-30-24.jpg"
                 }
               ]
             }
@@ -9931,6 +9938,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/19-05-2026/20h/QUADRA_19-05-2026_20-47-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1l1VjvnDM9YjSZjulN2OP4ttKTuH6ChNe&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/19-05-2026/20h/QUADRA_19-05-2026_20-47-30.jpg"
+                }
+              ]
+            }
+          },
+          "20-05-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-05-2026_11-37-57.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-05-2026/11h/QUADRA_20-05-2026_11-37-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/20-05-2026/11h/QUADRA_20-05-2026_11-37-57.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/20-05-2026/11h/QUADRA_20-05-2026_11-37-57.jpg"
                 }
               ]
             }
