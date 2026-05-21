@@ -688,6 +688,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/21-05-2026/17h/QUADRA 2_21-05-2026_17-30-43.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_21-05-2026_18-37-38.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/21-05-2026/18h/QUADRA 2_21-05-2026_18-37-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/21-05-2026/18h/QUADRA%202_21-05-2026_18-37-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=100HzPckDmC2dABjDVGctG5Hwau2mgPDx&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/21-05-2026/18h/QUADRA 2_21-05-2026_18-37-38.jpg"
+                }
+              ]
             }
           }
         },
@@ -8830,7 +8841,7 @@
                   "nome": "QUADRA_21-05-2026_17-53-47.mp4",
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/21-05-2026/17h/QUADRA_21-05-2026_17-53-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/21-05-2026/17h/QUADRA_21-05-2026_17-53-47.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1FKicGE08X_qr3sNzYWilEehjsq2aO2Ap&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/21-05-2026/17h/QUADRA_21-05-2026_17-53-47.jpg"
                 }
               ]
@@ -16612,6 +16623,19 @@
                 }
               ]
             }
+          },
+          "21-05-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-05-2026_18-37-47.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/21-05-2026/18h/QUADRA_21-05-2026_18-37-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/21-05-2026/18h/QUADRA_21-05-2026_18-37-47.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1YAdiRAFCJ9NjQtqrf72zcI4dfruSshcK&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/21-05-2026/18h/QUADRA_21-05-2026_18-37-47.jpg"
+                }
+              ]
+            }
           }
         },
         "Quadra Caminho do Saber": {
@@ -17326,7 +17350,7 @@
                   "nome": "QUADRA_21-05-2026_18-35-39.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/21-05-2026/18h/QUADRA_21-05-2026_18-35-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/21-05-2026/18h/QUADRA_21-05-2026_18-35-39.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1Y-KlRoFArGvBKFuNePlrpZ53KfiBAc00&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/21-05-2026/18h/QUADRA_21-05-2026_18-35-39.jpg"
                 }
               ]
