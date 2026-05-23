@@ -7283,7 +7283,7 @@
                   "nome": "QUADRA_23-05-2026_20-37-05.mp4",
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/23-05-2026/20h/QUADRA_23-05-2026_20-37-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/23-05-2026/20h/QUADRA_23-05-2026_20-37-05.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=16fq1j4vhc3Tp4yoKdI0Y5MG0muUO1JsC&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/23-05-2026/20h/QUADRA_23-05-2026_20-37-05.jpg"
                 }
               ]
@@ -14537,6 +14537,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/23-05-2026/20h/QUADRA_23-05-2026_20-08-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=1L78kHGRdid-9yHD1b5x0sBUegtEzIgJo&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/23-05-2026/20h/QUADRA_23-05-2026_20-08-20.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-05-2026_20-49-50.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/23-05-2026/20h/QUADRA_23-05-2026_20-49-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/23-05-2026/20h/QUADRA_23-05-2026_20-49-50.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/23-05-2026/20h/QUADRA_23-05-2026_20-49-50.jpg"
                 }
               ]
             }
@@ -14930,6 +14937,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/23-05-2026/18h/QUADRA_23-05-2026_18-38-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HcZtqRAei7wnmPglfAXYppDUoenM9bNy&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/23-05-2026/18h/QUADRA_23-05-2026_18-38-48.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-05-2026_20-45-28.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/23-05-2026/20h/QUADRA_23-05-2026_20-45-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/23-05-2026/20h/QUADRA_23-05-2026_20-45-28.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/23-05-2026/20h/QUADRA_23-05-2026_20-45-28.jpg"
                 }
               ]
             }
