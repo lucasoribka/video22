@@ -997,6 +997,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-05-2026/16h/QUADRA 2_26-05-2026_16-44-02.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_26-05-2026_17-19-14.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-05-2026/17h/QUADRA 2_26-05-2026_17-19-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-05-2026/17h/QUADRA%202_26-05-2026_17-19-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mMr2WTVMRNdNtSIM18JSw1pgQyE_tBd5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-05-2026/17h/QUADRA 2_26-05-2026_17-19-14.jpg"
+                }
+              ]
             }
           }
         },
@@ -6624,6 +6635,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/25-05-2026/22h/QUADRA_25-05-2026_22-08-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=1y5ATMpXodeQddzSkJIFNPjNeo7VHIHwn&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/25-05-2026/22h/QUADRA_25-05-2026_22-08-48.jpg"
+                }
+              ]
+            }
+          },
+          "26-05-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-05-2026_17-17-52.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/26-05-2026/17h/QUADRA_26-05-2026_17-17-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/26-05-2026/17h/QUADRA_26-05-2026_17-17-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Qb_fmX4i5_ffGSGD-ZCoja1cIx2pGvMi&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/26-05-2026/17h/QUADRA_26-05-2026_17-17-52.jpg"
                 }
               ]
             }
