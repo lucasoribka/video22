@@ -1006,6 +1006,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-05-2026/17h/QUADRA%202_26-05-2026_17-19-14.mp4",
                   "url_download": "https://drive.google.com/uc?id=1mMr2WTVMRNdNtSIM18JSw1pgQyE_tBd5&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-05-2026/17h/QUADRA 2_26-05-2026_17-19-14.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_26-05-2026_17-37-17.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-05-2026/17h/QUADRA 2_26-05-2026_17-37-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-05-2026/17h/QUADRA%202_26-05-2026_17-37-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=107ggL4rHeOki0oNJhoIcBSzTCh4uAgaw&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-05-2026/17h/QUADRA 2_26-05-2026_17-37-17.jpg"
                 }
               ]
             }
@@ -2527,6 +2534,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/25-05-2026/21h/QUADRA_25-05-2026_21-55-08.mp4",
                   "url_download": "https://drive.google.com/uc?id=1fXS0QXJ8MMXiBpIJO9c5vmNjPTTMAsxx&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-05-2026/21h/QUADRA_25-05-2026_21-55-08.jpg"
+                }
+              ]
+            }
+          },
+          "26-05-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-05-2026_17-36-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-05-2026/17h/QUADRA_26-05-2026_17-36-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-05-2026/17h/QUADRA_26-05-2026_17-36-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1dYy9Lh1PDjNdI9OMh6_W4Z7flMRbzNT4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-05-2026/17h/QUADRA_26-05-2026_17-36-01.jpg"
                 }
               ]
             }
@@ -9896,14 +9916,14 @@
                   "nome": "QUADRA_26-05-2026_17-27-20.mp4",
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/26-05-2026/17h/QUADRA_26-05-2026_17-27-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/26-05-2026/17h/QUADRA_26-05-2026_17-27-20.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1xKqz49xWtWSPnySZWqaxCYCrRitsTcve&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/26-05-2026/17h/QUADRA_26-05-2026_17-27-20.jpg"
                 },
                 {
                   "nome": "QUADRA_26-05-2026_17-27-55.mp4",
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/26-05-2026/17h/QUADRA_26-05-2026_17-27-55.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/26-05-2026/17h/QUADRA_26-05-2026_17-27-55.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1xmVQSybU7UpPerSlnuqKadqEqcLmZLXp&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/26-05-2026/17h/QUADRA_26-05-2026_17-27-55.jpg"
                 }
               ]
