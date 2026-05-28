@@ -1029,6 +1029,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/28-05-2026/18h/QUADRA%203_28-05-2026_18-31-31.mp4",
                   "url_download": "https://drive.google.com/uc?id=1YqmZ3XGHX6tXw2ATNe4JdiPzdQu3M8vU&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/28-05-2026/18h/QUADRA 3_28-05-2026_18-31-31.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_28-05-2026_18-34-58.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/28-05-2026/18h/QUADRA 3_28-05-2026_18-34-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/28-05-2026/18h/QUADRA%203_28-05-2026_18-34-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11nkjxf9jBbttfyydakSL50xGvHZ9UViW&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/28-05-2026/18h/QUADRA 3_28-05-2026_18-34-58.jpg"
                 }
               ]
             }
@@ -5206,8 +5213,15 @@
                   "nome": "QUADRA_28-05-2026_18-32-19.mp4",
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/28-05-2026/18h/QUADRA_28-05-2026_18-32-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/28-05-2026/18h/QUADRA_28-05-2026_18-32-19.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=12hy0R-hiJfXsy40Iz494bXaMIKmrFcnp&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/28-05-2026/18h/QUADRA_28-05-2026_18-32-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_28-05-2026_18-33-26.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/28-05-2026/18h/QUADRA_28-05-2026_18-33-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/28-05-2026/18h/QUADRA_28-05-2026_18-33-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1eBryBrHU4fMVq1ZLTaEwtI4rjORRPrwW&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/28-05-2026/18h/QUADRA_28-05-2026_18-33-26.jpg"
                 }
               ]
             }
@@ -6313,6 +6327,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/27-05-2026/21h/QUADRA_27-05-2026_21-00-39.mp4",
                   "url_download": "https://drive.google.com/uc?id=1L0EeWMLnd1uBQXdQD427gYux84Pfp4IZ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/27-05-2026/21h/QUADRA_27-05-2026_21-00-39.jpg"
+                }
+              ]
+            }
+          },
+          "28-05-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-05-2026_18-36-33.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/28-05-2026/18h/QUADRA_28-05-2026_18-36-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/28-05-2026/18h/QUADRA_28-05-2026_18-36-33.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/28-05-2026/18h/QUADRA_28-05-2026_18-36-33.jpg"
                 }
               ]
             }
@@ -9483,6 +9510,19 @@
                 }
               ]
             }
+          },
+          "28-05-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-05-2026_18-33-30.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/28-05-2026/18h/QUADRA_28-05-2026_18-33-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/28-05-2026/18h/QUADRA_28-05-2026_18-33-30.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1aF0ZbFpVJGumwVg41tvU986niNFCK2cz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/28-05-2026/18h/QUADRA_28-05-2026_18-33-30.jpg"
+                }
+              ]
+            }
           }
         },
         "AREIA 2": {
@@ -11516,6 +11556,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/28-05-2026/18h/QUADRA_28-05-2026_18-04-51.mp4",
                   "url_download": "https://drive.google.com/uc?id=1NvEp_rUfng4z62c2rQHKW1qPNFDhMSSb&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/28-05-2026/18h/QUADRA_28-05-2026_18-04-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_28-05-2026_18-39-50.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/28-05-2026/18h/QUADRA_28-05-2026_18-39-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/28-05-2026/18h/QUADRA_28-05-2026_18-39-50.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/28-05-2026/18h/QUADRA_28-05-2026_18-39-50.jpg"
                 }
               ]
             }
