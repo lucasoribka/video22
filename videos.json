@@ -867,6 +867,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/29-05-2026/18h/QUADRA 2_29-05-2026_18-59-40.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_29-05-2026_19-47-01.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/29-05-2026/19h/QUADRA 2_29-05-2026_19-47-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/29-05-2026/19h/QUADRA%202_29-05-2026_19-47-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1MJ4_aNH18YXnEM1gfJW4zpL75TMDDQf9&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/29-05-2026/19h/QUADRA 2_29-05-2026_19-47-01.jpg"
+                }
+              ]
             }
           }
         },
@@ -2173,6 +2184,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/29-05-2026/19h/QUADRA_29-05-2026_19-25-33.mp4",
                   "url_download": "https://drive.google.com/uc?id=106yhvFj_DtwnAMiqusPnBL_1m16yPcjM&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/29-05-2026/19h/QUADRA_29-05-2026_19-25-33.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-05-2026_19-47-55.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/29-05-2026/19h/QUADRA_29-05-2026_19-47-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/29-05-2026/19h/QUADRA_29-05-2026_19-47-55.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/29-05-2026/19h/QUADRA_29-05-2026_19-47-55.jpg"
                 }
               ]
             }
@@ -6360,6 +6378,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/29-05-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_29-05-2026_19-14-24.mp4",
                   "url_download": "https://drive.google.com/uc?id=1O5dvWhB4Xho8BDiGdsLjgnCvrqMX91y7&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/29-05-2026/19h/TRAVE 2 - CAMPO GRANDE_29-05-2026_19-14-24.jpg"
+                },
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_29-05-2026_19-44-14.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/29-05-2026/19h/TRAVE 2 - CAMPO GRANDE_29-05-2026_19-44-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/29-05-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_29-05-2026_19-44-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WFLATOtLGKeqcxgpsfSlboAx-4A8JhV2&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/29-05-2026/19h/TRAVE 2 - CAMPO GRANDE_29-05-2026_19-44-14.jpg"
+                },
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_29-05-2026_19-49-50.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/29-05-2026/19h/TRAVE 2 - CAMPO GRANDE_29-05-2026_19-49-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/29-05-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_29-05-2026_19-49-50.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/29-05-2026/19h/TRAVE 2 - CAMPO GRANDE_29-05-2026_19-49-50.jpg"
                 }
               ]
             }
@@ -6414,7 +6446,7 @@
                   "nome": "TRAVE 4 - PORTÃO_29-05-2026_19-41-30.mp4",
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/29-05-2026/19h/TRAVE 4 - PORTÃO_29-05-2026_19-41-30.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/29-05-2026/19h/TRAVE%204%20-%20PORTÃO_29-05-2026_19-41-30.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1wHc3PNCEWFFf1X1QJQxzZdaRuTcZwhjy&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/29-05-2026/19h/TRAVE 4 - PORTÃO_29-05-2026_19-41-30.jpg"
                 }
               ]
@@ -9923,6 +9955,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/29-05-2026/19h/QUADRA_29-05-2026_19-12-45.mp4",
                   "url_download": "https://drive.google.com/uc?id=1wre7gKMdqBVvrfDQe3yHundgO7Npuqv3&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/29-05-2026/19h/QUADRA_29-05-2026_19-12-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-05-2026_19-48-46.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/29-05-2026/19h/QUADRA_29-05-2026_19-48-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/29-05-2026/19h/QUADRA_29-05-2026_19-48-46.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/29-05-2026/19h/QUADRA_29-05-2026_19-48-46.jpg"
                 }
               ]
             }
