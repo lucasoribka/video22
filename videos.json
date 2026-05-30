@@ -392,6 +392,27 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-05-2026/21h/QUADRA%201_29-05-2026_21-04-49.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ryjN5XwomQJTyAxHT5qu5Rp8C9jHHLfI&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-04-49.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_29-05-2026_21-09-11.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-09-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-05-2026/21h/QUADRA%201_29-05-2026_21-09-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1e98YP9IJBTVl2TRH2x7jLx5SzBIU6On2&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-09-11.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_29-05-2026_21-09-49.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-09-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-05-2026/21h/QUADRA%201_29-05-2026_21-09-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=131bAvor6NVmH5MuQDe7Pm_X7ZBwOZPmf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-09-49.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_29-05-2026_21-12-14.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-12-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-05-2026/21h/QUADRA%201_29-05-2026_21-12-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=159vuJbtGZj2oJ3ySW8BT2olxd4MulWE_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-05-2026/21h/QUADRA 1_29-05-2026_21-12-14.jpg"
                 }
               ]
             }
@@ -6471,6 +6492,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/29-05-2026/20h/QUADRA_29-05-2026_20-31-22.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-05-2026_21-12-43.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/29-05-2026/21h/QUADRA_29-05-2026_21-12-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/29-05-2026/21h/QUADRA_29-05-2026_21-12-43.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/29-05-2026/21h/QUADRA_29-05-2026_21-12-43.jpg"
+                }
+              ]
             }
           }
         }
@@ -11751,7 +11783,7 @@
                   "nome": "QUADRA_29-05-2026_21-08-12.mp4",
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/29-05-2026/21h/QUADRA_29-05-2026_21-08-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/29-05-2026/21h/QUADRA_29-05-2026_21-08-12.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=12WR6cXXQyWva-5K-2iNkzQ9X0sJ1j8YB&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/29-05-2026/21h/QUADRA_29-05-2026_21-08-12.jpg"
                 }
               ]
