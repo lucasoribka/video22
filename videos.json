@@ -6664,6 +6664,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/30-05-2026/17h/QUADRA 2_30-05-2026_17-29-20.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_30-05-2026_18-57-27.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/30-05-2026/18h/QUADRA 2_30-05-2026_18-57-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/30-05-2026/18h/QUADRA%202_30-05-2026_18-57-27.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/30-05-2026/18h/QUADRA 2_30-05-2026_18-57-27.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_30-05-2026_18-58-27.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/30-05-2026/18h/QUADRA 2_30-05-2026_18-58-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/30-05-2026/18h/QUADRA%202_30-05-2026_18-58-27.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/30-05-2026/18h/QUADRA 2_30-05-2026_18-58-27.jpg"
+                }
+              ]
             }
           }
         }
@@ -9521,6 +9539,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-05-2026/18h/QUADRA_30-05-2026_18-17-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=11EEpDzeScTIoAh6qKK-lUrMosMTm7lpf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-05-2026/18h/QUADRA_30-05-2026_18-17-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_30-05-2026_18-55-16.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-05-2026/18h/QUADRA_30-05-2026_18-55-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-05-2026/18h/QUADRA_30-05-2026_18-55-16.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-05-2026/18h/QUADRA_30-05-2026_18-55-16.jpg"
                 }
               ]
             }
