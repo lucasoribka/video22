@@ -5177,8 +5177,15 @@
                   "nome": "QUADRA 2_31-05-2026_18-17-15.mp4",
                   "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/31-05-2026/18h/QUADRA 2_31-05-2026_18-17-15.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/31-05-2026/18h/QUADRA%202_31-05-2026_18-17-15.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1wVOTrm2pX7h7MpIFoToXvuupbfOZAusf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/31-05-2026/18h/QUADRA 2_31-05-2026_18-17-15.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_31-05-2026_18-20-38.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/31-05-2026/18h/QUADRA 2_31-05-2026_18-20-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/31-05-2026/18h/QUADRA%202_31-05-2026_18-20-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1mzbEXh1pBjJIjn1582Gss4Yr8IogsmBU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/31-05-2026/18h/QUADRA 2_31-05-2026_18-20-38.jpg"
                 }
               ]
             }
@@ -5952,7 +5959,7 @@
                   "nome": "QUADRA_31-05-2026_18-13-32.mp4",
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/31-05-2026/18h/QUADRA_31-05-2026_18-13-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/31-05-2026/18h/QUADRA_31-05-2026_18-13-32.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1Ci6MGmah-nRSpVYbpQexZgWntKZtHuuE&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/31-05-2026/18h/QUADRA_31-05-2026_18-13-32.jpg"
                 }
               ]
@@ -10403,6 +10410,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/31-05-2026/16h/QUADRA_31-05-2026_16-52-03.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-05-2026_18-25-34.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/31-05-2026/18h/QUADRA_31-05-2026_18-25-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/31-05-2026/18h/QUADRA_31-05-2026_18-25-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1pFjQh0XN1YA9l3_hd-0_5h0c0gyZ4Zjh&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/31-05-2026/18h/QUADRA_31-05-2026_18-25-34.jpg"
+                }
+              ]
             }
           }
         },
@@ -12343,7 +12361,7 @@
                   "nome": "QUADRA_31-05-2026_18-18-12.mp4",
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-05-2026/18h/QUADRA_31-05-2026_18-18-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-05-2026/18h/QUADRA_31-05-2026_18-18-12.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1Bz1-O7-2AgcJkNTj9N5r8dLSUaUUUKPc&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/31-05-2026/18h/QUADRA_31-05-2026_18-18-12.jpg"
                 }
               ]
@@ -14441,6 +14459,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/31-05-2026/17h/QUADRA_31-05-2026_17-59-27.mp4",
                   "url_download": "https://drive.google.com/uc?id=1U_WFSTk1HtOoJrmwmLLL9ONJOQ7DX8un&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-05-2026/17h/QUADRA_31-05-2026_17-59-27.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-05-2026_18-30-18.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-05-2026/18h/QUADRA_31-05-2026_18-30-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/31-05-2026/18h/QUADRA_31-05-2026_18-30-18.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/31-05-2026/18h/QUADRA_31-05-2026_18-30-18.jpg"
                 }
               ]
             }
@@ -16603,7 +16632,7 @@
                   "nome": "QUADRA_31-05-2026_18-13-29.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/31-05-2026/18h/QUADRA_31-05-2026_18-13-29.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/31-05-2026/18h/QUADRA_31-05-2026_18-13-29.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1ykWnNhlYO4-zvMLXpQhy6PCwYvnJCu41&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/31-05-2026/18h/QUADRA_31-05-2026_18-13-29.jpg"
                 }
               ]
