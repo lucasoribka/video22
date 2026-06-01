@@ -5852,6 +5852,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/01-06-2026/07h/QUADRA_01-06-2026_07-47-45.jpg"
                 }
               ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-06-2026_09-46-45.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/01-06-2026/09h/QUADRA_01-06-2026_09-46-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/01-06-2026/09h/QUADRA_01-06-2026_09-46-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GOEiTDBFIEh1zGdTM65w8WakgitRPjxi&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/01-06-2026/09h/QUADRA_01-06-2026_09-46-45.jpg"
+                }
+              ]
             }
           },
           "28-05-2026": {
@@ -7748,6 +7759,19 @@
     "SÃO BENTO DO SUL-SC": {
       "COLISEU": {
         "AREIA 1": {
+          "01-06-2026": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-06-2026_09-53-52.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/01-06-2026/09h/QUADRA_01-06-2026_09-53-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/01-06-2026/09h/QUADRA_01-06-2026_09-53-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Hz1eVms6SXm-9jnFfoFaTjukuBqEHbwJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/01-06-2026/09h/QUADRA_01-06-2026_09-53-52.jpg"
+                }
+              ]
+            }
+          },
           "21-05-2026": {
             "20h": {
               "_videos": [
