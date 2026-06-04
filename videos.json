@@ -4950,6 +4950,19 @@
               ]
             }
           },
+          "04-06-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-06-2026_17-24-46.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/04-06-2026/17h/QUADRA_04-06-2026_17-24-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/04-06-2026/17h/QUADRA_04-06-2026_17-24-46.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/04-06-2026/17h/QUADRA_04-06-2026_17-24-46.jpg"
+                }
+              ]
+            }
+          },
           "29-05-2026": {
             "21h": {
               "_videos": [
@@ -6276,6 +6289,19 @@
                 }
               ]
             }
+          },
+          "04-06-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_04-06-2026_17-26-34.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/04-06-2026/17h/QUADRA 4_04-06-2026_17-26-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/04-06-2026/17h/QUADRA%204_04-06-2026_17-26-34.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 4/04-06-2026/17h/QUADRA 4_04-06-2026_17-26-34.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -6366,15 +6392,36 @@
                   "nome": "QUADRA 3_04-06-2026_17-12-18.mp4",
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-12-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/04-06-2026/17h/QUADRA%203_04-06-2026_17-12-18.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1zJXOjtuV_8XaZXEI9ykSnedp5adAQtZN&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-12-18.jpg"
                 },
                 {
                   "nome": "QUADRA 3_04-06-2026_17-14-54.mp4",
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-14-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/04-06-2026/17h/QUADRA%203_04-06-2026_17-14-54.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1NC204I1mGwSQdHJDxMWmhUA3xX2N46xY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-14-54.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_04-06-2026_17-19-02.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-19-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/04-06-2026/17h/QUADRA%203_04-06-2026_17-19-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XlSVSISwa8YS4HB6e7TPiZZzFMAPlQ7e&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-19-02.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_04-06-2026_17-21-15.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-21-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/04-06-2026/17h/QUADRA%203_04-06-2026_17-21-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vF9aVadLVWO8ptuoqm-Vb10zXZ33gz5Z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-21-15.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_04-06-2026_17-24-17.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-24-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/04-06-2026/17h/QUADRA%203_04-06-2026_17-24-17.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/04-06-2026/17h/QUADRA 3_04-06-2026_17-24-17.jpg"
                 }
               ]
             }
@@ -6823,6 +6870,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/04-06-2026/16h/QUADRA_04-06-2026_16-47-35.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-06-2026_17-17-33.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/04-06-2026/17h/QUADRA_04-06-2026_17-17-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/04-06-2026/17h/QUADRA_04-06-2026_17-17-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_oqo91hMUPokAHkNS81RAJqUn9ufQf3h&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/04-06-2026/17h/QUADRA_04-06-2026_17-17-33.jpg"
+                }
+              ]
             }
           },
           "21-05-2026": {
@@ -7184,6 +7242,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/04-06-2026/17h/QUADRA_04-06-2026_17-04-27.mp4",
                   "url_download": "https://drive.google.com/uc?id=1-LlALga2GmNDk5cb-r_JSBUTUnBZd2Xh&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/04-06-2026/17h/QUADRA_04-06-2026_17-04-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-06-2026_17-16-40.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/04-06-2026/17h/QUADRA_04-06-2026_17-16-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/04-06-2026/17h/QUADRA_04-06-2026_17-16-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cp1Cshj2GmOf0n9N0DS9Xu-R3B_qhIFN&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/04-06-2026/17h/QUADRA_04-06-2026_17-16-40.jpg"
                 }
               ]
             }
@@ -11010,6 +11075,26 @@
                 }
               ]
             }
+          },
+          "04-06-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-06-2026_17-18-20.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-06-2026/17h/QUADRA_04-06-2026_17-18-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-06-2026/17h/QUADRA_04-06-2026_17-18-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AfozE2E5Cql2B9FGN7T1c5_0VViPYmr8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-06-2026/17h/QUADRA_04-06-2026_17-18-20.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-06-2026_17-20-55.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-06-2026/17h/QUADRA_04-06-2026_17-20-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-06-2026/17h/QUADRA_04-06-2026_17-20-55.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NlMTM8xmodlYNaSo0uX_LO7O_I1ZgAj9&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/04-06-2026/17h/QUADRA_04-06-2026_17-20-55.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -11336,8 +11421,22 @@
                   "nome": "QUADRA_04-06-2026_17-15-11.mp4",
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/04-06-2026/17h/QUADRA_04-06-2026_17-15-11.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/04-06-2026/17h/QUADRA_04-06-2026_17-15-11.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=17GTtdegDxZOn07ffIFq4OwS_XtwS04Cu&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/04-06-2026/17h/QUADRA_04-06-2026_17-15-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-06-2026_17-22-36.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/04-06-2026/17h/QUADRA_04-06-2026_17-22-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/04-06-2026/17h/QUADRA_04-06-2026_17-22-36.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/04-06-2026/17h/QUADRA_04-06-2026_17-22-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-06-2026_17-25-10.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/04-06-2026/17h/QUADRA_04-06-2026_17-25-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/04-06-2026/17h/QUADRA_04-06-2026_17-25-10.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/04-06-2026/17h/QUADRA_04-06-2026_17-25-10.jpg"
                 }
               ]
             }
