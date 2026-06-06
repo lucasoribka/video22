@@ -9049,6 +9049,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/06-06-2026/14h/QUADRA_06-06-2026_14-34-01.jpg"
                 }
               ]
+            },
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-06-2026_15-10-26.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/06-06-2026/15h/QUADRA_06-06-2026_15-10-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/06-06-2026/15h/QUADRA_06-06-2026_15-10-26.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/06-06-2026/15h/QUADRA_06-06-2026_15-10-26.jpg"
+                }
+              ]
             }
           }
         },
@@ -10592,7 +10603,7 @@
                   "nome": "QUADRA_06-06-2026_15-02-37.mp4",
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/15h/QUADRA_06-06-2026_15-02-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/15h/QUADRA_06-06-2026_15-02-37.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1zYQ4MHL0g24tnSJEzuOYyK_V6uAecJRH&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/15h/QUADRA_06-06-2026_15-02-37.jpg"
                 }
               ]
@@ -10774,6 +10785,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/05-06-2026/19h/QUADRA_05-06-2026_19-51-46.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Ynyn_-WCCtENARj-fyeHuQuZgq5YTqSG&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/05-06-2026/19h/QUADRA_05-06-2026_19-51-46.jpg"
+                }
+              ]
+            }
+          },
+          "06-06-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-06-2026_15-07-05.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/06-06-2026/15h/QUADRA_06-06-2026_15-07-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/06-06-2026/15h/QUADRA_06-06-2026_15-07-05.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1V0bM2FbizIDs7IyexK_BKnssU9ABqRrU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/06-06-2026/15h/QUADRA_06-06-2026_15-07-05.jpg"
                 }
               ]
             }
