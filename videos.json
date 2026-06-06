@@ -1806,6 +1806,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/06-06-2026/14h/QUADRA_06-06-2026_14-34-29.mp4",
                   "url_download": "https://drive.google.com/uc?id=1lCif0tbv6LDys6Tq315270Fk49BCGv0o&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/06-06-2026/14h/QUADRA_06-06-2026_14-34-29.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-06-2026_14-52-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/06-06-2026/14h/QUADRA_06-06-2026_14-52-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/06-06-2026/14h/QUADRA_06-06-2026_14-52-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-g_zqcywKhKc9OA7BHJ0j3tbAvd3D297&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/06-06-2026/14h/QUADRA_06-06-2026_14-52-27.jpg"
                 }
               ]
             }
@@ -4287,6 +4294,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/06-06-2026/14h/QUADRA_06-06-2026_14-33-53.mp4",
                   "url_download": "https://drive.google.com/uc?id=1-erY-t-MPDLQq95F85MLURmbbkayknMN&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/06-06-2026/14h/QUADRA_06-06-2026_14-33-53.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-06-2026_14-52-21.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/06-06-2026/14h/QUADRA_06-06-2026_14-52-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/06-06-2026/14h/QUADRA_06-06-2026_14-52-21.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 1/06-06-2026/14h/QUADRA_06-06-2026_14-52-21.jpg"
                 }
               ]
             }
@@ -4747,6 +4761,26 @@
                 }
               ]
             }
+          },
+          "06-06-2026": {
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_06-06-2026_14-48-14.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/06-06-2026/14h/TRAVE 1 - CAMPO GRANDE_06-06-2026_14-48-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/06-06-2026/14h/TRAVE%201%20-%20CAMPO%20GRANDE_06-06-2026_14-48-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1IQHdUReXSsfHcj_VGmRKJqwogKhIIR0s&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/06-06-2026/14h/TRAVE 1 - CAMPO GRANDE_06-06-2026_14-48-14.jpg"
+                },
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_06-06-2026_14-55-46.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/06-06-2026/14h/TRAVE 1 - CAMPO GRANDE_06-06-2026_14-55-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/06-06-2026/14h/TRAVE%201%20-%20CAMPO%20GRANDE_06-06-2026_14-55-46.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/06-06-2026/14h/TRAVE 1 - CAMPO GRANDE_06-06-2026_14-55-46.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - CAMPO GRANDE": {
@@ -4907,7 +4941,7 @@
                   "nome": "TRAVE 2 - CAMPO GRANDE_06-06-2026_14-48-17.mp4",
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/06-06-2026/14h/TRAVE 2 - CAMPO GRANDE_06-06-2026_14-48-17.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/06-06-2026/14h/TRAVE%202%20-%20CAMPO%20GRANDE_06-06-2026_14-48-17.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1-kyby_LXywbPZjXqtMkiYe4SpOBzWwy8&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/06-06-2026/14h/TRAVE 2 - CAMPO GRANDE_06-06-2026_14-48-17.jpg"
                 }
               ]
@@ -5618,6 +5652,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/05-06-2026/19h/QUADRA%203_05-06-2026_19-58-12.mp4",
                   "url_download": "https://drive.google.com/uc?id=1NOZclc_xKM-0gO7BY-UMmWxysG4k6ojp&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/05-06-2026/19h/QUADRA 3_05-06-2026_19-58-12.jpg"
+                }
+              ]
+            }
+          },
+          "06-06-2026": {
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_06-06-2026_14-50-16.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/06-06-2026/14h/QUADRA 3_06-06-2026_14-50-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/06-06-2026/14h/QUADRA%203_06-06-2026_14-50-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_TXW7t5GjimqZzZVDjG3BnsjEmdRf_lr&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/06-06-2026/14h/QUADRA 3_06-06-2026_14-50-16.jpg"
                 }
               ]
             }
