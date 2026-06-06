@@ -4936,7 +4936,7 @@
                   "nome": "TRAVE 4 - PORTÃO_06-06-2026_10-15-16.mp4",
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/06-06-2026/10h/TRAVE 4 - PORTÃO_06-06-2026_10-15-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/06-06-2026/10h/TRAVE%204%20-%20PORTÃO_06-06-2026_10-15-16.mp4",
-                  "url_download": "",
+                  "url_download": "https://drive.google.com/uc?id=1U-0okFmbxQ4uQIVYu2sWe1F-YvaNcmt3&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/06-06-2026/10h/TRAVE 4 - PORTÃO_06-06-2026_10-15-16.jpg"
                 }
               ]
@@ -9593,6 +9593,24 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/06-06-2026/09h/QUADRA_06-06-2026_09-40-55.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ak48rDFggS94b639jwEEYZCIdKewxa4B&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/06-06-2026/09h/QUADRA_06-06-2026_09-40-55.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-06-2026_10-20-18.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/06-06-2026/10h/QUADRA_06-06-2026_10-20-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/06-06-2026/10h/QUADRA_06-06-2026_10-20-18.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/06-06-2026/10h/QUADRA_06-06-2026_10-20-18.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-06-2026_10-22-02.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/06-06-2026/10h/QUADRA_06-06-2026_10-22-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/06-06-2026/10h/QUADRA_06-06-2026_10-22-02.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/06-06-2026/10h/QUADRA_06-06-2026_10-22-02.jpg"
                 }
               ]
             }
