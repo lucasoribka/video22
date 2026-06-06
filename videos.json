@@ -2541,6 +2541,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/06-06-2026/15h/QUADRA_06-06-2026_15-38-29.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-06-2026_16-23-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/06-06-2026/16h/QUADRA_06-06-2026_16-23-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/06-06-2026/16h/QUADRA_06-06-2026_16-23-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1LUzkI6d4_Q2pTLMBSRwNdg4ZfMvUfh9X&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/06-06-2026/16h/QUADRA_06-06-2026_16-23-59.jpg"
+                }
+              ]
             }
           }
         },
@@ -10911,6 +10922,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/16h/QUADRA_06-06-2026_16-21-46.mp4",
                   "url_download": "https://drive.google.com/uc?id=1rseFncm-3_GlwujKATquwCAtzFsP8eQP&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/16h/QUADRA_06-06-2026_16-21-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-06-2026_16-23-16.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/16h/QUADRA_06-06-2026_16-23-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/16h/QUADRA_06-06-2026_16-23-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1g_KIyFfJuw1HQyM2dh7A0b1PKqSVuykN&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/06-06-2026/16h/QUADRA_06-06-2026_16-23-16.jpg"
                 }
               ]
             }
