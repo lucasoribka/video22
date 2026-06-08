@@ -130,6 +130,27 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/08-06-2026/19h/QUADRA%201_08-06-2026_19-43-47.mp4",
                   "url_download": "https://drive.google.com/uc?id=1nReeq_Aa39ZDuP6OqWbzodPUetf8Dz1n&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-43-47.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_08-06-2026_19-51-29.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-51-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/08-06-2026/19h/QUADRA%201_08-06-2026_19-51-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vd6aHRL5Ih-m2vRYDCpMVEi5WzqvqMv5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-51-29.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_08-06-2026_19-51-44.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-51-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/08-06-2026/19h/QUADRA%201_08-06-2026_19-51-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1UruBb6tKtDuQzke4FobZB4eHyrJq3xe1&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-51-44.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_08-06-2026_19-51-59.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-51-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/08-06-2026/19h/QUADRA%201_08-06-2026_19-51-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1SiSps7oD8hN2fLixU5DuhSgcoV7q5Sym&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-06-2026/19h/QUADRA 1_08-06-2026_19-51-59.jpg"
                 }
               ]
             }
@@ -12482,6 +12503,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/05-06-2026/21h/QUADRA_05-06-2026_21-25-04.mp4",
                   "url_download": "https://drive.google.com/uc?id=1nquRL_hN_cci8cN2JnIF-7eXPAzTsaLW&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/05-06-2026/21h/QUADRA_05-06-2026_21-25-04.jpg"
+                }
+              ]
+            }
+          },
+          "08-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-06-2026_19-50-43.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/08-06-2026/19h/QUADRA_08-06-2026_19-50-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/08-06-2026/19h/QUADRA_08-06-2026_19-50-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1IRcPwOhgs--B6jrocKtIivlGRdh1tRxO&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/08-06-2026/19h/QUADRA_08-06-2026_19-50-43.jpg"
                 }
               ]
             }
