@@ -1,4 +1,49 @@
 {
+  "MG": {
+    "BELO HORIZONTE": {
+      "ARENA TIROL": {
+        "QUADRA 1": {
+          "06-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-06-2026_18-25-52.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/06-06-2026/18h/QUADRA_06-06-2026_18-25-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-06-2026/18h/QUADRA_06-06-2026_18-25-52.mp4",
+                  "url_download": "https://drive.google.com/uc?id=13cV82istfU4LfZTUcnTt3zko71KiNuEu&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/06-06-2026/18h/QUADRA_06-06-2026_18-25-52.jpg"
+                }
+              ]
+            }
+          },
+          "08-06-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-06-2026_15-33-48.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/15h/QUADRA_08-06-2026_15-33-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-06-2026/15h/QUADRA_08-06-2026_15-33-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_UyyzXZudga-DFosp8KiOp7MQlupvaHY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/15h/QUADRA_08-06-2026_15-33-48.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-06-2026_17-54-24.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/17h/QUADRA_08-06-2026_17-54-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-06-2026/17h/QUADRA_08-06-2026_17-54-24.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vtkS7rMFQPaixI5OcgISpQSgnB8ibA1r&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/17h/QUADRA_08-06-2026_17-54-24.jpg"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
   "PR": {
     "FOZ DO IGUAÇU": {
       "CT LUCAS MENDES": {
@@ -2343,6 +2388,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/08-06-2026/19h/QUADRA_08-06-2026_19-32-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1mnRRu8Qz7GafF4Kf_siydRjWL7WLqVj7&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-06-2026/19h/QUADRA_08-06-2026_19-32-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-06-2026_19-46-43.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-06-2026/19h/QUADRA_08-06-2026_19-46-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/08-06-2026/19h/QUADRA_08-06-2026_19-46-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1zYmCJpnfqfeyzHpw1IFvLMNmaPd1G1mD&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-06-2026/19h/QUADRA_08-06-2026_19-46-43.jpg"
                 }
               ]
             }
