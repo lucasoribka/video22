@@ -255,6 +255,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-06-2026/22h/QUADRA_08-06-2026_22-06-13.mp4",
                   "url_download": "https://drive.google.com/uc?id=10k_e7m_8y22F1mmcIa0eQ4K80q1rsuOP&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/22h/QUADRA_08-06-2026_22-06-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-06-2026_22-08-37.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/22h/QUADRA_08-06-2026_22-08-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-06-2026/22h/QUADRA_08-06-2026_22-08-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PAhLh-euBtPpgwMISPapisMlVh5pciqf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/22h/QUADRA_08-06-2026_22-08-37.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-06-2026_22-09-15.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/22h/QUADRA_08-06-2026_22-09-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-06-2026/22h/QUADRA_08-06-2026_22-09-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Pazj32l0txGeJmh6POMFLswHHe4D5mwV&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-06-2026/22h/QUADRA_08-06-2026_22-09-15.jpg"
                 }
               ]
             }
@@ -15926,6 +15940,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-06-2026/21h/QUADRA_08-06-2026_21-45-37.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Ovrch0aUnkcezVjayVGkO3H5I-ZB9GvQ&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/08-06-2026/21h/QUADRA_08-06-2026_21-45-37.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-06-2026_22-08-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/08-06-2026/22h/QUADRA_08-06-2026_22-08-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-06-2026/22h/QUADRA_08-06-2026_22-08-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Re_Ip8PKHUCVBTdbIwIDsQiV06r10VJ7&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/08-06-2026/22h/QUADRA_08-06-2026_22-08-11.jpg"
                 }
               ]
             }
