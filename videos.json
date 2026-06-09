@@ -5149,6 +5149,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/09-06-2026/19h/TRAVE 1 - BAR_09-06-2026_19-48-21.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_09-06-2026_20-12-42.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/09-06-2026/20h/TRAVE 1 - BAR_09-06-2026_20-12-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/09-06-2026/20h/TRAVE%201%20-%20BAR_09-06-2026_20-12-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-TLgCgV1RQcBXxEZSHINX3McvAK4kmnt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/09-06-2026/20h/TRAVE 1 - BAR_09-06-2026_20-12-42.jpg"
+                }
+              ]
             }
           }
         },
@@ -7219,6 +7230,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/09-06-2026/19h/QUADRA_09-06-2026_19-42-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=1weO-vQITB9Q_hjalzOpOnmyZqo-8-nsD&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/09-06-2026/19h/QUADRA_09-06-2026_19-42-16.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-06-2026_20-09-19.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/09-06-2026/20h/QUADRA_09-06-2026_20-09-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/09-06-2026/20h/QUADRA_09-06-2026_20-09-19.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OzcQEYiobSS4utTo1-puhdeXTyF8Yz1z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/09-06-2026/20h/QUADRA_09-06-2026_20-09-19.jpg"
                 }
               ]
             }
@@ -11298,6 +11320,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-02-17.mp4",
                   "url_download": "https://drive.google.com/uc?id=1L5NrX1nvVytzPMAMSVC9vax8TPhNCfhw&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-02-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_09-06-2026_20-10-03.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-10-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-10-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1sVvSBRvF-qvugnD9YsHoVmT7uWiQN1CJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-10-03.jpg"
                 }
               ]
             }
