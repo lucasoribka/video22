@@ -640,6 +640,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-06-2026/20h/QUADRA_09-06-2026_20-59-46.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-06-2026_21-01-09.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-06-2026/21h/QUADRA_09-06-2026_21-01-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-06-2026/21h/QUADRA_09-06-2026_21-01-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1NfOQaXWbqmrG5ZfpyIe5O1X4NPKQn0_m&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-06-2026/21h/QUADRA_09-06-2026_21-01-09.jpg"
+                }
+              ]
             }
           }
         }
@@ -11864,6 +11875,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-53-05.mp4",
                   "url_download": "https://drive.google.com/uc?id=19Irl1d4mGCxpuNMuN_seXu6V7aXsFLHr&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/20h/QUADRA_09-06-2026_20-53-05.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-06-2026_21-03-51.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-03-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-03-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1p7N8SfZfx4QtwZ-XwEpQGdzs-FYy0wmk&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-03-51.jpg"
                 }
               ]
             }
