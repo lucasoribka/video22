@@ -3416,6 +3416,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-06-2026/20h/QUADRA_09-06-2026_20-24-24.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-06-2026_21-21-10.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-06-2026/21h/QUADRA_09-06-2026_21-21-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/09-06-2026/21h/QUADRA_09-06-2026_21-21-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1SzBoA7oebaS_Oww4TuybSi1oRa_ii11G&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/09-06-2026/21h/QUADRA_09-06-2026_21-21-10.jpg"
+                }
+              ]
             }
           }
         }
@@ -12000,6 +12011,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-12-57.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Q3aDuYDz_baEBCq8yLxByk00yuVjsb1E&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-12-57.jpg"
+                },
+                {
+                  "nome": "QUADRA_09-06-2026_21-20-29.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-20-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-20-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Sx8hPLqGoEJxXsxaNgz2yAbXbbl30FqN&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/09-06-2026/21h/QUADRA_09-06-2026_21-20-29.jpg"
                 }
               ]
             }
@@ -12746,6 +12764,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-06-2026/22h/QUADRA_08-06-2026_22-08-11.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Re_Ip8PKHUCVBTdbIwIDsQiV06r10VJ7&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/08-06-2026/22h/QUADRA_08-06-2026_22-08-11.jpg"
+                }
+              ]
+            }
+          },
+          "09-06-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-06-2026_21-19-20.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/09-06-2026/21h/QUADRA_09-06-2026_21-19-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/09-06-2026/21h/QUADRA_09-06-2026_21-19-20.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1D4yIlDpsXgQByZrUXffb1mRsYrapVY3G&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/09-06-2026/21h/QUADRA_09-06-2026_21-19-20.jpg"
                 }
               ]
             }
