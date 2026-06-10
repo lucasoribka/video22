@@ -631,6 +631,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-06-2026/20h/QUADRA_09-06-2026_20-56-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1OElm72fQXURseNTITwB7dW8GPuhMF_7D&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-06-2026/20h/QUADRA_09-06-2026_20-56-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_09-06-2026_20-59-46.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-06-2026/20h/QUADRA_09-06-2026_20-59-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-06-2026/20h/QUADRA_09-06-2026_20-59-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qoNKi9qxQcmgISJZEo51miR1eScC8YsG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-06-2026/20h/QUADRA_09-06-2026_20-59-46.jpg"
                 }
               ]
             }
@@ -4241,6 +4248,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/09-06-2026/20h/QUADRA 1_09-06-2026_20-55-47.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_09-06-2026_21-00-53.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/09-06-2026/21h/QUADRA 1_09-06-2026_21-00-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/09-06-2026/21h/QUADRA%201_09-06-2026_21-00-53.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tOiQ_eBchzTP8oduh8r8qty9rVD5eb6j&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/09-06-2026/21h/QUADRA 1_09-06-2026_21-00-53.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_09-06-2026_21-01-38.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/09-06-2026/21h/QUADRA 1_09-06-2026_21-01-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/09-06-2026/21h/QUADRA%201_09-06-2026_21-01-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wenKOcqszlDOhTwPx2J4VxQWQyM8OrFs&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/09-06-2026/21h/QUADRA 1_09-06-2026_21-01-38.jpg"
+                }
+              ]
             }
           }
         },
@@ -5470,6 +5495,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/09-06-2026/20h/TRAVE 1 - BAR_09-06-2026_20-48-50.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_09-06-2026_21-01-41.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/09-06-2026/21h/TRAVE 1 - BAR_09-06-2026_21-01-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/09-06-2026/21h/TRAVE%201%20-%20BAR_09-06-2026_21-01-41.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1sFUalDgH8Jv-hzKS23aJVkBK0TJLqtFy&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/09-06-2026/21h/TRAVE 1 - BAR_09-06-2026_21-01-41.jpg"
+                }
+              ]
             }
           }
         },
@@ -6258,6 +6294,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/09-06-2026/19h/QUADRA%201_09-06-2026_19-56-04.mp4",
                   "url_download": "https://drive.google.com/uc?id=14OUzjS_iKTqBWGlTUxRuE9lCo8mlXjAR&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/09-06-2026/19h/QUADRA 1_09-06-2026_19-56-04.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_09-06-2026_21-02-04.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/09-06-2026/21h/QUADRA 1_09-06-2026_21-02-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/09-06-2026/21h/QUADRA%201_09-06-2026_21-02-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wUHWL2e_OU_uIDmihTNyadfFrfijR02Z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/09-06-2026/21h/QUADRA 1_09-06-2026_21-02-04.jpg"
                 }
               ]
             }
