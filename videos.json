@@ -775,6 +775,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/10-06-2026/23h/QUADRA_10-06-2026_23-09-49.mp4",
                   "url_download": "https://drive.google.com/uc?id=1dHLzL3mmnoxLUsXDKCMSPLK34ckGxA0N&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/10-06-2026/23h/QUADRA_10-06-2026_23-09-49.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-06-2026_23-10-57.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/10-06-2026/23h/QUADRA_10-06-2026_23-10-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/10-06-2026/23h/QUADRA_10-06-2026_23-10-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ROfmnQdumCH97cGN60IMT8PaByqCKWoF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/10-06-2026/23h/QUADRA_10-06-2026_23-10-57.jpg"
                 }
               ]
             }
@@ -4655,6 +4662,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/10-06-2026/22h/QUADRA_10-06-2026_22-35-57.mp4",
                   "url_download": "https://drive.google.com/uc?id=1sFVahJEWosIalHcFzWdTCbRqgl44949R&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/10-06-2026/22h/QUADRA_10-06-2026_22-35-57.jpg"
+                }
+              ]
+            },
+            "23h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-06-2026_23-12-10.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/10-06-2026/23h/QUADRA_10-06-2026_23-12-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/10-06-2026/23h/QUADRA_10-06-2026_23-12-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1pCygRm0Jddr50QDbj5QxXCoSG0i0R5TX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/10-06-2026/23h/QUADRA_10-06-2026_23-12-10.jpg"
                 }
               ]
             }
