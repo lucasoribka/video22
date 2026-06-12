@@ -1045,6 +1045,34 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-06-2026/21h/QUADRA_11-06-2026_21-55-13.mp4",
                   "url_download": "https://drive.google.com/uc?id=1SCxIgXmxVusXk_4tmcEWdjejq_MEPnQP&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-55-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-06-2026_21-55-28.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-55-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-06-2026/21h/QUADRA_11-06-2026_21-55-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-yXcNfQmfmHdds4hTWgkRXtOtuQSKJDh&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-55-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-06-2026_21-56-09.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-56-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-06-2026/21h/QUADRA_11-06-2026_21-56-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GbolORVgxWhk_pOdZqVvRHtv5gk7yyI_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-56-09.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-06-2026_21-56-44.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-56-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-06-2026/21h/QUADRA_11-06-2026_21-56-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XHSF9gWEuoRRJ6FaPGvtXjsqjrseyyqf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-56-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-06-2026_21-57-07.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-57-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-06-2026/21h/QUADRA_11-06-2026_21-57-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Lnzrc-pk-3PdqUuh-sYzUnHzwciyJSy1&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-06-2026/21h/QUADRA_11-06-2026_21-57-07.jpg"
                 }
               ]
             }
@@ -2391,6 +2419,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/09-06-2026/19h/QUADRA%203_09-06-2026_19-40-05.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cTKhjWcVEMZ4FezeCtG1525TJlyzz1wh&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/09-06-2026/19h/QUADRA 3_09-06-2026_19-40-05.jpg"
+                }
+              ]
+            }
+          },
+          "11-06-2026": {
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_11-06-2026_22-00-57.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/11-06-2026/22h/QUADRA 3_11-06-2026_22-00-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/11-06-2026/22h/QUADRA%203_11-06-2026_22-00-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1EgoAeq5rhcrM2AY6I7WufE67kvATn9-Q&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/11-06-2026/22h/QUADRA 3_11-06-2026_22-00-57.jpg"
                 }
               ]
             }
