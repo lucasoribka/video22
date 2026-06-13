@@ -1283,6 +1283,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-06-2026/21h/QUADRA_12-06-2026_21-34-13.mp4",
                   "url_download": "https://drive.google.com/uc?id=1_IMX36jLJ9L3OLqBtLGqMhS35qp24ju2&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-06-2026/21h/QUADRA_12-06-2026_21-34-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-06-2026_21-34-48.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-06-2026/21h/QUADRA_12-06-2026_21-34-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-06-2026/21h/QUADRA_12-06-2026_21-34-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qtWbShyr2_qCm4ERVwAZa1egmRh3pFNu&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-06-2026/21h/QUADRA_12-06-2026_21-34-48.jpg"
                 }
               ]
             }
@@ -14698,6 +14705,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/12-06-2026/20h/QUADRA_12-06-2026_20-49-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=1etUfXKJrspZVRNmkH_k5mByFSzx5rzFE&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/12-06-2026/20h/QUADRA_12-06-2026_20-49-48.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-06-2026_21-37-32.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/12-06-2026/21h/QUADRA_12-06-2026_21-37-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/12-06-2026/21h/QUADRA_12-06-2026_21-37-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1W7ry8StQdS6_ODsgWhZ_lSdxP8rzAFwk&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/12-06-2026/21h/QUADRA_12-06-2026_21-37-32.jpg"
                 }
               ]
             }
