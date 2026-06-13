@@ -2460,6 +2460,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/10h/QUADRA_13-06-2026_10-58-48.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-06-2026_11-01-09.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-01-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-01-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1CGgzGTYoX2r9klyOU6iq09FzzRioA4F8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-01-09.jpg"
+                }
+              ]
             }
           }
         }
@@ -6344,6 +6355,19 @@
                 }
               ]
             }
+          },
+          "13-06-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_13-06-2026_11-02-48.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/13-06-2026/11h/TRAVE 2 - CAMPO GRANDE_13-06-2026_11-02-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/13-06-2026/11h/TRAVE%202%20-%20CAMPO%20GRANDE_13-06-2026_11-02-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1scLoAzn44VOV11HXlFGwCE51UITYr0ru&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/13-06-2026/11h/TRAVE 2 - CAMPO GRANDE_13-06-2026_11-02-48.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - RUA": {
@@ -6579,6 +6603,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/12-06-2026/20h/TRAVE%204%20-%20PORTÃO_12-06-2026_20-06-45.mp4",
                   "url_download": "https://drive.google.com/uc?id=1kUvYuDSKz75o-2cvamgh7S-q3eSFYmxm&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/12-06-2026/20h/TRAVE 4 - PORTÃO_12-06-2026_20-06-45.jpg"
+                }
+              ]
+            }
+          },
+          "13-06-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 4 - PORTÃO_13-06-2026_11-02-47.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/13-06-2026/11h/TRAVE 4 - PORTÃO_13-06-2026_11-02-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/13-06-2026/11h/TRAVE%204%20-%20PORTÃO_13-06-2026_11-02-47.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jXoA9e-fQ4zcCXhUOcBGP0A7yfUIxuPC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/13-06-2026/11h/TRAVE 4 - PORTÃO_13-06-2026_11-02-47.jpg"
                 }
               ]
             }
