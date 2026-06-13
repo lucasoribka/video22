@@ -2444,6 +2444,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-06-2026/10h/QUADRA_13-06-2026_10-53-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1SPzFSEV1fZEwZc5weTznXKaYNdNbXT-3&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/10h/QUADRA_13-06-2026_10-53-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-06-2026_10-57-03.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/10h/QUADRA_13-06-2026_10-57-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-06-2026/10h/QUADRA_13-06-2026_10-57-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1IAaIDAsWqElZ4KUt0HkQYyi7J1x8V01v&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/10h/QUADRA_13-06-2026_10-57-03.jpg"
                 }
               ]
             }
@@ -13270,6 +13277,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/12-06-2026/20h/QUADRA_12-06-2026_20-37-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1H1wdhftb0AjkO1bzwkiNXkNId3fgERzI&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/12-06-2026/20h/QUADRA_12-06-2026_20-37-58.jpg"
+                }
+              ]
+            }
+          },
+          "13-06-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-06-2026_10-55-31.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/13-06-2026/10h/QUADRA_13-06-2026_10-55-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/13-06-2026/10h/QUADRA_13-06-2026_10-55-31.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1bUx2W0b8di0tW9J2NBIFbv-nPa8fGCOy&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/13-06-2026/10h/QUADRA_13-06-2026_10-55-31.jpg"
                 }
               ]
             }
