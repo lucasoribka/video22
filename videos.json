@@ -2518,6 +2518,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-30-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=10eoHeZBWLn18IUWWo93GEHB2Di9Yc6Qo&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-30-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-06-2026_11-31-34.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-31-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-31-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XjxTnDlmq-sv5hxfTpQW_8R3cLN0wCF4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-06-2026/11h/QUADRA_13-06-2026_11-31-34.jpg"
                 }
               ]
             }
@@ -6597,6 +6604,33 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/12-06-2026/20h/TRAVE%203%20-%20ESTACIONAMENTO_12-06-2026_20-12-11.mp4",
                   "url_download": "https://drive.google.com/uc?id=1eyD_EMOu16t0uWly4hSsJ4Q98SmBmBFd&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/12-06-2026/20h/TRAVE 3 - ESTACIONAMENTO_12-06-2026_20-12-11.jpg"
+                }
+              ]
+            }
+          },
+          "13-06-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-21.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/13-06-2026/11h/TRAVE%203%20-%20ESTACIONAMENTO_13-06-2026_11-33-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1QHgrXSAfsgnuYEtz1ApyzqiiErVRNJg9&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-21.jpg"
+                },
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-29.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/13-06-2026/11h/TRAVE%203%20-%20ESTACIONAMENTO_13-06-2026_11-33-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ii7xaUU1oAG3nVJLIyEHPlvpjMZ-Okji&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-29.jpg"
+                },
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-38.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/13-06-2026/11h/TRAVE%203%20-%20ESTACIONAMENTO_13-06-2026_11-33-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wUKP2tz8lrx3FLG-CuINI2Kr6h-PRsM3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-33-38.jpg"
                 }
               ]
             }
