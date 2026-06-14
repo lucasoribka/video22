@@ -2125,6 +2125,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/14-06-2026/16h/QUADRA_14-06-2026_16-35-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=10nPciBiYnhiJEAhs-uk3K3mcjj5sniik&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/14-06-2026/16h/QUADRA_14-06-2026_16-35-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-06-2026_16-37-40.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/14-06-2026/16h/QUADRA_14-06-2026_16-37-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/14-06-2026/16h/QUADRA_14-06-2026_16-37-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1isKFG821PNm09CnZfG_LkwSzzvyeEXaP&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/14-06-2026/16h/QUADRA_14-06-2026_16-37-40.jpg"
                 }
               ]
             }
@@ -5661,6 +5668,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/09-06-2026/23h/QUADRA%202_09-06-2026_23-38-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1appnhOVdpxbASmKw76_Ni9w_w1jlTJ9J&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/09-06-2026/23h/QUADRA 2_09-06-2026_23-38-52.jpg"
+                }
+              ]
+            }
+          },
+          "14-06-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_14-06-2026_16-39-13.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/14-06-2026/16h/QUADRA 2_14-06-2026_16-39-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/14-06-2026/16h/QUADRA%202_14-06-2026_16-39-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1rIzMs9V-angZCoEW4T9SByu4U0Y9f-wz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/14-06-2026/16h/QUADRA 2_14-06-2026_16-39-13.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_14-06-2026_16-39-40.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/14-06-2026/16h/QUADRA 2_14-06-2026_16-39-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/14-06-2026/16h/QUADRA%202_14-06-2026_16-39-40.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1C_xZmjJYbEWLD9xcri3U_0vUs85ttQFr&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/14-06-2026/16h/QUADRA 2_14-06-2026_16-39-40.jpg"
                 }
               ]
             }
