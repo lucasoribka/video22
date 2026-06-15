@@ -4421,6 +4421,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/15-06-2026/19h/QUADRA_15-06-2026_19-37-44.mp4",
                   "url_download": "https://drive.google.com/uc?id=1mt7_PLVnzSDNKft2P0d8eSJ3_jZ7G6MV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/15-06-2026/19h/QUADRA_15-06-2026_19-37-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-06-2026_19-59-13.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/15-06-2026/19h/QUADRA_15-06-2026_19-59-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/15-06-2026/19h/QUADRA_15-06-2026_19-59-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1kvtYOigFoFXlsclIEu_xJg5QwHp2qvup&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/15-06-2026/19h/QUADRA_15-06-2026_19-59-13.jpg"
                 }
               ]
             }
@@ -8034,6 +8041,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/10-06-2026/20h/TRAVE%202%20-%20RUA_10-06-2026_20-56-05.mp4",
                   "url_download": "https://drive.google.com/uc?id=1lg5gZn_gc66mNiMznP6vvU0VO559Xwrc&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/10-06-2026/20h/TRAVE 2 - RUA_10-06-2026_20-56-05.jpg"
+                }
+              ]
+            }
+          },
+          "15-06-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_15-06-2026_20-01-04.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/15-06-2026/20h/TRAVE 2 - RUA_15-06-2026_20-01-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-06-2026/20h/TRAVE%202%20-%20RUA_15-06-2026_20-01-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1tXjUwfigVkXh23Me5Oty4bwnjW1Cuq5U&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/15-06-2026/20h/TRAVE 2 - RUA_15-06-2026_20-01-04.jpg"
                 }
               ]
             }
