@@ -10531,6 +10531,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/15-06-2026/19h/QUADRA%204_15-06-2026_19-13-40.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HVJ--70Vs64LJtp1qN-duKSpnkPCbeEl&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/15-06-2026/19h/QUADRA 4_15-06-2026_19-13-40.jpg"
+                },
+                {
+                  "nome": "QUADRA 4_15-06-2026_19-17-18.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 4/15-06-2026/19h/QUADRA 4_15-06-2026_19-17-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/15-06-2026/19h/QUADRA%204_15-06-2026_19-17-18.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1k7v5mI22RQr6M4G6PmWuwa7wbFZwX-OD&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/15-06-2026/19h/QUADRA 4_15-06-2026_19-17-18.jpg"
+                },
+                {
+                  "nome": "QUADRA 4_15-06-2026_19-17-48.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 4/15-06-2026/19h/QUADRA 4_15-06-2026_19-17-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/15-06-2026/19h/QUADRA%204_15-06-2026_19-17-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OJzng4mAT-H0h0Luzz49hMyGjvTw8M9o&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/15-06-2026/19h/QUADRA 4_15-06-2026_19-17-48.jpg"
                 }
               ]
             }
@@ -18381,6 +18395,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/15-06-2026/18h/QUADRA_15-06-2026_18-44-19.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-06-2026_19-16-37.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/15-06-2026/19h/QUADRA_15-06-2026_19-16-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/15-06-2026/19h/QUADRA_15-06-2026_19-16-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1zauvQNWMkrFkSLOT3_htKxWYFkKCS9XA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/15-06-2026/19h/QUADRA_15-06-2026_19-16-37.jpg"
+                }
+              ]
             }
           }
         }
@@ -19582,6 +19607,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/14-06-2026/19h/QUADRA_14-06-2026_19-06-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1EXs59lJwYNcol0MYJ5NmkqppicmuP-Oy&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/14-06-2026/19h/QUADRA_14-06-2026_19-06-25.jpg"
+                }
+              ]
+            }
+          },
+          "15-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-06-2026_19-12-42.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/15-06-2026/19h/QUADRA_15-06-2026_19-12-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-06-2026/19h/QUADRA_15-06-2026_19-12-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1GLsEdQt4OptAiNA0-0iefu8r0H8WnYud&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/15-06-2026/19h/QUADRA_15-06-2026_19-12-42.jpg"
                 }
               ]
             }
