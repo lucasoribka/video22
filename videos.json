@@ -3074,6 +3074,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-06-2026/20h/QUADRA_15-06-2026_20-40-02.mp4",
                   "url_download": "https://drive.google.com/uc?id=1pBVyw22pXE0rjZlEd_lLPucdUjM35Knb&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-06-2026/20h/QUADRA_15-06-2026_20-40-02.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-06-2026_20-49-36.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-06-2026/20h/QUADRA_15-06-2026_20-49-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-06-2026/20h/QUADRA_15-06-2026_20-49-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1xhi7VvQbMMAQFXnt0Emh2tSqYRJ34Bwi&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-06-2026/20h/QUADRA_15-06-2026_20-49-36.jpg"
                 }
               ]
             }
@@ -3918,6 +3925,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/15-06-2026/20h/QUADRA_15-06-2026_20-45-05.mp4",
                   "url_download": "https://drive.google.com/uc?id=1MCa46ZzKaHbT1vLKrLujM4sJSFrz3FL3&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/15-06-2026/20h/QUADRA_15-06-2026_20-45-05.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-06-2026_20-49-50.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/15-06-2026/20h/QUADRA_15-06-2026_20-49-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/15-06-2026/20h/QUADRA_15-06-2026_20-49-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=169YmIDXGXtQGZaS1nZshgvc4XsOzaBT4&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/15-06-2026/20h/QUADRA_15-06-2026_20-49-50.jpg"
                 }
               ]
             }
@@ -8391,6 +8405,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/13-06-2026/11h/TRAVE%203%20-%20ESTACIONAMENTO_13-06-2026_11-48-40.mp4",
                   "url_download": "https://drive.google.com/uc?id=1WDh5D9zheZqqoiPIb8UceyDgXAtVkwrr&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/13-06-2026/11h/TRAVE 3 - ESTACIONAMENTO_13-06-2026_11-48-40.jpg"
+                }
+              ]
+            }
+          },
+          "15-06-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_15-06-2026_20-50-38.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/15-06-2026/20h/TRAVE 3 - ESTACIONAMENTO_15-06-2026_20-50-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/15-06-2026/20h/TRAVE%203%20-%20ESTACIONAMENTO_15-06-2026_20-50-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fPaU1M8mGDtTlLMDzGzoyFxvQY1fLTjJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/15-06-2026/20h/TRAVE 3 - ESTACIONAMENTO_15-06-2026_20-50-38.jpg"
                 }
               ]
             }
