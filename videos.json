@@ -1553,6 +1553,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/16-06-2026/19h/QUADRA_16-06-2026_19-47-26.mp4",
                   "url_download": "https://drive.google.com/uc?id=1EFNsxijTaQLiHO3pH5-EUtQMawSZdLXG&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/16-06-2026/19h/QUADRA_16-06-2026_19-47-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-06-2026_19-48-34.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/16-06-2026/19h/QUADRA_16-06-2026_19-48-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/16-06-2026/19h/QUADRA_16-06-2026_19-48-34.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1CVSuIAjkTTIYWuBcv8JYRSbwLUEqP26M&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/16-06-2026/19h/QUADRA_16-06-2026_19-48-34.jpg"
                 }
               ]
             }
@@ -5455,6 +5462,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/15-06-2026/21h/QUADRA_15-06-2026_21-12-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1SMlNLUa_JBWPstYzl8JKjTu04BaSV8Tv&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/15-06-2026/21h/QUADRA_15-06-2026_21-12-03.jpg"
+                }
+              ]
+            }
+          },
+          "16-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-06-2026_19-50-16.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/16-06-2026/19h/QUADRA_16-06-2026_19-50-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/16-06-2026/19h/QUADRA_16-06-2026_19-50-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=16c9CGsxgBulMOlfNrBLYk55kaw-UFFgx&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/16-06-2026/19h/QUADRA_16-06-2026_19-50-16.jpg"
                 }
               ]
             }
@@ -12282,6 +12302,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/16-06-2026/19h/QUADRA%203_16-06-2026_19-34-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ovbQLFy8GhdDTvEPU5kBfrkQ7PuR00q8&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/16-06-2026/19h/QUADRA 3_16-06-2026_19-34-21.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_16-06-2026_19-51-03.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/16-06-2026/19h/QUADRA 3_16-06-2026_19-51-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/16-06-2026/19h/QUADRA%203_16-06-2026_19-51-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1q7GqhstjuYO8L6WnhPy63rXGuJDzQVId&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/16-06-2026/19h/QUADRA 3_16-06-2026_19-51-03.jpg"
                 }
               ]
             }
