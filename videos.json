@@ -5928,6 +5928,28 @@
               ]
             }
           }
+        },
+        "QUADRA 2": {
+          "17-06-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_17-06-2026_16-55-05.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/QUADRA 2/17-06-2026/16h/QUADRA 2_17-06-2026_16-55-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/QUADRA%202/17-06-2026/16h/QUADRA%202_17-06-2026_16-55-05.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1XDeeuk6fx-jcid-Qxj74tgHuesw_4DI-&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/QUADRA 2/17-06-2026/16h/QUADRA 2_17-06-2026_16-55-05.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_17-06-2026_16-55-10.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/QUADRA 2/17-06-2026/16h/QUADRA 2_17-06-2026_16-55-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/QUADRA%202/17-06-2026/16h/QUADRA%202_17-06-2026_16-55-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11zHQvIs7k3Dk82vu9n4m-N8gvzT001Sn&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/QUADRA 2/17-06-2026/16h/QUADRA 2_17-06-2026_16-55-10.jpg"
+                }
+              ]
+            }
+          }
         }
       }
     },
