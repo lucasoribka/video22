@@ -12603,6 +12603,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 7/17-06-2026/16h/QUADRA 7_17-06-2026_16-53-42.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 7_17-06-2026_20-38-48.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 7/17-06-2026/20h/QUADRA 7_17-06-2026_20-38-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/17-06-2026/20h/QUADRA%207_17-06-2026_20-38-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1wOOqKm0hJHazxods623-R8LU4zGfOaV3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 7/17-06-2026/20h/QUADRA 7_17-06-2026_20-38-48.jpg"
+                }
+              ]
             }
           }
         }
@@ -13583,6 +13594,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/17-06-2026/18h/QUADRA_17-06-2026_18-39-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=1092Fm81LPafSaw4T1-O-ojeh_anVBlH_&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-39-48.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_20-37-15.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/17-06-2026/20h/QUADRA_17-06-2026_20-37-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/17-06-2026/20h/QUADRA_17-06-2026_20-37-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11hZM0ZjNCtLZBdRKtSgzQIuLqVx83z66&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/17-06-2026/20h/QUADRA_17-06-2026_20-37-15.jpg"
                 }
               ]
             }
