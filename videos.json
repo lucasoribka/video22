@@ -1113,6 +1113,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/17-06-2026/17h/QUADRA_17-06-2026_17-56-43.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_18-51-03.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/17-06-2026/18h/QUADRA_17-06-2026_18-51-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-06-2026/18h/QUADRA_17-06-2026_18-51-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Lkah1_E5pCjWBPNOaLYK67IqqDCtfsDu&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/17-06-2026/18h/QUADRA_17-06-2026_18-51-03.jpg"
+                }
+              ]
             }
           }
         },
@@ -3027,6 +3038,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-45-26.mp4",
                   "url_download": "https://drive.google.com/uc?id=1zEYCGhqGnRRE-8JOZi34mFqhk0xR50Dm&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-45-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-06-2026_18-51-50.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-51-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-51-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KNuQOvlHvEUlC_-IRknaV5x-L519El-3&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-51-50.jpg"
                 }
               ]
             }
@@ -16760,6 +16778,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/16-06-2026/22h/QUADRA_16-06-2026_22-39-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=12ykN-vJvejHLHnXOJPl4HQNdQZOUiRv9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/16-06-2026/22h/QUADRA_16-06-2026_22-39-59.jpg"
+                }
+              ]
+            }
+          },
+          "17-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_18-51-12.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-51-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-51-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZUbUtGKfWVJGvW_UXPzsMb5XvK6tbQQk&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-51-12.jpg"
                 }
               ]
             }
