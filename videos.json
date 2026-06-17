@@ -1819,6 +1819,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/17-06-2026/20h/QUADRA_17-06-2026_20-31-16.mp4",
                   "url_download": "https://drive.google.com/uc?id=1wa1Qb5hUi3YZMI1TrOGjsa69cmVM4qSF&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/17-06-2026/20h/QUADRA_17-06-2026_20-31-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-06-2026_20-32-15.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/17-06-2026/20h/QUADRA_17-06-2026_20-32-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/17-06-2026/20h/QUADRA_17-06-2026_20-32-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1V-bh6BavoSfl3fu9Q83uofy9ltslhoQT&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/17-06-2026/20h/QUADRA_17-06-2026_20-32-15.jpg"
                 }
               ]
             }
@@ -8275,6 +8282,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/17-06-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_17-06-2026_19-51-06.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HKYSJ5LE7ki5mIpYu2--G0fQ5AI6uGs0&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/17-06-2026/19h/TRAVE 2 - CAMPO GRANDE_17-06-2026_19-51-06.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_17-06-2026_20-51-15.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/17-06-2026/20h/TRAVE 2 - CAMPO GRANDE_17-06-2026_20-51-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/17-06-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_17-06-2026_20-51-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cGNec9AFuUFZDpHBI6H9eWeuf9_nIy08&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/17-06-2026/20h/TRAVE 2 - CAMPO GRANDE_17-06-2026_20-51-15.jpg"
                 }
               ]
             }
