@@ -3013,6 +3013,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-36-29.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Zk-hIbIze8_KIAvB-FPMLKQQeL1WL1Dc&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-36-29.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-06-2026_18-41-14.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-41-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-41-14.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1AKgm_K8jFEfzj8D8_QXpDfw0lpbJ2L1l&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/18h/QUADRA_17-06-2026_18-41-14.jpg"
                 }
               ]
             }
@@ -6792,6 +6799,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-06-2026/16h/QUADRA_16-06-2026_16-59-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=16oKVj6lzinpFULiFi0z_0F-rcpEuEfj9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/16-06-2026/16h/QUADRA_16-06-2026_16-59-30.jpg"
+                }
+              ]
+            }
+          },
+          "17-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_18-41-43.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-41-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/17-06-2026/18h/QUADRA_17-06-2026_18-41-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1iIaxQ9o0KKTrJNjk-2-wnB9UDsY4e5AO&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-41-43.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-06-2026_18-42-13.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-42-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/17-06-2026/18h/QUADRA_17-06-2026_18-42-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18BtjcMpYueeB0KJIy0l1Dr9WUduCihkA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-42-13.jpg"
                 }
               ]
             }
@@ -11566,6 +11593,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/16-06-2026/21h/QUADRA_16-06-2026_21-29-17.mp4",
                   "url_download": "https://drive.google.com/uc?id=1GFfJoN7EQcr3sZgIFCkL5QEiqrow0Tnj&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/16-06-2026/21h/QUADRA_16-06-2026_21-29-17.jpg"
+                }
+              ]
+            }
+          },
+          "17-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_18-41-01.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-41-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/17-06-2026/18h/QUADRA_17-06-2026_18-41-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1dMvbd8Rpuq9n0uJKKPlyj6QeqEdrffNz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/17-06-2026/18h/QUADRA_17-06-2026_18-41-01.jpg"
                 }
               ]
             }
