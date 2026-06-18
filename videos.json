@@ -4752,6 +4752,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/18-06-2026/19h/QUADRA_18-06-2026_19-01-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=13DX55S_Alam2X2rDJ3-mD16VVJPweEpv&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/18-06-2026/19h/QUADRA_18-06-2026_19-01-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-06-2026_19-05-08.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/18-06-2026/19h/QUADRA_18-06-2026_19-05-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/18-06-2026/19h/QUADRA_18-06-2026_19-05-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11QTHbEu9XeI7d8hlxkSgqLtM4cc7TKL8&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/18-06-2026/19h/QUADRA_18-06-2026_19-05-08.jpg"
                 }
               ]
             }
@@ -9589,6 +9596,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/17-06-2026/19h/QUADRA%203_17-06-2026_19-53-08.mp4",
                   "url_download": "https://drive.google.com/uc?id=1KD8ue6G-ZwnXF2-EP_PMJY_hrs3ADBia&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/17-06-2026/19h/QUADRA 3_17-06-2026_19-53-08.jpg"
+                }
+              ]
+            }
+          },
+          "18-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_18-06-2026_19-04-59.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/18-06-2026/19h/QUADRA 3_18-06-2026_19-04-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/18-06-2026/19h/QUADRA%203_18-06-2026_19-04-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jShRHx0URE0tqRiENRucElz1eq_FdU2i&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/18-06-2026/19h/QUADRA 3_18-06-2026_19-04-59.jpg"
                 }
               ]
             }
