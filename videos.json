@@ -7538,6 +7538,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/18-06-2026/19h/QUADRA%202_18-06-2026_19-19-09.mp4",
                   "url_download": "https://drive.google.com/uc?id=1kOED21this2pvtCjeofYAJMOXM6ka1cy&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/18-06-2026/19h/QUADRA 2_18-06-2026_19-19-09.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_18-06-2026_19-27-37.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/18-06-2026/19h/QUADRA 2_18-06-2026_19-27-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%202/18-06-2026/19h/QUADRA%202_18-06-2026_19-27-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DRMDTLsHNGVtPKWTShRp4CaneZNK5VUu&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 2/18-06-2026/19h/QUADRA 2_18-06-2026_19-27-37.jpg"
                 }
               ]
             }
@@ -10584,6 +10591,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%202/17-06-2026/20h/QUADRA%202_17-06-2026_20-22-26.mp4",
                   "url_download": "https://drive.google.com/uc?id=1l3hDtuB007LMqFL1bjOyXh0v7R1FXZTH&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 2/17-06-2026/20h/QUADRA 2_17-06-2026_20-22-26.jpg"
+                }
+              ]
+            }
+          },
+          "18-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_18-06-2026_19-27-56.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 2/18-06-2026/19h/QUADRA 2_18-06-2026_19-27-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%202/18-06-2026/19h/QUADRA%202_18-06-2026_19-27-56.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1LUnDECsbstTx6Aik0U4TjF_82lkPOGYd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 2/18-06-2026/19h/QUADRA 2_18-06-2026_19-27-56.jpg"
                 }
               ]
             }
@@ -19102,6 +19122,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/17-06-2026/19h/QUADRA_17-06-2026_19-44-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=12YWcPNq1DmF5l7KiYglmmQtV2Q4JgY-R&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/17-06-2026/19h/QUADRA_17-06-2026_19-44-48.jpg"
+                }
+              ]
+            }
+          },
+          "18-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-06-2026_19-27-32.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/18-06-2026/19h/QUADRA_18-06-2026_19-27-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/18-06-2026/19h/QUADRA_18-06-2026_19-27-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1KPLsIwW-Bicct3w-K0nKXDOhEcCyjd4z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/18-06-2026/19h/QUADRA_18-06-2026_19-27-32.jpg"
                 }
               ]
             }
