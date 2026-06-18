@@ -2267,6 +2267,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/17-06-2026/20h/QUADRA 2_17-06-2026_20-56-43.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_17-06-2026_21-14-52.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/17-06-2026/21h/QUADRA 2_17-06-2026_21-14-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/17-06-2026/21h/QUADRA%202_17-06-2026_21-14-52.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/17-06-2026/21h/QUADRA 2_17-06-2026_21-14-52.jpg"
+                }
+              ]
             }
           }
         },
@@ -12999,6 +13010,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/17-06-2026/20h/QUADRA%207_17-06-2026_20-55-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Vmj3Sv9ryvLgBFDtme1j8ZIgl1ocemI0&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 7/17-06-2026/20h/QUADRA 7_17-06-2026_20-55-54.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 7_17-06-2026_21-15-32.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 7/17-06-2026/21h/QUADRA 7_17-06-2026_21-15-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/17-06-2026/21h/QUADRA%207_17-06-2026_21-15-32.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 7/17-06-2026/21h/QUADRA 7_17-06-2026_21-15-32.jpg"
                 }
               ]
             }
