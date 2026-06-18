@@ -6415,6 +6415,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/18-06-2026/16h/QUADRA 1_18-06-2026_16-59-27.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_18-06-2026_17-05-05.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/18-06-2026/17h/QUADRA 1_18-06-2026_17-05-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/18-06-2026/17h/QUADRA%201_18-06-2026_17-05-05.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1szi39dbg8igl4t8bEG7Flqcpqwy26E8Z&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/18-06-2026/17h/QUADRA 1_18-06-2026_17-05-05.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_18-06-2026_17-05-19.mp4",
+                  "path": "/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/18-06-2026/17h/QUADRA 1_18-06-2026_17-05-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD%20DEL%20ESTE/RAVENNA/QUADRA%201/18-06-2026/17h/QUADRA%201_18-06-2026_17-05-19.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-P39qJEvTj9ASul8T92HB9xt-Le1GRM6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PY/CIUDAD DEL ESTE/RAVENNA/QUADRA 1/18-06-2026/17h/QUADRA 1_18-06-2026_17-05-19.jpg"
+                }
+              ]
             }
           }
         },
@@ -13234,6 +13252,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/18-06-2026/17h/QUADRA_18-06-2026_17-02-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=12ZopGP4QHSS-A2d8N48yaoQfjhWPrpnE&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/18-06-2026/17h/QUADRA_18-06-2026_17-02-15.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-06-2026_17-02-29.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/18-06-2026/17h/QUADRA_18-06-2026_17-02-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/18-06-2026/17h/QUADRA_18-06-2026_17-02-29.mp4",
+                  "url_download": "https://drive.google.com/uc?id=11toWbHATW_ikHTFjs-TgNYQUGBzJXGad&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/18-06-2026/17h/QUADRA_18-06-2026_17-02-29.jpg"
                 }
               ]
             }
