@@ -3349,6 +3349,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/20h/QUADRA_17-06-2026_20-56-13.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_21-04-21.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/21h/QUADRA_17-06-2026_21-04-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/17-06-2026/21h/QUADRA_17-06-2026_21-04-21.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/17-06-2026/21h/QUADRA_17-06-2026_21-04-21.jpg"
+                }
+              ]
             }
           }
         }
@@ -14799,6 +14810,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/17-06-2026/20h/QUADRA_17-06-2026_20-59-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1l8A8BLx8LTaSMGrBhN_DwY0ElrYv4YPU&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/17-06-2026/20h/QUADRA_17-06-2026_20-59-52.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_21-04-15.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/17-06-2026/21h/QUADRA_17-06-2026_21-04-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/17-06-2026/21h/QUADRA_17-06-2026_21-04-15.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/17-06-2026/21h/QUADRA_17-06-2026_21-04-15.jpg"
                 }
               ]
             }
