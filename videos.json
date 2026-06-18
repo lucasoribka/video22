@@ -9793,6 +9793,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/17-06-2026/21h/QUADRA%204_17-06-2026_21-07-41.mp4",
                   "url_download": "https://drive.google.com/uc?id=1U-O2LzIsfqOxLq_1RZJKsFx_9bUlWDF2&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 4/17-06-2026/21h/QUADRA 4_17-06-2026_21-07-41.jpg"
+                },
+                {
+                  "nome": "QUADRA 4_17-06-2026_21-45-13.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/17-06-2026/21h/QUADRA 4_17-06-2026_21-45-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/17-06-2026/21h/QUADRA%204_17-06-2026_21-45-13.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1w7xBm6JyrJxyBrQzTUK2_u45KdtlLwwH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 4/17-06-2026/21h/QUADRA 4_17-06-2026_21-45-13.jpg"
                 }
               ]
             }
@@ -13858,6 +13865,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/17-06-2026/21h/QUADRA_17-06-2026_21-17-44.mp4",
                   "url_download": "",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/17-06-2026/21h/QUADRA_17-06-2026_21-17-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-06-2026_21-40-55.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/17-06-2026/21h/QUADRA_17-06-2026_21-40-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/17-06-2026/21h/QUADRA_17-06-2026_21-40-55.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/17-06-2026/21h/QUADRA_17-06-2026_21-40-55.jpg"
                 }
               ]
             }
@@ -16816,6 +16830,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/17-06-2026/18h/QUADRA_17-06-2026_18-59-36.mp4",
                   "url_download": "https://drive.google.com/uc?id=1WHS5-mjot-US_o7TsLpx4WYH0WoiLvCw&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/17-06-2026/18h/QUADRA_17-06-2026_18-59-36.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-06-2026_21-42-16.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/17-06-2026/21h/QUADRA_17-06-2026_21-42-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/17-06-2026/21h/QUADRA_17-06-2026_21-42-16.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/17-06-2026/21h/QUADRA_17-06-2026_21-42-16.jpg"
                 }
               ]
             }
