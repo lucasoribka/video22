@@ -3027,6 +3027,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-06-2026/19h/QUADRA%202_19-06-2026_19-46-44.mp4",
                   "url_download": "https://drive.google.com/uc?id=1wYOjw4T2ogol6oUsY4J2PkIyX7h13k07&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-06-2026/19h/QUADRA 2_19-06-2026_19-46-44.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_19-06-2026_19-51-33.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-06-2026/19h/QUADRA 2_19-06-2026_19-51-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-06-2026/19h/QUADRA%202_19-06-2026_19-51-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1js7Wf92kkIUilQFdlhHY6fLMBk7JVifp&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-06-2026/19h/QUADRA 2_19-06-2026_19-51-33.jpg"
                 }
               ]
             }
@@ -5213,6 +5220,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/18-06-2026/18h/QUADRA%201_18-06-2026_18-50-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Pvp3JRQVk9Hdt-8cSKV3IxpraXFt1_YC&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/18-06-2026/18h/QUADRA 1_18-06-2026_18-50-54.jpg"
+                }
+              ]
+            }
+          },
+          "19-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_19-06-2026_19-50-28.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/19-06-2026/19h/QUADRA 1_19-06-2026_19-50-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/19-06-2026/19h/QUADRA%201_19-06-2026_19-50-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1q30LDpvEymuzttatoSeK80Au470-2gok&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/19-06-2026/19h/QUADRA 1_19-06-2026_19-50-28.jpg"
                 }
               ]
             }
