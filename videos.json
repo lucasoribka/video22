@@ -3112,6 +3112,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-06-2026/20h/QUADRA%202_19-06-2026_20-08-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1gkXWoiLGsL43w6S22-W-SCP8PkIrQAkV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-06-2026/20h/QUADRA 2_19-06-2026_20-08-59.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_19-06-2026_20-14-32.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-06-2026/20h/QUADRA 2_19-06-2026_20-14-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-06-2026/20h/QUADRA%202_19-06-2026_20-14-32.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Iozu5Xoqt6_2ysyqMporqJS-Rd-O6JA5&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-06-2026/20h/QUADRA 2_19-06-2026_20-14-32.jpg"
                 }
               ]
             }
@@ -5325,6 +5332,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/19-06-2026/19h/QUADRA%201_19-06-2026_19-52-34.mp4",
                   "url_download": "https://drive.google.com/uc?id=18FfQFbnj1gco-Wga6QHCttMmslPvlA9A&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/19-06-2026/19h/QUADRA 1_19-06-2026_19-52-34.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_19-06-2026_20-14-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/19-06-2026/20h/QUADRA 1_19-06-2026_20-14-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/19-06-2026/20h/QUADRA%201_19-06-2026_20-14-27.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1gHLt3klVIeRbPPQeXVsE2_wNqsSTwKdE&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/19-06-2026/20h/QUADRA 1_19-06-2026_20-14-27.jpg"
                 }
               ]
             }
@@ -17723,6 +17741,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/19-06-2026/19h/QUADRA_19-06-2026_19-58-35.mp4",
                   "url_download": "https://drive.google.com/uc?id=1oMOcyboFMYmmGN98WJBBpqLh3xPrt1Jh&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/19-06-2026/19h/QUADRA_19-06-2026_19-58-35.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-06-2026_20-13-35.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/19-06-2026/20h/QUADRA_19-06-2026_20-13-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/19-06-2026/20h/QUADRA_19-06-2026_20-13-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1UVOGgyarDzrCVB9jBjAPVqTTgN9eax1Q&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/19-06-2026/20h/QUADRA_19-06-2026_20-13-35.jpg"
                 }
               ]
             }
