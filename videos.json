@@ -1274,6 +1274,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/20-06-2026/09h/QUADRA_20-06-2026_09-16-17.mp4",
                   "url_download": "https://drive.google.com/uc?id=12kWrRcpLwZC9wjDwp5IRRd_kHNYlpMBz&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/20-06-2026/09h/QUADRA_20-06-2026_09-16-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-06-2026_09-17-35.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/20-06-2026/09h/QUADRA_20-06-2026_09-17-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/20-06-2026/09h/QUADRA_20-06-2026_09-17-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Ogqw8-AcaNcrg9yjvxgS30PJ7Fh7ZZyJ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/20-06-2026/09h/QUADRA_20-06-2026_09-17-35.jpg"
                 }
               ]
             }
@@ -17355,6 +17362,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/20-06-2026/08h/QUADRA_20-06-2026_08-48-55.mp4",
                   "url_download": "https://drive.google.com/uc?id=16IQa-jWrRnpPLfRlmvXq2vghsxy_TUo1&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/20-06-2026/08h/QUADRA_20-06-2026_08-48-55.jpg"
+                }
+              ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-06-2026_09-19-50.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/20-06-2026/09h/QUADRA_20-06-2026_09-19-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/20-06-2026/09h/QUADRA_20-06-2026_09-19-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14n8v03ezAhqMMlR8VIjRESnAjiHondem&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/20-06-2026/09h/QUADRA_20-06-2026_09-19-50.jpg"
                 }
               ]
             }
