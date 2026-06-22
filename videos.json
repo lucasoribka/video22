@@ -15341,6 +15341,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/22-06-2026/19h/QUADRA_22-06-2026_19-26-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=1AyVRnwW6sA6rcMaG4M0nYVV8SL92UH5r&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/22-06-2026/19h/QUADRA_22-06-2026_19-26-15.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-06-2026_19-29-51.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/22-06-2026/19h/QUADRA_22-06-2026_19-29-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/22-06-2026/19h/QUADRA_22-06-2026_19-29-51.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1PGxrDjk7bmbaZ7uLfur3giaIv2Ytxwyf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/22-06-2026/19h/QUADRA_22-06-2026_19-29-51.jpg"
                 }
               ]
             }
@@ -18339,6 +18346,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/22-06-2026/18h/QUADRA_22-06-2026_18-56-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=1eIUoCR8oqOFFsKvKyplfr-2L_1dmvd8T&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/22-06-2026/18h/QUADRA_22-06-2026_18-56-20.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-06-2026_19-27-55.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/22-06-2026/19h/QUADRA_22-06-2026_19-27-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/22-06-2026/19h/QUADRA_22-06-2026_19-27-55.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DdbdBIXVsMxLKoBSfXS5Vn_hpNb7RhbU&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/22-06-2026/19h/QUADRA_22-06-2026_19-27-55.jpg"
                 }
               ]
             }
