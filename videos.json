@@ -2302,6 +2302,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/22-06-2026/16h/QUADRA%201_22-06-2026_16-47-06.mp4",
                   "url_download": "https://drive.google.com/uc?id=1eAsM6JwCSjj1JolvO-uOX18wphMfwkg7&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/22-06-2026/16h/QUADRA 1_22-06-2026_16-47-06.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_22-06-2026_16-48-43.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/22-06-2026/16h/QUADRA 1_22-06-2026_16-48-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/22-06-2026/16h/QUADRA%201_22-06-2026_16-48-43.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ZtpklHGk6ZaqA_sEVqonmzdpbQER1PJ6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/22-06-2026/16h/QUADRA 1_22-06-2026_16-48-43.jpg"
                 }
               ]
             }
@@ -13814,6 +13821,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/21-06-2026/17h/QUADRA_21-06-2026_17-05-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1kOk1YWNMH617T6JMqnkd9G6CNphV6TL8&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/21-06-2026/17h/QUADRA_21-06-2026_17-05-59.jpg"
+                }
+              ]
+            }
+          },
+          "22-06-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-06-2026_16-47-17.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/22-06-2026/16h/QUADRA_22-06-2026_16-47-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/22-06-2026/16h/QUADRA_22-06-2026_16-47-17.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1exgI8fQbbkP7cf-uxmdt9R0SFmwWwxkC&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/22-06-2026/16h/QUADRA_22-06-2026_16-47-17.jpg"
                 }
               ]
             }
