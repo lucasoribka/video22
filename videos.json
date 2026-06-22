@@ -1223,6 +1223,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/18h/QUADRA_22-06-2026_18-57-45.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-06-2026_19-52-02.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/19h/QUADRA_22-06-2026_19-52-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-06-2026/19h/QUADRA_22-06-2026_19-52-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1RnwYX8ujCdfbR8m56k4iVC-5-JLuu71n&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/19h/QUADRA_22-06-2026_19-52-02.jpg"
+                }
+              ]
             }
           }
         },
@@ -9364,6 +9375,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/20-06-2026/16h/TRAVE%201%20-%20BAR_20-06-2026_16-25-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=17ywDOtHydp32YN3-Kan3Bb8NuAo-K5_9&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/20-06-2026/16h/TRAVE 1 - BAR_20-06-2026_16-25-15.jpg"
+                }
+              ]
+            }
+          },
+          "22-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_22-06-2026_19-53-39.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/22-06-2026/19h/TRAVE 1 - BAR_22-06-2026_19-53-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/22-06-2026/19h/TRAVE%201%20-%20BAR_22-06-2026_19-53-39.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1nnkQmGyFad-2XxEz54yxu1T37OS8C-l_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/22-06-2026/19h/TRAVE 1 - BAR_22-06-2026_19-53-39.jpg"
                 }
               ]
             }
