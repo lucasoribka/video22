@@ -1306,6 +1306,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-06-2026/21h/QUADRA_22-06-2026_21-38-23.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Gw_usmUi-qzIBUwtb7qlrPXPhMEleh-Y&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/21h/QUADRA_22-06-2026_21-38-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-06-2026_21-42-58.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/21h/QUADRA_22-06-2026_21-42-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-06-2026/21h/QUADRA_22-06-2026_21-42-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15qhD2__ePQWZo4fbu-CJKOzxehlU0ApF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/21h/QUADRA_22-06-2026_21-42-58.jpg"
                 }
               ]
             }
@@ -4735,6 +4742,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/22-06-2026/21h/QUADRA_22-06-2026_21-39-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=1MWe9ve8gRy8KSIu5c25ItgiXsLi2qURn&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/22-06-2026/21h/QUADRA_22-06-2026_21-39-48.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-06-2026_21-40-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/22-06-2026/21h/QUADRA_22-06-2026_21-40-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/22-06-2026/21h/QUADRA_22-06-2026_21-40-59.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1FyFT8pcpfVbfVbLmgXI1K1q0qjnisYHF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/22-06-2026/21h/QUADRA_22-06-2026_21-40-59.jpg"
                 }
               ]
             }
@@ -14636,6 +14650,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/22-06-2026/19h/QUADRA_22-06-2026_19-39-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Th9atLLtUZnMQNjFS9LSau4VOpsW3DfO&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/22-06-2026/19h/QUADRA_22-06-2026_19-39-01.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-06-2026_21-41-42.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/22-06-2026/21h/QUADRA_22-06-2026_21-41-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/22-06-2026/21h/QUADRA_22-06-2026_21-41-42.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1zPtGfSynpOSPobFPDxqXn8aP74s8SwY2&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/22-06-2026/21h/QUADRA_22-06-2026_21-41-42.jpg"
                 }
               ]
             }
