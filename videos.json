@@ -3524,6 +3524,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/23-06-2026/16h/QUADRA 2_23-06-2026_16-56-10.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_23-06-2026_17-46-07.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/23-06-2026/17h/QUADRA 2_23-06-2026_17-46-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/23-06-2026/17h/QUADRA%202_23-06-2026_17-46-07.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1YMOTW7LIDPueipiQOdjYwfQCFk7rx7nT&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/23-06-2026/17h/QUADRA 2_23-06-2026_17-46-07.jpg"
+                }
+              ]
             }
           }
         },
@@ -11059,6 +11070,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/21-06-2026/12h/QUADRA%201_21-06-2026_12-55-42.mp4",
                   "url_download": "https://drive.google.com/uc?id=1VCVwWeZbeqtbfAFFgqjkftGdCmI55X3I&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/21-06-2026/12h/QUADRA 1_21-06-2026_12-55-42.jpg"
+                }
+              ]
+            }
+          },
+          "23-06-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_23-06-2026_17-47-16.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/23-06-2026/17h/QUADRA 1_23-06-2026_17-47-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/23-06-2026/17h/QUADRA%201_23-06-2026_17-47-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1CdYhZS_dg9aD9AfXLGbsIbxo8juFSoAz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/23-06-2026/17h/QUADRA 1_23-06-2026_17-47-16.jpg"
                 }
               ]
             }
