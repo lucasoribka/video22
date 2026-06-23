@@ -1373,6 +1373,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-06-2026/22h/QUADRA_22-06-2026_22-09-33.mp4",
                   "url_download": "https://drive.google.com/uc?id=1cAP0aSqWOEoqrYsFWnRf-vsdrd07XYsH&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/22h/QUADRA_22-06-2026_22-09-33.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-06-2026_22-37-36.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/22h/QUADRA_22-06-2026_22-37-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-06-2026/22h/QUADRA_22-06-2026_22-37-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Rmk6WNP6U2gZufaMl67RyAtuJOPy8OM2&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/22h/QUADRA_22-06-2026_22-37-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-06-2026_22-38-11.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/22h/QUADRA_22-06-2026_22-38-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-06-2026/22h/QUADRA_22-06-2026_22-38-11.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12pzqUHXNx5eHnNtI5q7YNXpTo7OHGofM&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-06-2026/22h/QUADRA_22-06-2026_22-38-11.jpg"
                 }
               ]
             }
@@ -22568,6 +22582,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-06-2026/21h/QUADRA_22-06-2026_21-00-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1infMjMSJUAZyFR0F4_wEsV1wtkEFchiE&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-06-2026/21h/QUADRA_22-06-2026_21-00-30.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-06-2026_22-37-09.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-06-2026/22h/QUADRA_22-06-2026_22-37-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-06-2026/22h/QUADRA_22-06-2026_22-37-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1v3UdI9gf6hAXk29jnBOvuc4UO5B6gGZT&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-06-2026/22h/QUADRA_22-06-2026_22-37-09.jpg"
                 }
               ]
             }
