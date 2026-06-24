@@ -3731,6 +3731,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/23-06-2026/21h/QUADRA%202_23-06-2026_21-00-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=12XjoLaEr_eG-aCeCKC32diy7xSvpOfTh&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/23-06-2026/21h/QUADRA 2_23-06-2026_21-00-21.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_23-06-2026_21-02-48.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/23-06-2026/21h/QUADRA 2_23-06-2026_21-02-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/23-06-2026/21h/QUADRA%202_23-06-2026_21-02-48.mp4",
+                  "url_download": "https://drive.google.com/uc?id=10leRWizdyXTwY9CtLfPOYt0eRIX7k5iY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/23-06-2026/21h/QUADRA 2_23-06-2026_21-02-48.jpg"
                 }
               ]
             }
@@ -19441,6 +19448,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/23-06-2026/20h/QUADRA_23-06-2026_20-46-37.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-06-2026_21-00-49.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/23-06-2026/21h/QUADRA_23-06-2026_21-00-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/23-06-2026/21h/QUADRA_23-06-2026_21-00-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cO0jh4-tP7QGgs-gZxrcwGzBuJ6jFwPG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/23-06-2026/21h/QUADRA_23-06-2026_21-00-49.jpg"
+                }
+              ]
             }
           }
         }
@@ -24017,6 +24035,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/23-06-2026/20h/QUADRA_23-06-2026_20-46-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=1uo1ZZMC6VApZuV6idHqbdBZLGG0YaX8w&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/23-06-2026/20h/QUADRA_23-06-2026_20-46-19.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-06-2026_21-01-33.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/23-06-2026/21h/QUADRA_23-06-2026_21-01-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/23-06-2026/21h/QUADRA_23-06-2026_21-01-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1_bvxCfSK8SV7_Jh9cmdu98Mo6RDub3wI&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/23-06-2026/21h/QUADRA_23-06-2026_21-01-33.jpg"
                 }
               ]
             }
