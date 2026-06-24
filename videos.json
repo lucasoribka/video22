@@ -1808,6 +1808,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/24-06-2026/19h/QUADRA_24-06-2026_19-16-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=17ZCpeqWkSThovX0m5TNYbOV0MN3-gwyT&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/24-06-2026/19h/QUADRA_24-06-2026_19-16-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-06-2026_19-26-15.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/24-06-2026/19h/QUADRA_24-06-2026_19-26-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/24-06-2026/19h/QUADRA_24-06-2026_19-26-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1m0uVgIWFVxcCpp561rBuJXJO7RJ94N2c&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/24-06-2026/19h/QUADRA_24-06-2026_19-26-15.jpg"
                 }
               ]
             }
@@ -18749,6 +18756,19 @@
                 }
               ]
             }
+          },
+          "24-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_24-06-2026_19-26-10.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/24-06-2026/19h/QUADRA_24-06-2026_19-26-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/24-06-2026/19h/QUADRA_24-06-2026_19-26-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1VkVQ984F9v4DG6tztjtOiC19D4ZStKSX&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/24-06-2026/19h/QUADRA_24-06-2026_19-26-10.jpg"
+                }
+              ]
+            }
           }
         },
         "AREIA 3": {
@@ -21813,6 +21833,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/24-06-2026/19h/QUADRA_24-06-2026_19-18-54.mp4",
                   "url_download": "https://drive.google.com/uc?id=1gtNqDQzIy_HTDvNqMGEwdp_4osskm_JY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/24-06-2026/19h/QUADRA_24-06-2026_19-18-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-06-2026_19-26-10.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/24-06-2026/19h/QUADRA_24-06-2026_19-26-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/24-06-2026/19h/QUADRA_24-06-2026_19-26-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1sJvC7hQkk7SholG9XGF4nbRoaVpoy_PR&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/24-06-2026/19h/QUADRA_24-06-2026_19-26-10.jpg"
                 }
               ]
             }
