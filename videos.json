@@ -6498,6 +6498,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/25-06-2026/19h/QUADRA_25-06-2026_19-36-52.mp4",
                   "url_download": "https://drive.google.com/uc?id=1F8zSaAwyTWXLK7w3qe9-WxDOD65p7fLY&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-06-2026/19h/QUADRA_25-06-2026_19-36-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-06-2026_19-37-33.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-06-2026/19h/QUADRA_25-06-2026_19-37-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/25-06-2026/19h/QUADRA_25-06-2026_19-37-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1cU1Uu8jjX1uZ1HPMKGHJiRtawna0P1ZH&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-06-2026/19h/QUADRA_25-06-2026_19-37-33.jpg"
                 }
               ]
             }
@@ -10545,6 +10552,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/25-06-2026/16h/BEACH%201_25-06-2026_16-07-58.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HrW4rWyrWzvze9dOOkN5f_Lj8TlU5Rok&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/BEACH 1/25-06-2026/16h/BEACH 1_25-06-2026_16-07-58.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "BEACH 1_25-06-2026_19-39-57.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/25-06-2026/19h/BEACH 1_25-06-2026_19-39-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/25-06-2026/19h/BEACH%201_25-06-2026_19-39-57.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-5dtHZ8uyhEnvXAktIN4cwuwWN7hftpg&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/BEACH 1/25-06-2026/19h/BEACH 1_25-06-2026_19-39-57.jpg"
                 }
               ]
             }
