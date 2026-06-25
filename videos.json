@@ -6329,6 +6329,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-06-2026/16h/QUADRA_25-06-2026_16-47-18.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_18-21-37.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-06-2026/18h/QUADRA_25-06-2026_18-21-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/25-06-2026/18h/QUADRA_25-06-2026_18-21-37.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Ze_5FSBToam3iwRIe64QwGjle8OJeGib&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/25-06-2026/18h/QUADRA_25-06-2026_18-21-37.jpg"
+                }
+              ]
             }
           }
         }
@@ -18833,6 +18844,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/23-06-2026/21h/QUADRA_23-06-2026_21-57-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1aPvsc7hKhFboHwvMcBCmpOgz1uCiUNDv&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/23-06-2026/21h/QUADRA_23-06-2026_21-57-59.jpg"
+                }
+              ]
+            }
+          },
+          "25-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_18-16-03.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/25-06-2026/18h/QUADRA_25-06-2026_18-16-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/25-06-2026/18h/QUADRA_25-06-2026_18-16-03.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jNYEZy6p9fWGg8ibn9rVqxsV0c_QIXbt&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/25-06-2026/18h/QUADRA_25-06-2026_18-16-03.jpg"
                 }
               ]
             }
