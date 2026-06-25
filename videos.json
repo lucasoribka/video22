@@ -4235,6 +4235,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/25-06-2026/18h/QUADRA%202_25-06-2026_18-36-48.mp4",
                   "url_download": "https://drive.google.com/uc?id=1VMNpk024GeTeV7DkkwKEajwrDSUo4Y94&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-36-48.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_25-06-2026_18-44-31.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-44-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/25-06-2026/18h/QUADRA%202_25-06-2026_18-44-31.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1QvCkllC24WKcGMx_iVgDrcOvfMCuaC4A&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-44-31.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_25-06-2026_18-45-21.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-45-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/25-06-2026/18h/QUADRA%202_25-06-2026_18-45-21.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1dn_ZkCxdyy84VqGeSNWdMr2nsCpwPs5S&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-45-21.jpg"
                 }
               ]
             }
@@ -15800,6 +15814,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/25-06-2026/18h/QUADRA%204_25-06-2026_18-30-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Ng6Iu2r6rdRE_tpWTaVr0X1H753VuQ1U&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/25-06-2026/18h/QUADRA 4_25-06-2026_18-30-59.jpg"
+                },
+                {
+                  "nome": "QUADRA 4_25-06-2026_18-46-06.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 4/25-06-2026/18h/QUADRA 4_25-06-2026_18-46-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/25-06-2026/18h/QUADRA%204_25-06-2026_18-46-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1oLvhijQSRjYQd0US39KXcG0j0D_JmW7c&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/25-06-2026/18h/QUADRA 4_25-06-2026_18-46-06.jpg"
                 }
               ]
             }
@@ -16519,6 +16540,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/25-06-2026/10h/QUADRA%206_25-06-2026_10-53-27.mp4",
                   "url_download": "https://drive.google.com/uc?id=1HyN6AE8P-pMGDLSId6l-eWsD1At6MTqF&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 6/25-06-2026/10h/QUADRA 6_25-06-2026_10-53-27.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 6_25-06-2026_18-45-16.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 6/25-06-2026/18h/QUADRA 6_25-06-2026_18-45-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/25-06-2026/18h/QUADRA%206_25-06-2026_18-45-16.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1fllnXVvJntQo1bzGanQTUYctmFsrC7Kq&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 6/25-06-2026/18h/QUADRA 6_25-06-2026_18-45-16.jpg"
                 }
               ]
             }
@@ -18920,6 +18952,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/25-06-2026/18h/QUADRA_25-06-2026_18-35-27.mp4",
                   "url_download": "https://drive.google.com/uc?id=1j8DMe5Wp7Xw2RQvx-CYGNsSsqHb1JUr-&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/25-06-2026/18h/QUADRA_25-06-2026_18-35-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-06-2026_18-44-01.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/25-06-2026/18h/QUADRA_25-06-2026_18-44-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/25-06-2026/18h/QUADRA_25-06-2026_18-44-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1-hKJpREQBOTNOCiKNp8xs2ar2tOUVlAs&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/25-06-2026/18h/QUADRA_25-06-2026_18-44-01.jpg"
                 }
               ]
             }
