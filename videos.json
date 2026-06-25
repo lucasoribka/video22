@@ -4205,6 +4205,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/17h/QUADRA 2_25-06-2026_17-56-57.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_25-06-2026_18-06-38.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-06-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/25-06-2026/18h/QUADRA%202_25-06-2026_18-06-38.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DoFoIDIUg1parqMK6bTrWLSF2BPgeLAL&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-06-38.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_25-06-2026_18-07-10.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-07-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/25-06-2026/18h/QUADRA%202_25-06-2026_18-07-10.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1JsHk4bJXSj7OnVOK5qFVHYItI-xdhsBf&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/25-06-2026/18h/QUADRA 2_25-06-2026_18-07-10.jpg"
+                }
+              ]
             }
           }
         },
@@ -20416,6 +20434,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/17h/QUADRA_25-06-2026_17-56-12.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_18-05-35.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/18h/QUADRA_25-06-2026_18-05-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/25-06-2026/18h/QUADRA_25-06-2026_18-05-35.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1ggtY08tzzjEUYwqkNT8O15zgaspiM97D&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/18h/QUADRA_25-06-2026_18-05-35.jpg"
+                }
+              ]
             }
           }
         },
@@ -24539,6 +24568,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/24-06-2026/17h/QUADRA_24-06-2026_17-12-28.mp4",
                   "url_download": "https://drive.google.com/uc?id=1ArvvbDWxGNtFXp6ki-8grqzuVbmAqj5k&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/24-06-2026/17h/QUADRA_24-06-2026_17-12-28.jpg"
+                }
+              ]
+            }
+          },
+          "25-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_18-05-44.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/25-06-2026/18h/QUADRA_25-06-2026_18-05-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/25-06-2026/18h/QUADRA_25-06-2026_18-05-44.mp4",
+                  "url_download": "https://drive.google.com/uc?id=12MPdF-rgyUqJxaTU07JhGpezCWKEd4ca&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA LK/25-06-2026/18h/QUADRA_25-06-2026_18-05-44.jpg"
                 }
               ]
             }
