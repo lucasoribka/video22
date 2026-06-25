@@ -10584,6 +10584,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/25-06-2026/19h/BEACH%201_25-06-2026_19-43-20.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Md7uGnej2a42ImLs2GsgjmoIvybwb4HX&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/BEACH 1/25-06-2026/19h/BEACH 1_25-06-2026_19-43-20.jpg"
+                },
+                {
+                  "nome": "BEACH 1_25-06-2026_19-44-45.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/25-06-2026/19h/BEACH 1_25-06-2026_19-44-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/25-06-2026/19h/BEACH%201_25-06-2026_19-44-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1qw4c12XM94G-sMY4Pv43yVN3gUclMjUF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/BEACH 1/25-06-2026/19h/BEACH 1_25-06-2026_19-44-45.jpg"
                 }
               ]
             }
@@ -14113,6 +14120,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/25-06-2026/19h/QUADRA%203_25-06-2026_19-10-19.mp4",
                   "url_download": "https://drive.google.com/uc?id=1qDcahPZpFOWSfWbacFA8OguO7LKd6FDz&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/25-06-2026/19h/QUADRA 3_25-06-2026_19-10-19.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_25-06-2026_19-45-26.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/25-06-2026/19h/QUADRA 3_25-06-2026_19-45-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/25-06-2026/19h/QUADRA%203_25-06-2026_19-45-26.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1WMyEupEUuk_m0iEwohUXGv3GT52JlKBn&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 3/25-06-2026/19h/QUADRA 3_25-06-2026_19-45-26.jpg"
                 }
               ]
             }
@@ -27109,6 +27123,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/24-05-2026/15h/QUADRA_24-05-2026_15-30-32.mp4",
                   "url_download": "https://drive.google.com/uc?id=1VBwpnCRQMRepUxYCLXyNCbeSog54_oBV&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/24-05-2026/15h/QUADRA_24-05-2026_15-30-32.jpg"
+                }
+              ]
+            }
+          },
+          "25-06-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_19-43-01.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/25-06-2026/19h/QUADRA_25-06-2026_19-43-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/25-06-2026/19h/QUADRA_25-06-2026_19-43-01.mp4",
+                  "url_download": "https://drive.google.com/uc?id=18FX7v1uSX9PEFw0ZZPO8PbCLCdUUa6Jw&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/25-06-2026/19h/QUADRA_25-06-2026_19-43-01.jpg"
                 }
               ]
             }
