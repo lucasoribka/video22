@@ -5942,6 +5942,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/25-06-2026/20h/QUADRA_25-06-2026_20-01-36.mp4",
                   "url_download": "https://drive.google.com/uc?id=1-Pnf-519mUtsCkZA1hisSodQOEcH7UDv&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/25-06-2026/20h/QUADRA_25-06-2026_20-01-36.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-06-2026_20-02-08.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/25-06-2026/20h/QUADRA_25-06-2026_20-02-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/25-06-2026/20h/QUADRA_25-06-2026_20-02-08.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1r4NFejY3k-KyaKJqQLIGXS3efpz51AgO&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/25-06-2026/20h/QUADRA_25-06-2026_20-02-08.jpg"
                 }
               ]
             }
@@ -6808,6 +6815,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/25-06-2026/19h/QUADRA%201_25-06-2026_19-57-55.mp4",
                   "url_download": "https://drive.google.com/uc?id=1EDrz8zqnTfR_MhrdO1nu6JXjxG0xP8RM&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/25-06-2026/19h/QUADRA 1_25-06-2026_19-57-55.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_25-06-2026_20-08-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/25-06-2026/20h/QUADRA 1_25-06-2026_20-08-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/25-06-2026/20h/QUADRA%201_25-06-2026_20-08-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OE_as5bwiNFdfGUOluJweI4Xr9rvH0HE&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/25-06-2026/20h/QUADRA 1_25-06-2026_20-08-06.jpg"
                 }
               ]
             }
@@ -12464,6 +12482,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/25-06-2026/19h/QUADRA_25-06-2026_19-53-24.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_20-04-49.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/25-06-2026/20h/QUADRA_25-06-2026_20-04-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/25-06-2026/20h/QUADRA_25-06-2026_20-04-49.mp4",
+                  "url_download": "https://drive.google.com/uc?id=14nZ9TJFz9kmjC9xTZXKZvoZ5vTq-EUPz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/25-06-2026/20h/QUADRA_25-06-2026_20-04-49.jpg"
+                }
+              ]
             }
           }
         }
@@ -12935,6 +12964,19 @@
                 }
               ]
             }
+          },
+          "25-06-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_25-06-2026_20-07-53.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/25-06-2026/20h/TRAVE 1 - CAMPO GRANDE_25-06-2026_20-07-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/25-06-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_25-06-2026_20-07-53.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1rAA7M2-kLP9BDxAQT0uD4lK3w1SYx_Gd&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/25-06-2026/20h/TRAVE 1 - CAMPO GRANDE_25-06-2026_20-07-53.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - CAMPO GRANDE": {
@@ -13096,6 +13138,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/23-06-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_23-06-2026_20-39-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=17oyzZDMWtSQFEiMZ9MizgBREJzkOZsya&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/23-06-2026/20h/TRAVE 2 - CAMPO GRANDE_23-06-2026_20-39-03.jpg"
+                }
+              ]
+            }
+          },
+          "25-06-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_25-06-2026_20-07-56.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/25-06-2026/20h/TRAVE 2 - CAMPO GRANDE_25-06-2026_20-07-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/25-06-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_25-06-2026_20-07-56.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1zqCIzR7NsqSU8Dk2WQPhICKGI-jbbtkD&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/25-06-2026/20h/TRAVE 2 - CAMPO GRANDE_25-06-2026_20-07-56.jpg"
                 }
               ]
             }
@@ -25187,6 +25242,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/25-06-2026/19h/QUADRA_25-06-2026_19-45-15.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_20-04-36.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/25-06-2026/20h/QUADRA_25-06-2026_20-04-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/25-06-2026/20h/QUADRA_25-06-2026_20-04-36.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jqzfT21AxmwXMiOqdQVLv-J6PyR7x0EF&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/25-06-2026/20h/QUADRA_25-06-2026_20-04-36.jpg"
+                }
+              ]
             }
           }
         }
@@ -27469,6 +27535,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/25-06-2026/20h/QUADRA_25-06-2026_20-02-02.mp4",
                   "url_download": "https://drive.google.com/uc?id=1a_fRcc1ELlFqwRRKw2tvhT87BZK8duAl&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/25-06-2026/20h/QUADRA_25-06-2026_20-02-02.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-06-2026_20-02-45.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/25-06-2026/20h/QUADRA_25-06-2026_20-02-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/25-06-2026/20h/QUADRA_25-06-2026_20-02-45.mp4",
+                  "url_download": "https://drive.google.com/uc?id=19ulWoDVUy8wgHeShTvAtIgNbolTkkOsQ&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/25-06-2026/20h/QUADRA_25-06-2026_20-02-45.jpg"
                 }
               ]
             }
