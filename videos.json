@@ -13433,6 +13433,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-06-2026/17h/QUADRA%201_25-06-2026_17-50-01.mp4",
                   "url_download": "https://drive.google.com/uc?id=13IosNW7XkzuWGu3BkAD8kAt99RbR5YUI&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/25-06-2026/17h/QUADRA 1_25-06-2026_17-50-01.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_25-06-2026_17-56-02.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/25-06-2026/17h/QUADRA 1_25-06-2026_17-56-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-06-2026/17h/QUADRA%201_25-06-2026_17-56-02.mp4",
+                  "url_download": "https://drive.google.com/uc?id=19H4zWw3gZNlLme3q87jIOlSa0wTLCaNs&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA 1/25-06-2026/17h/QUADRA 1_25-06-2026_17-56-02.jpg"
                 }
               ]
             }
@@ -15638,6 +15645,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/24-06-2026/18h/QUADRA%204_24-06-2026_18-27-31.mp4",
                   "url_download": "https://drive.google.com/uc?id=1svRH5Yh4YyvMKwnNRWpFUaSheOA_tp4d&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/24-06-2026/18h/QUADRA 4_24-06-2026_18-27-31.jpg"
+                }
+              ]
+            }
+          },
+          "25-06-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_25-06-2026_17-56-09.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 4/25-06-2026/17h/QUADRA 4_25-06-2026_17-56-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/25-06-2026/17h/QUADRA%204_25-06-2026_17-56-09.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1OoY3Wm9FzEVD8QyAQibRhy1dsHHmRAko&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 4/25-06-2026/17h/QUADRA 4_25-06-2026_17-56-09.jpg"
                 }
               ]
             }
