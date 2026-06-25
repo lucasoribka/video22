@@ -21626,6 +21626,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/25-06-2026/20h/QUADRA_25-06-2026_20-31-59.mp4",
                   "url_download": "https://drive.google.com/uc?id=1XPN17HHgKbumeH5VL4xhxBUgR0RO6cRp&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/20h/QUADRA_25-06-2026_20-31-59.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-06-2026_20-34-46.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/20h/QUADRA_25-06-2026_20-34-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/25-06-2026/20h/QUADRA_25-06-2026_20-34-46.mp4",
+                  "url_download": "https://drive.google.com/uc?id=109JyBiuUTIJU9FxDmBnSx5JvnBT1DGtz&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/20h/QUADRA_25-06-2026_20-34-46.jpg"
                 }
               ]
             }
@@ -23596,6 +23603,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/23-06-2026/23h/QUADRA_23-06-2026_23-37-15.mp4",
                   "url_download": "https://drive.google.com/uc?id=16qwbJK8BodKPzuOcLR0s4c56Q_SyPbzG&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/23-06-2026/23h/QUADRA_23-06-2026_23-37-15.jpg"
+                }
+              ]
+            }
+          },
+          "25-06-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-06-2026_20-32-54.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/25-06-2026/20h/QUADRA_25-06-2026_20-32-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/25-06-2026/20h/QUADRA_25-06-2026_20-32-54.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1yKg6Ssp7kLl5umaQV79M0TZKd6axSdZi&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/25-06-2026/20h/QUADRA_25-06-2026_20-32-54.jpg"
                 }
               ]
             }
