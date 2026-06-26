@@ -11113,19 +11113,6 @@
                 }
               ]
             }
-          },
-          "26-06-2026": {
-            "00h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA 1_26-06-2026_00-43-33.mp4",
-                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 1/26-06-2026/00h/QUADRA 1_26-06-2026_00-43-33.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/26-06-2026/00h/QUADRA%201_26-06-2026_00-43-33.mp4",
-                  "url_download": "",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 1/26-06-2026/00h/QUADRA 1_26-06-2026_00-43-33.jpg"
-                }
-              ]
-            }
           }
         },
         "QUADRA 2": {
@@ -13993,6 +13980,13 @@
           "20-06-2026": {
             "08h": {
               "_videos": [
+                {
+                  "nome": "QUADRA_20-06-2026_08-23-33.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/20-06-2026/08h/QUADRA_20-06-2026_08-23-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/20-06-2026/08h/QUADRA_20-06-2026_08-23-33.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1Hh-3XYkpajlbtmAFDZw2if2VDm9E8HgI&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/20-06-2026/08h/QUADRA_20-06-2026_08-23-33.jpg"
+                },
                 {
                   "nome": "QUADRA_20-06-2026_08-37-03.mp4",
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/20-06-2026/08h/QUADRA_20-06-2026_08-37-03.mp4",
