@@ -1731,6 +1731,20 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/10h/QUADRA_27-06-2026_10-08-03.mp4",
                   "url_download": "https://drive.google.com/uc?id=1uIFXx2L9sJvQ-5aDei1OlHMDjVb2doFb&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/10h/QUADRA_27-06-2026_10-08-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-06-2026_10-14-04.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/10h/QUADRA_27-06-2026_10-14-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/10h/QUADRA_27-06-2026_10-14-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1vvOTGROf0J3B_gsOT_mzW_Oiz3ou_Bxk&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/10h/QUADRA_27-06-2026_10-14-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-06-2026_10-18-04.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/10h/QUADRA_27-06-2026_10-18-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/10h/QUADRA_27-06-2026_10-18-04.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1DXVKAlDI2wZQyJS37JoOG0nU33NAxS3v&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/10h/QUADRA_27-06-2026_10-18-04.jpg"
                 }
               ]
             }
@@ -11135,6 +11149,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/27-06-2026/10h/QUADRA_27-06-2026_10-02-11.mp4",
                   "url_download": "https://drive.google.com/uc?id=1YSC3x-gcoErm3hEJ--i8GZJJUckGrv75&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/27-06-2026/10h/QUADRA_27-06-2026_10-02-11.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-06-2026_10-15-23.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/27-06-2026/10h/QUADRA_27-06-2026_10-15-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/27-06-2026/10h/QUADRA_27-06-2026_10-15-23.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1akGGOhvHoTTCGPUltEI-IzX_w38wjMun&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL PADEL/QUADRA 2/27-06-2026/10h/QUADRA_27-06-2026_10-15-23.jpg"
                 }
               ]
             }
@@ -23201,6 +23222,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/27-06-2026/08h/QUADRA%206_27-06-2026_08-52-10.mp4",
                   "url_download": "",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 6/27-06-2026/08h/QUADRA 6_27-06-2026_08-52-10.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 6_27-06-2026_10-17-31.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 6/27-06-2026/10h/QUADRA 6_27-06-2026_10-17-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/27-06-2026/10h/QUADRA%206_27-06-2026_10-17-31.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 6/27-06-2026/10h/QUADRA 6_27-06-2026_10-17-31.jpg"
                 }
               ]
             }
