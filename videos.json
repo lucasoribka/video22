@@ -1938,6 +1938,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/11h/QUADRA_27-06-2026_11-29-39.mp4",
                   "url_download": "https://drive.google.com/uc?id=11yLn4lkQuMYRKzVsJC7_R-A5A-hFq_Om&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/11h/QUADRA_27-06-2026_11-29-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-06-2026_11-37-06.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/11h/QUADRA_27-06-2026_11-37-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/11h/QUADRA_27-06-2026_11-37-06.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1HJkdSu_hYrJCwm_s8C2P7TJW0tOEVk_U&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/11h/QUADRA_27-06-2026_11-37-06.jpg"
                 }
               ]
             }
@@ -32225,6 +32232,17 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/27-06-2026/10h/QUADRA_27-06-2026_10-23-06.mp4",
                   "url_download": "https://drive.google.com/uc?id=1Dox4R1t4S81vN1_dgoU1Jimu5JoKpErW&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/27-06-2026/10h/QUADRA_27-06-2026_10-23-06.jpg"
+                }
+              ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-06-2026_11-36-12.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/27-06-2026/11h/QUADRA_27-06-2026_11-36-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/27-06-2026/11h/QUADRA_27-06-2026_11-36-12.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1TBvJoW-dfrg8WHxCbgqTV_kfi9c3Lxe6&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/27-06-2026/11h/QUADRA_27-06-2026_11-36-12.jpg"
                 }
               ]
             }
