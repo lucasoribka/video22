@@ -20772,6 +20772,24 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/26-06-2026/20h/QUADRA 3_26-06-2026_20-57-23.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_26-06-2026_21-02-33.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/26-06-2026/21h/QUADRA 3_26-06-2026_21-02-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/26-06-2026/21h/QUADRA%203_26-06-2026_21-02-33.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/26-06-2026/21h/QUADRA 3_26-06-2026_21-02-33.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_26-06-2026_21-03-55.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/26-06-2026/21h/QUADRA 3_26-06-2026_21-03-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/26-06-2026/21h/QUADRA%203_26-06-2026_21-03-55.mp4",
+                  "url_download": "",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA JIM/QUADRA 3/26-06-2026/21h/QUADRA 3_26-06-2026_21-03-55.jpg"
+                }
+              ]
             }
           }
         },
@@ -24291,6 +24309,17 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/26-06-2026/20h/QUADRA_26-06-2026_20-50-46.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-06-2026_21-01-28.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/26-06-2026/21h/QUADRA_26-06-2026_21-01-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/26-06-2026/21h/QUADRA_26-06-2026_21-01-28.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1jwUAUNqA_kPSuO4McB3Xo_3WVxDW0DmG&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/26-06-2026/21h/QUADRA_26-06-2026_21-01-28.jpg"
+                }
+              ]
             }
           }
         }
@@ -26521,6 +26550,26 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/25-06-2026/21h/QUADRA_25-06-2026_21-32-21.mp4",
                   "url_download": "https://drive.google.com/uc?id=16G_KzgQGHi_aNMAL6V4L_UAZpS-ZZ2ZM&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/25-06-2026/21h/QUADRA_25-06-2026_21-32-21.jpg"
+                }
+              ]
+            }
+          },
+          "26-06-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-06-2026_21-00-15.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/26-06-2026/21h/QUADRA_26-06-2026_21-00-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/26-06-2026/21h/QUADRA_26-06-2026_21-00-15.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1A-_kWyPUKUlNFudvaOHpoZEsXovxT0J_&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/26-06-2026/21h/QUADRA_26-06-2026_21-00-15.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-06-2026_21-00-58.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/26-06-2026/21h/QUADRA_26-06-2026_21-00-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/26-06-2026/21h/QUADRA_26-06-2026_21-00-58.mp4",
+                  "url_download": "https://drive.google.com/uc?id=15fR5MZMymChzGmryzjTgPaKAYlOz7mTA&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/26-06-2026/21h/QUADRA_26-06-2026_21-00-58.jpg"
                 }
               ]
             }
