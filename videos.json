@@ -5569,6 +5569,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-06-2026/14h/QUADRA_27-06-2026_14-54-18.jpg"
                 }
               ]
+            },
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-06-2026_15-15-00.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/27-06-2026/15h/QUADRA_27-06-2026_15-15-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-06-2026/15h/QUADRA_27-06-2026_15-15-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-06-2026/15h/QUADRA_27-06-2026_15-15-00.jpg"
+                }
+              ]
             }
           }
         },
@@ -17735,6 +17745,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/27-06-2026/15h/TRAVE 4 - PORTÃO_27-06-2026_15-02-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/27-06-2026/15h/TRAVE%204%20-%20PORTÃO_27-06-2026_15-02-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/27-06-2026/15h/TRAVE%204%20-%20PORTÃO_27-06-2026_15-02-48.jpg"
+                },
+                {
+                  "nome": "TRAVE 4 - PORTÃO_27-06-2026_15-16-59.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/27-06-2026/15h/TRAVE 4 - PORTÃO_27-06-2026_15-16-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/27-06-2026/15h/TRAVE%204%20-%20PORTÃO_27-06-2026_15-16-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/27-06-2026/15h/TRAVE%204%20-%20PORTÃO_27-06-2026_15-16-59.jpg"
                 }
               ]
             }
