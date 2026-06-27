@@ -1917,6 +1917,13 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/11h/QUADRA_27-06-2026_11-19-30.mp4",
                   "url_download": "https://drive.google.com/uc?id=1B-xQZ4lpe-Tou9ISmeqrXrKLuEXcpDkA&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/11h/QUADRA_27-06-2026_11-19-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_27-06-2026_11-25-19.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/11h/QUADRA_27-06-2026_11-25-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/27-06-2026/11h/QUADRA_27-06-2026_11-25-19.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1S1P2ZQn-8Fv0x_a6v16KIP8fm-P6YKyY&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/27-06-2026/11h/QUADRA_27-06-2026_11-25-19.jpg"
                 }
               ]
             }
@@ -9926,6 +9933,19 @@
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/26-06-2026/19h/PADEL%201_26-06-2026_19-52-25.mp4",
                   "url_download": "https://drive.google.com/uc?id=1USAhi82t36JQ_rMp3yVy-4IgXqYHhEtf&export=download",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/PADEL 1/26-06-2026/19h/PADEL 1_26-06-2026_19-52-25.jpg"
+                }
+              ]
+            }
+          },
+          "27-06-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 1_27-06-2026_11-28-50.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/27-06-2026/11h/PADEL 1_27-06-2026_11-28-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/27-06-2026/11h/PADEL%201_27-06-2026_11-28-50.mp4",
+                  "url_download": "https://drive.google.com/uc?id=1YYdc35iOpTUplcV2ycB8FcYTgV3b6-Xo&export=download",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO FUNDO/ROCKET/PADEL 1/27-06-2026/11h/PADEL 1_27-06-2026_11-28-50.jpg"
                 }
               ]
             }
