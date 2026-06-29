@@ -1249,6 +1249,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-06-2026/18h/QUADRA_29-06-2026_18-04-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-04-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-04-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-06-2026_18-06-46.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-06-2026/18h/QUADRA_29-06-2026_18-06-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-06-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-06-46.jpg"
                 }
               ]
             }
@@ -5131,6 +5137,16 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/29-06-2026/10h/PADEL 3_29-06-2026_10-31-53.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/29-06-2026/10h/PADEL%203_29-06-2026_10-31-53.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/29-06-2026/10h/PADEL%203_29-06-2026_10-31-53.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 3_29-06-2026_18-08-22.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/29-06-2026/18h/PADEL 3_29-06-2026_18-08-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/29-06-2026/18h/PADEL%203_29-06-2026_18-08-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/29-06-2026/18h/PADEL%203_29-06-2026_18-08-22.jpg"
                 }
               ]
             }
