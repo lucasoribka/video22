@@ -1715,6 +1715,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/18h/QUADRA_29-06-2026_18-37-29.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-06-2026_20-34-54.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/29-06-2026/20h/QUADRA_29-06-2026_20-34-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/20h/QUADRA_29-06-2026_20-34-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/20h/QUADRA_29-06-2026_20-34-54.jpg"
+                }
+              ]
             }
           }
         }
@@ -1843,6 +1853,16 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-06-2026/19h/QUADRA 1_29-06-2026_19-48-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-06-2026/19h/QUADRA%201_29-06-2026_19-48-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-06-2026/19h/QUADRA%201_29-06-2026_19-48-32.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_29-06-2026_20-55-16.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-06-2026/20h/QUADRA 1_29-06-2026_20-55-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-06-2026/20h/QUADRA%201_29-06-2026_20-55-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-06-2026/20h/QUADRA%201_29-06-2026_20-55-16.jpg"
                 }
               ]
             }
@@ -3343,6 +3363,18 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-46-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-46-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-46-48.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-06-2026_20-53-17.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-53-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-53-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-53-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-06-2026_20-53-48.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-53-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-53-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-06-2026/20h/QUADRA_29-06-2026_20-53-48.jpg"
                 }
               ]
             }
