@@ -1273,6 +1273,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-06-2026/18h/QUADRA_29-06-2026_18-15-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-15-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-15-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-06-2026_18-39-15.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-06-2026/18h/QUADRA_29-06-2026_18-39-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-39-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-06-2026/18h/QUADRA_29-06-2026_18-39-15.jpg"
                 }
               ]
             }
@@ -1657,6 +1663,16 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/29-06-2026/17h/QUADRA_29-06-2026_17-25-31.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/17h/QUADRA_29-06-2026_17-25-31.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/17h/QUADRA_29-06-2026_17-25-31.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-06-2026_18-32-09.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/29-06-2026/18h/QUADRA_29-06-2026_18-32-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/18h/QUADRA_29-06-2026_18-32-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-06-2026/18h/QUADRA_29-06-2026_18-32-09.jpg"
                 }
               ]
             }
