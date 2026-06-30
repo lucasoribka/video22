@@ -2173,6 +2173,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/30-06-2026/17h/QUADRA%203_30-06-2026_17-44-36.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_30-06-2026_18-49-15.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/30-06-2026/18h/QUADRA 3_30-06-2026_18-49-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/30-06-2026/18h/QUADRA%203_30-06-2026_18-49-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/30-06-2026/18h/QUADRA%203_30-06-2026_18-49-15.jpg"
+                }
+              ]
             }
           }
         }
@@ -3271,6 +3281,18 @@
                   "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/26-06-2026/19h/QUADRA 1_26-06-2026_19-53-41.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/26-06-2026/19h/QUADRA%201_26-06-2026_19-53-41.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/26-06-2026/19h/QUADRA%201_26-06-2026_19-53-41.jpg"
+                }
+              ]
+            }
+          },
+          "30-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_30-06-2026_18-49-34.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/30-06-2026/18h/QUADRA 1_30-06-2026_18-49-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/30-06-2026/18h/QUADRA%201_30-06-2026_18-49-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/30-06-2026/18h/QUADRA%201_30-06-2026_18-49-34.jpg"
                 }
               ]
             }
@@ -12575,6 +12597,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/30-06-2026/14h/QUADRA_30-06-2026_14-39-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/30-06-2026/14h/QUADRA_30-06-2026_14-39-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/30-06-2026/14h/QUADRA_30-06-2026_14-39-21.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-06-2026_18-43-42.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/30-06-2026/18h/QUADRA_30-06-2026_18-43-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/30-06-2026/18h/QUADRA_30-06-2026_18-43-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/30-06-2026/18h/QUADRA_30-06-2026_18-43-42.jpg"
                 }
               ]
             }
