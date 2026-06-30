@@ -1267,6 +1267,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/30-06-2026/17h/QUADRA_30-06-2026_17-26-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/17h/QUADRA_30-06-2026_17-26-47.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/17h/QUADRA_30-06-2026_17-26-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_30-06-2026_17-32-31.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/30-06-2026/17h/QUADRA_30-06-2026_17-32-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/17h/QUADRA_30-06-2026_17-32-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/17h/QUADRA_30-06-2026_17-32-31.jpg"
                 }
               ]
             }
@@ -8303,6 +8309,18 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 4/26-06-2026/19h/QUADRA 4_26-06-2026_19-53-03.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/26-06-2026/19h/QUADRA%204_26-06-2026_19-53-03.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/26-06-2026/19h/QUADRA%204_26-06-2026_19-53-03.jpg"
+                }
+              ]
+            }
+          },
+          "30-06-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_30-06-2026_17-33-49.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 4/30-06-2026/17h/QUADRA 4_30-06-2026_17-33-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/30-06-2026/17h/QUADRA%204_30-06-2026_17-33-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%204/30-06-2026/17h/QUADRA%204_30-06-2026_17-33-49.jpg"
                 }
               ]
             }
