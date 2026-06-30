@@ -1313,6 +1313,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/30-06-2026/19h/QUADRA_30-06-2026_19-22-55.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/19h/QUADRA_30-06-2026_19-22-55.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/19h/QUADRA_30-06-2026_19-22-55.jpg"
+                },
+                {
+                  "nome": "QUADRA_30-06-2026_19-28-52.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/30-06-2026/19h/QUADRA_30-06-2026_19-28-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/19h/QUADRA_30-06-2026_19-28-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/30-06-2026/19h/QUADRA_30-06-2026_19-28-52.jpg"
                 }
               ]
             }
@@ -6929,6 +6935,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/30-06-2026/19h/QUADRA 1_30-06-2026_19-18-59.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/19h/QUADRA%201_30-06-2026_19-18-59.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/19h/QUADRA%201_30-06-2026_19-18-59.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_30-06-2026_19-29-54.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/30-06-2026/19h/QUADRA 1_30-06-2026_19-29-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/19h/QUADRA%201_30-06-2026_19-29-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/19h/QUADRA%201_30-06-2026_19-29-54.jpg"
                 }
               ]
             }
@@ -11287,6 +11299,16 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-06-2026/18h/QUADRA_30-06-2026_18-09-00.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-06-2026/18h/QUADRA_30-06-2026_18-09-00.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-06-2026/18h/QUADRA_30-06-2026_18-09-00.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-06-2026_19-28-34.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/30-06-2026/19h/QUADRA_30-06-2026_19-28-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-06-2026/19h/QUADRA_30-06-2026_19-28-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/30-06-2026/19h/QUADRA_30-06-2026_19-28-34.jpg"
                 }
               ]
             }
