@@ -6723,6 +6723,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/30-06-2026/18h/QUADRA 1_30-06-2026_18-34-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/18h/QUADRA%201_30-06-2026_18-34-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/18h/QUADRA%201_30-06-2026_18-34-46.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_30-06-2026_18-50-42.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/30-06-2026/18h/QUADRA 1_30-06-2026_18-50-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/18h/QUADRA%201_30-06-2026_18-50-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/30-06-2026/18h/QUADRA%201_30-06-2026_18-50-42.jpg"
                 }
               ]
             }
@@ -8145,6 +8151,18 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/29-06-2026/21h/QUADRA 3_29-06-2026_21-07-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/29-06-2026/21h/QUADRA%203_29-06-2026_21-07-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/29-06-2026/21h/QUADRA%203_29-06-2026_21-07-06.jpg"
+                }
+              ]
+            }
+          },
+          "30-06-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_30-06-2026_18-50-24.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 3/30-06-2026/18h/QUADRA 3_30-06-2026_18-50-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/30-06-2026/18h/QUADRA%203_30-06-2026_18-50-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%203/30-06-2026/18h/QUADRA%203_30-06-2026_18-50-24.jpg"
                 }
               ]
             }
