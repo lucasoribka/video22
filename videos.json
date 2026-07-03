@@ -2983,6 +2983,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/03-07-2026/19h/QUADRA_03-07-2026_19-35-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-07-2026/19h/QUADRA_03-07-2026_19-35-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-07-2026/19h/QUADRA_03-07-2026_19-35-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-07-2026_19-37-13.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/03-07-2026/19h/QUADRA_03-07-2026_19-37-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-07-2026/19h/QUADRA_03-07-2026_19-37-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-07-2026/19h/QUADRA_03-07-2026_19-37-13.jpg"
                 }
               ]
             }
@@ -5099,6 +5105,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/19h/BEACH 1_03-07-2026_19-35-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/19h/BEACH%201_03-07-2026_19-35-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/19h/BEACH%201_03-07-2026_19-35-34.jpg"
+                },
+                {
+                  "nome": "BEACH 1_03-07-2026_19-40-14.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/19h/BEACH 1_03-07-2026_19-40-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/19h/BEACH%201_03-07-2026_19-40-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/19h/BEACH%201_03-07-2026_19-40-14.jpg"
                 }
               ]
             }
@@ -13911,6 +13923,18 @@
               ]
             }
           },
+          "03-07-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-07-2026_19-37-26.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/03-07-2026/19h/QUADRA_03-07-2026_19-37-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/03-07-2026/19h/QUADRA_03-07-2026_19-37-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/03-07-2026/19h/QUADRA_03-07-2026_19-37-26.jpg"
+                }
+              ]
+            }
+          },
           "28-06-2026": {
             "16h": {
               "_videos": [
@@ -15433,6 +15457,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-07-2026/19h/QUADRA_03-07-2026_19-13-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-07-2026/19h/QUADRA_03-07-2026_19-13-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-07-2026/19h/QUADRA_03-07-2026_19-13-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-07-2026_19-37-43.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-07-2026/19h/QUADRA_03-07-2026_19-37-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-07-2026/19h/QUADRA_03-07-2026_19-37-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-07-2026/19h/QUADRA_03-07-2026_19-37-43.jpg"
                 }
               ]
             }
