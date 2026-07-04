@@ -243,6 +243,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-07-2026/21h/QUADRA_03-07-2026_21-07-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-07-2026/21h/QUADRA_03-07-2026_21-07-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-07-2026/21h/QUADRA_03-07-2026_21-07-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-07-2026_21-21-17.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-07-2026/21h/QUADRA_03-07-2026_21-21-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-07-2026/21h/QUADRA_03-07-2026_21-21-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-07-2026/21h/QUADRA_03-07-2026_21-21-17.jpg"
                 }
               ]
             }
@@ -4161,6 +4167,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/03-07-2026/20h/QUADRA_03-07-2026_20-45-02.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-07-2026_21-20-25.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/03-07-2026/21h/QUADRA_03-07-2026_21-20-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/03-07-2026/21h/QUADRA_03-07-2026_21-20-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/03-07-2026/21h/QUADRA_03-07-2026_21-20-25.jpg"
+                }
+              ]
             }
           },
           "29-06-2026": {
@@ -7827,6 +7843,36 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/21h/BEACH 1_03-07-2026_21-22-27.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-22-27.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-22-27.jpg"
+                },
+                {
+                  "nome": "BEACH 1_03-07-2026_21-22-41.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/21h/BEACH 1_03-07-2026_21-22-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-22-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-22-41.jpg"
+                },
+                {
+                  "nome": "BEACH 1_03-07-2026_21-22-55.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/21h/BEACH 1_03-07-2026_21-22-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-22-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-22-55.jpg"
+                },
+                {
+                  "nome": "BEACH 1_03-07-2026_21-23-09.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/21h/BEACH 1_03-07-2026_21-23-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-23-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-23-09.jpg"
+                },
+                {
+                  "nome": "BEACH 1_03-07-2026_21-23-23.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/21h/BEACH 1_03-07-2026_21-23-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-23-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-23-23.jpg"
+                },
+                {
+                  "nome": "BEACH 1_03-07-2026_21-23-38.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/03-07-2026/21h/BEACH 1_03-07-2026_21-23-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-23-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/03-07-2026/21h/BEACH%201_03-07-2026_21-23-38.jpg"
                 }
               ]
             }
