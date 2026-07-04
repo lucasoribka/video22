@@ -2943,6 +2943,12 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/04-07-2026/12h/QUADRA 2_04-07-2026_12-04-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/04-07-2026/12h/QUADRA%202_04-07-2026_12-04-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/04-07-2026/12h/QUADRA%202_04-07-2026_12-04-44.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_04-07-2026_12-07-24.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/04-07-2026/12h/QUADRA 2_04-07-2026_12-07-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/04-07-2026/12h/QUADRA%202_04-07-2026_12-07-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/04-07-2026/12h/QUADRA%202_04-07-2026_12-07-24.jpg"
                 }
               ]
             }
@@ -16235,6 +16241,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/04-07-2026/11h/QUADRA_04-07-2026_11-41-44.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-07-2026_12-04-30.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/04-07-2026/12h/QUADRA_04-07-2026_12-04-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/04-07-2026/12h/QUADRA_04-07-2026_12-04-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/04-07-2026/12h/QUADRA_04-07-2026_12-04-30.jpg"
+                }
+              ]
             }
           },
           "29-06-2026": {
@@ -18453,6 +18469,22 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-07-2026/11h/QUADRA_04-07-2026_11-56-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-07-2026/11h/QUADRA_04-07-2026_11-56-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-07-2026/11h/QUADRA_04-07-2026_11-56-58.jpg"
+                }
+              ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-07-2026_12-05-10.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-07-2026/12h/QUADRA_04-07-2026_12-05-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-07-2026/12h/QUADRA_04-07-2026_12-05-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-07-2026/12h/QUADRA_04-07-2026_12-05-10.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-07-2026_12-05-34.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-07-2026/12h/QUADRA_04-07-2026_12-05-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-07-2026/12h/QUADRA_04-07-2026_12-05-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-07-2026/12h/QUADRA_04-07-2026_12-05-34.jpg"
                 }
               ]
             }
