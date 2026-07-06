@@ -12649,6 +12649,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/06-07-2026/15h/PADEL%203_06-07-2026_15-51-23.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 3_06-07-2026_18-16-02.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/06-07-2026/18h/PADEL 3_06-07-2026_18-16-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/06-07-2026/18h/PADEL%203_06-07-2026_18-16-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/06-07-2026/18h/PADEL%203_06-07-2026_18-16-02.jpg"
+                }
+              ]
             }
           },
           "30-06-2026": {
@@ -15351,6 +15361,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/06-07-2026/18h/QUADRA 5_06-07-2026_18-06-22.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/18h/QUADRA%205_06-07-2026_18-06-22.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/18h/QUADRA%205_06-07-2026_18-06-22.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_06-07-2026_18-16-06.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/06-07-2026/18h/QUADRA 5_06-07-2026_18-16-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/18h/QUADRA%205_06-07-2026_18-16-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/18h/QUADRA%205_06-07-2026_18-16-06.jpg"
                 }
               ]
             }
