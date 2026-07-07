@@ -18093,6 +18093,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/07-07-2026/09h/QUADRA%205_07-07-2026_09-58-41.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 5_07-07-2026_10-01-02.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/07-07-2026/10h/QUADRA 5_07-07-2026_10-01-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/07-07-2026/10h/QUADRA%205_07-07-2026_10-01-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/07-07-2026/10h/QUADRA%205_07-07-2026_10-01-02.jpg"
+                }
+              ]
             }
           },
           "30-06-2026": {
@@ -18571,6 +18581,16 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 7/07-07-2026/09h/QUADRA 7_07-07-2026_09-40-42.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/07-07-2026/09h/QUADRA%207_07-07-2026_09-40-42.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/07-07-2026/09h/QUADRA%207_07-07-2026_09-40-42.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 7_07-07-2026_10-02-00.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 7/07-07-2026/10h/QUADRA 7_07-07-2026_10-02-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/07-07-2026/10h/QUADRA%207_07-07-2026_10-02-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%207/07-07-2026/10h/QUADRA%207_07-07-2026_10-02-00.jpg"
                 }
               ]
             }
@@ -24893,6 +24913,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/06-07-2026/22h/QUADRA_06-07-2026_22-40-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-07-2026/22h/QUADRA_06-07-2026_22-40-12.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-07-2026/22h/QUADRA_06-07-2026_22-40-12.jpg"
+                }
+              ]
+            }
+          },
+          "07-07-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-07-2026_10-00-52.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-07-2026/10h/QUADRA_07-07-2026_10-00-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-07-2026/10h/QUADRA_07-07-2026_10-00-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-07-2026/10h/QUADRA_07-07-2026_10-00-52.jpg"
                 }
               ]
             }
