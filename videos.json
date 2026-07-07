@@ -3773,6 +3773,12 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/07-07-2026/16h/QUADRA 2_07-07-2026_16-38-52.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/07-07-2026/16h/QUADRA%202_07-07-2026_16-38-52.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/07-07-2026/16h/QUADRA%202_07-07-2026_16-38-52.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_07-07-2026_16-52-45.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/07-07-2026/16h/QUADRA 2_07-07-2026_16-52-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/07-07-2026/16h/QUADRA%202_07-07-2026_16-52-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/07-07-2026/16h/QUADRA%202_07-07-2026_16-52-45.jpg"
                 }
               ]
             }
@@ -12211,6 +12217,18 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/06-07-2026/17h/PADEL 1_06-07-2026_17-59-15.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/06-07-2026/17h/PADEL%201_06-07-2026_17-59-15.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/06-07-2026/17h/PADEL%201_06-07-2026_17-59-15.jpg"
+                }
+              ]
+            }
+          },
+          "07-07-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 1_07-07-2026_16-53-38.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/07-07-2026/16h/PADEL 1_07-07-2026_16-53-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/07-07-2026/16h/PADEL%201_07-07-2026_16-53-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/07-07-2026/16h/PADEL%201_07-07-2026_16-53-38.jpg"
                 }
               ]
             }
