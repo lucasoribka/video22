@@ -1889,6 +1889,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/19h/QUADRA_07-07-2026_19-57-05.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-07-2026_20-17-27.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/07-07-2026/20h/QUADRA_07-07-2026_20-17-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/20h/QUADRA_07-07-2026_20-17-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/20h/QUADRA_07-07-2026_20-17-27.jpg"
+                }
+              ]
             }
           }
         },
@@ -4133,6 +4143,16 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/07-07-2026/17h/QUADRA 3_07-07-2026_17-47-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/07-07-2026/17h/QUADRA%203_07-07-2026_17-47-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/07-07-2026/17h/QUADRA%203_07-07-2026_17-47-54.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_07-07-2026_20-17-16.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 3/07-07-2026/20h/QUADRA 3_07-07-2026_20-17-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/07-07-2026/20h/QUADRA%203_07-07-2026_20-17-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%203/07-07-2026/20h/QUADRA%203_07-07-2026_20-17-16.jpg"
                 }
               ]
             }
@@ -12973,6 +12993,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/07-07-2026/20h/PADEL 2_07-07-2026_20-06-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/07-07-2026/20h/PADEL%202_07-07-2026_20-06-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/07-07-2026/20h/PADEL%202_07-07-2026_20-06-01.jpg"
+                },
+                {
+                  "nome": "PADEL 2_07-07-2026_20-18-15.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/07-07-2026/20h/PADEL 2_07-07-2026_20-18-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/07-07-2026/20h/PADEL%202_07-07-2026_20-18-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/07-07-2026/20h/PADEL%202_07-07-2026_20-18-15.jpg"
                 }
               ]
             }
