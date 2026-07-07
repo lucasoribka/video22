@@ -1823,6 +1823,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/06-07-2026/22h/QUADRA_06-07-2026_22-05-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-07-2026/22h/QUADRA_06-07-2026_22-05-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-07-2026/22h/QUADRA_06-07-2026_22-05-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-07-2026_22-09-03.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/06-07-2026/22h/QUADRA_06-07-2026_22-09-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-07-2026/22h/QUADRA_06-07-2026_22-09-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-07-2026/22h/QUADRA_06-07-2026_22-09-03.jpg"
                 }
               ]
             }
@@ -18015,6 +18021,18 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/06-07-2026/22h/QUADRA 5_06-07-2026_22-08-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/22h/QUADRA%205_06-07-2026_22-08-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/22h/QUADRA%205_06-07-2026_22-08-57.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_06-07-2026_22-09-46.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/06-07-2026/22h/QUADRA 5_06-07-2026_22-09-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/22h/QUADRA%205_06-07-2026_22-09-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/22h/QUADRA%205_06-07-2026_22-09-46.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_06-07-2026_22-10-35.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/06-07-2026/22h/QUADRA 5_06-07-2026_22-10-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/22h/QUADRA%205_06-07-2026_22-10-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/06-07-2026/22h/QUADRA%205_06-07-2026_22-10-35.jpg"
                 }
               ]
             }
@@ -25425,6 +25443,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/05-07-2026/21h/QUADRA_05-07-2026_21-13-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/05-07-2026/21h/QUADRA_05-07-2026_21-13-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/05-07-2026/21h/QUADRA_05-07-2026_21-13-23.jpg"
+                }
+              ]
+            }
+          },
+          "06-07-2026": {
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-07-2026_22-08-01.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-07-2026/22h/QUADRA_06-07-2026_22-08-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-07-2026/22h/QUADRA_06-07-2026_22-08-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-07-2026/22h/QUADRA_06-07-2026_22-08-01.jpg"
                 }
               ]
             }
