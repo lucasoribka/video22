@@ -2089,6 +2089,22 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/21h/QUADRA_07-07-2026_21-49-56.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-07-2026_22-00-40.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/07-07-2026/22h/QUADRA_07-07-2026_22-00-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/22h/QUADRA_07-07-2026_22-00-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/22h/QUADRA_07-07-2026_22-00-40.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-07-2026_22-01-28.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/07-07-2026/22h/QUADRA_07-07-2026_22-01-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/22h/QUADRA_07-07-2026_22-01-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-07-2026/22h/QUADRA_07-07-2026_22-01-28.jpg"
+                }
+              ]
             }
           }
         },
@@ -15723,6 +15739,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/07-07-2026/21h/QUADRA%203_07-07-2026_21-49-38.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_07-07-2026_22-02-54.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/07-07-2026/22h/QUADRA 3_07-07-2026_22-02-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/07-07-2026/22h/QUADRA%203_07-07-2026_22-02-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/07-07-2026/22h/QUADRA%203_07-07-2026_22-02-54.jpg"
+                }
+              ]
             }
           },
           "30-06-2026": {
@@ -24099,6 +24125,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/07-07-2026/21h/QUADRA_07-07-2026_21-38-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-07-2026/21h/QUADRA_07-07-2026_21-38-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-07-2026/21h/QUADRA_07-07-2026_21-38-58.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-07-2026_22-00-05.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/07-07-2026/22h/QUADRA_07-07-2026_22-00-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-07-2026/22h/QUADRA_07-07-2026_22-00-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-07-2026/22h/QUADRA_07-07-2026_22-00-05.jpg"
                 }
               ]
             }
