@@ -2193,6 +2193,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-07-2026/18h/QUADRA_08-07-2026_18-29-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-07-2026/18h/QUADRA_08-07-2026_18-29-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-07-2026/18h/QUADRA_08-07-2026_18-29-56.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-07-2026_18-58-55.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-07-2026/18h/QUADRA_08-07-2026_18-58-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-07-2026/18h/QUADRA_08-07-2026_18-58-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-07-2026/18h/QUADRA_08-07-2026_18-58-55.jpg"
                 }
               ]
             }
@@ -6491,6 +6497,18 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/07-07-2026/21h/QUADRA_07-07-2026_21-06-43.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/07-07-2026/21h/QUADRA_07-07-2026_21-06-43.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/07-07-2026/21h/QUADRA_07-07-2026_21-06-43.jpg"
+                }
+              ]
+            }
+          },
+          "08-07-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-07-2026_18-56-58.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/08-07-2026/18h/QUADRA_08-07-2026_18-56-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/08-07-2026/18h/QUADRA_08-07-2026_18-56-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/08-07-2026/18h/QUADRA_08-07-2026_18-56-58.jpg"
                 }
               ]
             }
