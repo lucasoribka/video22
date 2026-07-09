@@ -5175,6 +5175,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-07-2026/07h/QUADRA_09-07-2026_07-37-47.jpg"
                 }
               ]
+            },
+            "08h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-07-2026_08-19-19.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-07-2026/08h/QUADRA_09-07-2026_08-19-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-07-2026/08h/QUADRA_09-07-2026_08-19-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-07-2026/08h/QUADRA_09-07-2026_08-19-19.jpg"
+                }
+              ]
             }
           }
         }
@@ -26417,6 +26427,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/09-07-2026/08h/QUADRA 5_09-07-2026_08-15-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/08h/QUADRA%205_09-07-2026_08-15-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/08h/QUADRA%205_09-07-2026_08-15-35.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_09-07-2026_08-20-41.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/09-07-2026/08h/QUADRA 5_09-07-2026_08-20-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/08h/QUADRA%205_09-07-2026_08-20-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/08h/QUADRA%205_09-07-2026_08-20-41.jpg"
                 }
               ]
             }
