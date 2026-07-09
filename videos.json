@@ -24633,6 +24633,18 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/09-07-2026/00h/QUADRA 5_09-07-2026_00-30-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/00h/QUADRA%205_09-07-2026_00-30-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/00h/QUADRA%205_09-07-2026_00-30-16.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_09-07-2026_00-31-16.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/09-07-2026/00h/QUADRA 5_09-07-2026_00-31-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/00h/QUADRA%205_09-07-2026_00-31-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/00h/QUADRA%205_09-07-2026_00-31-16.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_09-07-2026_00-32-05.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/09-07-2026/00h/QUADRA 5_09-07-2026_00-32-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/00h/QUADRA%205_09-07-2026_00-32-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/09-07-2026/00h/QUADRA%205_09-07-2026_00-32-05.jpg"
                 }
               ]
             }
@@ -26419,6 +26431,22 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/20-06-2026/08h/QUADRA_20-06-2026_08-55-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/20-06-2026/08h/QUADRA_20-06-2026_08-55-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/20-06-2026/08h/QUADRA_20-06-2026_08-55-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_20-06-2026_08-58-28.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/20-06-2026/08h/QUADRA_20-06-2026_08-58-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/20-06-2026/08h/QUADRA_20-06-2026_08-58-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/20-06-2026/08h/QUADRA_20-06-2026_08-58-28.jpg"
+                }
+              ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-06-2026_09-24-35.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/20-06-2026/09h/QUADRA_20-06-2026_09-24-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/20-06-2026/09h/QUADRA_20-06-2026_09-24-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/20-06-2026/09h/QUADRA_20-06-2026_09-24-35.jpg"
                 }
               ]
             }
@@ -29889,6 +29917,18 @@
       },
       "TW PADEL": {
         "QUADRA LK": {
+          "01-07-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-07-2026_16-33-09.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/01-07-2026/16h/QUADRA_01-07-2026_16-33-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/01-07-2026/16h/QUADRA_01-07-2026_16-33-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/01-07-2026/16h/QUADRA_01-07-2026_16-33-09.jpg"
+                }
+              ]
+            }
+          },
           "02-07-2026": {
             "19h": {
               "_videos": [
