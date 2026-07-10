@@ -13525,6 +13525,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/10-07-2026/10h/TRAVE%201%20-%20BAR_10-07-2026_10-22-12.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_10-07-2026_12-16-49.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/10-07-2026/12h/TRAVE 1 - BAR_10-07-2026_12-16-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/10-07-2026/12h/TRAVE%201%20-%20BAR_10-07-2026_12-16-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/10-07-2026/12h/TRAVE%201%20-%20BAR_10-07-2026_12-16-49.jpg"
+                }
+              ]
             }
           },
           "30-06-2026": {
@@ -14191,6 +14201,16 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/10-07-2026/10h/TRAVE 2 - RUA_10-07-2026_10-22-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/10-07-2026/10h/TRAVE%202%20-%20RUA_10-07-2026_10-22-12.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/10-07-2026/10h/TRAVE%202%20-%20RUA_10-07-2026_10-22-12.jpg"
+                }
+              ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_10-07-2026_12-16-49.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/10-07-2026/12h/TRAVE 2 - RUA_10-07-2026_12-16-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/10-07-2026/12h/TRAVE%202%20-%20RUA_10-07-2026_12-16-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/10-07-2026/12h/TRAVE%202%20-%20RUA_10-07-2026_12-16-49.jpg"
                 }
               ]
             }
