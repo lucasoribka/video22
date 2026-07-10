@@ -4227,6 +4227,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/10-07-2026/15h/QUADRA_10-07-2026_15-44-51.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-07-2026_16-29-08.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/10-07-2026/16h/QUADRA_10-07-2026_16-29-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/10-07-2026/16h/QUADRA_10-07-2026_16-29-08.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/10-07-2026/16h/QUADRA_10-07-2026_16-29-08.jpg"
+                }
+              ]
             }
           }
         }
@@ -11915,6 +11925,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/10-07-2026/16h/PADEL 1_10-07-2026_16-25-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/10-07-2026/16h/PADEL%201_10-07-2026_16-25-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/10-07-2026/16h/PADEL%201_10-07-2026_16-25-32.jpg"
+                },
+                {
+                  "nome": "PADEL 1_10-07-2026_16-30-57.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/10-07-2026/16h/PADEL 1_10-07-2026_16-30-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/10-07-2026/16h/PADEL%201_10-07-2026_16-30-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/10-07-2026/16h/PADEL%201_10-07-2026_16-30-57.jpg"
                 }
               ]
             }
@@ -33759,6 +33775,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/10-07-2026/16h/QUADRA 5_10-07-2026_16-28-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/10-07-2026/16h/QUADRA%205_10-07-2026_16-28-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/10-07-2026/16h/QUADRA%205_10-07-2026_16-28-57.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_10-07-2026_16-29-51.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/10-07-2026/16h/QUADRA 5_10-07-2026_16-29-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/10-07-2026/16h/QUADRA%205_10-07-2026_16-29-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/10-07-2026/16h/QUADRA%205_10-07-2026_16-29-51.jpg"
                 }
               ]
             }
@@ -38927,6 +38949,16 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/10-07-2026/11h/QUADRA_10-07-2026_11-43-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/10-07-2026/11h/QUADRA_10-07-2026_11-43-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/10-07-2026/11h/QUADRA_10-07-2026_11-43-34.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-07-2026_16-27-56.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/10-07-2026/16h/QUADRA_10-07-2026_16-27-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/10-07-2026/16h/QUADRA_10-07-2026_16-27-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/10-07-2026/16h/QUADRA_10-07-2026_16-27-56.jpg"
                 }
               ]
             }
