@@ -1315,6 +1315,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-07-2026/17h/QUADRA_11-07-2026_17-50-45.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-07-2026_18-08-27.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-07-2026/18h/QUADRA_11-07-2026_18-08-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-07-2026/18h/QUADRA_11-07-2026_18-08-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-07-2026/18h/QUADRA_11-07-2026_18-08-27.jpg"
+                }
+              ]
             }
           }
         },
@@ -38541,6 +38551,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/11-07-2026/18h/QUADRA 5_11-07-2026_18-07-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/11-07-2026/18h/QUADRA%205_11-07-2026_18-07-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/11-07-2026/18h/QUADRA%205_11-07-2026_18-07-57.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_11-07-2026_18-08-43.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/11-07-2026/18h/QUADRA 5_11-07-2026_18-08-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/11-07-2026/18h/QUADRA%205_11-07-2026_18-08-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/11-07-2026/18h/QUADRA%205_11-07-2026_18-08-43.jpg"
                 }
               ]
             }
