@@ -4809,6 +4809,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-07-2026/19h/QUADRA_13-07-2026_19-48-05.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-07-2026_20-23-04.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/13-07-2026/20h/QUADRA_13-07-2026_20-23-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-07-2026/20h/QUADRA_13-07-2026_20-23-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/13-07-2026/20h/QUADRA_13-07-2026_20-23-04.jpg"
+                }
+              ]
             }
           }
         }
@@ -44645,6 +44655,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/13-07-2026/20h/QUADRA 5_13-07-2026_20-23-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/13-07-2026/20h/QUADRA%205_13-07-2026_20-23-19.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/13-07-2026/20h/QUADRA%205_13-07-2026_20-23-19.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_13-07-2026_20-24-52.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/13-07-2026/20h/QUADRA 5_13-07-2026_20-24-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/13-07-2026/20h/QUADRA%205_13-07-2026_20-24-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/13-07-2026/20h/QUADRA%205_13-07-2026_20-24-52.jpg"
                 }
               ]
             }
@@ -46605,6 +46621,18 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/12-07-2026/22h/QUADRA_12-07-2026_22-22-49.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/12-07-2026/22h/QUADRA_12-07-2026_22-22-49.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/12-07-2026/22h/QUADRA_12-07-2026_22-22-49.jpg"
+                }
+              ]
+            }
+          },
+          "13-07-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-07-2026_20-22-52.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/13-07-2026/20h/QUADRA_13-07-2026_20-22-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/13-07-2026/20h/QUADRA_13-07-2026_20-22-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/13-07-2026/20h/QUADRA_13-07-2026_20-22-52.jpg"
                 }
               ]
             }
