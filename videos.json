@@ -2765,6 +2765,18 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-07-2026/18h/QUADRA 2_14-07-2026_18-17-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-07-2026/18h/QUADRA%202_14-07-2026_18-17-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-07-2026/18h/QUADRA%202_14-07-2026_18-17-46.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_14-07-2026_18-20-35.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-07-2026/18h/QUADRA 2_14-07-2026_18-20-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-07-2026/18h/QUADRA%202_14-07-2026_18-20-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-07-2026/18h/QUADRA%202_14-07-2026_18-20-35.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_14-07-2026_18-20-56.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/14-07-2026/18h/QUADRA 2_14-07-2026_18-20-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-07-2026/18h/QUADRA%202_14-07-2026_18-20-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/14-07-2026/18h/QUADRA%202_14-07-2026_18-20-56.jpg"
                 }
               ]
             }
@@ -15673,6 +15685,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 1/14-07-2026/18h/QUADRA 1_14-07-2026_18-19-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/14-07-2026/18h/QUADRA%201_14-07-2026_18-19-20.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/14-07-2026/18h/QUADRA%201_14-07-2026_18-19-20.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_14-07-2026_18-20-38.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 1/14-07-2026/18h/QUADRA 1_14-07-2026_18-20-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/14-07-2026/18h/QUADRA%201_14-07-2026_18-20-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/14-07-2026/18h/QUADRA%201_14-07-2026_18-20-38.jpg"
                 }
               ]
             }
@@ -40979,6 +40997,18 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/12-07-2026/19h/QUADRA_12-07-2026_19-31-55.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/12-07-2026/19h/QUADRA_12-07-2026_19-31-55.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/12-07-2026/19h/QUADRA_12-07-2026_19-31-55.jpg"
+                }
+              ]
+            }
+          },
+          "14-07-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-07-2026_18-19-53.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/14-07-2026/18h/QUADRA_14-07-2026_18-19-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/14-07-2026/18h/QUADRA_14-07-2026_18-19-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/14-07-2026/18h/QUADRA_14-07-2026_18-19-53.jpg"
                 }
               ]
             }
