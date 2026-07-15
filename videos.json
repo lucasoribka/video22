@@ -2371,6 +2371,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/15-07-2026/09h/QUADRA%202_15-07-2026_09-57-01.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_15-07-2026_18-47-20.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/15-07-2026/18h/QUADRA 2_15-07-2026_18-47-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/15-07-2026/18h/QUADRA%202_15-07-2026_18-47-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/15-07-2026/18h/QUADRA%202_15-07-2026_18-47-20.jpg"
+                }
+              ]
             }
           }
         },
@@ -7741,6 +7751,16 @@
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/15-07-2026/16h/QUADRA_15-07-2026_16-59-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/15-07-2026/16h/QUADRA_15-07-2026_16-59-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/15-07-2026/16h/QUADRA_15-07-2026_16-59-57.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-07-2026_18-45-50.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/15-07-2026/18h/QUADRA_15-07-2026_18-45-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/15-07-2026/18h/QUADRA_15-07-2026_18-45-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/15-07-2026/18h/QUADRA_15-07-2026_18-45-50.jpg"
                 }
               ]
             }
