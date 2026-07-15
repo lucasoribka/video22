@@ -1610,6 +1610,24 @@
                 }
               ]
             }
+          },
+          "15-07-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-07-2026_17-48-48.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/15-07-2026/17h/QUADRA_15-07-2026_17-48-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/15-07-2026/17h/QUADRA_15-07-2026_17-48-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/15-07-2026/17h/QUADRA_15-07-2026_17-48-48.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-07-2026_17-49-19.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/15-07-2026/17h/QUADRA_15-07-2026_17-49-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/15-07-2026/17h/QUADRA_15-07-2026_17-49-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/15-07-2026/17h/QUADRA_15-07-2026_17-49-19.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -9723,6 +9741,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/14-07-2026/20h/QUADRA 1_14-07-2026_20-13-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/14-07-2026/20h/QUADRA%201_14-07-2026_20-13-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/14-07-2026/20h/QUADRA%201_14-07-2026_20-13-21.jpg"
+                }
+              ]
+            }
+          },
+          "15-07-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_15-07-2026_17-48-19.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/15-07-2026/17h/QUADRA 1_15-07-2026_17-48-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/15-07-2026/17h/QUADRA%201_15-07-2026_17-48-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/15-07-2026/17h/QUADRA%201_15-07-2026_17-48-19.jpg"
                 }
               ]
             }
