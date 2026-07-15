@@ -8777,6 +8777,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/19h/TRAVE%201%20-%20BAR_15-07-2026_19-50-35.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_15-07-2026_20-16-46.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/15-07-2026/20h/TRAVE 1 - BAR_15-07-2026_20-16-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/20h/TRAVE%201%20-%20BAR_15-07-2026_20-16-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/20h/TRAVE%201%20-%20BAR_15-07-2026_20-16-46.jpg"
+                }
+              ]
             }
           }
         },
@@ -9857,6 +9867,16 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/15-07-2026/19h/TRAVE 2 - RUA_15-07-2026_19-50-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/19h/TRAVE%202%20-%20RUA_15-07-2026_19-50-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/19h/TRAVE%202%20-%20RUA_15-07-2026_19-50-35.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_15-07-2026_20-16-46.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/15-07-2026/20h/TRAVE 2 - RUA_15-07-2026_20-16-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/20h/TRAVE%202%20-%20RUA_15-07-2026_20-16-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/20h/TRAVE%202%20-%20RUA_15-07-2026_20-16-46.jpg"
                 }
               ]
             }
@@ -42239,6 +42259,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/15-07-2026/20h/QUADRA_15-07-2026_20-08-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/15-07-2026/20h/QUADRA_15-07-2026_20-08-19.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/15-07-2026/20h/QUADRA_15-07-2026_20-08-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-07-2026_20-12-33.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/15-07-2026/20h/QUADRA_15-07-2026_20-12-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/15-07-2026/20h/QUADRA_15-07-2026_20-12-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/15-07-2026/20h/QUADRA_15-07-2026_20-12-33.jpg"
                 }
               ]
             }
