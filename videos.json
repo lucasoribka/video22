@@ -2387,6 +2387,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/15-07-2026/18h/QUADRA%202_15-07-2026_18-47-20.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_15-07-2026_19-49-39.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/15-07-2026/19h/QUADRA 2_15-07-2026_19-49-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/15-07-2026/19h/QUADRA%202_15-07-2026_19-49-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/15-07-2026/19h/QUADRA%202_15-07-2026_19-49-39.jpg"
+                }
+              ]
             }
           }
         },
@@ -8595,6 +8605,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/15-07-2026/19h/TRAVE 1 - BAR_15-07-2026_19-34-31.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/19h/TRAVE%201%20-%20BAR_15-07-2026_19-34-31.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/19h/TRAVE%201%20-%20BAR_15-07-2026_19-34-31.jpg"
+                },
+                {
+                  "nome": "TRAVE 1 - BAR_15-07-2026_19-50-35.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/15-07-2026/19h/TRAVE 1 - BAR_15-07-2026_19-50-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/19h/TRAVE%201%20-%20BAR_15-07-2026_19-50-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/15-07-2026/19h/TRAVE%201%20-%20BAR_15-07-2026_19-50-35.jpg"
                 }
               ]
             }
@@ -9671,6 +9687,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/15-07-2026/19h/TRAVE 2 - RUA_15-07-2026_19-34-31.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/19h/TRAVE%202%20-%20RUA_15-07-2026_19-34-31.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/19h/TRAVE%202%20-%20RUA_15-07-2026_19-34-31.jpg"
+                },
+                {
+                  "nome": "TRAVE 2 - RUA_15-07-2026_19-50-35.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/15-07-2026/19h/TRAVE 2 - RUA_15-07-2026_19-50-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/19h/TRAVE%202%20-%20RUA_15-07-2026_19-50-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/15-07-2026/19h/TRAVE%202%20-%20RUA_15-07-2026_19-50-35.jpg"
                 }
               ]
             }
