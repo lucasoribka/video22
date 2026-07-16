@@ -4345,6 +4345,18 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/16-07-2026/15h/QUADRA_16-07-2026_15-01-08.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/16-07-2026/15h/QUADRA_16-07-2026_15-01-08.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/16-07-2026/15h/QUADRA_16-07-2026_15-01-08.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-07-2026_15-08-32.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/16-07-2026/15h/QUADRA_16-07-2026_15-08-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/16-07-2026/15h/QUADRA_16-07-2026_15-08-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/16-07-2026/15h/QUADRA_16-07-2026_15-08-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-07-2026_15-09-03.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/16-07-2026/15h/QUADRA_16-07-2026_15-09-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/16-07-2026/15h/QUADRA_16-07-2026_15-09-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/16-07-2026/15h/QUADRA_16-07-2026_15-09-03.jpg"
                 }
               ]
             }
@@ -8386,6 +8398,18 @@
                 }
               ]
             }
+          },
+          "16-07-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_16-07-2026_15-11-14.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/16-07-2026/15h/TRAVE 1 - CAMPO GRANDE_16-07-2026_15-11-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/16-07-2026/15h/TRAVE%201%20-%20CAMPO%20GRANDE_16-07-2026_15-11-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/16-07-2026/15h/TRAVE%201%20-%20CAMPO%20GRANDE_16-07-2026_15-11-14.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - CAMPO GRANDE": {
@@ -8747,6 +8771,18 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/15-07-2026/20h/TRAVE 2 - CAMPO GRANDE_15-07-2026_20-58-24.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/15-07-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_15-07-2026_20-58-24.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/15-07-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_15-07-2026_20-58-24.jpg"
+                }
+              ]
+            }
+          },
+          "16-07-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_16-07-2026_15-11-14.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/16-07-2026/15h/TRAVE 2 - CAMPO GRANDE_16-07-2026_15-11-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/16-07-2026/15h/TRAVE%202%20-%20CAMPO%20GRANDE_16-07-2026_15-11-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/16-07-2026/15h/TRAVE%202%20-%20CAMPO%20GRANDE_16-07-2026_15-11-14.jpg"
                 }
               ]
             }
