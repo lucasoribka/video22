@@ -860,6 +860,18 @@
                 }
               ]
             }
+          },
+          "16-07-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-07-2026_16-57-31.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/16-07-2026/16h/QUADRA_16-07-2026_16-57-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-07-2026/16h/QUADRA_16-07-2026_16-57-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-07-2026/16h/QUADRA_16-07-2026_16-57-31.jpg"
+                }
+              ]
+            }
           }
         },
         "QUADRA 2": {
@@ -3849,6 +3861,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-07-2026/07h/QUADRA_16-07-2026_07-31-27.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-07-2026/07h/QUADRA_16-07-2026_07-31-27.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-07-2026/07h/QUADRA_16-07-2026_07-31-27.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-07-2026_16-57-38.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/16-07-2026/16h/QUADRA_16-07-2026_16-57-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-07-2026/16h/QUADRA_16-07-2026_16-57-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/16-07-2026/16h/QUADRA_16-07-2026_16-57-38.jpg"
                 }
               ]
             }
