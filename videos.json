@@ -9421,6 +9421,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/15-07-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_15-07-2026_19-22-51.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_15-07-2026_20-58-24.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/15-07-2026/20h/TRAVE 1 - CAMPO GRANDE_15-07-2026_20-58-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/15-07-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_15-07-2026_20-58-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/15-07-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_15-07-2026_20-58-24.jpg"
+                }
+              ]
             }
           }
         },
@@ -9817,6 +9827,16 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/15-07-2026/19h/TRAVE 2 - CAMPO GRANDE_15-07-2026_19-22-51.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/15-07-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_15-07-2026_19-22-51.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/15-07-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_15-07-2026_19-22-51.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_15-07-2026_20-58-24.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/15-07-2026/20h/TRAVE 2 - CAMPO GRANDE_15-07-2026_20-58-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/15-07-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_15-07-2026_20-58-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/15-07-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_15-07-2026_20-58-24.jpg"
                 }
               ]
             }
@@ -11039,6 +11059,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/15-07-2026/20h/QUADRA 3_15-07-2026_20-57-00.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/15-07-2026/20h/QUADRA%203_15-07-2026_20-57-00.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/15-07-2026/20h/QUADRA%203_15-07-2026_20-57-00.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_15-07-2026_20-58-11.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/15-07-2026/20h/QUADRA 3_15-07-2026_20-58-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/15-07-2026/20h/QUADRA%203_15-07-2026_20-58-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/15-07-2026/20h/QUADRA%203_15-07-2026_20-58-11.jpg"
                 }
               ]
             }
@@ -37705,6 +37731,18 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/14-07-2026/21h/QUADRA_14-07-2026_21-36-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/14-07-2026/21h/QUADRA_14-07-2026_21-36-20.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/14-07-2026/21h/QUADRA_14-07-2026_21-36-20.jpg"
+                }
+              ]
+            }
+          },
+          "15-07-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-07-2026_20-56-12.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/15-07-2026/20h/QUADRA_15-07-2026_20-56-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/15-07-2026/20h/QUADRA_15-07-2026_20-56-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/15-07-2026/20h/QUADRA_15-07-2026_20-56-12.jpg"
                 }
               ]
             }
