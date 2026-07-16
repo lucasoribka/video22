@@ -37797,6 +37797,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/16-07-2026/17h/QUADRA_16-07-2026_17-55-05.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-07-2026_18-00-51.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/16-07-2026/18h/QUADRA_16-07-2026_18-00-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/16-07-2026/18h/QUADRA_16-07-2026_18-00-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/16-07-2026/18h/QUADRA_16-07-2026_18-00-51.jpg"
+                }
+              ]
             }
           }
         },
@@ -41125,6 +41135,16 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/16-07-2026/17h/QUADRA_16-07-2026_17-55-45.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/16-07-2026/17h/QUADRA_16-07-2026_17-55-45.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/16-07-2026/17h/QUADRA_16-07-2026_17-55-45.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-07-2026_18-03-26.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/16-07-2026/18h/QUADRA_16-07-2026_18-03-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/16-07-2026/18h/QUADRA_16-07-2026_18-03-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/16-07-2026/18h/QUADRA_16-07-2026_18-03-26.jpg"
                 }
               ]
             }
