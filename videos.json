@@ -27593,6 +27593,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/17-07-2026/11h/QUADRA 5_17-07-2026_11-05-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/17-07-2026/11h/QUADRA%205_17-07-2026_11-05-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/17-07-2026/11h/QUADRA%205_17-07-2026_11-05-13.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_17-07-2026_11-06-30.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/17-07-2026/11h/QUADRA 5_17-07-2026_11-06-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/17-07-2026/11h/QUADRA%205_17-07-2026_11-06-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/17-07-2026/11h/QUADRA%205_17-07-2026_11-06-30.jpg"
                 }
               ]
             }
@@ -32309,6 +32315,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/17-07-2026/10h/QUADRA_17-07-2026_10-48-33.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-07-2026_11-04-04.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/17-07-2026/11h/QUADRA_17-07-2026_11-04-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/17-07-2026/11h/QUADRA_17-07-2026_11-04-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/17-07-2026/11h/QUADRA_17-07-2026_11-04-04.jpg"
+                }
+              ]
             }
           }
         },
@@ -35929,6 +35945,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/16-07-2026/20h/QUADRA_16-07-2026_20-55-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/16-07-2026/20h/QUADRA_16-07-2026_20-55-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/16-07-2026/20h/QUADRA_16-07-2026_20-55-06.jpg"
+                }
+              ]
+            }
+          },
+          "17-07-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-07-2026_11-04-39.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/17-07-2026/11h/QUADRA_17-07-2026_11-04-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-07-2026/11h/QUADRA_17-07-2026_11-04-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-07-2026/11h/QUADRA_17-07-2026_11-04-39.jpg"
                 }
               ]
             }
