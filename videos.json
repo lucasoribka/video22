@@ -1059,6 +1059,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/18-07-2026/17h/QUADRA_18-07-2026_17-32-14.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-32-14.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-32-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-07-2026_17-38-02.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/18-07-2026/17h/QUADRA_18-07-2026_17-38-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-38-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-38-02.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-07-2026_17-39-37.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/18-07-2026/17h/QUADRA_18-07-2026_17-39-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-39-37.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-39-37.jpg"
                 }
               ]
             }
@@ -38029,6 +38041,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/13-07-2026/20h/QUADRA_13-07-2026_20-06-29.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/13-07-2026/20h/QUADRA_13-07-2026_20-06-29.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/13-07-2026/20h/QUADRA_13-07-2026_20-06-29.jpg"
+                }
+              ]
+            }
+          },
+          "18-07-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-07-2026_17-38-17.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/18-07-2026/17h/QUADRA_18-07-2026_17-38-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/18-07-2026/17h/QUADRA_18-07-2026_17-38-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/18-07-2026/17h/QUADRA_18-07-2026_17-38-17.jpg"
                 }
               ]
             }
