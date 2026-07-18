@@ -7067,6 +7067,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/18-07-2026/10h/PADEL%201_18-07-2026_10-39-07.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 1_18-07-2026_11-13-58.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/18-07-2026/11h/PADEL 1_18-07-2026_11-13-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/18-07-2026/11h/PADEL%201_18-07-2026_11-13-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/18-07-2026/11h/PADEL%201_18-07-2026_11-13-58.jpg"
+                }
+              ]
             }
           }
         },
@@ -9717,6 +9727,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/16-07-2026/21h/QUADRA 1_16-07-2026_21-44-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/16-07-2026/21h/QUADRA%201_16-07-2026_21-44-12.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/16-07-2026/21h/QUADRA%201_16-07-2026_21-44-12.jpg"
+                }
+              ]
+            }
+          },
+          "18-07-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_18-07-2026_11-13-33.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/18-07-2026/11h/QUADRA 1_18-07-2026_11-13-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/18-07-2026/11h/QUADRA%201_18-07-2026_11-13-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/18-07-2026/11h/QUADRA%201_18-07-2026_11-13-33.jpg"
                 }
               ]
             }
