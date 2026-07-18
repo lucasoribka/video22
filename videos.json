@@ -1175,6 +1175,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/17h/QUADRA_18-07-2026_17-58-24.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-07-2026_18-01-19.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/18-07-2026/18h/QUADRA_18-07-2026_18-01-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/18h/QUADRA_18-07-2026_18-01-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/18-07-2026/18h/QUADRA_18-07-2026_18-01-19.jpg"
+                }
+              ]
             }
           }
         },
@@ -2321,6 +2331,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/18-07-2026/17h/QUADRA_18-07-2026_17-52-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-07-2026/17h/QUADRA_18-07-2026_17-52-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-07-2026/17h/QUADRA_18-07-2026_17-52-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-07-2026_17-59-41.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/18-07-2026/17h/QUADRA_18-07-2026_17-59-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-07-2026/17h/QUADRA_18-07-2026_17-59-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-07-2026/17h/QUADRA_18-07-2026_17-59-41.jpg"
                 }
               ]
             }
