@@ -2265,6 +2265,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/23-07-2026/20h/QUADRA_23-07-2026_20-43-53.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-43-53.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-43-53.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-07-2026_20-58-48.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/23-07-2026/20h/QUADRA_23-07-2026_20-58-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-58-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-58-48.jpg"
                 }
               ]
             }
@@ -6299,6 +6305,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/23-07-2026/18h/BEACH%201_23-07-2026_18-57-49.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "BEACH 1_23-07-2026_20-59-48.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 1/23-07-2026/20h/BEACH 1_23-07-2026_20-59-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/23-07-2026/20h/BEACH%201_23-07-2026_20-59-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%201/23-07-2026/20h/BEACH%201_23-07-2026_20-59-48.jpg"
+                }
+              ]
             }
           }
         },
@@ -8441,6 +8457,12 @@
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/23-07-2026/20h/QUADRA_23-07-2026_20-54-15.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-54-15.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-54-15.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-07-2026_20-57-42.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/23-07-2026/20h/QUADRA_23-07-2026_20-57-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-57-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/23-07-2026/20h/QUADRA_23-07-2026_20-57-42.jpg"
                 }
               ]
             }
