@@ -2709,6 +2709,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/26-07-2026/18h/QUADRA%201_26-07-2026_18-57-07.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_26-07-2026_19-39-19.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/26-07-2026/19h/QUADRA 1_26-07-2026_19-39-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/26-07-2026/19h/QUADRA%201_26-07-2026_19-39-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/26-07-2026/19h/QUADRA%201_26-07-2026_19-39-19.jpg"
+                }
+              ]
             }
           }
         },
@@ -2985,6 +2995,22 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-07-2026/18h/QUADRA 2_26-07-2026_18-35-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-07-2026/18h/QUADRA%202_26-07-2026_18-35-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-07-2026/18h/QUADRA%202_26-07-2026_18-35-56.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_26-07-2026_19-38-04.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-07-2026/19h/QUADRA 2_26-07-2026_19-38-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-07-2026/19h/QUADRA%202_26-07-2026_19-38-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-07-2026/19h/QUADRA%202_26-07-2026_19-38-04.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_26-07-2026_19-38-39.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/26-07-2026/19h/QUADRA 2_26-07-2026_19-38-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-07-2026/19h/QUADRA%202_26-07-2026_19-38-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/26-07-2026/19h/QUADRA%202_26-07-2026_19-38-39.jpg"
                 }
               ]
             }
