@@ -4517,6 +4517,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/27-07-2026/19h/QUADRA_27-07-2026_19-52-22.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-07-2026_20-00-56.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/27-07-2026/20h/QUADRA_27-07-2026_20-00-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/27-07-2026/20h/QUADRA_27-07-2026_20-00-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/27-07-2026/20h/QUADRA_27-07-2026_20-00-56.jpg"
+                }
+              ]
             }
           }
         }
@@ -4961,6 +4971,16 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/27-07-2026/19h/QUADRA_27-07-2026_19-47-17.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-07-2026/19h/QUADRA_27-07-2026_19-47-17.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-07-2026/19h/QUADRA_27-07-2026_19-47-17.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-07-2026_20-01-31.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/27-07-2026/20h/QUADRA_27-07-2026_20-01-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-07-2026/20h/QUADRA_27-07-2026_20-01-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/27-07-2026/20h/QUADRA_27-07-2026_20-01-31.jpg"
                 }
               ]
             }
