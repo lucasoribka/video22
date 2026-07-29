@@ -10055,6 +10055,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/29-07-2026/17h/QUADRA%201_29-07-2026_17-58-52.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_29-07-2026_18-08-48.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/29-07-2026/18h/QUADRA 1_29-07-2026_18-08-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/29-07-2026/18h/QUADRA%201_29-07-2026_18-08-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/29-07-2026/18h/QUADRA%201_29-07-2026_18-08-48.jpg"
+                }
+              ]
             }
           }
         },
@@ -11089,6 +11099,16 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 1/29-07-2026/17h/QUADRA 1_29-07-2026_17-59-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/29-07-2026/17h/QUADRA%201_29-07-2026_17-59-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/29-07-2026/17h/QUADRA%201_29-07-2026_17-59-35.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_29-07-2026_18-10-19.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 1/29-07-2026/18h/QUADRA 1_29-07-2026_18-10-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/29-07-2026/18h/QUADRA%201_29-07-2026_18-10-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%201/29-07-2026/18h/QUADRA%201_29-07-2026_18-10-19.jpg"
                 }
               ]
             }
