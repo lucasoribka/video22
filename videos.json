@@ -5759,6 +5759,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/29-07-2026/19h/QUADRA_29-07-2026_19-57-55.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-07-2026_20-00-29.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/29-07-2026/20h/QUADRA_29-07-2026_20-00-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/29-07-2026/20h/QUADRA_29-07-2026_20-00-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/29-07-2026/20h/QUADRA_29-07-2026_20-00-29.jpg"
+                }
+              ]
             }
           }
         }
@@ -11095,6 +11105,16 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 2/29-07-2026/19h/QUADRA 2_29-07-2026_19-56-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%202/29-07-2026/19h/QUADRA%202_29-07-2026_19-56-20.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%202/29-07-2026/19h/QUADRA%202_29-07-2026_19-56-20.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_29-07-2026_20-00-50.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 2/29-07-2026/20h/QUADRA 2_29-07-2026_20-00-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%202/29-07-2026/20h/QUADRA%202_29-07-2026_20-00-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%202/29-07-2026/20h/QUADRA%202_29-07-2026_20-00-50.jpg"
                 }
               ]
             }
@@ -23901,6 +23921,12 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/21-07-2026/16h/QUADRA_21-07-2026_16-14-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/21-07-2026/16h/QUADRA_21-07-2026_16-14-19.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/21-07-2026/16h/QUADRA_21-07-2026_16-14-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-07-2026_16-14-56.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/21-07-2026/16h/QUADRA_21-07-2026_16-14-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/21-07-2026/16h/QUADRA_21-07-2026_16-14-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/21-07-2026/16h/QUADRA_21-07-2026_16-14-56.jpg"
                 }
               ]
             }
