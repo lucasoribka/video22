@@ -22747,6 +22747,12 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/30-07-2026/20h/QUADRA 5_30-07-2026_20-05-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/30-07-2026/20h/QUADRA%205_30-07-2026_20-05-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/30-07-2026/20h/QUADRA%205_30-07-2026_20-05-04.jpg"
+                },
+                {
+                  "nome": "QUADRA 5_30-07-2026_20-06-20.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 5/30-07-2026/20h/QUADRA 5_30-07-2026_20-06-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/30-07-2026/20h/QUADRA%205_30-07-2026_20-06-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%205/30-07-2026/20h/QUADRA%205_30-07-2026_20-06-20.jpg"
                 }
               ]
             }
@@ -24399,6 +24405,18 @@
     "MAFRA-SC": {
       "JR03 - RAFINHA": {
         "AREIA 1": {
+          "25-07-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-07-2026_17-14-21.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/25-07-2026/17h/QUADRA_25-07-2026_17-14-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/25-07-2026/17h/QUADRA_25-07-2026_17-14-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/25-07-2026/17h/QUADRA_25-07-2026_17-14-21.jpg"
+                }
+              ]
+            }
+          },
           "26-07-2026": {
             "15h": {
               "_videos": [
