@@ -565,6 +565,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/00h/QUADRA_01-08-2026_00-01-54.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-08-2026_10-54-42.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/01-08-2026/10h/QUADRA_01-08-2026_10-54-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/10h/QUADRA_01-08-2026_10-54-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/10h/QUADRA_01-08-2026_10-54-42.jpg"
+                }
+              ]
             }
           },
           "28-07-2026": {
@@ -26311,6 +26321,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/01-08-2026/10h/QUADRA_01-08-2026_10-44-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/01-08-2026/10h/QUADRA_01-08-2026_10-44-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/01-08-2026/10h/QUADRA_01-08-2026_10-44-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-08-2026_10-52-01.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/01-08-2026/10h/QUADRA_01-08-2026_10-52-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/01-08-2026/10h/QUADRA_01-08-2026_10-52-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/01-08-2026/10h/QUADRA_01-08-2026_10-52-01.jpg"
                 }
               ]
             }
