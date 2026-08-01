@@ -763,6 +763,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/01-08-2026/15h/QUADRA_01-08-2026_15-57-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/15h/QUADRA_01-08-2026_15-57-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/15h/QUADRA_01-08-2026_15-57-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-08-2026_15-58-43.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/01-08-2026/15h/QUADRA_01-08-2026_15-58-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/15h/QUADRA_01-08-2026_15-58-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/01-08-2026/15h/QUADRA_01-08-2026_15-58-43.jpg"
                 }
               ]
             }
@@ -6905,6 +6911,18 @@
       },
       "RESENHA SOCIETY": {
         "TRAVE 1": {
+          "01-08-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-08-2026_15-58-42.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/01-08-2026/15h/QUADRA_01-08-2026_15-58-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/01-08-2026/15h/QUADRA_01-08-2026_15-58-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/01-08-2026/15h/QUADRA_01-08-2026_15-58-42.jpg"
+                }
+              ]
+            }
+          },
           "27-07-2026": {
             "19h": {
               "_videos": [
