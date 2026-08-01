@@ -2875,6 +2875,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-08-2026/10h/CAMPO%201%20ESQUERDA_01-08-2026_10-49-14.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_01-08-2026_11-28-48.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/01-08-2026/11h/CAMPO 1 ESQUERDA_01-08-2026_11-28-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-08-2026/11h/CAMPO%201%20ESQUERDA_01-08-2026_11-28-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-08-2026/11h/CAMPO%201%20ESQUERDA_01-08-2026_11-28-48.jpg"
+                }
+              ]
             }
           },
           "31-07-2026": {
@@ -8565,6 +8575,18 @@
           }
         },
         "PADEL 1": {
+          "01-08-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 1_01-08-2026_11-28-47.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/01-08-2026/11h/PADEL 1_01-08-2026_11-28-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/01-08-2026/11h/PADEL%201_01-08-2026_11-28-47.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/01-08-2026/11h/PADEL%201_01-08-2026_11-28-47.jpg"
+                }
+              ]
+            }
+          },
           "27-07-2026": {
             "19h": {
               "_videos": [
