@@ -3755,6 +3755,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/QUADRA 1/01-08-2026/17h/QUADRA 1_01-08-2026_17-55-36.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%201/01-08-2026/17h/QUADRA%201_01-08-2026_17-55-36.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%201/01-08-2026/17h/QUADRA%201_01-08-2026_17-55-36.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_01-08-2026_17-56-29.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/QUADRA 1/01-08-2026/17h/QUADRA 1_01-08-2026_17-56-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%201/01-08-2026/17h/QUADRA%201_01-08-2026_17-56-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%201/01-08-2026/17h/QUADRA%201_01-08-2026_17-56-29.jpg"
                 }
               ]
             }
@@ -30993,6 +30999,18 @@
           }
         },
         "AREIA 2": {
+          "01-08-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-08-2026_17-54-18.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/01-08-2026/17h/QUADRA_01-08-2026_17-54-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-08-2026/17h/QUADRA_01-08-2026_17-54-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-08-2026/17h/QUADRA_01-08-2026_17-54-18.jpg"
+                }
+              ]
+            }
+          },
           "19-07-2026": {
             "10h": {
               "_videos": [
