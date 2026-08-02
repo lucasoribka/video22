@@ -3999,6 +3999,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/02-08-2026/17h/QUADRA%201_02-08-2026_17-32-19.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_02-08-2026_18-01-57.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/02-08-2026/18h/QUADRA 1_02-08-2026_18-01-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/02-08-2026/18h/QUADRA%201_02-08-2026_18-01-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/02-08-2026/18h/QUADRA%201_02-08-2026_18-01-57.jpg"
+                }
+              ]
             }
           },
           "25-07-2026": {
@@ -24479,6 +24489,16 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 6/02-08-2026/11h/QUADRA 6_02-08-2026_11-32-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/02-08-2026/11h/QUADRA%206_02-08-2026_11-32-26.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/02-08-2026/11h/QUADRA%206_02-08-2026_11-32-26.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 6_02-08-2026_18-00-39.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 6/02-08-2026/18h/QUADRA 6_02-08-2026_18-00-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/02-08-2026/18h/QUADRA%206_02-08-2026_18-00-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/02-08-2026/18h/QUADRA%206_02-08-2026_18-00-39.jpg"
                 }
               ]
             }
