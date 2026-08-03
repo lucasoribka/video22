@@ -181,6 +181,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/03-08-2026/17h/QUADRA_03-08-2026_17-44-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/03-08-2026/17h/QUADRA_03-08-2026_17-44-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/03-08-2026/17h/QUADRA_03-08-2026_17-44-05.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-08-2026_17-48-24.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/03-08-2026/17h/QUADRA_03-08-2026_17-48-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/03-08-2026/17h/QUADRA_03-08-2026_17-48-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/03-08-2026/17h/QUADRA_03-08-2026_17-48-24.jpg"
                 }
               ]
             }
@@ -4201,6 +4207,18 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/02-08-2026/19h/QUADRA 1_02-08-2026_19-01-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/02-08-2026/19h/QUADRA%201_02-08-2026_19-01-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/02-08-2026/19h/QUADRA%201_02-08-2026_19-01-57.jpg"
+                }
+              ]
+            }
+          },
+          "03-08-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_03-08-2026_17-50-01.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/03-08-2026/17h/QUADRA 1_03-08-2026_17-50-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/03-08-2026/17h/QUADRA%201_03-08-2026_17-50-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/03-08-2026/17h/QUADRA%201_03-08-2026_17-50-01.jpg"
                 }
               ]
             }
