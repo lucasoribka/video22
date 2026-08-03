@@ -2711,6 +2711,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-08-2026/18h/QUADRA_03-08-2026_18-54-28.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-08-2026_19-13-58.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/03-08-2026/19h/QUADRA_03-08-2026_19-13-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-08-2026/19h/QUADRA_03-08-2026_19-13-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-08-2026/19h/QUADRA_03-08-2026_19-13-58.jpg"
+                }
+              ]
             }
           },
           "28-07-2026": {
@@ -24793,6 +24803,16 @@
                   "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 6/03-08-2026/17h/QUADRA 6_03-08-2026_17-39-14.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/03-08-2026/17h/QUADRA%206_03-08-2026_17-39-14.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/03-08-2026/17h/QUADRA%206_03-08-2026_17-39-14.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 6_03-08-2026_19-12-37.mp4",
+                  "path": "/SC/IMBITUBA/ARENA JIM/QUADRA 6/03-08-2026/19h/QUADRA 6_03-08-2026_19-12-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/03-08-2026/19h/QUADRA%206_03-08-2026_19-12-37.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/IMBITUBA/ARENA%20JIM/QUADRA%206/03-08-2026/19h/QUADRA%206_03-08-2026_19-12-37.jpg"
                 }
               ]
             }
