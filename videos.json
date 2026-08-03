@@ -4109,6 +4109,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/03-08-2026/17h/QUADRA%201_03-08-2026_17-50-01.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_03-08-2026_20-30-40.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/03-08-2026/20h/QUADRA 1_03-08-2026_20-30-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/03-08-2026/20h/QUADRA%201_03-08-2026_20-30-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/03-08-2026/20h/QUADRA%201_03-08-2026_20-30-40.jpg"
+                }
+              ]
             }
           },
           "28-07-2026": {
@@ -4215,6 +4225,16 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/03-08-2026/17h/QUADRA 2_03-08-2026_17-04-14.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/03-08-2026/17h/QUADRA%202_03-08-2026_17-04-14.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/03-08-2026/17h/QUADRA%202_03-08-2026_17-04-14.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_03-08-2026_20-29-17.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/03-08-2026/20h/QUADRA 2_03-08-2026_20-29-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/03-08-2026/20h/QUADRA%202_03-08-2026_20-29-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/03-08-2026/20h/QUADRA%202_03-08-2026_20-29-17.jpg"
                 }
               ]
             }
@@ -17783,6 +17803,18 @@
               ]
             }
           },
+          "25-07-2026": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-07-2026_13-20-40.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/25-07-2026/13h/QUADRA_25-07-2026_13-20-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/25-07-2026/13h/QUADRA_25-07-2026_13-20-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/25-07-2026/13h/QUADRA_25-07-2026_13-20-40.jpg"
+                }
+              ]
+            }
+          },
           "28-07-2026": {
             "08h": {
               "_videos": [
@@ -18143,6 +18175,18 @@
               ]
             }
           },
+          "25-07-2026": {
+            "13h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-07-2026_13-20-16.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/25-07-2026/13h/QUADRA_25-07-2026_13-20-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/25-07-2026/13h/QUADRA_25-07-2026_13-20-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/25-07-2026/13h/QUADRA_25-07-2026_13-20-16.jpg"
+                }
+              ]
+            }
+          },
           "29-07-2026": {
             "14h": {
               "_videos": [
@@ -18359,6 +18403,12 @@
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-08-2026/20h/QUADRA_03-08-2026_20-23-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-08-2026/20h/QUADRA_03-08-2026_20-23-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-08-2026/20h/QUADRA_03-08-2026_20-23-37.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-08-2026_20-24-27.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-08-2026/20h/QUADRA_03-08-2026_20-24-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-08-2026/20h/QUADRA_03-08-2026_20-24-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/03-08-2026/20h/QUADRA_03-08-2026_20-24-27.jpg"
                 }
               ]
             }
