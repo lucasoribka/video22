@@ -2731,6 +2731,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/04-08-2026/18h/QUADRA_04-08-2026_18-52-27.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_04-08-2026_19-24-24.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/04-08-2026/19h/QUADRA_04-08-2026_19-24-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/04-08-2026/19h/QUADRA_04-08-2026_19-24-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/04-08-2026/19h/QUADRA_04-08-2026_19-24-24.jpg"
+                }
+              ]
             }
           },
           "29-07-2026": {
@@ -3933,6 +3943,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 DIREITA/04-08-2026/19h/CAMPO 2 DIREITA_04-08-2026_19-05-09.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/04-08-2026/19h/CAMPO%202%20DIREITA_04-08-2026_19-05-09.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/04-08-2026/19h/CAMPO%202%20DIREITA_04-08-2026_19-05-09.jpg"
+                },
+                {
+                  "nome": "CAMPO 2 DIREITA_04-08-2026_19-24-32.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 DIREITA/04-08-2026/19h/CAMPO 2 DIREITA_04-08-2026_19-24-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/04-08-2026/19h/CAMPO%202%20DIREITA_04-08-2026_19-24-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/04-08-2026/19h/CAMPO%202%20DIREITA_04-08-2026_19-24-32.jpg"
                 }
               ]
             }
@@ -4451,6 +4467,20 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/QUADRA 1/01-08-2026/18h/QUADRA 1_01-08-2026_18-24-00.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%201/01-08-2026/18h/QUADRA%201_01-08-2026_18-24-00.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%201/01-08-2026/18h/QUADRA%201_01-08-2026_18-24-00.jpg"
+                }
+              ]
+            }
+          }
+        },
+        "QUADRA 2": {
+          "04-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_04-08-2026_19-24-31.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/QUADRA 2/04-08-2026/19h/QUADRA 2_04-08-2026_19-24-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%202/04-08-2026/19h/QUADRA%202_04-08-2026_19-24-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/QUADRA%202/04-08-2026/19h/QUADRA%202_04-08-2026_19-24-31.jpg"
                 }
               ]
             }
@@ -12125,6 +12155,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/04-08-2026/19h/QUADRA 1_04-08-2026_19-07-07.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/04-08-2026/19h/QUADRA%201_04-08-2026_19-07-07.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/04-08-2026/19h/QUADRA%201_04-08-2026_19-07-07.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_04-08-2026_19-24-07.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/04-08-2026/19h/QUADRA 1_04-08-2026_19-24-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/04-08-2026/19h/QUADRA%201_04-08-2026_19-24-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/04-08-2026/19h/QUADRA%201_04-08-2026_19-24-07.jpg"
                 }
               ]
             }
