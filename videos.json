@@ -3837,6 +3837,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/04-08-2026/19h/CAMPO 1 ESQUERDA_04-08-2026_19-06-10.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/04-08-2026/19h/CAMPO%201%20ESQUERDA_04-08-2026_19-06-10.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/04-08-2026/19h/CAMPO%201%20ESQUERDA_04-08-2026_19-06-10.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_04-08-2026_19-21-09.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/04-08-2026/19h/CAMPO 1 ESQUERDA_04-08-2026_19-21-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/04-08-2026/19h/CAMPO%201%20ESQUERDA_04-08-2026_19-21-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/04-08-2026/19h/CAMPO%201%20ESQUERDA_04-08-2026_19-21-09.jpg"
                 }
               ]
             }
@@ -12277,6 +12283,16 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/04-08-2026/18h/QUADRA 3_04-08-2026_18-43-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/04-08-2026/18h/QUADRA%203_04-08-2026_18-43-26.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/04-08-2026/18h/QUADRA%203_04-08-2026_18-43-26.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_04-08-2026_19-20-10.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/04-08-2026/19h/QUADRA 3_04-08-2026_19-20-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/04-08-2026/19h/QUADRA%203_04-08-2026_19-20-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/04-08-2026/19h/QUADRA%203_04-08-2026_19-20-10.jpg"
                 }
               ]
             }
