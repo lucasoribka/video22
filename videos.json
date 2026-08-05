@@ -1889,6 +1889,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/05-08-2026/18h/QUADRA_05-08-2026_18-43-52.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-08-2026/18h/QUADRA_05-08-2026_18-43-52.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-08-2026/18h/QUADRA_05-08-2026_18-43-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-08-2026_18-49-59.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/05-08-2026/18h/QUADRA_05-08-2026_18-49-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-08-2026/18h/QUADRA_05-08-2026_18-49-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-08-2026/18h/QUADRA_05-08-2026_18-49-59.jpg"
                 }
               ]
             }
@@ -3005,6 +3011,18 @@
               ]
             }
           },
+          "05-08-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-08-2026_18-49-33.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/05-08-2026/18h/QUADRA_05-08-2026_18-49-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/05-08-2026/18h/QUADRA_05-08-2026_18-49-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/05-08-2026/18h/QUADRA_05-08-2026_18-49-33.jpg"
+                }
+              ]
+            }
+          },
           "30-07-2026": {
             "19h": {
               "_videos": [
@@ -3755,6 +3773,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/05-08-2026/18h/CAMPO 1 DIREITA_05-08-2026_18-50-29.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/05-08-2026/18h/CAMPO%201%20DIREITA_05-08-2026_18-50-29.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/05-08-2026/18h/CAMPO%201%20DIREITA_05-08-2026_18-50-29.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_05-08-2026_18-52-06.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/05-08-2026/18h/CAMPO 1 DIREITA_05-08-2026_18-52-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/05-08-2026/18h/CAMPO%201%20DIREITA_05-08-2026_18-52-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/05-08-2026/18h/CAMPO%201%20DIREITA_05-08-2026_18-52-06.jpg"
                 }
               ]
             }
@@ -5803,6 +5827,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/05-08-2026/18h/QUADRA_05-08-2026_18-46-17.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/05-08-2026/18h/QUADRA_05-08-2026_18-46-17.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/05-08-2026/18h/QUADRA_05-08-2026_18-46-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-08-2026_18-49-17.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/05-08-2026/18h/QUADRA_05-08-2026_18-49-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/05-08-2026/18h/QUADRA_05-08-2026_18-49-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/05-08-2026/18h/QUADRA_05-08-2026_18-49-17.jpg"
                 }
               ]
             }
