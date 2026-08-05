@@ -7635,6 +7635,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/05-08-2026/19h/QUADRA_05-08-2026_19-59-10.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-08-2026_20-04-18.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/05-08-2026/20h/QUADRA_05-08-2026_20-04-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/05-08-2026/20h/QUADRA_05-08-2026_20-04-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/05-08-2026/20h/QUADRA_05-08-2026_20-04-18.jpg"
+                }
+              ]
             }
           },
           "30-07-2026": {
@@ -9025,6 +9035,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/05-08-2026/20h/BEACH 2_05-08-2026_20-03-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/05-08-2026/20h/BEACH%202_05-08-2026_20-03-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/05-08-2026/20h/BEACH%202_05-08-2026_20-03-21.jpg"
+                },
+                {
+                  "nome": "BEACH 2_05-08-2026_20-05-20.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/05-08-2026/20h/BEACH 2_05-08-2026_20-05-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/05-08-2026/20h/BEACH%202_05-08-2026_20-05-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/05-08-2026/20h/BEACH%202_05-08-2026_20-05-20.jpg"
                 }
               ]
             }
