@@ -721,6 +721,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-06-28.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-06-28.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-06-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-08-2026_09-18-46.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-18-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-18-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-18-46.jpg"
                 }
               ]
             }
@@ -2031,6 +2037,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/06-08-2026/09h/QUADRA_06-08-2026_09-10-10.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-08-2026/09h/QUADRA_06-08-2026_09-10-10.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-08-2026/09h/QUADRA_06-08-2026_09-10-10.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-08-2026_09-10-49.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/06-08-2026/09h/QUADRA_06-08-2026_09-10-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-08-2026/09h/QUADRA_06-08-2026_09-10-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/06-08-2026/09h/QUADRA_06-08-2026_09-10-49.jpg"
                 }
               ]
             }
@@ -14247,6 +14259,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/26-07-2026/19h/QUADRA_26-07-2026_19-57-18.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-07-2026_20-56-57.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/26-07-2026/20h/QUADRA_26-07-2026_20-56-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/26-07-2026/20h/QUADRA_26-07-2026_20-56-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/26-07-2026/20h/QUADRA_26-07-2026_20-56-57.jpg"
+                }
+              ]
             }
           }
         },
@@ -14681,6 +14703,16 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/27-07-2026/17h/QUADRA_27-07-2026_17-59-40.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/27-07-2026/17h/QUADRA_27-07-2026_17-59-40.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/27-07-2026/17h/QUADRA_27-07-2026_17-59-40.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_27-07-2026_18-05-03.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/27-07-2026/18h/QUADRA_27-07-2026_18-05-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/27-07-2026/18h/QUADRA_27-07-2026_18-05-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/27-07-2026/18h/QUADRA_27-07-2026_18-05-03.jpg"
                 }
               ]
             }
