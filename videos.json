@@ -11447,6 +11447,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/05-08-2026/18h/QUADRA%201_05-08-2026_18-52-19.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_05-08-2026_21-35-39.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/05-08-2026/21h/QUADRA 1_05-08-2026_21-35-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/05-08-2026/21h/QUADRA%201_05-08-2026_21-35-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/05-08-2026/21h/QUADRA%201_05-08-2026_21-35-39.jpg"
+                }
+              ]
             }
           },
           "31-07-2026": {
@@ -14793,6 +14803,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/30-07-2026/18h/QUADRA_30-07-2026_18-25-27.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-07-2026_19-22-18.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/30-07-2026/19h/QUADRA_30-07-2026_19-22-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/30-07-2026/19h/QUADRA_30-07-2026_19-22-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/30-07-2026/19h/QUADRA_30-07-2026_19-22-18.jpg"
+                }
+              ]
             }
           }
         },
@@ -15681,6 +15701,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/05-08-2026/21h/QUADRA_05-08-2026_21-10-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/05-08-2026/21h/QUADRA_05-08-2026_21-10-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/05-08-2026/21h/QUADRA_05-08-2026_21-10-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-08-2026_21-26-25.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/05-08-2026/21h/QUADRA_05-08-2026_21-26-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/05-08-2026/21h/QUADRA_05-08-2026_21-26-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/05-08-2026/21h/QUADRA_05-08-2026_21-26-25.jpg"
                 }
               ]
             }
