@@ -739,6 +739,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-23-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-23-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-23-56.jpg"
+                },
+                {
+                  "nome": "QUADRA_06-08-2026_09-26-48.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-26-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-26-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/06-08-2026/09h/QUADRA_06-08-2026_09-26-48.jpg"
                 }
               ]
             }
@@ -14392,6 +14398,28 @@
                 }
               ]
             }
+          },
+          "31-07-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-07-2026_19-55-27.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/31-07-2026/19h/QUADRA_31-07-2026_19-55-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/31-07-2026/19h/QUADRA_31-07-2026_19-55-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/31-07-2026/19h/QUADRA_31-07-2026_19-55-27.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-07-2026_20-03-59.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/31-07-2026/20h/QUADRA_31-07-2026_20-03-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/31-07-2026/20h/QUADRA_31-07-2026_20-03-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/31-07-2026/20h/QUADRA_31-07-2026_20-03-59.jpg"
+                }
+              ]
+            }
           }
         },
         "QUADRA 2": {
@@ -14909,6 +14937,18 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/29-07-2026/20h/QUADRA_29-07-2026_20-29-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/29-07-2026/20h/QUADRA_29-07-2026_20-29-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/29-07-2026/20h/QUADRA_29-07-2026_20-29-23.jpg"
+                }
+              ]
+            }
+          },
+          "30-07-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-07-2026_16-26-55.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/30-07-2026/16h/QUADRA_30-07-2026_16-26-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/30-07-2026/16h/QUADRA_30-07-2026_16-26-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/30-07-2026/16h/QUADRA_30-07-2026_16-26-55.jpg"
                 }
               ]
             }
