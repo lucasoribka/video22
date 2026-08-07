@@ -2697,6 +2697,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/07-08-2026/18h/QUADRA_07-08-2026_18-33-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/07-08-2026/18h/QUADRA_07-08-2026_18-33-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/07-08-2026/18h/QUADRA_07-08-2026_18-33-56.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-08-2026_18-36-17.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/07-08-2026/18h/QUADRA_07-08-2026_18-36-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/07-08-2026/18h/QUADRA_07-08-2026_18-36-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/07-08-2026/18h/QUADRA_07-08-2026_18-36-17.jpg"
                 }
               ]
             }
@@ -5629,6 +5635,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/07-08-2026/17h/QUADRA_07-08-2026_17-46-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/07-08-2026/17h/QUADRA_07-08-2026_17-46-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/07-08-2026/17h/QUADRA_07-08-2026_17-46-01.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-08-2026_18-35-55.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/07-08-2026/18h/QUADRA_07-08-2026_18-35-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/07-08-2026/18h/QUADRA_07-08-2026_18-35-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/07-08-2026/18h/QUADRA_07-08-2026_18-35-55.jpg"
                 }
               ]
             }
