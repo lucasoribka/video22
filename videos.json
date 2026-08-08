@@ -2233,6 +2233,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-08-2026/12h/QUADRA_08-08-2026_12-10-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/12h/QUADRA_08-08-2026_12-10-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/12h/QUADRA_08-08-2026_12-10-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-08-2026_12-16-16.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-08-2026/12h/QUADRA_08-08-2026_12-16-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/12h/QUADRA_08-08-2026_12-16-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/12h/QUADRA_08-08-2026_12-16-16.jpg"
                 }
               ]
             }
@@ -4009,6 +4015,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 DIREITA/08-08-2026/11h/CAMPO 2 DIREITA_08-08-2026_11-17-08.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/08-08-2026/11h/CAMPO%202%20DIREITA_08-08-2026_11-17-08.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/08-08-2026/11h/CAMPO%202%20DIREITA_08-08-2026_11-17-08.jpg"
+                }
+              ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 2 DIREITA_08-08-2026_12-16-11.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 DIREITA/08-08-2026/12h/CAMPO 2 DIREITA_08-08-2026_12-16-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/08-08-2026/12h/CAMPO%202%20DIREITA_08-08-2026_12-16-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/08-08-2026/12h/CAMPO%202%20DIREITA_08-08-2026_12-16-11.jpg"
                 }
               ]
             }
@@ -6789,6 +6805,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-08-2026/11h/QUADRA_08-08-2026_11-39-17.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/08-08-2026/11h/QUADRA_08-08-2026_11-39-17.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/08-08-2026/11h/QUADRA_08-08-2026_11-39-17.jpg"
+                }
+              ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-08-2026_12-15-16.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-08-2026/12h/QUADRA_08-08-2026_12-15-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/08-08-2026/12h/QUADRA_08-08-2026_12-15-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/08-08-2026/12h/QUADRA_08-08-2026_12-15-16.jpg"
                 }
               ]
             }
