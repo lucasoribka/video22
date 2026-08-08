@@ -2305,6 +2305,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-08-2026/17h/QUADRA_08-08-2026_17-02-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/17h/QUADRA_08-08-2026_17-02-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/17h/QUADRA_08-08-2026_17-02-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-08-2026_17-03-26.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-08-2026/17h/QUADRA_08-08-2026_17-03-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/17h/QUADRA_08-08-2026_17-03-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/17h/QUADRA_08-08-2026_17-03-26.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-08-2026_17-05-44.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-08-2026/17h/QUADRA_08-08-2026_17-05-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/17h/QUADRA_08-08-2026_17-05-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-08-2026/17h/QUADRA_08-08-2026_17-05-44.jpg"
                 }
               ]
             }
@@ -21729,6 +21741,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/08-08-2026/16h/QUADRA_08-08-2026_16-39-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/08-08-2026/16h/QUADRA_08-08-2026_16-39-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/08-08-2026/16h/QUADRA_08-08-2026_16-39-46.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-08-2026_17-04-20.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/08-08-2026/17h/QUADRA_08-08-2026_17-04-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/08-08-2026/17h/QUADRA_08-08-2026_17-04-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/08-08-2026/17h/QUADRA_08-08-2026_17-04-20.jpg"
                 }
               ]
             }
