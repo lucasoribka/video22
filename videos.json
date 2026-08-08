@@ -1929,6 +1929,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/07-08-2026/21h/QUADRA_07-08-2026_21-26-52.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-08-2026/21h/QUADRA_07-08-2026_21-26-52.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-08-2026/21h/QUADRA_07-08-2026_21-26-52.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-08-2026_21-27-32.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/07-08-2026/21h/QUADRA_07-08-2026_21-27-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-08-2026/21h/QUADRA_07-08-2026_21-27-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-08-2026/21h/QUADRA_07-08-2026_21-27-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_07-08-2026_21-28-02.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/07-08-2026/21h/QUADRA_07-08-2026_21-28-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-08-2026/21h/QUADRA_07-08-2026_21-28-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/07-08-2026/21h/QUADRA_07-08-2026_21-28-02.jpg"
                 }
               ]
             }
@@ -18015,6 +18027,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/07-08-2026/17h/QUADRA_07-08-2026_17-21-23.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-08-2026_21-27-52.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/07-08-2026/21h/QUADRA_07-08-2026_21-27-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/07-08-2026/21h/QUADRA_07-08-2026_21-27-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/07-08-2026/21h/QUADRA_07-08-2026_21-27-52.jpg"
+                }
+              ]
             }
           }
         },
@@ -20613,6 +20635,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-08-2026/20h/QUADRA_07-08-2026_20-24-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-08-2026/20h/QUADRA_07-08-2026_20-24-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-08-2026/20h/QUADRA_07-08-2026_20-24-46.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-08-2026_21-26-22.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/07-08-2026/21h/QUADRA_07-08-2026_21-26-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-08-2026/21h/QUADRA_07-08-2026_21-26-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/07-08-2026/21h/QUADRA_07-08-2026_21-26-22.jpg"
                 }
               ]
             }
