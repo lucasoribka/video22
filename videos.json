@@ -3139,6 +3139,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/10-08-2026/18h/QUADRA_10-08-2026_18-16-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/18h/QUADRA_10-08-2026_18-16-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/18h/QUADRA_10-08-2026_18-16-06.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-08-2026_18-29-09.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/10-08-2026/18h/QUADRA_10-08-2026_18-29-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/18h/QUADRA_10-08-2026_18-29-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/18h/QUADRA_10-08-2026_18-29-09.jpg"
                 }
               ]
             }
@@ -12437,6 +12443,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/08-08-2026/18h/QUADRA 3_08-08-2026_18-47-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/08-08-2026/18h/QUADRA%203_08-08-2026_18-47-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/08-08-2026/18h/QUADRA%203_08-08-2026_18-47-25.jpg"
+                }
+              ]
+            }
+          },
+          "10-08-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_10-08-2026_18-29-02.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/10-08-2026/18h/QUADRA 3_10-08-2026_18-29-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/10-08-2026/18h/QUADRA%203_10-08-2026_18-29-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/10-08-2026/18h/QUADRA%203_10-08-2026_18-29-02.jpg"
                 }
               ]
             }
