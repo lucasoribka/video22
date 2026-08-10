@@ -3103,6 +3103,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/17h/QUADRA_10-08-2026_17-53-21.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-08-2026_18-01-32.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/10-08-2026/18h/QUADRA_10-08-2026_18-01-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/18h/QUADRA_10-08-2026_18-01-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/10-08-2026/18h/QUADRA_10-08-2026_18-01-32.jpg"
+                }
+              ]
             }
           }
         }
@@ -22359,6 +22369,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/10-08-2026/15h/QUADRA_10-08-2026_15-57-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/10-08-2026/15h/QUADRA_10-08-2026_15-57-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/10-08-2026/15h/QUADRA_10-08-2026_15-57-32.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-08-2026_17-58-34.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/10-08-2026/17h/QUADRA_10-08-2026_17-58-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/10-08-2026/17h/QUADRA_10-08-2026_17-58-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/10-08-2026/17h/QUADRA_10-08-2026_17-58-34.jpg"
                 }
               ]
             }
