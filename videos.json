@@ -639,6 +639,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-08-2026/18h/QUADRA_10-08-2026_18-59-40.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-08-2026_19-12-50.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/10-08-2026/19h/QUADRA_10-08-2026_19-12-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-08-2026/19h/QUADRA_10-08-2026_19-12-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-08-2026/19h/QUADRA_10-08-2026_19-12-50.jpg"
+                }
+              ]
             }
           }
         }
@@ -4083,6 +4093,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 ESQUERDA/10-08-2026/18h/CAMPO 2 ESQUERDA_10-08-2026_18-47-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/10-08-2026/18h/CAMPO%202%20ESQUERDA_10-08-2026_18-47-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/10-08-2026/18h/CAMPO%202%20ESQUERDA_10-08-2026_18-47-56.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 2 ESQUERDA_10-08-2026_19-14-23.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 ESQUERDA/10-08-2026/19h/CAMPO 2 ESQUERDA_10-08-2026_19-14-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/10-08-2026/19h/CAMPO%202%20ESQUERDA_10-08-2026_19-14-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/10-08-2026/19h/CAMPO%202%20ESQUERDA_10-08-2026_19-14-23.jpg"
                 }
               ]
             }
@@ -11289,6 +11309,18 @@
               ]
             }
           },
+          "10-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_10-08-2026_19-13-41.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/10-08-2026/19h/TRAVE 1 - CAMPO GRANDE_10-08-2026_19-13-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/10-08-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_10-08-2026_19-13-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/10-08-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_10-08-2026_19-13-41.jpg"
+                }
+              ]
+            }
+          },
           "31-07-2026": {
             "18h": {
               "_videos": [
@@ -11667,6 +11699,18 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/08-08-2026/19h/TRAVE 2 - CAMPO GRANDE_08-08-2026_19-37-52.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/08-08-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_08-08-2026_19-37-52.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/08-08-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_08-08-2026_19-37-52.jpg"
+                }
+              ]
+            }
+          },
+          "10-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_10-08-2026_19-13-41.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/10-08-2026/19h/TRAVE 2 - CAMPO GRANDE_10-08-2026_19-13-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/10-08-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_10-08-2026_19-13-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/10-08-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_10-08-2026_19-13-41.jpg"
                 }
               ]
             }
