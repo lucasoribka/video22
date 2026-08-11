@@ -9501,6 +9501,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/11-08-2026/15h/PADEL%201_11-08-2026_15-49-42.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 1_11-08-2026_16-31-39.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/11-08-2026/16h/PADEL 1_11-08-2026_16-31-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/11-08-2026/16h/PADEL%201_11-08-2026_16-31-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/11-08-2026/16h/PADEL%201_11-08-2026_16-31-39.jpg"
+                }
+              ]
             }
           }
         },
@@ -19073,6 +19083,16 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/11-08-2026/15h/QUADRA_11-08-2026_15-49-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/11-08-2026/15h/QUADRA_11-08-2026_15-49-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/11-08-2026/15h/QUADRA_11-08-2026_15-49-05.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-08-2026_16-30-22.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/11-08-2026/16h/QUADRA_11-08-2026_16-30-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/11-08-2026/16h/QUADRA_11-08-2026_16-30-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/11-08-2026/16h/QUADRA_11-08-2026_16-30-22.jpg"
                 }
               ]
             }
