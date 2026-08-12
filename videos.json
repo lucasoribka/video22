@@ -7893,6 +7893,12 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/12-08-2026/19h/QUADRA_12-08-2026_19-10-29.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/12-08-2026/19h/QUADRA_12-08-2026_19-10-29.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/12-08-2026/19h/QUADRA_12-08-2026_19-10-29.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-08-2026_19-30-10.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/12-08-2026/19h/QUADRA_12-08-2026_19-30-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/12-08-2026/19h/QUADRA_12-08-2026_19-30-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/12-08-2026/19h/QUADRA_12-08-2026_19-30-10.jpg"
                 }
               ]
             }
@@ -11782,6 +11788,18 @@
                 }
               ]
             }
+          },
+          "12-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_12-08-2026_19-31-59.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/12-08-2026/19h/TRAVE 1 - CAMPO GRANDE_12-08-2026_19-31-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/12-08-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_12-08-2026_19-31-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/12-08-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_12-08-2026_19-31-59.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - CAMPO GRANDE": {
@@ -12117,6 +12135,18 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/10-08-2026/20h/TRAVE 2 - CAMPO GRANDE_10-08-2026_20-49-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/10-08-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_10-08-2026_20-49-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/10-08-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_10-08-2026_20-49-25.jpg"
+                }
+              ]
+            }
+          },
+          "12-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_12-08-2026_19-31-59.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/12-08-2026/19h/TRAVE 2 - CAMPO GRANDE_12-08-2026_19-31-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/12-08-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_12-08-2026_19-31-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/12-08-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_12-08-2026_19-31-59.jpg"
                 }
               ]
             }
@@ -18125,6 +18155,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-08-2026/19h/QUADRA_12-08-2026_19-16-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-08-2026/19h/QUADRA_12-08-2026_19-16-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-08-2026/19h/QUADRA_12-08-2026_19-16-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-08-2026_19-30-01.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-08-2026/19h/QUADRA_12-08-2026_19-30-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-08-2026/19h/QUADRA_12-08-2026_19-30-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-08-2026/19h/QUADRA_12-08-2026_19-30-01.jpg"
                 }
               ]
             }
