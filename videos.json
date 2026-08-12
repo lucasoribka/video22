@@ -7331,6 +7331,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-21-40.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-08-2026_20-30-06.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-08-2026/20h/QUADRA_12-08-2026_20-30-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-08-2026/20h/QUADRA_12-08-2026_20-30-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-08-2026/20h/QUADRA_12-08-2026_20-30-06.jpg"
+                }
+              ]
             }
           }
         }
@@ -10475,6 +10485,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/12-08-2026/20h/PADEL 2_12-08-2026_20-09-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/12-08-2026/20h/PADEL%202_12-08-2026_20-09-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/12-08-2026/20h/PADEL%202_12-08-2026_20-09-44.jpg"
+                },
+                {
+                  "nome": "PADEL 2_12-08-2026_20-30-53.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/12-08-2026/20h/PADEL 2_12-08-2026_20-30-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/12-08-2026/20h/PADEL%202_12-08-2026_20-30-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/12-08-2026/20h/PADEL%202_12-08-2026_20-30-53.jpg"
                 }
               ]
             }
