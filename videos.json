@@ -5337,6 +5337,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-08-2026/17h/QUADRA%202_12-08-2026_17-51-39.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_12-08-2026_18-48-35.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/12-08-2026/18h/QUADRA 2_12-08-2026_18-48-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-08-2026/18h/QUADRA%202_12-08-2026_18-48-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/12-08-2026/18h/QUADRA%202_12-08-2026_18-48-35.jpg"
+                }
+              ]
             }
           }
         },
@@ -6505,6 +6515,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-45-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-45-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-45-54.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-08-2026_18-46-48.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-46-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-46-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/12-08-2026/18h/QUADRA_12-08-2026_18-46-48.jpg"
                 }
               ]
             }
