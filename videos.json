@@ -22251,6 +22251,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%201/13-08-2026/11h/TRAVE%201_13-08-2026_11-58-04.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1_13-08-2026_12-00-46.mp4",
+                  "path": "/SP/DESCALVADO/ARENA W10/TRAVE 1/13-08-2026/12h/TRAVE 1_13-08-2026_12-00-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%201/13-08-2026/12h/TRAVE%201_13-08-2026_12-00-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%201/13-08-2026/12h/TRAVE%201_13-08-2026_12-00-46.jpg"
+                }
+              ]
             }
           },
           "16-07-2026": {
@@ -22417,6 +22427,18 @@
                   "path": "/SP/DESCALVADO/ARENA W10/TRAVE 2/10-08-2026/18h/TRAVE 2_10-08-2026_18-26-41.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%202/10-08-2026/18h/TRAVE%202_10-08-2026_18-26-41.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%202/10-08-2026/18h/TRAVE%202_10-08-2026_18-26-41.jpg"
+                }
+              ]
+            }
+          },
+          "13-08-2026": {
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2_13-08-2026_12-01-11.mp4",
+                  "path": "/SP/DESCALVADO/ARENA W10/TRAVE 2/13-08-2026/12h/TRAVE 2_13-08-2026_12-01-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%202/13-08-2026/12h/TRAVE%202_13-08-2026_12-01-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/ARENA%20W10/TRAVE%202/13-08-2026/12h/TRAVE%202_13-08-2026_12-01-11.jpg"
                 }
               ]
             }
