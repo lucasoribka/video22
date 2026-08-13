@@ -553,6 +553,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/13-08-2026/19h/QUADRA_13-08-2026_19-00-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/13-08-2026/19h/QUADRA_13-08-2026_19-00-19.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/13-08-2026/19h/QUADRA_13-08-2026_19-00-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-08-2026_19-07-03.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/13-08-2026/19h/QUADRA_13-08-2026_19-07-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/13-08-2026/19h/QUADRA_13-08-2026_19-07-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/13-08-2026/19h/QUADRA_13-08-2026_19-07-03.jpg"
                 }
               ]
             }
@@ -12239,6 +12245,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/13-08-2026/17h/QUADRA%203_13-08-2026_17-52-53.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_13-08-2026_19-08-03.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/13-08-2026/19h/QUADRA 3_13-08-2026_19-08-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/13-08-2026/19h/QUADRA%203_13-08-2026_19-08-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/13-08-2026/19h/QUADRA%203_13-08-2026_19-08-03.jpg"
+                }
+              ]
             }
           }
         },
@@ -18055,6 +18071,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/13-08-2026/13h/QUADRA_13-08-2026_13-32-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/13-08-2026/13h/QUADRA_13-08-2026_13-32-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/13-08-2026/13h/QUADRA_13-08-2026_13-32-34.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-08-2026_19-06-04.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/13-08-2026/19h/QUADRA_13-08-2026_19-06-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/13-08-2026/19h/QUADRA_13-08-2026_19-06-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/13-08-2026/19h/QUADRA_13-08-2026_19-06-04.jpg"
                 }
               ]
             }
