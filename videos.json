@@ -4187,6 +4187,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/16-08-2026/09h/CAMPO 1 ESQUERDA_16-08-2026_09-32-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-08-2026/09h/CAMPO%201%20ESQUERDA_16-08-2026_09-32-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-08-2026/09h/CAMPO%201%20ESQUERDA_16-08-2026_09-32-06.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_16-08-2026_09-49-54.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/16-08-2026/09h/CAMPO 1 ESQUERDA_16-08-2026_09-49-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-08-2026/09h/CAMPO%201%20ESQUERDA_16-08-2026_09-49-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-08-2026/09h/CAMPO%201%20ESQUERDA_16-08-2026_09-49-54.jpg"
                 }
               ]
             }
@@ -19469,6 +19475,18 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/15-08-2026/16h/QUADRA_15-08-2026_16-53-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/15-08-2026/16h/QUADRA_15-08-2026_16-53-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/15-08-2026/16h/QUADRA_15-08-2026_16-53-32.jpg"
+                }
+              ]
+            }
+          },
+          "16-08-2026": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-08-2026_09-47-48.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/16-08-2026/09h/QUADRA_16-08-2026_09-47-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/16-08-2026/09h/QUADRA_16-08-2026_09-47-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/16-08-2026/09h/QUADRA_16-08-2026_09-47-48.jpg"
                 }
               ]
             }
