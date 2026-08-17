@@ -4977,6 +4977,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/17-08-2026/19h/Pickleball%201_17-08-2026_19-53-15.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "Pickleball 1_17-08-2026_20-02-29.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/Pickleball 1/17-08-2026/20h/Pickleball 1_17-08-2026_20-02-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/17-08-2026/20h/Pickleball%201_17-08-2026_20-02-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/17-08-2026/20h/Pickleball%201_17-08-2026_20-02-29.jpg"
+                }
+              ]
             }
           }
         },
@@ -13179,6 +13189,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/17-08-2026/20h/QUADRA 1_17-08-2026_20-00-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/17-08-2026/20h/QUADRA%201_17-08-2026_20-00-26.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/17-08-2026/20h/QUADRA%201_17-08-2026_20-00-26.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_17-08-2026_20-02-24.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/17-08-2026/20h/QUADRA 1_17-08-2026_20-02-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/17-08-2026/20h/QUADRA%201_17-08-2026_20-02-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/17-08-2026/20h/QUADRA%201_17-08-2026_20-02-24.jpg"
                 }
               ]
             }
@@ -20435,6 +20451,18 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/16-08-2026/17h/QUADRA_16-08-2026_17-00-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/16-08-2026/17h/QUADRA_16-08-2026_17-00-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/16-08-2026/17h/QUADRA_16-08-2026_17-00-56.jpg"
+                }
+              ]
+            }
+          },
+          "17-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-08-2026_19-59-18.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/17-08-2026/19h/QUADRA_17-08-2026_19-59-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/17-08-2026/19h/QUADRA_17-08-2026_19-59-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/17-08-2026/19h/QUADRA_17-08-2026_19-59-18.jpg"
                 }
               ]
             }
