@@ -7997,6 +7997,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/17-08-2026/18h/QUADRA%201_17-08-2026_18-36-58.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_17-08-2026_19-21-49.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/17-08-2026/19h/QUADRA 1_17-08-2026_19-21-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/17-08-2026/19h/QUADRA%201_17-08-2026_19-21-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/17-08-2026/19h/QUADRA%201_17-08-2026_19-21-49.jpg"
+                }
+              ]
             }
           }
         }
@@ -8693,6 +8703,12 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/16-08-2026/10h/QUADRA_16-08-2026_10-10-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/16-08-2026/10h/QUADRA_16-08-2026_10-10-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/16-08-2026/10h/QUADRA_16-08-2026_10-10-01.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-08-2026_10-14-02.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/16-08-2026/10h/QUADRA_16-08-2026_10-14-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/16-08-2026/10h/QUADRA_16-08-2026_10-14-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/16-08-2026/10h/QUADRA_16-08-2026_10-14-02.jpg"
                 }
               ]
             }
@@ -13249,6 +13265,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/17-08-2026/19h/QUADRA 3_17-08-2026_19-11-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/17-08-2026/19h/QUADRA%203_17-08-2026_19-11-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/17-08-2026/19h/QUADRA%203_17-08-2026_19-11-38.jpg"
+                },
+                {
+                  "nome": "QUADRA 3_17-08-2026_19-23-17.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/17-08-2026/19h/QUADRA 3_17-08-2026_19-23-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/17-08-2026/19h/QUADRA%203_17-08-2026_19-23-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/17-08-2026/19h/QUADRA%203_17-08-2026_19-23-17.jpg"
                 }
               ]
             }
@@ -18711,6 +18733,18 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/16-08-2026/10h/QUADRA_16-08-2026_10-16-52.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/16-08-2026/10h/QUADRA_16-08-2026_10-16-52.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/16-08-2026/10h/QUADRA_16-08-2026_10-16-52.jpg"
+                }
+              ]
+            }
+          },
+          "17-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-08-2026_19-14-09.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/17-08-2026/19h/QUADRA_17-08-2026_19-14-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/17-08-2026/19h/QUADRA_17-08-2026_19-14-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/17-08-2026/19h/QUADRA_17-08-2026_19-14-09.jpg"
                 }
               ]
             }
