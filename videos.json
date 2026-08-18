@@ -3499,6 +3499,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/18-08-2026/18h/CAMPO%201%20DIREITA_18-08-2026_18-57-12.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_18-08-2026_19-33-11.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/18-08-2026/19h/CAMPO 1 DIREITA_18-08-2026_19-33-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/18-08-2026/19h/CAMPO%201%20DIREITA_18-08-2026_19-33-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/18-08-2026/19h/CAMPO%201%20DIREITA_18-08-2026_19-33-11.jpg"
+                }
+              ]
             }
           }
         },
@@ -3723,6 +3733,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/18-08-2026/18h/CAMPO 1 ESQUERDA_18-08-2026_18-57-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/18-08-2026/18h/CAMPO%201%20ESQUERDA_18-08-2026_18-57-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/18-08-2026/18h/CAMPO%201%20ESQUERDA_18-08-2026_18-57-25.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_18-08-2026_19-33-23.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/18-08-2026/19h/CAMPO 1 ESQUERDA_18-08-2026_19-33-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/18-08-2026/19h/CAMPO%201%20ESQUERDA_18-08-2026_19-33-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/18-08-2026/19h/CAMPO%201%20ESQUERDA_18-08-2026_19-33-23.jpg"
                 }
               ]
             }
@@ -12687,6 +12707,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 2/18-08-2026/19h/QUADRA 2_18-08-2026_19-32-11.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/18-08-2026/19h/QUADRA%202_18-08-2026_19-32-11.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/18-08-2026/19h/QUADRA%202_18-08-2026_19-32-11.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_18-08-2026_19-34-15.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 2/18-08-2026/19h/QUADRA 2_18-08-2026_19-34-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/18-08-2026/19h/QUADRA%202_18-08-2026_19-34-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/18-08-2026/19h/QUADRA%202_18-08-2026_19-34-15.jpg"
                 }
               ]
             }
@@ -15925,6 +15951,12 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/18-08-2026/19h/QUADRA_18-08-2026_19-27-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/18-08-2026/19h/QUADRA_18-08-2026_19-27-47.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/18-08-2026/19h/QUADRA_18-08-2026_19-27-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-08-2026_19-32-50.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/18-08-2026/19h/QUADRA_18-08-2026_19-32-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/18-08-2026/19h/QUADRA_18-08-2026_19-32-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/18-08-2026/19h/QUADRA_18-08-2026_19-32-50.jpg"
                 }
               ]
             }
