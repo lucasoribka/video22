@@ -3273,6 +3273,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/18-08-2026/19h/QUADRA_18-08-2026_19-54-40.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-54-40.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-54-40.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-08-2026_19-55-40.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/18-08-2026/19h/QUADRA_18-08-2026_19-55-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-55-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-55-40.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-08-2026_19-56-44.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/18-08-2026/19h/QUADRA_18-08-2026_19-56-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-56-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-56-44.jpg"
                 }
               ]
             }
@@ -15998,6 +16010,18 @@
                 }
               ]
             }
+          },
+          "18-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-08-2026_19-55-28.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/18-08-2026/19h/QUADRA_18-08-2026_19-55-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-55-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-55-28.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -18521,6 +18545,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/18-08-2026/17h/QUADRA_18-08-2026_17-56-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/18-08-2026/17h/QUADRA_18-08-2026_17-56-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/18-08-2026/17h/QUADRA_18-08-2026_17-56-54.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-08-2026_19-54-32.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/18-08-2026/19h/QUADRA_18-08-2026_19-54-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/18-08-2026/19h/QUADRA_18-08-2026_19-54-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/18-08-2026/19h/QUADRA_18-08-2026_19-54-32.jpg"
                 }
               ]
             }
