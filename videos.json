@@ -3647,6 +3647,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-08-2026/19h/CAMPO%201%20ESQUERDA_19-08-2026_19-56-26.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_19-08-2026_20-01-49.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/19-08-2026/20h/CAMPO 1 ESQUERDA_19-08-2026_20-01-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-08-2026/20h/CAMPO%201%20ESQUERDA_19-08-2026_20-01-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-08-2026/20h/CAMPO%201%20ESQUERDA_19-08-2026_20-01-49.jpg"
+                }
+              ]
             }
           }
         },
@@ -6575,6 +6585,16 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/19-08-2026/19h/QUADRA_19-08-2026_19-57-22.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/19-08-2026/19h/QUADRA_19-08-2026_19-57-22.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/19-08-2026/19h/QUADRA_19-08-2026_19-57-22.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-08-2026_20-00-14.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/19-08-2026/20h/QUADRA_19-08-2026_20-00-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/19-08-2026/20h/QUADRA_19-08-2026_20-00-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/19-08-2026/20h/QUADRA_19-08-2026_20-00-14.jpg"
                 }
               ]
             }
