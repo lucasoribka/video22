@@ -659,6 +659,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/19-08-2026/18h/QUADRA_19-08-2026_18-19-01.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-08-2026_19-53-49.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/19-08-2026/19h/QUADRA_19-08-2026_19-53-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/19-08-2026/19h/QUADRA_19-08-2026_19-53-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/19-08-2026/19h/QUADRA_19-08-2026_19-53-49.jpg"
+                }
+              ]
             }
           }
         }
@@ -17331,6 +17341,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/19-08-2026/19h/QUADRA_19-08-2026_19-31-51.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-08-2026/19h/QUADRA_19-08-2026_19-31-51.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-08-2026/19h/QUADRA_19-08-2026_19-31-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-08-2026_19-52-51.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/19-08-2026/19h/QUADRA_19-08-2026_19-52-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-08-2026/19h/QUADRA_19-08-2026_19-52-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-08-2026/19h/QUADRA_19-08-2026_19-52-51.jpg"
                 }
               ]
             }
