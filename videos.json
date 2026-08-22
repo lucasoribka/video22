@@ -5867,6 +5867,12 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/22-08-2026/14h/QUADRA 2_22-08-2026_14-27-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-08-2026/14h/QUADRA%202_22-08-2026_14-27-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-08-2026/14h/QUADRA%202_22-08-2026_14-27-25.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_22-08-2026_14-32-24.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/22-08-2026/14h/QUADRA 2_22-08-2026_14-32-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-08-2026/14h/QUADRA%202_22-08-2026_14-32-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-08-2026/14h/QUADRA%202_22-08-2026_14-32-24.jpg"
                 }
               ]
             }
@@ -7323,6 +7329,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/22-08-2026/12h/QUADRA_22-08-2026_12-28-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/22-08-2026/12h/QUADRA_22-08-2026_12-28-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/22-08-2026/12h/QUADRA_22-08-2026_12-28-32.jpg"
+                }
+              ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-08-2026_14-31-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/22-08-2026/14h/QUADRA_22-08-2026_14-31-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/22-08-2026/14h/QUADRA_22-08-2026_14-31-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/22-08-2026/14h/QUADRA_22-08-2026_14-31-27.jpg"
                 }
               ]
             }
@@ -21035,6 +21051,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/22-08-2026/13h/QUADRA_22-08-2026_13-27-42.jpg"
                 }
               ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-08-2026_14-32-29.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/22-08-2026/14h/QUADRA_22-08-2026_14-32-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/22-08-2026/14h/QUADRA_22-08-2026_14-32-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/22-08-2026/14h/QUADRA_22-08-2026_14-32-29.jpg"
+                }
+              ]
             }
           }
         },
@@ -23499,6 +23525,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/22-08-2026/10h/QUADRA_22-08-2026_10-45-03.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-08-2026/10h/QUADRA_22-08-2026_10-45-03.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-08-2026/10h/QUADRA_22-08-2026_10-45-03.jpg"
+                }
+              ]
+            },
+            "14h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-08-2026_14-30-34.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/22-08-2026/14h/QUADRA_22-08-2026_14-30-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-08-2026/14h/QUADRA_22-08-2026_14-30-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-08-2026/14h/QUADRA_22-08-2026_14-30-34.jpg"
                 }
               ]
             }
