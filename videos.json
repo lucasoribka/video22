@@ -1727,6 +1727,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-08-2026/16h/QUADRA_22-08-2026_16-51-50.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-08-2026_17-13-21.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-08-2026/17h/QUADRA_22-08-2026_17-13-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-08-2026/17h/QUADRA_22-08-2026_17-13-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-08-2026/17h/QUADRA_22-08-2026_17-13-21.jpg"
+                }
+              ]
             }
           }
         },
@@ -10883,6 +10893,16 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/22-08-2026/15h/PADEL 3_22-08-2026_15-44-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/22-08-2026/15h/PADEL%203_22-08-2026_15-44-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/22-08-2026/15h/PADEL%203_22-08-2026_15-44-37.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 3_22-08-2026_17-13-41.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/22-08-2026/17h/PADEL 3_22-08-2026_17-13-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/22-08-2026/17h/PADEL%203_22-08-2026_17-13-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/22-08-2026/17h/PADEL%203_22-08-2026_17-13-41.jpg"
                 }
               ]
             }
