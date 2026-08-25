@@ -1535,6 +1535,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/25-08-2026/16h/QUADRA_25-08-2026_16-54-21.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-08-2026_18-44-30.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/25-08-2026/18h/QUADRA_25-08-2026_18-44-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/25-08-2026/18h/QUADRA_25-08-2026_18-44-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/25-08-2026/18h/QUADRA_25-08-2026_18-44-30.jpg"
+                }
+              ]
             }
           }
         },
@@ -7192,6 +7202,18 @@
                 }
               ]
             }
+          },
+          "25-08-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_25-08-2026_18-42-01.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/25-08-2026/18h/QUADRA 1_25-08-2026_18-42-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/25-08-2026/18h/QUADRA%201_25-08-2026_18-42-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/25-08-2026/18h/QUADRA%201_25-08-2026_18-42-01.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -12309,6 +12331,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/25-08-2026/18h/QUADRA 1_25-08-2026_18-38-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-08-2026/18h/QUADRA%201_25-08-2026_18-38-18.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-08-2026/18h/QUADRA%201_25-08-2026_18-38-18.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_25-08-2026_18-39-34.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/25-08-2026/18h/QUADRA 1_25-08-2026_18-39-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-08-2026/18h/QUADRA%201_25-08-2026_18-39-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-08-2026/18h/QUADRA%201_25-08-2026_18-39-34.jpg"
                 }
               ]
             }
@@ -18887,6 +18915,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/25-08-2026/17h/QUADRA_25-08-2026_17-58-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/25-08-2026/17h/QUADRA_25-08-2026_17-58-47.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/25-08-2026/17h/QUADRA_25-08-2026_17-58-47.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-08-2026_18-39-16.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/25-08-2026/18h/QUADRA_25-08-2026_18-39-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/25-08-2026/18h/QUADRA_25-08-2026_18-39-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/25-08-2026/18h/QUADRA_25-08-2026_18-39-16.jpg"
                 }
               ]
             }
