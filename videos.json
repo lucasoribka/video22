@@ -3247,6 +3247,12 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/20-08-2026/22h/QUADRA_20-08-2026_22-22-01.jpg"
                 },
                 {
+                  "nome": "QUADRA_20-08-2026_22-23-11.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/20-08-2026/22h/QUADRA_20-08-2026_22-23-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/20-08-2026/22h/QUADRA_20-08-2026_22-23-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/20-08-2026/22h/QUADRA_20-08-2026_22-23-11.jpg"
+                },
+                {
                   "nome": "QUADRA_20-08-2026_22-26-51.mp4",
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/20-08-2026/22h/QUADRA_20-08-2026_22-26-51.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/20-08-2026/22h/QUADRA_20-08-2026_22-26-51.mp4",
@@ -6725,6 +6731,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/24-08-2026/20h/QUADRA%202_24-08-2026_20-23-19.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_24-08-2026_21-10-57.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/24-08-2026/21h/QUADRA 2_24-08-2026_21-10-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/24-08-2026/21h/QUADRA%202_24-08-2026_21-10-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/24-08-2026/21h/QUADRA%202_24-08-2026_21-10-57.jpg"
+                }
+              ]
             }
           }
         },
@@ -9263,6 +9279,12 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/24-08-2026/21h/QUADRA_24-08-2026_21-04-17.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/24-08-2026/21h/QUADRA_24-08-2026_21-04-17.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/24-08-2026/21h/QUADRA_24-08-2026_21-04-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-08-2026_21-10-00.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/24-08-2026/21h/QUADRA_24-08-2026_21-10-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/24-08-2026/21h/QUADRA_24-08-2026_21-10-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/24-08-2026/21h/QUADRA_24-08-2026_21-10-00.jpg"
                 }
               ]
             }
@@ -15725,6 +15747,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/24-08-2026/21h/QUADRA 4_24-08-2026_21-07-59.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/24-08-2026/21h/QUADRA%204_24-08-2026_21-07-59.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/24-08-2026/21h/QUADRA%204_24-08-2026_21-07-59.jpg"
+                },
+                {
+                  "nome": "QUADRA 4_24-08-2026_21-12-36.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/24-08-2026/21h/QUADRA 4_24-08-2026_21-12-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/24-08-2026/21h/QUADRA%204_24-08-2026_21-12-36.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/24-08-2026/21h/QUADRA%204_24-08-2026_21-12-36.jpg"
                 }
               ]
             }
