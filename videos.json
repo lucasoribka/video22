@@ -5953,6 +5953,18 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-46-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-46-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-46-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-08-2026_18-49-57.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-49-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-49-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-49-57.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-08-2026_18-50-33.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-50-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-50-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-50-33.jpg"
                 }
               ]
             }
@@ -15725,6 +15737,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/26-08-2026/17h/QUADRA_26-08-2026_17-13-29.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-08-2026_18-50-32.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/26-08-2026/18h/QUADRA_26-08-2026_18-50-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/26-08-2026/18h/QUADRA_26-08-2026_18-50-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/26-08-2026/18h/QUADRA_26-08-2026_18-50-32.jpg"
+                }
+              ]
             }
           }
         },
@@ -21273,6 +21295,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/23-08-2026/17h/QUADRA_23-08-2026_17-29-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/23-08-2026/17h/QUADRA_23-08-2026_17-29-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/23-08-2026/17h/QUADRA_23-08-2026_17-29-37.jpg"
+                }
+              ]
+            }
+          },
+          "26-08-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-08-2026_18-49-41.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/26-08-2026/18h/QUADRA_26-08-2026_18-49-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/26-08-2026/18h/QUADRA_26-08-2026_18-49-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/26-08-2026/18h/QUADRA_26-08-2026_18-49-41.jpg"
                 }
               ]
             }
