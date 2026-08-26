@@ -481,6 +481,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/26-08-2026/18h/QUADRA_26-08-2026_18-03-11.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-08-2026_19-27-33.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/26-08-2026/19h/QUADRA_26-08-2026_19-27-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/26-08-2026/19h/QUADRA_26-08-2026_19-27-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/26-08-2026/19h/QUADRA_26-08-2026_19-27-33.jpg"
+                }
+              ]
             }
           }
         }
@@ -1723,6 +1733,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/26-08-2026/19h/QUADRA_26-08-2026_19-27-43.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/26-08-2026/19h/QUADRA_26-08-2026_19-27-43.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/26-08-2026/19h/QUADRA_26-08-2026_19-27-43.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-08-2026_19-28-28.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/26-08-2026/19h/QUADRA_26-08-2026_19-28-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/26-08-2026/19h/QUADRA_26-08-2026_19-28-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/26-08-2026/19h/QUADRA_26-08-2026_19-28-28.jpg"
                 }
               ]
             }
@@ -2335,6 +2351,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/26-08-2026/19h/QUADRA_26-08-2026_19-24-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/26-08-2026/19h/QUADRA_26-08-2026_19-24-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/26-08-2026/19h/QUADRA_26-08-2026_19-24-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-08-2026_19-29-13.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/26-08-2026/19h/QUADRA_26-08-2026_19-29-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/26-08-2026/19h/QUADRA_26-08-2026_19-29-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/26-08-2026/19h/QUADRA_26-08-2026_19-29-13.jpg"
                 }
               ]
             }
@@ -10902,6 +10924,18 @@
                 }
               ]
             }
+          },
+          "26-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_26-08-2026_19-28-45.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/26-08-2026/19h/TRAVE 1 - BAR_26-08-2026_19-28-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/26-08-2026/19h/TRAVE%201%20-%20BAR_26-08-2026_19-28-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/26-08-2026/19h/TRAVE%201%20-%20BAR_26-08-2026_19-28-45.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 1 - CAMPO GRANDE": {
@@ -11637,6 +11671,18 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/25-08-2026/22h/TRAVE 2 - RUA_25-08-2026_22-18-33.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/25-08-2026/22h/TRAVE%202%20-%20RUA_25-08-2026_22-18-33.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/25-08-2026/22h/TRAVE%202%20-%20RUA_25-08-2026_22-18-33.jpg"
+                }
+              ]
+            }
+          },
+          "26-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_26-08-2026_19-28-45.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/26-08-2026/19h/TRAVE 2 - RUA_26-08-2026_19-28-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/26-08-2026/19h/TRAVE%202%20-%20RUA_26-08-2026_19-28-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/26-08-2026/19h/TRAVE%202%20-%20RUA_26-08-2026_19-28-45.jpg"
                 }
               ]
             }
