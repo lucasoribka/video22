@@ -7751,6 +7751,12 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/26-08-2026/19h/QUADRA_26-08-2026_19-04-14.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/26-08-2026/19h/QUADRA_26-08-2026_19-04-14.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/26-08-2026/19h/QUADRA_26-08-2026_19-04-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-08-2026_19-05-55.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/26-08-2026/19h/QUADRA_26-08-2026_19-05-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/26-08-2026/19h/QUADRA_26-08-2026_19-05-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/26-08-2026/19h/QUADRA_26-08-2026_19-05-55.jpg"
                 }
               ]
             }
@@ -11646,6 +11652,24 @@
                 }
               ]
             }
+          },
+          "26-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_26-08-2026_19-09-30.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/26-08-2026/19h/TRAVE 3 - ESTACIONAMENTO_26-08-2026_19-09-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/26-08-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_26-08-2026_19-09-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/26-08-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_26-08-2026_19-09-30.jpg"
+                },
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_26-08-2026_19-09-41.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/26-08-2026/19h/TRAVE 3 - ESTACIONAMENTO_26-08-2026_19-09-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/26-08-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_26-08-2026_19-09-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/26-08-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_26-08-2026_19-09-41.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 4 - PORTÃO": {
@@ -11737,6 +11761,18 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/25-08-2026/20h/TRAVE 4 - PORTÃO_25-08-2026_20-19-41.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/25-08-2026/20h/TRAVE%204%20-%20PORTÃO_25-08-2026_20-19-41.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/25-08-2026/20h/TRAVE%204%20-%20PORTÃO_25-08-2026_20-19-41.jpg"
+                }
+              ]
+            }
+          },
+          "26-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 4 - PORTÃO_26-08-2026_19-09-30.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/26-08-2026/19h/TRAVE 4 - PORTÃO_26-08-2026_19-09-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/26-08-2026/19h/TRAVE%204%20-%20PORTÃO_26-08-2026_19-09-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/26-08-2026/19h/TRAVE%204%20-%20PORTÃO_26-08-2026_19-09-30.jpg"
                 }
               ]
             }
