@@ -6571,6 +6571,12 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/29-08-2026/11h/QUADRA_29-08-2026_11-12-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/29-08-2026/11h/QUADRA_29-08-2026_11-12-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/29-08-2026/11h/QUADRA_29-08-2026_11-12-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-08-2026_11-17-20.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 1/29-08-2026/11h/QUADRA_29-08-2026_11-17-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/29-08-2026/11h/QUADRA_29-08-2026_11-17-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%201/29-08-2026/11h/QUADRA_29-08-2026_11-17-20.jpg"
                 }
               ]
             }
@@ -9895,6 +9901,18 @@
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/28-08-2026/20h/QUADRA_28-08-2026_20-11-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/28-08-2026/20h/QUADRA_28-08-2026_20-11-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/28-08-2026/20h/QUADRA_28-08-2026_20-11-38.jpg"
+                }
+              ]
+            }
+          },
+          "29-08-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-08-2026_11-17-25.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/29-08-2026/11h/QUADRA_29-08-2026_11-17-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/29-08-2026/11h/QUADRA_29-08-2026_11-17-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/29-08-2026/11h/QUADRA_29-08-2026_11-17-25.jpg"
                 }
               ]
             }
