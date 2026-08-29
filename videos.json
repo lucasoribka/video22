@@ -20911,6 +20911,22 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-08-2026/19h/QUADRA_19-08-2026_19-19-18.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-08-2026_21-49-14.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/19-08-2026/21h/QUADRA_19-08-2026_21-49-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-08-2026/21h/QUADRA_19-08-2026_21-49-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-08-2026/21h/QUADRA_19-08-2026_21-49-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-08-2026_21-51-42.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/19-08-2026/21h/QUADRA_19-08-2026_21-51-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-08-2026/21h/QUADRA_19-08-2026_21-51-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/19-08-2026/21h/QUADRA_19-08-2026_21-51-42.jpg"
+                }
+              ]
             }
           },
           "24-08-2026": {
@@ -21749,6 +21765,24 @@
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2026/18h/QUADRA_22-08-2026_18-59-08.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2026/18h/QUADRA_22-08-2026_18-59-08.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/22-08-2026/18h/QUADRA_22-08-2026_18-59-08.jpg"
+                }
+              ]
+            }
+          },
+          "23-08-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-08-2026_19-06-30.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/23-08-2026/19h/QUADRA_23-08-2026_19-06-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/23-08-2026/19h/QUADRA_23-08-2026_19-06-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/23-08-2026/19h/QUADRA_23-08-2026_19-06-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-08-2026_19-07-00.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/23-08-2026/19h/QUADRA_23-08-2026_19-07-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/23-08-2026/19h/QUADRA_23-08-2026_19-07-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/23-08-2026/19h/QUADRA_23-08-2026_19-07-00.jpg"
                 }
               ]
             }
