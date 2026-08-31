@@ -9251,6 +9251,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/31-08-2026/15h/PADEL%203_31-08-2026_15-39-32.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 3_31-08-2026_17-19-30.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/31-08-2026/17h/PADEL 3_31-08-2026_17-19-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/31-08-2026/17h/PADEL%203_31-08-2026_17-19-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/31-08-2026/17h/PADEL%203_31-08-2026_17-19-30.jpg"
+                }
+              ]
             }
           }
         }
@@ -21433,6 +21443,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/30-08-2026/11h/QUADRA_30-08-2026_11-56-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/30-08-2026/11h/QUADRA_30-08-2026_11-56-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/30-08-2026/11h/QUADRA_30-08-2026_11-56-38.jpg"
+                }
+              ]
+            }
+          },
+          "31-08-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-08-2026_17-17-28.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/31-08-2026/17h/QUADRA_31-08-2026_17-17-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/31-08-2026/17h/QUADRA_31-08-2026_17-17-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/31-08-2026/17h/QUADRA_31-08-2026_17-17-28.jpg"
                 }
               ]
             }
