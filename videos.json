@@ -2733,6 +2733,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/31-08-2026/20h/QUADRA_31-08-2026_20-42-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/31-08-2026/20h/QUADRA_31-08-2026_20-42-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/31-08-2026/20h/QUADRA_31-08-2026_20-42-13.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-08-2026_20-52-20.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/31-08-2026/20h/QUADRA_31-08-2026_20-52-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/31-08-2026/20h/QUADRA_31-08-2026_20-52-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/31-08-2026/20h/QUADRA_31-08-2026_20-52-20.jpg"
                 }
               ]
             }
@@ -3391,6 +3397,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/31-08-2026/19h/CAMPO%201%20DIREITA_31-08-2026_19-56-53.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_31-08-2026_20-52-02.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/31-08-2026/20h/CAMPO 1 DIREITA_31-08-2026_20-52-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/31-08-2026/20h/CAMPO%201%20DIREITA_31-08-2026_20-52-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/31-08-2026/20h/CAMPO%201%20DIREITA_31-08-2026_20-52-02.jpg"
+                }
+              ]
             }
           }
         },
@@ -4039,6 +4055,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/31-08-2026/19h/CAMPO 1 ESQUERDA_31-08-2026_19-57-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/31-08-2026/19h/CAMPO%201%20ESQUERDA_31-08-2026_19-57-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/31-08-2026/19h/CAMPO%201%20ESQUERDA_31-08-2026_19-57-06.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_31-08-2026_20-51-48.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/31-08-2026/20h/CAMPO 1 ESQUERDA_31-08-2026_20-51-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/31-08-2026/20h/CAMPO%201%20ESQUERDA_31-08-2026_20-51-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/31-08-2026/20h/CAMPO%201%20ESQUERDA_31-08-2026_20-51-48.jpg"
                 }
               ]
             }
@@ -17543,6 +17569,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/31-08-2026/20h/QUADRA_31-08-2026_20-47-59.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/31-08-2026/20h/QUADRA_31-08-2026_20-47-59.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/31-08-2026/20h/QUADRA_31-08-2026_20-47-59.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-08-2026_20-49-45.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/31-08-2026/20h/QUADRA_31-08-2026_20-49-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/31-08-2026/20h/QUADRA_31-08-2026_20-49-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/31-08-2026/20h/QUADRA_31-08-2026_20-49-45.jpg"
                 }
               ]
             }
