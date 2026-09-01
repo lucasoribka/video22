@@ -2433,6 +2433,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/01-09-2026/19h/CAMPO 1 DIREITA_01-09-2026_19-22-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/01-09-2026/19h/CAMPO%201%20DIREITA_01-09-2026_19-22-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/01-09-2026/19h/CAMPO%201%20DIREITA_01-09-2026_19-22-23.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_01-09-2026_19-25-50.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/01-09-2026/19h/CAMPO 1 DIREITA_01-09-2026_19-25-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/01-09-2026/19h/CAMPO%201%20DIREITA_01-09-2026_19-25-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/01-09-2026/19h/CAMPO%201%20DIREITA_01-09-2026_19-25-50.jpg"
                 }
               ]
             }
@@ -3187,6 +3193,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/01-09-2026/19h/CAMPO 1 ESQUERDA_01-09-2026_19-22-36.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-09-2026/19h/CAMPO%201%20ESQUERDA_01-09-2026_19-22-36.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-09-2026/19h/CAMPO%201%20ESQUERDA_01-09-2026_19-22-36.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_01-09-2026_19-26-03.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/01-09-2026/19h/CAMPO 1 ESQUERDA_01-09-2026_19-26-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-09-2026/19h/CAMPO%201%20ESQUERDA_01-09-2026_19-26-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-09-2026/19h/CAMPO%201%20ESQUERDA_01-09-2026_19-26-03.jpg"
                 }
               ]
             }
@@ -6207,6 +6219,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-09-2026/18h/QUADRA_01-09-2026_18-58-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-09-2026/18h/QUADRA_01-09-2026_18-58-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-09-2026/18h/QUADRA_01-09-2026_18-58-56.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-09-2026_19-25-09.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/01-09-2026/19h/QUADRA_01-09-2026_19-25-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-09-2026/19h/QUADRA_01-09-2026_19-25-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/01-09-2026/19h/QUADRA_01-09-2026_19-25-09.jpg"
                 }
               ]
             }
@@ -10201,6 +10223,18 @@
     "BRUSQUE": {
       "HELINHO": {
         "TRAVE 1 - BAR": {
+          "01-09-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_01-09-2026_19-25-30.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/01-09-2026/19h/TRAVE 1 - BAR_01-09-2026_19-25-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/01-09-2026/19h/TRAVE%201%20-%20BAR_01-09-2026_19-25-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/01-09-2026/19h/TRAVE%201%20-%20BAR_01-09-2026_19-25-30.jpg"
+                }
+              ]
+            }
+          },
           "19-08-2026": {
             "20h": {
               "_videos": [
@@ -11053,6 +11087,18 @@
           }
         },
         "TRAVE 2 - RUA": {
+          "01-09-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_01-09-2026_19-25-30.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/01-09-2026/19h/TRAVE 2 - RUA_01-09-2026_19-25-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/01-09-2026/19h/TRAVE%202%20-%20RUA_01-09-2026_19-25-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/01-09-2026/19h/TRAVE%202%20-%20RUA_01-09-2026_19-25-30.jpg"
+                }
+              ]
+            }
+          },
           "19-08-2026": {
             "20h": {
               "_videos": [
