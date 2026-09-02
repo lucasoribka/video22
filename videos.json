@@ -241,6 +241,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/02-09-2026/17h/QUADRA_02-09-2026_17-40-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/17h/QUADRA_02-09-2026_17-40-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/17h/QUADRA_02-09-2026_17-40-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-09-2026_17-51-27.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/02-09-2026/17h/QUADRA_02-09-2026_17-51-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/17h/QUADRA_02-09-2026_17-51-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/17h/QUADRA_02-09-2026_17-51-27.jpg"
                 }
               ]
             }
@@ -8353,6 +8359,18 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/01-09-2026/17h/PADEL 1_01-09-2026_17-10-51.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/01-09-2026/17h/PADEL%201_01-09-2026_17-10-51.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/01-09-2026/17h/PADEL%201_01-09-2026_17-10-51.jpg"
+                }
+              ]
+            }
+          },
+          "02-09-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 1_02-09-2026_17-51-32.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/02-09-2026/17h/PADEL 1_02-09-2026_17-51-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/02-09-2026/17h/PADEL%201_02-09-2026_17-51-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/02-09-2026/17h/PADEL%201_02-09-2026_17-51-32.jpg"
                 }
               ]
             }
