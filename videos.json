@@ -8599,6 +8599,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/02-09-2026/19h/BEACH%202_02-09-2026_19-56-56.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "BEACH 2_02-09-2026_20-01-00.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/02-09-2026/20h/BEACH 2_02-09-2026_20-01-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/02-09-2026/20h/BEACH%202_02-09-2026_20-01-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/02-09-2026/20h/BEACH%202_02-09-2026_20-01-00.jpg"
+                }
+              ]
             }
           },
           "20-08-2026": {
@@ -9309,6 +9319,16 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/02-09-2026/19h/PADEL 2_02-09-2026_19-45-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/02-09-2026/19h/PADEL%202_02-09-2026_19-45-19.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/02-09-2026/19h/PADEL%202_02-09-2026_19-45-19.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 2_02-09-2026_20-00-55.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/02-09-2026/20h/PADEL 2_02-09-2026_20-00-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/02-09-2026/20h/PADEL%202_02-09-2026_20-00-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/02-09-2026/20h/PADEL%202_02-09-2026_20-00-55.jpg"
                 }
               ]
             }
@@ -10321,6 +10341,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/02-09-2026/19h/TRAVE%201%20-%20BAR_02-09-2026_19-39-42.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_02-09-2026_20-00-26.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/02-09-2026/20h/TRAVE 1 - BAR_02-09-2026_20-00-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/02-09-2026/20h/TRAVE%201%20-%20BAR_02-09-2026_20-00-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/02-09-2026/20h/TRAVE%201%20-%20BAR_02-09-2026_20-00-26.jpg"
+                }
+              ]
             }
           },
           "24-08-2026": {
@@ -11273,6 +11303,16 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/02-09-2026/19h/TRAVE 2 - RUA_02-09-2026_19-39-42.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/02-09-2026/19h/TRAVE%202%20-%20RUA_02-09-2026_19-39-42.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/02-09-2026/19h/TRAVE%202%20-%20RUA_02-09-2026_19-39-42.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_02-09-2026_20-00-26.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/02-09-2026/20h/TRAVE 2 - RUA_02-09-2026_20-00-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/02-09-2026/20h/TRAVE%202%20-%20RUA_02-09-2026_20-00-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/02-09-2026/20h/TRAVE%202%20-%20RUA_02-09-2026_20-00-26.jpg"
                 }
               ]
             }
@@ -14919,6 +14959,18 @@
           }
         },
         "QUADRA 2": {
+          "02-09-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-09-2026_19-59-27.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/02-09-2026/19h/QUADRA_02-09-2026_19-59-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/02-09-2026/19h/QUADRA_02-09-2026_19-59-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/02-09-2026/19h/QUADRA_02-09-2026_19-59-27.jpg"
+                }
+              ]
+            }
+          },
           "19-08-2026": {
             "10h": {
               "_videos": [
