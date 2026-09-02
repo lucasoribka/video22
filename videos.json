@@ -265,6 +265,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/19h/QUADRA_02-09-2026_19-43-40.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-09-2026_20-05-22.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/02-09-2026/20h/QUADRA_02-09-2026_20-05-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/20h/QUADRA_02-09-2026_20-05-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/02-09-2026/20h/QUADRA_02-09-2026_20-05-22.jpg"
+                }
+              ]
             }
           },
           "29-08-2026": {
@@ -12565,6 +12575,16 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/02-09-2026/19h/QUADRA 4_02-09-2026_19-14-28.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/02-09-2026/19h/QUADRA%204_02-09-2026_19-14-28.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/02-09-2026/19h/QUADRA%204_02-09-2026_19-14-28.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_02-09-2026_20-08-39.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/02-09-2026/20h/QUADRA 4_02-09-2026_20-08-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/02-09-2026/20h/QUADRA%204_02-09-2026_20-08-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/02-09-2026/20h/QUADRA%204_02-09-2026_20-08-39.jpg"
                 }
               ]
             }
