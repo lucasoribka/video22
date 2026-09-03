@@ -2633,6 +2633,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/03-09-2026/20h/CAMPO 1 DIREITA_03-09-2026_20-48-45.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-09-2026/20h/CAMPO%201%20DIREITA_03-09-2026_20-48-45.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-09-2026/20h/CAMPO%201%20DIREITA_03-09-2026_20-48-45.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_03-09-2026_20-50-05.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/03-09-2026/20h/CAMPO 1 DIREITA_03-09-2026_20-50-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-09-2026/20h/CAMPO%201%20DIREITA_03-09-2026_20-50-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-09-2026/20h/CAMPO%201%20DIREITA_03-09-2026_20-50-05.jpg"
                 }
               ]
             }
@@ -3489,6 +3495,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/03-09-2026/20h/CAMPO 1 ESQUERDA_03-09-2026_20-48-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-09-2026/20h/CAMPO%201%20ESQUERDA_03-09-2026_20-48-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-09-2026/20h/CAMPO%201%20ESQUERDA_03-09-2026_20-48-57.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_03-09-2026_20-50-18.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/03-09-2026/20h/CAMPO 1 ESQUERDA_03-09-2026_20-50-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-09-2026/20h/CAMPO%201%20ESQUERDA_03-09-2026_20-50-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-09-2026/20h/CAMPO%201%20ESQUERDA_03-09-2026_20-50-18.jpg"
                 }
               ]
             }
@@ -12739,6 +12751,16 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/03-09-2026/19h/QUADRA 1_03-09-2026_19-49-49.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/03-09-2026/19h/QUADRA%201_03-09-2026_19-49-49.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/03-09-2026/19h/QUADRA%201_03-09-2026_19-49-49.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_03-09-2026_20-50-11.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/03-09-2026/20h/QUADRA 1_03-09-2026_20-50-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/03-09-2026/20h/QUADRA%201_03-09-2026_20-50-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/03-09-2026/20h/QUADRA%201_03-09-2026_20-50-11.jpg"
                 }
               ]
             }
@@ -23411,6 +23433,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-09-2026/19h/QUADRA_03-09-2026_19-22-59.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/19h/QUADRA_03-09-2026_19-22-59.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/19h/QUADRA_03-09-2026_19-22-59.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-09-2026_20-47-34.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-09-2026/20h/QUADRA_03-09-2026_20-47-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/20h/QUADRA_03-09-2026_20-47-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/20h/QUADRA_03-09-2026_20-47-34.jpg"
                 }
               ]
             }
