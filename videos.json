@@ -9593,6 +9593,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-09-2026/12h/PADEL%202_03-09-2026_12-21-33.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 2_03-09-2026_17-43-44.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/03-09-2026/17h/PADEL 2_03-09-2026_17-43-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-09-2026/17h/PADEL%202_03-09-2026_17-43-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-09-2026/17h/PADEL%202_03-09-2026_17-43-44.jpg"
+                }
+              ]
             }
           },
           "30-08-2026": {
@@ -14871,6 +14881,18 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/02-09-2026/21h/QUADRA_02-09-2026_21-56-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-09-2026/21h/QUADRA_02-09-2026_21-56-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-09-2026/21h/QUADRA_02-09-2026_21-56-21.jpg"
+                }
+              ]
+            }
+          },
+          "03-09-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-09-2026_17-43-11.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/03-09-2026/17h/QUADRA_03-09-2026_17-43-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-09-2026/17h/QUADRA_03-09-2026_17-43-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-09-2026/17h/QUADRA_03-09-2026_17-43-11.jpg"
                 }
               ]
             }
