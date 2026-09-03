@@ -16733,6 +16733,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/03-09-2026/18h/QUADRA_03-09-2026_18-38-10.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-09-2026_19-00-03.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/03-09-2026/19h/QUADRA_03-09-2026_19-00-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/03-09-2026/19h/QUADRA_03-09-2026_19-00-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/03-09-2026/19h/QUADRA_03-09-2026_19-00-03.jpg"
+                }
+              ]
             }
           },
           "27-08-2026": {
@@ -22239,6 +22249,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-09-2026/16h/QUADRA_03-09-2026_16-05-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/16h/QUADRA_03-09-2026_16-05-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/16h/QUADRA_03-09-2026_16-05-35.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-09-2026_18-59-23.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-09-2026/18h/QUADRA_03-09-2026_18-59-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/18h/QUADRA_03-09-2026_18-59-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-09-2026/18h/QUADRA_03-09-2026_18-59-23.jpg"
                 }
               ]
             }
