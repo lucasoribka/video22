@@ -345,6 +345,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/05-09-2026/08h/QUADRA_05-09-2026_08-53-18.jpg"
                 }
               ]
+            },
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-09-2026_09-08-37.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/05-09-2026/09h/QUADRA_05-09-2026_09-08-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/05-09-2026/09h/QUADRA_05-09-2026_09-08-37.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/05-09-2026/09h/QUADRA_05-09-2026_09-08-37.jpg"
+                }
+              ]
             }
           },
           "30-08-2026": {
@@ -2719,6 +2729,18 @@
               ]
             }
           },
+          "05-09-2026": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_05-09-2026_09-09-22.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/05-09-2026/09h/CAMPO 1 DIREITA_05-09-2026_09-09-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/05-09-2026/09h/CAMPO%201%20DIREITA_05-09-2026_09-09-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/05-09-2026/09h/CAMPO%201%20DIREITA_05-09-2026_09-09-22.jpg"
+                }
+              ]
+            }
+          },
           "31-08-2026": {
             "19h": {
               "_videos": [
@@ -3431,6 +3453,18 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/04-09-2026/23h/CAMPO 1 ESQUERDA_04-09-2026_23-28-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/04-09-2026/23h/CAMPO%201%20ESQUERDA_04-09-2026_23-28-26.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/04-09-2026/23h/CAMPO%201%20ESQUERDA_04-09-2026_23-28-26.jpg"
+                }
+              ]
+            }
+          },
+          "05-09-2026": {
+            "09h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_05-09-2026_09-09-35.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/05-09-2026/09h/CAMPO 1 ESQUERDA_05-09-2026_09-09-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/05-09-2026/09h/CAMPO%201%20ESQUERDA_05-09-2026_09-09-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/05-09-2026/09h/CAMPO%201%20ESQUERDA_05-09-2026_09-09-35.jpg"
                 }
               ]
             }
