@@ -20535,6 +20535,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/29-08-2026/22h/QUADRA_29-08-2026_22-13-38.jpg"
                 }
               ]
+            },
+            "23h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-08-2026_23-46-56.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/29-08-2026/23h/QUADRA_29-08-2026_23-46-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/29-08-2026/23h/QUADRA_29-08-2026_23-46-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/29-08-2026/23h/QUADRA_29-08-2026_23-46-56.jpg"
+                }
+              ]
             }
           }
         },
@@ -20965,6 +20975,18 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/06-09-2026/16h/QUADRA_06-09-2026_16-56-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/06-09-2026/16h/QUADRA_06-09-2026_16-56-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/06-09-2026/16h/QUADRA_06-09-2026_16-56-44.jpg"
+                }
+              ]
+            }
+          },
+          "07-09-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-09-2026_11-37-51.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/07-09-2026/11h/QUADRA_07-09-2026_11-37-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/07-09-2026/11h/QUADRA_07-09-2026_11-37-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/07-09-2026/11h/QUADRA_07-09-2026_11-37-51.jpg"
                 }
               ]
             }
