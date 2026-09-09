@@ -12557,6 +12557,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/08-09-2026/21h/TRAVE%203%20-%20ESTACIONAMENTO_08-09-2026_21-36-36.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_08-09-2026_22-08-00.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/08-09-2026/22h/TRAVE 3 - ESTACIONAMENTO_08-09-2026_22-08-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/08-09-2026/22h/TRAVE%203%20-%20ESTACIONAMENTO_08-09-2026_22-08-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/08-09-2026/22h/TRAVE%203%20-%20ESTACIONAMENTO_08-09-2026_22-08-00.jpg"
+                }
+              ]
             }
           },
           "25-08-2026": {
@@ -12675,6 +12685,16 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/08-09-2026/21h/TRAVE 4 - PORTÃO_08-09-2026_21-36-36.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/08-09-2026/21h/TRAVE%204%20-%20PORTÃO_08-09-2026_21-36-36.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/08-09-2026/21h/TRAVE%204%20-%20PORTÃO_08-09-2026_21-36-36.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 4 - PORTÃO_08-09-2026_22-08-00.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/08-09-2026/22h/TRAVE 4 - PORTÃO_08-09-2026_22-08-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/08-09-2026/22h/TRAVE%204%20-%20PORTÃO_08-09-2026_22-08-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/08-09-2026/22h/TRAVE%204%20-%20PORTÃO_08-09-2026_22-08-00.jpg"
                 }
               ]
             }
