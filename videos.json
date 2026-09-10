@@ -445,6 +445,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-27-29.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-27-29.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-27-29.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-09-2026_19-29-10.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-29-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-29-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-29-10.jpg"
                 }
               ]
             }
@@ -6025,6 +6031,18 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-09-2026/18h/QUADRA_09-09-2026_18-41-24.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-09-2026/18h/QUADRA_09-09-2026_18-41-24.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-09-2026/18h/QUADRA_09-09-2026_18-41-24.jpg"
+                }
+              ]
+            }
+          },
+          "10-09-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-09-2026_19-28-38.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-28-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-28-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/10-09-2026/19h/QUADRA_10-09-2026_19-28-38.jpg"
                 }
               ]
             }
