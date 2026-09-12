@@ -5071,6 +5071,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-09-2026/09h/QUADRA_12-09-2026_09-55-49.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-09-2026_10-00-27.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/12-09-2026/10h/QUADRA_12-09-2026_10-00-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-09-2026/10h/QUADRA_12-09-2026_10-00-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/12-09-2026/10h/QUADRA_12-09-2026_10-00-27.jpg"
+                }
+              ]
             }
           }
         }
@@ -16153,6 +16163,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-09-2026/09h/QUADRA_12-09-2026_09-57-14.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-09-2026/09h/QUADRA_12-09-2026_09-57-14.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-09-2026/09h/QUADRA_12-09-2026_09-57-14.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-09-2026_10-00-14.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-09-2026/10h/QUADRA_12-09-2026_10-00-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-09-2026/10h/QUADRA_12-09-2026_10-00-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-09-2026/10h/QUADRA_12-09-2026_10-00-14.jpg"
                 }
               ]
             }
