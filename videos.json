@@ -927,6 +927,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-09-2026/21h/QUADRA_11-09-2026_21-55-19.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-09-2026_22-01-41.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-09-2026/22h/QUADRA_11-09-2026_22-01-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-09-2026/22h/QUADRA_11-09-2026_22-01-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-09-2026/22h/QUADRA_11-09-2026_22-01-41.jpg"
+                }
+              ]
             }
           },
           "24-08-2026": {
@@ -23021,6 +23031,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/11-09-2026/21h/QUADRA_11-09-2026_21-56-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/11-09-2026/21h/QUADRA_11-09-2026_21-56-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/11-09-2026/21h/QUADRA_11-09-2026_21-56-21.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-09-2026_21-59-20.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/11-09-2026/21h/QUADRA_11-09-2026_21-59-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/11-09-2026/21h/QUADRA_11-09-2026_21-59-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/11-09-2026/21h/QUADRA_11-09-2026_21-59-20.jpg"
                 }
               ]
             }
