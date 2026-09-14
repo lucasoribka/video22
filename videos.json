@@ -11539,6 +11539,18 @@
           }
         },
         "QUADRA 2": {
+          "01-08-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-08-2026_18-19-15.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/01-08-2026/18h/QUADRA_01-08-2026_18-19-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/01-08-2026/18h/QUADRA_01-08-2026_18-19-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/01-08-2026/18h/QUADRA_01-08-2026_18-19-15.jpg"
+                }
+              ]
+            }
+          },
           "02-09-2026": {
             "15h": {
               "_videos": [
@@ -19647,6 +19659,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-09-2026/17h/QUADRA_12-09-2026_17-18-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-09-2026/17h/QUADRA_12-09-2026_17-18-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-09-2026/17h/QUADRA_12-09-2026_17-18-38.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-09-2026_18-03-47.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/12-09-2026/18h/QUADRA_12-09-2026_18-03-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-09-2026/18h/QUADRA_12-09-2026_18-03-47.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/12-09-2026/18h/QUADRA_12-09-2026_18-03-47.jpg"
                 }
               ]
             }
