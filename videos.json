@@ -15271,6 +15271,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/15-09-2026/17h/QUADRA_15-09-2026_17-44-29.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-09-2026_18-11-11.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/15-09-2026/18h/QUADRA_15-09-2026_18-11-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/15-09-2026/18h/QUADRA_15-09-2026_18-11-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/15-09-2026/18h/QUADRA_15-09-2026_18-11-11.jpg"
+                }
+              ]
             }
           },
           "24-08-2026": {
@@ -16361,6 +16371,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/15-09-2026/18h/QUADRA_15-09-2026_18-01-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/15-09-2026/18h/QUADRA_15-09-2026_18-01-18.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/15-09-2026/18h/QUADRA_15-09-2026_18-01-18.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-09-2026_18-08-53.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/15-09-2026/18h/QUADRA_15-09-2026_18-08-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/15-09-2026/18h/QUADRA_15-09-2026_18-08-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/15-09-2026/18h/QUADRA_15-09-2026_18-08-53.jpg"
                 }
               ]
             }
