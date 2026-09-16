@@ -9845,6 +9845,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/16-09-2026/19h/QUADRA 1_16-09-2026_19-52-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/16-09-2026/19h/QUADRA%201_16-09-2026_19-52-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/16-09-2026/19h/QUADRA%201_16-09-2026_19-52-37.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_16-09-2026_19-58-46.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/16-09-2026/19h/QUADRA 1_16-09-2026_19-58-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/16-09-2026/19h/QUADRA%201_16-09-2026_19-58-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/16-09-2026/19h/QUADRA%201_16-09-2026_19-58-46.jpg"
                 }
               ]
             }
@@ -13377,6 +13383,16 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/02-09-2026/18h/QUADRA_02-09-2026_18-56-24.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-09-2026/18h/QUADRA_02-09-2026_18-56-24.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-09-2026/18h/QUADRA_02-09-2026_18-56-24.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-09-2026_19-34-50.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/02-09-2026/19h/QUADRA_02-09-2026_19-34-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-09-2026/19h/QUADRA_02-09-2026_19-34-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-09-2026/19h/QUADRA_02-09-2026_19-34-50.jpg"
                 }
               ]
             }
