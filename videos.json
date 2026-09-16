@@ -10991,6 +10991,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/15h/QUADRA_31-07-2026_15-30-57.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-07-2026_17-16-49.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/31-07-2026/17h/QUADRA_31-07-2026_17-16-49.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/17h/QUADRA_31-07-2026_17-16-49.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/17h/QUADRA_31-07-2026_17-16-49.jpg"
+                }
+              ]
             }
           }
         }
@@ -13257,6 +13267,16 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/02-09-2026/19h/QUADRA_02-09-2026_19-59-27.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/02-09-2026/19h/QUADRA_02-09-2026_19-59-27.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/02-09-2026/19h/QUADRA_02-09-2026_19-59-27.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-09-2026_20-00-04.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 2/02-09-2026/20h/QUADRA_02-09-2026_20-00-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/02-09-2026/20h/QUADRA_02-09-2026_20-00-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%202/02-09-2026/20h/QUADRA_02-09-2026_20-00-04.jpg"
                 }
               ]
             }
@@ -15755,6 +15775,18 @@
           }
         },
         "TRAVE 2": {
+          "11-09-2026": {
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-09-2026_22-02-25.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/11-09-2026/22h/QUADRA_11-09-2026_22-02-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/11-09-2026/22h/QUADRA_11-09-2026_22-02-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/11-09-2026/22h/QUADRA_11-09-2026_22-02-25.jpg"
+                }
+              ]
+            }
+          },
           "12-09-2026": {
             "08h": {
               "_videos": [
