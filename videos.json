@@ -1063,6 +1063,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-09-2026/10h/QUADRA_17-09-2026_10-01-12.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-09-2026_17-52-58.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/17-09-2026/17h/QUADRA_17-09-2026_17-52-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-09-2026/17h/QUADRA_17-09-2026_17-52-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-09-2026/17h/QUADRA_17-09-2026_17-52-58.jpg"
+                }
+              ]
             }
           }
         },
@@ -16961,6 +16971,22 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/17-09-2026/16h/QUADRA_17-09-2026_16-46-30.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/17-09-2026/16h/QUADRA_17-09-2026_16-46-30.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/17-09-2026/16h/QUADRA_17-09-2026_16-46-30.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-09-2026_17-49-42.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/17-09-2026/17h/QUADRA_17-09-2026_17-49-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/17-09-2026/17h/QUADRA_17-09-2026_17-49-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/17-09-2026/17h/QUADRA_17-09-2026_17-49-42.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-09-2026_17-51-10.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/17-09-2026/17h/QUADRA_17-09-2026_17-51-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/17-09-2026/17h/QUADRA_17-09-2026_17-51-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/17-09-2026/17h/QUADRA_17-09-2026_17-51-10.jpg"
                 }
               ]
             }
