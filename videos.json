@@ -8179,6 +8179,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/16-09-2026/21h/PADEL%202_16-09-2026_21-51-13.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 2_16-09-2026_22-03-02.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/16-09-2026/22h/PADEL 2_16-09-2026_22-03-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/16-09-2026/22h/PADEL%202_16-09-2026_22-03-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/16-09-2026/22h/PADEL%202_16-09-2026_22-03-02.jpg"
+                }
+              ]
             }
           }
         },
@@ -8713,6 +8723,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/16-09-2026/17h/QUADRA_16-09-2026_17-58-43.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-09-2026_21-54-59.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/16-09-2026/21h/QUADRA_16-09-2026_21-54-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/16-09-2026/21h/QUADRA_16-09-2026_21-54-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/16-09-2026/21h/QUADRA_16-09-2026_21-54-59.jpg"
+                }
+              ]
             }
           }
         },
@@ -9013,6 +9033,12 @@
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/16-09-2026/21h/QUADRA_16-09-2026_21-31-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-09-2026/21h/QUADRA_16-09-2026_21-31-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-09-2026/21h/QUADRA_16-09-2026_21-31-05.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-09-2026_21-53-39.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/16-09-2026/21h/QUADRA_16-09-2026_21-53-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-09-2026/21h/QUADRA_16-09-2026_21-53-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/16-09-2026/21h/QUADRA_16-09-2026_21-53-39.jpg"
                 }
               ]
             }
@@ -18303,6 +18329,18 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/15-09-2026/19h/QUADRA_15-09-2026_19-12-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/15-09-2026/19h/QUADRA_15-09-2026_19-12-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/15-09-2026/19h/QUADRA_15-09-2026_19-12-04.jpg"
+                }
+              ]
+            }
+          },
+          "16-09-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-09-2026_21-55-13.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/16-09-2026/21h/QUADRA_16-09-2026_21-55-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/16-09-2026/21h/QUADRA_16-09-2026_21-55-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/16-09-2026/21h/QUADRA_16-09-2026_21-55-13.jpg"
                 }
               ]
             }
