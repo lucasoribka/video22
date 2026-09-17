@@ -10925,6 +10925,12 @@
                   "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/10-09-2026/22h/QUADRA_10-09-2026_22-40-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/10-09-2026/22h/QUADRA_10-09-2026_22-40-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/10-09-2026/22h/QUADRA_10-09-2026_22-40-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-09-2026_22-51-53.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/10-09-2026/22h/QUADRA_10-09-2026_22-51-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/10-09-2026/22h/QUADRA_10-09-2026_22-51-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/10-09-2026/22h/QUADRA_10-09-2026_22-51-53.jpg"
                 }
               ]
             }
@@ -11219,6 +11225,16 @@
                   "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/31-07-2026/20h/QUADRA_31-07-2026_20-58-22.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/20h/QUADRA_31-07-2026_20-58-22.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/20h/QUADRA_31-07-2026_20-58-22.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-07-2026_21-27-07.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/31-07-2026/21h/QUADRA_31-07-2026_21-27-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/21h/QUADRA_31-07-2026_21-27-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/31-07-2026/21h/QUADRA_31-07-2026_21-27-07.jpg"
                 }
               ]
             }
@@ -17453,6 +17469,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/09-09-2026/18h/QUADRA_09-09-2026_18-51-03.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-09-2026_19-20-44.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/09-09-2026/19h/QUADRA_09-09-2026_19-20-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/09-09-2026/19h/QUADRA_09-09-2026_19-20-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/09-09-2026/19h/QUADRA_09-09-2026_19-20-44.jpg"
+                }
+              ]
             }
           },
           "10-09-2026": {
@@ -17677,6 +17703,18 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/02-09-2026/20h/QUADRA_02-09-2026_20-36-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/02-09-2026/20h/QUADRA_02-09-2026_20-36-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/02-09-2026/20h/QUADRA_02-09-2026_20-36-58.jpg"
+                }
+              ]
+            }
+          },
+          "05-09-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-09-2026_10-22-11.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/05-09-2026/10h/QUADRA_05-09-2026_10-22-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/05-09-2026/10h/QUADRA_05-09-2026_10-22-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/05-09-2026/10h/QUADRA_05-09-2026_10-22-11.jpg"
                 }
               ]
             }
