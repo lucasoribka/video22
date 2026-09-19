@@ -1329,6 +1329,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/19-09-2026/17h/QUADRA_19-09-2026_17-00-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/17h/QUADRA_19-09-2026_17-00-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/17h/QUADRA_19-09-2026_17-00-16.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-09-2026_17-02-20.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/19-09-2026/17h/QUADRA_19-09-2026_17-02-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/17h/QUADRA_19-09-2026_17-02-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/17h/QUADRA_19-09-2026_17-02-20.jpg"
                 }
               ]
             }
@@ -24421,6 +24427,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/19-09-2026/16h/QUADRA_19-09-2026_16-47-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/19-09-2026/16h/QUADRA_19-09-2026_16-47-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/19-09-2026/16h/QUADRA_19-09-2026_16-47-39.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2026_17-01-12.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/19-09-2026/17h/QUADRA_19-09-2026_17-01-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/19-09-2026/17h/QUADRA_19-09-2026_17-01-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/19-09-2026/17h/QUADRA_19-09-2026_17-01-12.jpg"
                 }
               ]
             }
