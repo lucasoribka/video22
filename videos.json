@@ -1257,6 +1257,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/15h/QUADRA_19-09-2026_15-51-31.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2026_16-11-15.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/19-09-2026/16h/QUADRA_19-09-2026_16-11-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/16h/QUADRA_19-09-2026_16-11-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/16h/QUADRA_19-09-2026_16-11-15.jpg"
+                }
+              ]
             }
           }
         },
@@ -24499,6 +24509,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/19-09-2026/15h/QUADRA_19-09-2026_15-49-15.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/19-09-2026/15h/QUADRA_19-09-2026_15-49-15.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/19-09-2026/15h/QUADRA_19-09-2026_15-49-15.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2026_16-08-50.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/19-09-2026/16h/QUADRA_19-09-2026_16-08-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/19-09-2026/16h/QUADRA_19-09-2026_16-08-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/19-09-2026/16h/QUADRA_19-09-2026_16-08-50.jpg"
                 }
               ]
             }
