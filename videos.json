@@ -1357,6 +1357,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/19-09-2026/11h/QUADRA_19-09-2026_11-05-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/11h/QUADRA_19-09-2026_11-05-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/11h/QUADRA_19-09-2026_11-05-06.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-09-2026_11-23-33.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/19-09-2026/11h/QUADRA_19-09-2026_11-23-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/11h/QUADRA_19-09-2026_11-23-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/19-09-2026/11h/QUADRA_19-09-2026_11-23-33.jpg"
                 }
               ]
             }
@@ -2881,6 +2887,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/19-09-2026/11h/CAMPO 1 DIREITA_19-09-2026_11-11-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/19-09-2026/11h/CAMPO%201%20DIREITA_19-09-2026_11-11-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/19-09-2026/11h/CAMPO%201%20DIREITA_19-09-2026_11-11-54.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_19-09-2026_11-25-06.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/19-09-2026/11h/CAMPO 1 DIREITA_19-09-2026_11-25-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/19-09-2026/11h/CAMPO%201%20DIREITA_19-09-2026_11-25-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/19-09-2026/11h/CAMPO%201%20DIREITA_19-09-2026_11-25-06.jpg"
                 }
               ]
             }
@@ -3865,6 +3877,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/19-09-2026/11h/CAMPO 1 ESQUERDA_19-09-2026_11-11-41.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-09-2026/11h/CAMPO%201%20ESQUERDA_19-09-2026_11-11-41.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-09-2026/11h/CAMPO%201%20ESQUERDA_19-09-2026_11-11-41.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_19-09-2026_11-25-18.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/19-09-2026/11h/CAMPO 1 ESQUERDA_19-09-2026_11-25-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-09-2026/11h/CAMPO%201%20ESQUERDA_19-09-2026_11-25-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/19-09-2026/11h/CAMPO%201%20ESQUERDA_19-09-2026_11-25-18.jpg"
                 }
               ]
             }
@@ -25737,6 +25755,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/19-09-2026/08h/QUADRA_19-09-2026_08-22-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-09-2026/08h/QUADRA_19-09-2026_08-22-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-09-2026/08h/QUADRA_19-09-2026_08-22-48.jpg"
+                }
+              ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2026_11-23-33.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/19-09-2026/11h/QUADRA_19-09-2026_11-23-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-09-2026/11h/QUADRA_19-09-2026_11-23-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/19-09-2026/11h/QUADRA_19-09-2026_11-23-33.jpg"
                 }
               ]
             }
