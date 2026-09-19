@@ -6607,6 +6607,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-09-2026/09h/QUADRA_19-09-2026_09-46-55.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-09-2026_12-42-11.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/19-09-2026/12h/QUADRA_19-09-2026_12-42-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-09-2026/12h/QUADRA_19-09-2026_12-42-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-09-2026/12h/QUADRA_19-09-2026_12-42-11.jpg"
+                }
+              ]
             }
           }
         }
