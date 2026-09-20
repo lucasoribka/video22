@@ -14473,6 +14473,22 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/13-09-2026/13h/QUADRA_13-09-2026_13-05-19.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-09-2026_19-03-39.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/13-09-2026/19h/QUADRA_13-09-2026_19-03-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/13-09-2026/19h/QUADRA_13-09-2026_19-03-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/13-09-2026/19h/QUADRA_13-09-2026_19-03-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_13-09-2026_19-14-21.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/13-09-2026/19h/QUADRA_13-09-2026_19-14-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/13-09-2026/19h/QUADRA_13-09-2026_19-14-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/13-09-2026/19h/QUADRA_13-09-2026_19-14-21.jpg"
+                }
+              ]
             }
           },
           "14-09-2026": {
@@ -14751,6 +14767,22 @@
                   "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/18-08-2026/18h/QUADRA_18-08-2026_18-53-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-08-2026/18h/QUADRA_18-08-2026_18-53-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-08-2026/18h/QUADRA_18-08-2026_18-53-16.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-08-2026_19-24-07.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/18-08-2026/19h/QUADRA_18-08-2026_19-24-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-24-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-24-07.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-08-2026_19-37-14.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/18-08-2026/19h/QUADRA_18-08-2026_19-37-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-37-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-08-2026/19h/QUADRA_18-08-2026_19-37-14.jpg"
                 }
               ]
             }
@@ -22239,6 +22271,18 @@
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-09-2026/19h/QUADRA_18-09-2026_19-19-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-09-2026/19h/QUADRA_18-09-2026_19-19-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-09-2026/19h/QUADRA_18-09-2026_19-19-32.jpg"
+                }
+              ]
+            }
+          },
+          "29-08-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-08-2026_17-26-11.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/29-08-2026/17h/QUADRA_29-08-2026_17-26-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/29-08-2026/17h/QUADRA_29-08-2026_17-26-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/29-08-2026/17h/QUADRA_29-08-2026_17-26-11.jpg"
                 }
               ]
             }
