@@ -1449,6 +1449,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-09-2026/19h/QUADRA_22-09-2026_19-46-10.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/19h/QUADRA_22-09-2026_19-46-10.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/19h/QUADRA_22-09-2026_19-46-10.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-09-2026_19-52-03.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-09-2026/19h/QUADRA_22-09-2026_19-52-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/19h/QUADRA_22-09-2026_19-52-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/19h/QUADRA_22-09-2026_19-52-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-09-2026_19-52-41.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-09-2026/19h/QUADRA_22-09-2026_19-52-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/19h/QUADRA_22-09-2026_19-52-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/19h/QUADRA_22-09-2026_19-52-41.jpg"
                 }
               ]
             }
@@ -8897,6 +8909,18 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/21-09-2026/21h/QUADRA_21-09-2026_21-06-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/21-09-2026/21h/QUADRA_21-09-2026_21-06-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/21-09-2026/21h/QUADRA_21-09-2026_21-06-54.jpg"
+                }
+              ]
+            }
+          },
+          "22-09-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-09-2026_19-49-32.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/22-09-2026/19h/QUADRA_22-09-2026_19-49-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/22-09-2026/19h/QUADRA_22-09-2026_19-49-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/22-09-2026/19h/QUADRA_22-09-2026_19-49-32.jpg"
                 }
               ]
             }
@@ -25629,6 +25653,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-09-2026/19h/QUADRA_22-09-2026_19-30-19.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-09-2026/19h/QUADRA_22-09-2026_19-30-19.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-09-2026/19h/QUADRA_22-09-2026_19-30-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-09-2026_19-49-23.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-09-2026/19h/QUADRA_22-09-2026_19-49-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-09-2026/19h/QUADRA_22-09-2026_19-49-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-09-2026/19h/QUADRA_22-09-2026_19-49-23.jpg"
                 }
               ]
             }
