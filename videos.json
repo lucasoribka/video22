@@ -1663,6 +1663,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-09-2026/23h/QUADRA_22-09-2026_23-06-27.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/23h/QUADRA_22-09-2026_23-06-27.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/23h/QUADRA_22-09-2026_23-06-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-09-2026_23-08-42.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-09-2026/23h/QUADRA_22-09-2026_23-08-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/23h/QUADRA_22-09-2026_23-08-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/23h/QUADRA_22-09-2026_23-08-42.jpg"
                 }
               ]
             }
@@ -20399,6 +20405,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/22-09-2026/22h/QUADRA_22-09-2026_22-52-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/22-09-2026/22h/QUADRA_22-09-2026_22-52-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/22-09-2026/22h/QUADRA_22-09-2026_22-52-44.jpg"
+                }
+              ]
+            },
+            "23h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-09-2026_23-05-23.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/22-09-2026/23h/QUADRA_22-09-2026_23-05-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/22-09-2026/23h/QUADRA_22-09-2026_23-05-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/22-09-2026/23h/QUADRA_22-09-2026_23-05-23.jpg"
                 }
               ]
             }
