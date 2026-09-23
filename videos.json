@@ -1555,6 +1555,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/21h/QUADRA_22-09-2026_21-54-51.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-09-2026_22-07-27.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/22-09-2026/22h/QUADRA_22-09-2026_22-07-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/22h/QUADRA_22-09-2026_22-07-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/22-09-2026/22h/QUADRA_22-09-2026_22-07-27.jpg"
+                }
+              ]
             }
           }
         },
@@ -5797,6 +5807,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-09-2026/17h/QUADRA%202_22-09-2026_17-29-37.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_22-09-2026_22-06-19.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/22-09-2026/22h/QUADRA 2_22-09-2026_22-06-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-09-2026/22h/QUADRA%202_22-09-2026_22-06-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/22-09-2026/22h/QUADRA%202_22-09-2026_22-06-19.jpg"
+                }
+              ]
             }
           },
           "27-08-2026": {
@@ -9403,6 +9423,12 @@
                   "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/22-09-2026/22h/QUADRA_22-09-2026_22-02-30.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-09-2026/22h/QUADRA_22-09-2026_22-02-30.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-09-2026/22h/QUADRA_22-09-2026_22-02-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-09-2026_22-03-21.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/22-09-2026/22h/QUADRA_22-09-2026_22-03-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-09-2026/22h/QUADRA_22-09-2026_22-03-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-09-2026/22h/QUADRA_22-09-2026_22-03-21.jpg"
                 }
               ]
             }
