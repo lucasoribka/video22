@@ -2257,6 +2257,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/24-09-2026/20h/QUADRA_24-09-2026_20-08-09.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/24-09-2026/20h/QUADRA_24-09-2026_20-08-09.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/24-09-2026/20h/QUADRA_24-09-2026_20-08-09.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-09-2026_20-12-13.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/24-09-2026/20h/QUADRA_24-09-2026_20-12-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/24-09-2026/20h/QUADRA_24-09-2026_20-12-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/24-09-2026/20h/QUADRA_24-09-2026_20-12-13.jpg"
                 }
               ]
             }
@@ -5623,6 +5629,16 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/24-09-2026/19h/QUADRA_24-09-2026_19-44-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-09-2026/19h/QUADRA_24-09-2026_19-44-26.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-09-2026/19h/QUADRA_24-09-2026_19-44-26.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_24-09-2026_20-09-24.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/24-09-2026/20h/QUADRA_24-09-2026_20-09-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-09-2026/20h/QUADRA_24-09-2026_20-09-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-09-2026/20h/QUADRA_24-09-2026_20-09-24.jpg"
                 }
               ]
             }
@@ -12128,6 +12144,18 @@
                 }
               ]
             }
+          },
+          "24-09-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_24-09-2026_20-09-24.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - CAMPO GRANDE/24-09-2026/20h/TRAVE 1 - CAMPO GRANDE_24-09-2026_20-09-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/24-09-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_24-09-2026_20-09-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/24-09-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_24-09-2026_20-09-24.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - CAMPO GRANDE": {
@@ -12291,6 +12319,18 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/23-09-2026/20h/TRAVE 2 - CAMPO GRANDE_23-09-2026_20-46-49.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/23-09-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_23-09-2026_20-46-49.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/23-09-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_23-09-2026_20-46-49.jpg"
+                }
+              ]
+            }
+          },
+          "24-09-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_24-09-2026_20-09-24.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - CAMPO GRANDE/24-09-2026/20h/TRAVE 2 - CAMPO GRANDE_24-09-2026_20-09-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/24-09-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_24-09-2026_20-09-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/24-09-2026/20h/TRAVE%202%20-%20CAMPO%20GRANDE_24-09-2026_20-09-24.jpg"
                 }
               ]
             }
@@ -22747,6 +22787,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/24-09-2026/20h/QUADRA_24-09-2026_20-01-03.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/24-09-2026/20h/QUADRA_24-09-2026_20-01-03.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/24-09-2026/20h/QUADRA_24-09-2026_20-01-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-09-2026_20-06-45.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/24-09-2026/20h/QUADRA_24-09-2026_20-06-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/24-09-2026/20h/QUADRA_24-09-2026_20-06-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/24-09-2026/20h/QUADRA_24-09-2026_20-06-45.jpg"
                 }
               ]
             }
