@@ -5335,6 +5335,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/25-09-2026/19h/QUADRA_25-09-2026_19-06-24.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/25-09-2026/19h/QUADRA_25-09-2026_19-06-24.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/25-09-2026/19h/QUADRA_25-09-2026_19-06-24.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-09-2026_19-06-52.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/25-09-2026/19h/QUADRA_25-09-2026_19-06-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/25-09-2026/19h/QUADRA_25-09-2026_19-06-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/25-09-2026/19h/QUADRA_25-09-2026_19-06-52.jpg"
                 }
               ]
             }
@@ -12539,6 +12545,16 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/25-09-2026/18h/QUADRA 1_25-09-2026_18-45-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-09-2026/18h/QUADRA%201_25-09-2026_18-45-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-09-2026/18h/QUADRA%201_25-09-2026_18-45-35.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_25-09-2026_19-09-07.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/25-09-2026/19h/QUADRA 1_25-09-2026_19-09-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-09-2026/19h/QUADRA%201_25-09-2026_19-09-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/25-09-2026/19h/QUADRA%201_25-09-2026_19-09-07.jpg"
                 }
               ]
             }
