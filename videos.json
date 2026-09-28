@@ -5575,6 +5575,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/28-09-2026/19h/QUADRA_28-09-2026_19-49-20.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-09-2026_20-11-15.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/28-09-2026/20h/QUADRA_28-09-2026_20-11-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/28-09-2026/20h/QUADRA_28-09-2026_20-11-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/28-09-2026/20h/QUADRA_28-09-2026_20-11-15.jpg"
+                }
+              ]
             }
           }
         }
@@ -17379,6 +17389,16 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/28-09-2026/19h/QUADRA_28-09-2026_19-33-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/28-09-2026/19h/QUADRA_28-09-2026_19-33-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/28-09-2026/19h/QUADRA_28-09-2026_19-33-35.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_28-09-2026_20-10-21.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/28-09-2026/20h/QUADRA_28-09-2026_20-10-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/28-09-2026/20h/QUADRA_28-09-2026_20-10-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/28-09-2026/20h/QUADRA_28-09-2026_20-10-21.jpg"
                 }
               ]
             }
