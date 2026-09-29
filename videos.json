@@ -3025,6 +3025,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-09-2026/18h/QUADRA%201_29-09-2026_18-59-18.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_29-09-2026_19-43-28.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-09-2026/19h/QUADRA 1_29-09-2026_19-43-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-09-2026/19h/QUADRA%201_29-09-2026_19-43-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-09-2026/19h/QUADRA%201_29-09-2026_19-43-28.jpg"
+                }
+              ]
             }
           }
         },
@@ -18975,6 +18985,18 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/28-09-2026/15h/QUADRA_28-09-2026_15-45-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/28-09-2026/15h/QUADRA_28-09-2026_15-45-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/28-09-2026/15h/QUADRA_28-09-2026_15-45-06.jpg"
+                }
+              ]
+            }
+          },
+          "29-09-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-09-2026_19-41-01.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/29-09-2026/19h/QUADRA_29-09-2026_19-41-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/29-09-2026/19h/QUADRA_29-09-2026_19-41-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/29-09-2026/19h/QUADRA_29-09-2026_19-41-01.jpg"
                 }
               ]
             }
