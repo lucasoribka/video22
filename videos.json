@@ -3001,6 +3001,12 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/29-09-2026/12h/CAMPO%201%20DIREITA_29-09-2026_12-26-11.jpg"
                 },
                 {
+                  "nome": "CAMPO 1 DIREITA_29-09-2026_12-31-10.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/29-09-2026/12h/CAMPO 1 DIREITA_29-09-2026_12-31-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/29-09-2026/12h/CAMPO%201%20DIREITA_29-09-2026_12-31-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/29-09-2026/12h/CAMPO%201%20DIREITA_29-09-2026_12-31-10.jpg"
+                },
+                {
                   "nome": "CAMPO 1 DIREITA_29-09-2026_12-39-38.mp4",
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/29-09-2026/12h/CAMPO 1 DIREITA_29-09-2026_12-39-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/29-09-2026/12h/CAMPO%201%20DIREITA_29-09-2026_12-39-38.mp4",
@@ -3045,6 +3051,18 @@
           }
         },
         "CAMPO 1 ESQUERDA": {
+          "12-09-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_12-09-2026_18-11-51.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/12-09-2026/18h/CAMPO 1 ESQUERDA_12-09-2026_18-11-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/12-09-2026/18h/CAMPO%201%20ESQUERDA_12-09-2026_18-11-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/12-09-2026/18h/CAMPO%201%20ESQUERDA_12-09-2026_18-11-51.jpg"
+                }
+              ]
+            }
+          },
           "24-09-2026": {
             "19h": {
               "_videos": [
