@@ -4759,6 +4759,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-09-2026/20h/QUADRA_29-09-2026_20-53-26.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-09-2026_21-28-08.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/29-09-2026/21h/QUADRA_29-09-2026_21-28-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-09-2026/21h/QUADRA_29-09-2026_21-28-08.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/29-09-2026/21h/QUADRA_29-09-2026_21-28-08.jpg"
+                }
+              ]
             }
           }
         }
@@ -11703,6 +11713,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-09-2026/17h/QUADRA_18-09-2026_17-51-39.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-09-2026_21-53-12.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/18-09-2026/21h/QUADRA_18-09-2026_21-53-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-09-2026/21h/QUADRA_18-09-2026_21-53-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/18-09-2026/21h/QUADRA_18-09-2026_21-53-12.jpg"
+                }
+              ]
             }
           },
           "20-08-2026": {
@@ -11713,6 +11733,18 @@
                   "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/20-08-2026/17h/QUADRA_20-08-2026_17-41-31.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/20-08-2026/17h/QUADRA_20-08-2026_17-41-31.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/20-08-2026/17h/QUADRA_20-08-2026_17-41-31.jpg"
+                }
+              ]
+            }
+          },
+          "20-09-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_20-09-2026_17-16-08.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/20-09-2026/17h/QUADRA_20-09-2026_17-16-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/20-09-2026/17h/QUADRA_20-09-2026_17-16-08.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/20-09-2026/17h/QUADRA_20-09-2026_17-16-08.jpg"
                 }
               ]
             }
@@ -15577,6 +15609,18 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/17-09-2026/18h/QUADRA_17-09-2026_18-56-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/17-09-2026/18h/QUADRA_17-09-2026_18-56-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/17-09-2026/18h/QUADRA_17-09-2026_18-56-21.jpg"
+                }
+              ]
+            }
+          },
+          "21-09-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-09-2026_11-00-42.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/21-09-2026/11h/QUADRA_21-09-2026_11-00-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/21-09-2026/11h/QUADRA_21-09-2026_11-00-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/21-09-2026/11h/QUADRA_21-09-2026_11-00-42.jpg"
                 }
               ]
             }
@@ -19727,6 +19771,28 @@
               ]
             }
           },
+          "21-09-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-09-2026_20-50-35.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/21-09-2026/20h/QUADRA_21-09-2026_20-50-35.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-09-2026/20h/QUADRA_21-09-2026_20-50-35.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-09-2026/20h/QUADRA_21-09-2026_20-50-35.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-09-2026_22-17-13.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/21-09-2026/22h/QUADRA_21-09-2026_22-17-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-09-2026/22h/QUADRA_21-09-2026_22-17-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-09-2026/22h/QUADRA_21-09-2026_22-17-13.jpg"
+                }
+              ]
+            }
+          },
           "23-09-2026": {
             "20h": {
               "_videos": [
@@ -22419,6 +22485,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/29-09-2026/21h/QUADRA_29-09-2026_21-24-08.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/29-09-2026/21h/QUADRA_29-09-2026_21-24-08.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/29-09-2026/21h/QUADRA_29-09-2026_21-24-08.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-09-2026_21-25-55.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/29-09-2026/21h/QUADRA_29-09-2026_21-25-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/29-09-2026/21h/QUADRA_29-09-2026_21-25-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/29-09-2026/21h/QUADRA_29-09-2026_21-25-55.jpg"
                 }
               ]
             }
