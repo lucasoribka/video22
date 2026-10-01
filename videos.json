@@ -16201,6 +16201,22 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/30-09-2026/18h/QUADRA_30-09-2026_18-31-12.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-09-2026_19-09-53.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/30-09-2026/19h/QUADRA_30-09-2026_19-09-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/30-09-2026/19h/QUADRA_30-09-2026_19-09-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/30-09-2026/19h/QUADRA_30-09-2026_19-09-53.jpg"
+                },
+                {
+                  "nome": "QUADRA_30-09-2026_19-11-28.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/30-09-2026/19h/QUADRA_30-09-2026_19-11-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/30-09-2026/19h/QUADRA_30-09-2026_19-11-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/30-09-2026/19h/QUADRA_30-09-2026_19-11-28.jpg"
+                }
+              ]
             }
           }
         },
@@ -16455,6 +16471,18 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/29-09-2026/21h/QUADRA_29-09-2026_21-52-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/29-09-2026/21h/QUADRA_29-09-2026_21-52-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/29-09-2026/21h/QUADRA_29-09-2026_21-52-04.jpg"
+                }
+              ]
+            }
+          },
+          "30-09-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-09-2026_18-21-20.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/30-09-2026/18h/QUADRA_30-09-2026_18-21-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/30-09-2026/18h/QUADRA_30-09-2026_18-21-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/30-09-2026/18h/QUADRA_30-09-2026_18-21-20.jpg"
                 }
               ]
             }
