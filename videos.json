@@ -1383,6 +1383,28 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/19h/QUADRA_01-10-2026_19-54-54.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_01-10-2026_20-00-46.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/01-10-2026/20h/QUADRA_01-10-2026_20-00-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/20h/QUADRA_01-10-2026_20-00-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/20h/QUADRA_01-10-2026_20-00-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-10-2026_20-01-18.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/01-10-2026/20h/QUADRA_01-10-2026_20-01-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/20h/QUADRA_01-10-2026_20-01-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/20h/QUADRA_01-10-2026_20-01-18.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-10-2026_20-08-17.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/01-10-2026/20h/QUADRA_01-10-2026_20-08-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/20h/QUADRA_01-10-2026_20-08-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/01-10-2026/20h/QUADRA_01-10-2026_20-08-17.jpg"
+                }
+              ]
             }
           },
           "25-09-2026": {
@@ -7131,6 +7153,12 @@
                   "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 2/01-10-2026/20h/QUADRA_01-10-2026_20-04-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%202/01-10-2026/20h/QUADRA_01-10-2026_20-04-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%202/01-10-2026/20h/QUADRA_01-10-2026_20-04-56.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-10-2026_20-06-54.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 2/01-10-2026/20h/QUADRA_01-10-2026_20-06-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%202/01-10-2026/20h/QUADRA_01-10-2026_20-06-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%202/01-10-2026/20h/QUADRA_01-10-2026_20-06-54.jpg"
                 }
               ]
             }
