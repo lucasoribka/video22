@@ -12051,6 +12051,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/01-10-2026/17h/QUADRA%201_01-10-2026_17-24-36.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_01-10-2026_19-22-27.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/01-10-2026/19h/QUADRA 1_01-10-2026_19-22-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/01-10-2026/19h/QUADRA%201_01-10-2026_19-22-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/01-10-2026/19h/QUADRA%201_01-10-2026_19-22-27.jpg"
+                }
+              ]
             }
           },
           "24-09-2026": {
@@ -22921,6 +22931,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/01-10-2026/19h/QUADRA_01-10-2026_19-11-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-10-2026/19h/QUADRA_01-10-2026_19-11-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-10-2026/19h/QUADRA_01-10-2026_19-11-01.jpg"
+                },
+                {
+                  "nome": "QUADRA_01-10-2026_19-20-33.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/01-10-2026/19h/QUADRA_01-10-2026_19-20-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-10-2026/19h/QUADRA_01-10-2026_19-20-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/01-10-2026/19h/QUADRA_01-10-2026_19-20-33.jpg"
                 }
               ]
             }
