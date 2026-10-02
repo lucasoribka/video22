@@ -6875,6 +6875,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/02-10-2026/09h/QUADRA_02-10-2026_09-10-02.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_19-27-56.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/02-10-2026/19h/QUADRA_02-10-2026_19-27-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/02-10-2026/19h/QUADRA_02-10-2026_19-27-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/02-10-2026/19h/QUADRA_02-10-2026_19-27-56.jpg"
+                }
+              ]
             }
           },
           "28-09-2026": {
@@ -21657,6 +21667,18 @@
           }
         },
         "QUADRA RICAR": {
+          "02-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_19-27-48.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/02-10-2026/19h/QUADRA_02-10-2026_19-27-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/19h/QUADRA_02-10-2026_19-27-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/19h/QUADRA_02-10-2026_19-27-48.jpg"
+                }
+              ]
+            }
+          },
           "18-09-2026": {
             "17h": {
               "_videos": [
