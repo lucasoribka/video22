@@ -1291,6 +1291,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-10-2026/16h/QUADRA_03-10-2026_16-29-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-29-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-29-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-10-2026_16-30-53.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-10-2026/16h/QUADRA_03-10-2026_16-30-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-30-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-30-53.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-10-2026_16-32-09.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-10-2026/16h/QUADRA_03-10-2026_16-32-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-32-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-32-09.jpg"
                 }
               ]
             }
@@ -10553,6 +10565,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/03-10-2026/16h/PADEL 2_03-10-2026_16-29-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-10-2026/16h/PADEL%202_03-10-2026_16-29-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-10-2026/16h/PADEL%202_03-10-2026_16-29-13.jpg"
+                },
+                {
+                  "nome": "PADEL 2_03-10-2026_16-31-26.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 2/03-10-2026/16h/PADEL 2_03-10-2026_16-31-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-10-2026/16h/PADEL%202_03-10-2026_16-31-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%202/03-10-2026/16h/PADEL%202_03-10-2026_16-31-26.jpg"
                 }
               ]
             }
@@ -18203,6 +18221,18 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/02-10-2026/17h/QUADRA_02-10-2026_17-32-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/02-10-2026/17h/QUADRA_02-10-2026_17-32-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/02-10-2026/17h/QUADRA_02-10-2026_17-32-21.jpg"
+                }
+              ]
+            }
+          },
+          "03-10-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-10-2026_16-29-50.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/03-10-2026/16h/QUADRA_03-10-2026_16-29-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/03-10-2026/16h/QUADRA_03-10-2026_16-29-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/03-10-2026/16h/QUADRA_03-10-2026_16-29-50.jpg"
                 }
               ]
             }
