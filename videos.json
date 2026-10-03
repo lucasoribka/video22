@@ -1315,6 +1315,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-10-2026/16h/QUADRA_03-10-2026_16-36-40.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-36-40.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-36-40.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-10-2026_16-45-12.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-10-2026/16h/QUADRA_03-10-2026_16-45-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-45-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-45-12.jpg"
                 }
               ]
             }
@@ -17617,6 +17623,16 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-10-2026/14h/QUADRA_03-10-2026_14-51-31.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/03-10-2026/14h/QUADRA_03-10-2026_14-51-31.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/03-10-2026/14h/QUADRA_03-10-2026_14-51-31.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-10-2026_16-42-31.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/03-10-2026/16h/QUADRA_03-10-2026_16-42-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-42-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/03-10-2026/16h/QUADRA_03-10-2026_16-42-31.jpg"
                 }
               ]
             }
