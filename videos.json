@@ -929,6 +929,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/02-10-2026/20h/QUADRA_02-10-2026_20-58-57.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_21-16-31.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/02-10-2026/21h/QUADRA_02-10-2026_21-16-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/02-10-2026/21h/QUADRA_02-10-2026_21-16-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/02-10-2026/21h/QUADRA_02-10-2026_21-16-31.jpg"
+                }
+              ]
             }
           },
           "23-09-2026": {
@@ -6167,6 +6177,18 @@
                   "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/01-10-2026/22h/QUADRA 1_01-10-2026_22-16-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/01-10-2026/22h/QUADRA%201_01-10-2026_22-16-20.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/01-10-2026/22h/QUADRA%201_01-10-2026_22-16-20.jpg"
+                }
+              ]
+            }
+          },
+          "02-10-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_02-10-2026_21-14-41.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/02-10-2026/21h/QUADRA 1_02-10-2026_21-14-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/02-10-2026/21h/QUADRA%201_02-10-2026_21-14-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/02-10-2026/21h/QUADRA%201_02-10-2026_21-14-41.jpg"
                 }
               ]
             }
@@ -21353,6 +21375,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_21-14-33.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.jpg"
+                }
+              ]
             }
           },
           "28-09-2026": {
@@ -24985,6 +25017,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2026/21h/QUADRA_02-10-2026_21-03-28.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2026/21h/QUADRA_02-10-2026_21-03-28.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2026/21h/QUADRA_02-10-2026_21-03-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_02-10-2026_21-13-51.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/02-10-2026/21h/QUADRA_02-10-2026_21-13-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2026/21h/QUADRA_02-10-2026_21-13-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/02-10-2026/21h/QUADRA_02-10-2026_21-13-51.jpg"
                 }
               ]
             }
