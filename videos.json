@@ -3645,6 +3645,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/03-10-2026/09h/CAMPO%202%20DIREITA_03-10-2026_09-09-34.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 2 DIREITA_03-10-2026_10-13-21.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 DIREITA/03-10-2026/10h/CAMPO 2 DIREITA_03-10-2026_10-13-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/03-10-2026/10h/CAMPO%202%20DIREITA_03-10-2026_10-13-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/03-10-2026/10h/CAMPO%202%20DIREITA_03-10-2026_10-13-21.jpg"
+                }
+              ]
             }
           },
           "29-09-2026": {
@@ -21783,6 +21793,18 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/02-10-2026/21h/QUADRA_02-10-2026_21-51-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/02-10-2026/21h/QUADRA_02-10-2026_21-51-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/02-10-2026/21h/QUADRA_02-10-2026_21-51-44.jpg"
+                }
+              ]
+            }
+          },
+          "03-10-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-10-2026_10-11-09.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/03-10-2026/10h/QUADRA_03-10-2026_10-11-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/03-10-2026/10h/QUADRA_03-10-2026_10-11-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/03-10-2026/10h/QUADRA_03-10-2026_10-11-09.jpg"
                 }
               ]
             }
