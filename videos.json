@@ -8241,6 +8241,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/18h/Quadra%20Bclar_06-10-2026_18-58-30.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Bclar_06-10-2026_19-21-45.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/06-10-2026/19h/Quadra Bclar_06-10-2026_19-21-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/19h/Quadra%20Bclar_06-10-2026_19-21-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/19h/Quadra%20Bclar_06-10-2026_19-21-45.jpg"
+                }
+              ]
             }
           },
           "30-09-2026": {
@@ -13373,6 +13383,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/05-10-2026/21h/QUADRA 4_05-10-2026_21-00-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/05-10-2026/21h/QUADRA%204_05-10-2026_21-00-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/05-10-2026/21h/QUADRA%204_05-10-2026_21-00-13.jpg"
+                }
+              ]
+            }
+          },
+          "06-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_06-10-2026_19-21-51.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/06-10-2026/19h/QUADRA 4_06-10-2026_19-21-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/06-10-2026/19h/QUADRA%204_06-10-2026_19-21-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/06-10-2026/19h/QUADRA%204_06-10-2026_19-21-51.jpg"
                 }
               ]
             }
