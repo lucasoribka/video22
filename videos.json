@@ -4577,6 +4577,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/06-10-2026/17h/QUADRA%202_06-10-2026_17-48-08.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_06-10-2026_18-44-02.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/06-10-2026/18h/QUADRA 2_06-10-2026_18-44-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/06-10-2026/18h/QUADRA%202_06-10-2026_18-44-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/06-10-2026/18h/QUADRA%202_06-10-2026_18-44-02.jpg"
+                }
+              ]
             }
           },
           "29-09-2026": {
@@ -8163,6 +8173,12 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/06-10-2026/18h/Quadra Bclar_06-10-2026_18-25-43.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/18h/Quadra%20Bclar_06-10-2026_18-25-43.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/18h/Quadra%20Bclar_06-10-2026_18-25-43.jpg"
+                },
+                {
+                  "nome": "Quadra Bclar_06-10-2026_18-44-44.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/06-10-2026/18h/Quadra Bclar_06-10-2026_18-44-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/18h/Quadra%20Bclar_06-10-2026_18-44-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/06-10-2026/18h/Quadra%20Bclar_06-10-2026_18-44-44.jpg"
                 }
               ]
             }
@@ -13107,6 +13123,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/05-10-2026/21h/QUADRA 3_05-10-2026_21-17-11.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/05-10-2026/21h/QUADRA%203_05-10-2026_21-17-11.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/05-10-2026/21h/QUADRA%203_05-10-2026_21-17-11.jpg"
+                }
+              ]
+            }
+          },
+          "06-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_06-10-2026_18-44-07.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/06-10-2026/18h/QUADRA 3_06-10-2026_18-44-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/06-10-2026/18h/QUADRA%203_06-10-2026_18-44-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/06-10-2026/18h/QUADRA%203_06-10-2026_18-44-07.jpg"
                 }
               ]
             }
