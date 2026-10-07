@@ -2801,6 +2801,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/07-10-2026/16h/CAMPO%201%20DIREITA_07-10-2026_16-38-32.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_07-10-2026_19-02-47.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/07-10-2026/19h/CAMPO 1 DIREITA_07-10-2026_19-02-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/07-10-2026/19h/CAMPO%201%20DIREITA_07-10-2026_19-02-47.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/07-10-2026/19h/CAMPO%201%20DIREITA_07-10-2026_19-02-47.jpg"
+                }
+              ]
             }
           }
         },
@@ -3087,6 +3097,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/07-10-2026/16h/CAMPO 1 ESQUERDA_07-10-2026_16-38-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/07-10-2026/16h/CAMPO%201%20ESQUERDA_07-10-2026_16-38-18.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/07-10-2026/16h/CAMPO%201%20ESQUERDA_07-10-2026_16-38-18.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_07-10-2026_19-02-33.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/07-10-2026/19h/CAMPO 1 ESQUERDA_07-10-2026_19-02-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/07-10-2026/19h/CAMPO%201%20ESQUERDA_07-10-2026_19-02-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/07-10-2026/19h/CAMPO%201%20ESQUERDA_07-10-2026_19-02-33.jpg"
                 }
               ]
             }
@@ -9561,6 +9581,24 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/06-10-2026/21h/BEACH 2_06-10-2026_21-14-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/06-10-2026/21h/BEACH%202_06-10-2026_21-14-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/06-10-2026/21h/BEACH%202_06-10-2026_21-14-46.jpg"
+                }
+              ]
+            }
+          },
+          "07-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "BEACH 2_07-10-2026_19-02-13.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/07-10-2026/19h/BEACH 2_07-10-2026_19-02-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/07-10-2026/19h/BEACH%202_07-10-2026_19-02-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/07-10-2026/19h/BEACH%202_07-10-2026_19-02-13.jpg"
+                },
+                {
+                  "nome": "BEACH 2_07-10-2026_19-02-27.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/07-10-2026/19h/BEACH 2_07-10-2026_19-02-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/07-10-2026/19h/BEACH%202_07-10-2026_19-02-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/07-10-2026/19h/BEACH%202_07-10-2026_19-02-27.jpg"
                 }
               ]
             }
