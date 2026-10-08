@@ -1351,6 +1351,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-10-2026/19h/QUADRA_08-10-2026_19-49-02.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-10-2026/19h/QUADRA_08-10-2026_19-49-02.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-10-2026/19h/QUADRA_08-10-2026_19-49-02.jpg"
+                },
+                {
+                  "nome": "QUADRA_08-10-2026_19-50-33.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/08-10-2026/19h/QUADRA_08-10-2026_19-50-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-10-2026/19h/QUADRA_08-10-2026_19-50-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/08-10-2026/19h/QUADRA_08-10-2026_19-50-33.jpg"
                 }
               ]
             }
@@ -4147,6 +4153,18 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/06-10-2026/20h/QUADRA 1_06-10-2026_20-26-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/06-10-2026/20h/QUADRA%201_06-10-2026_20-26-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/06-10-2026/20h/QUADRA%201_06-10-2026_20-26-46.jpg"
+                }
+              ]
+            }
+          },
+          "08-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_08-10-2026_19-50-23.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/08-10-2026/19h/QUADRA 1_08-10-2026_19-50-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/08-10-2026/19h/QUADRA%201_08-10-2026_19-50-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/08-10-2026/19h/QUADRA%201_08-10-2026_19-50-23.jpg"
                 }
               ]
             }
