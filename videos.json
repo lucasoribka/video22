@@ -8781,6 +8781,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/08-10-2026/17h/BEACH%202_08-10-2026_17-26-21.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "BEACH 2_08-10-2026_18-02-11.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/08-10-2026/18h/BEACH 2_08-10-2026_18-02-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/08-10-2026/18h/BEACH%202_08-10-2026_18-02-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/08-10-2026/18h/BEACH%202_08-10-2026_18-02-11.jpg"
+                }
+              ]
             }
           },
           "16-09-2026": {
@@ -23179,6 +23189,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/08-10-2026/17h/QUADRA_08-10-2026_17-11-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-10-2026/17h/QUADRA_08-10-2026_17-11-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-10-2026/17h/QUADRA_08-10-2026_17-11-35.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_08-10-2026_18-00-16.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/08-10-2026/18h/QUADRA_08-10-2026_18-00-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-10-2026/18h/QUADRA_08-10-2026_18-00-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/08-10-2026/18h/QUADRA_08-10-2026_18-00-16.jpg"
                 }
               ]
             }
