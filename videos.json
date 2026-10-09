@@ -1435,6 +1435,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/16h/QUADRA_09-10-2026_16-53-23.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-10-2026_17-32-02.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-10-2026/17h/QUADRA_09-10-2026_17-32-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/17h/QUADRA_09-10-2026_17-32-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/17h/QUADRA_09-10-2026_17-32-02.jpg"
+                }
+              ]
             }
           }
         },
