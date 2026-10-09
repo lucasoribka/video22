@@ -1445,6 +1445,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/17h/QUADRA_09-10-2026_17-32-02.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-10-2026_18-41-20.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-10-2026/18h/QUADRA_09-10-2026_18-41-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/18h/QUADRA_09-10-2026_18-41-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/18h/QUADRA_09-10-2026_18-41-20.jpg"
+                }
+              ]
             }
           }
         },
@@ -19347,6 +19357,18 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/08-10-2026/22h/QUADRA_08-10-2026_22-26-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/08-10-2026/22h/QUADRA_08-10-2026_22-26-47.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/08-10-2026/22h/QUADRA_08-10-2026_22-26-47.jpg"
+                }
+              ]
+            }
+          },
+          "09-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-10-2026_18-38-42.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/09-10-2026/18h/QUADRA_09-10-2026_18-38-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/09-10-2026/18h/QUADRA_09-10-2026_18-38-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/09-10-2026/18h/QUADRA_09-10-2026_18-38-42.jpg"
                 }
               ]
             }
