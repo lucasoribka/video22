@@ -17951,6 +17951,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/10-10-2026/08h/QUADRA_10-10-2026_08-53-14.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-10-2026_16-18-05.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/10-10-2026/16h/QUADRA_10-10-2026_16-18-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/10-10-2026/16h/QUADRA_10-10-2026_16-18-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/10-10-2026/16h/QUADRA_10-10-2026_16-18-05.jpg"
+                }
+              ]
             }
           }
         }
@@ -21505,6 +21515,26 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/16h/QUADRA_02-10-2026_16-58-13.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_20-17-12.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_21-14-33.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.jpg"
+                }
+              ]
             }
           },
           "05-10-2026": {
@@ -23473,6 +23503,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/10-10-2026/16h/QUADRA_10-10-2026_16-14-43.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/10-10-2026/16h/QUADRA_10-10-2026_16-14-43.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/10-10-2026/16h/QUADRA_10-10-2026_16-14-43.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-10-2026_16-16-58.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/10-10-2026/16h/QUADRA_10-10-2026_16-16-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/10-10-2026/16h/QUADRA_10-10-2026_16-16-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/10-10-2026/16h/QUADRA_10-10-2026_16-16-58.jpg"
                 }
               ]
             }
