@@ -1633,6 +1633,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-10-2026/21h/QUADRA_09-10-2026_21-10-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/21h/QUADRA_09-10-2026_21-10-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/21h/QUADRA_09-10-2026_21-10-25.jpg"
+                },
+                {
+                  "nome": "QUADRA_09-10-2026_21-20-50.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/09-10-2026/21h/QUADRA_09-10-2026_21-20-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/21h/QUADRA_09-10-2026_21-20-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/09-10-2026/21h/QUADRA_09-10-2026_21-20-50.jpg"
                 }
               ]
             }
@@ -5681,6 +5687,16 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/09-10-2026/20h/QUADRA_09-10-2026_20-23-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/09-10-2026/20h/QUADRA_09-10-2026_20-23-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/09-10-2026/20h/QUADRA_09-10-2026_20-23-16.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-10-2026_21-16-19.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/09-10-2026/21h/QUADRA_09-10-2026_21-16-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/09-10-2026/21h/QUADRA_09-10-2026_21-16-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/09-10-2026/21h/QUADRA_09-10-2026_21-16-19.jpg"
                 }
               ]
             }
