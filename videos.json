@@ -5343,6 +5343,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/10h/QUADRA%202_10-10-2026_10-59-35.jpg"
                 }
               ]
+            },
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_10-10-2026_11-00-27.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/10-10-2026/11h/QUADRA 2_10-10-2026_11-00-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/11h/QUADRA%202_10-10-2026_11-00-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/11h/QUADRA%202_10-10-2026_11-00-27.jpg"
+                }
+              ]
             }
           }
         },
@@ -24663,6 +24673,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/09-10-2026/22h/QUADRA_09-10-2026_22-20-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/09-10-2026/22h/QUADRA_09-10-2026_22-20-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/09-10-2026/22h/QUADRA_09-10-2026_22-20-06.jpg"
+                }
+              ]
+            }
+          },
+          "10-10-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-10-2026_10-59-18.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/10-10-2026/10h/QUADRA_10-10-2026_10-59-18.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/10-10-2026/10h/QUADRA_10-10-2026_10-59-18.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/10-10-2026/10h/QUADRA_10-10-2026_10-59-18.jpg"
                 }
               ]
             }
