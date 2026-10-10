@@ -5363,6 +5363,12 @@
                   "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/10-10-2026/11h/QUADRA 2_10-10-2026_11-09-15.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/11h/QUADRA%202_10-10-2026_11-09-15.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/11h/QUADRA%202_10-10-2026_11-09-15.jpg"
+                },
+                {
+                  "nome": "QUADRA 2_10-10-2026_11-12-51.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/10-10-2026/11h/QUADRA 2_10-10-2026_11-12-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/11h/QUADRA%202_10-10-2026_11-12-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/10-10-2026/11h/QUADRA%202_10-10-2026_11-12-51.jpg"
                 }
               ]
             }
@@ -18567,6 +18573,12 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/10-10-2026/11h/QUADRA_10-10-2026_11-06-51.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/10-10-2026/11h/QUADRA_10-10-2026_11-06-51.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/10-10-2026/11h/QUADRA_10-10-2026_11-06-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-10-2026_11-11-27.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/10-10-2026/11h/QUADRA_10-10-2026_11-11-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/10-10-2026/11h/QUADRA_10-10-2026_11-11-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/10-10-2026/11h/QUADRA_10-10-2026_11-11-27.jpg"
                 }
               ]
             }
@@ -20573,6 +20585,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/10-10-2026/11h/QUADRA_10-10-2026_11-09-27.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/10-10-2026/11h/QUADRA_10-10-2026_11-09-27.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/10-10-2026/11h/QUADRA_10-10-2026_11-09-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_10-10-2026_11-12-25.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/10-10-2026/11h/QUADRA_10-10-2026_11-12-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/10-10-2026/11h/QUADRA_10-10-2026_11-12-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/10-10-2026/11h/QUADRA_10-10-2026_11-12-25.jpg"
                 }
               ]
             }
@@ -25273,6 +25291,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/09-10-2026/22h/QUADRA_09-10-2026_22-01-00.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/09-10-2026/22h/QUADRA_09-10-2026_22-01-00.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/09-10-2026/22h/QUADRA_09-10-2026_22-01-00.jpg"
+                }
+              ]
+            }
+          },
+          "10-10-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-10-2026_11-11-52.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/10-10-2026/11h/QUADRA_10-10-2026_11-11-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/10-10-2026/11h/QUADRA_10-10-2026_11-11-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/10-10-2026/11h/QUADRA_10-10-2026_11-11-52.jpg"
                 }
               ]
             }
