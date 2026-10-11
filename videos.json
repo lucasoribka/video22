@@ -3867,6 +3867,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/11-10-2026/15h/CAMPO%201%20ESQUERDA_11-10-2026_15-59-09.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_11-10-2026_16-05-29.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/11-10-2026/16h/CAMPO 1 ESQUERDA_11-10-2026_16-05-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/11-10-2026/16h/CAMPO%201%20ESQUERDA_11-10-2026_16-05-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/11-10-2026/16h/CAMPO%201%20ESQUERDA_11-10-2026_16-05-29.jpg"
+                }
+              ]
             }
           }
         },
@@ -16811,30 +16821,6 @@
     "ITAIÓPOLIS": {
       "ARENA ITAIÓPOLIS": {
         "QUADRA 1": {
-          "03-10-2026": {
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_19-29-37.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/03-10-2026/19h/QUADRA_03-10-2026_19-29-37.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/19h/QUADRA_03-10-2026_19-29-37.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/19h/QUADRA_03-10-2026_19-29-37.jpg"
-                },
-                {
-                  "nome": "QUADRA_03-10-2026_19-32-15.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/03-10-2026/19h/QUADRA_03-10-2026_19-32-15.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/19h/QUADRA_03-10-2026_19-32-15.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/19h/QUADRA_03-10-2026_19-32-15.jpg"
-                },
-                {
-                  "nome": "QUADRA_03-10-2026_19-38-18.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/03-10-2026/19h/QUADRA_03-10-2026_19-38-18.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/19h/QUADRA_03-10-2026_19-38-18.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/19h/QUADRA_03-10-2026_19-38-18.jpg"
-                }
-              ]
-            }
-          },
           "05-10-2026": {
             "19h": {
               "_videos": [
@@ -16935,52 +16921,6 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/10-10-2026/19h/QUADRA_10-10-2026_19-06-50.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/10-10-2026/19h/QUADRA_10-10-2026_19-06-50.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/10-10-2026/19h/QUADRA_10-10-2026_19-06-50.jpg"
-                }
-              ]
-            }
-          },
-          "28-09-2026": {
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_28-09-2026_15-47-07.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/28-09-2026/15h/QUADRA_28-09-2026_15-47-07.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/28-09-2026/15h/QUADRA_28-09-2026_15-47-07.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/28-09-2026/15h/QUADRA_28-09-2026_15-47-07.jpg"
-                }
-              ]
-            }
-          },
-          "30-09-2026": {
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_15-44-42.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/15h/QUADRA_30-09-2026_15-44-42.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-44-42.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-44-42.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-09-2026_15-54-53.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/15h/QUADRA_30-09-2026_15-54-53.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-54-53.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-54-53.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-09-2026_15-55-53.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/15h/QUADRA_30-09-2026_15-55-53.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-55-53.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-55-53.jpg"
-                }
-              ]
-            },
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_18-52-10.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/18h/QUADRA_30-09-2026_18-52-10.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/18h/QUADRA_30-09-2026_18-52-10.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/18h/QUADRA_30-09-2026_18-52-10.jpg"
                 }
               ]
             }
@@ -17979,18 +17919,6 @@
           }
         },
         "QUADRA 2": {
-          "06-10-2026": {
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_19-46-20.mp4",
-                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/06-10-2026/19h/QUADRA_06-10-2026_19-46-20.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/06-10-2026/19h/QUADRA_06-10-2026_19-46-20.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/06-10-2026/19h/QUADRA_06-10-2026_19-46-20.jpg"
-                }
-              ]
-            }
-          },
           "07-10-2026": {
             "18h": {
               "_videos": [
@@ -20693,38 +20621,6 @@
           }
         },
         "TRAVE 2": {
-          "06-10-2026": {
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_15-55-47.mp4",
-                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/06-10-2026/15h/QUADRA_06-10-2026_15-55-47.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/06-10-2026/15h/QUADRA_06-10-2026_15-55-47.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/06-10-2026/15h/QUADRA_06-10-2026_15-55-47.jpg"
-                }
-              ]
-            },
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_20-14-13.mp4",
-                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/06-10-2026/20h/QUADRA_06-10-2026_20-14-13.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/06-10-2026/20h/QUADRA_06-10-2026_20-14-13.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/06-10-2026/20h/QUADRA_06-10-2026_20-14-13.jpg"
-                }
-              ]
-            },
-            "22h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_22-32-44.mp4",
-                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/06-10-2026/22h/QUADRA_06-10-2026_22-32-44.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/06-10-2026/22h/QUADRA_06-10-2026_22-32-44.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/06-10-2026/22h/QUADRA_06-10-2026_22-32-44.jpg"
-                }
-              ]
-            }
-          },
           "07-10-2026": {
             "09h": {
               "_videos": [
@@ -21251,140 +21147,6 @@
       },
       "RIOMAFRA PADEL": {
         "QUADRA 1": {
-          "02-10-2026": {
-            "14h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_14-28-09.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/14h/QUADRA_02-10-2026_14-28-09.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-28-09.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-28-09.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_14-45-55.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/14h/QUADRA_02-10-2026_14-45-55.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-45-55.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-45-55.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_14-48-16.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/14h/QUADRA_02-10-2026_14-48-16.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-48-16.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-48-16.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_14-56-40.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/14h/QUADRA_02-10-2026_14-56-40.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-56-40.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/14h/QUADRA_02-10-2026_14-56-40.jpg"
-                }
-              ]
-            },
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_15-04-05.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/15h/QUADRA_02-10-2026_15-04-05.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/15h/QUADRA_02-10-2026_15-04-05.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/15h/QUADRA_02-10-2026_15-04-05.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_17-42-46.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/17h/QUADRA_02-10-2026_17-42-46.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/17h/QUADRA_02-10-2026_17-42-46.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/17h/QUADRA_02-10-2026_17-42-46.jpg"
-                }
-              ]
-            },
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_18-16-50.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-16-50.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-16-50.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-16-50.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-22-54.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-22-54.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-22-54.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-22-54.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-36-45.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-36-45.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-36-45.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-36-45.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-39-04.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-39-04.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-39-04.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-39-04.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-44-03.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-44-03.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-44-03.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-44-03.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-52-17.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-52-17.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-52-17.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-52-17.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-53-44.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-53-44.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-53-44.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-53-44.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_18-59-45.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/18h/QUADRA_02-10-2026_18-59-45.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-59-45.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/18h/QUADRA_02-10-2026_18-59-45.jpg"
-                }
-              ]
-            },
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_19-18-07.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/19h/QUADRA_02-10-2026_19-18-07.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-18-07.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-18-07.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_19-31-33.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/19h/QUADRA_02-10-2026_19-31-33.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-31-33.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-31-33.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_19-33-21.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/19h/QUADRA_02-10-2026_19-33-21.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-33-21.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-33-21.jpg"
-                }
-              ]
-            },
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_21-22-31.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/02-10-2026/21h/QUADRA_02-10-2026_21-22-31.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/21h/QUADRA_02-10-2026_21-22-31.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/02-10-2026/21h/QUADRA_02-10-2026_21-22-31.jpg"
-                }
-              ]
-            }
-          },
           "03-10-2026": {
             "08h": {
               "_videos": [
@@ -21617,34 +21379,6 @@
           }
         },
         "QUADRA 2": {
-          "03-10-2026": {
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_18-11-10.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/03-10-2026/18h/QUADRA_03-10-2026_18-11-10.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/03-10-2026/18h/QUADRA_03-10-2026_18-11-10.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/03-10-2026/18h/QUADRA_03-10-2026_18-11-10.jpg"
-                }
-              ]
-            },
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_19-16-52.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/03-10-2026/19h/QUADRA_03-10-2026_19-16-52.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/03-10-2026/19h/QUADRA_03-10-2026_19-16-52.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/03-10-2026/19h/QUADRA_03-10-2026_19-16-52.jpg"
-                },
-                {
-                  "nome": "QUADRA_03-10-2026_19-41-05.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 2/03-10-2026/19h/QUADRA_03-10-2026_19-41-05.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/03-10-2026/19h/QUADRA_03-10-2026_19-41-05.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%202/03-10-2026/19h/QUADRA_03-10-2026_19-41-05.jpg"
-                }
-              ]
-            }
-          },
           "05-10-2026": {
             "07h": {
               "_videos": [
@@ -21961,176 +21695,6 @@
           }
         },
         "QUADRA 3": {
-          "01-10-2026": {
-            "08h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_01-10-2026_08-42-54.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/01-10-2026/08h/QUADRA_01-10-2026_08-42-54.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/08h/QUADRA_01-10-2026_08-42-54.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/08h/QUADRA_01-10-2026_08-42-54.jpg"
-                },
-                {
-                  "nome": "QUADRA_01-10-2026_08-50-21.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/01-10-2026/08h/QUADRA_01-10-2026_08-50-21.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/08h/QUADRA_01-10-2026_08-50-21.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/08h/QUADRA_01-10-2026_08-50-21.jpg"
-                }
-              ]
-            },
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_01-10-2026_15-40-46.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/01-10-2026/15h/QUADRA_01-10-2026_15-40-46.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/15h/QUADRA_01-10-2026_15-40-46.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/15h/QUADRA_01-10-2026_15-40-46.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_01-10-2026_17-23-43.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/01-10-2026/17h/QUADRA_01-10-2026_17-23-43.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/17h/QUADRA_01-10-2026_17-23-43.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/17h/QUADRA_01-10-2026_17-23-43.jpg"
-                },
-                {
-                  "nome": "QUADRA_01-10-2026_17-32-02.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/01-10-2026/17h/QUADRA_01-10-2026_17-32-02.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/17h/QUADRA_01-10-2026_17-32-02.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/17h/QUADRA_01-10-2026_17-32-02.jpg"
-                }
-              ]
-            },
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_01-10-2026_18-22-35.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/01-10-2026/18h/QUADRA_01-10-2026_18-22-35.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/18h/QUADRA_01-10-2026_18-22-35.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/01-10-2026/18h/QUADRA_01-10-2026_18-22-35.jpg"
-                }
-              ]
-            }
-          },
-          "02-10-2026": {
-            "14h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_14-34-50.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/14h/QUADRA_02-10-2026_14-34-50.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/14h/QUADRA_02-10-2026_14-34-50.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/14h/QUADRA_02-10-2026_14-34-50.jpg"
-                }
-              ]
-            },
-            "16h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_16-58-13.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/16h/QUADRA_02-10-2026_16-58-13.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/16h/QUADRA_02-10-2026_16-58-13.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/16h/QUADRA_02-10-2026_16-58-13.jpg"
-                }
-              ]
-            },
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_20-17-12.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/20h/QUADRA_02-10-2026_20-17-12.jpg"
-                }
-              ]
-            },
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_21-14-33.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/02-10-2026/21h/QUADRA_02-10-2026_21-14-33.jpg"
-                }
-              ]
-            }
-          },
-          "03-10-2026": {
-            "09h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_09-46-47.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/09h/QUADRA_03-10-2026_09-46-47.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/09h/QUADRA_03-10-2026_09-46-47.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/09h/QUADRA_03-10-2026_09-46-47.jpg"
-                }
-              ]
-            },
-            "10h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_10-46-17.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/10h/QUADRA_03-10-2026_10-46-17.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/10h/QUADRA_03-10-2026_10-46-17.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/10h/QUADRA_03-10-2026_10-46-17.jpg"
-                }
-              ]
-            },
-            "11h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_11-03-39.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/11h/QUADRA_03-10-2026_11-03-39.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/11h/QUADRA_03-10-2026_11-03-39.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/11h/QUADRA_03-10-2026_11-03-39.jpg"
-                },
-                {
-                  "nome": "QUADRA_03-10-2026_11-04-36.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/11h/QUADRA_03-10-2026_11-04-36.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/11h/QUADRA_03-10-2026_11-04-36.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/11h/QUADRA_03-10-2026_11-04-36.jpg"
-                }
-              ]
-            },
-            "12h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_12-53-27.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/12h/QUADRA_03-10-2026_12-53-27.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/12h/QUADRA_03-10-2026_12-53-27.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/12h/QUADRA_03-10-2026_12-53-27.jpg"
-                }
-              ]
-            },
-            "14h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_14-49-09.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/14h/QUADRA_03-10-2026_14-49-09.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/14h/QUADRA_03-10-2026_14-49-09.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/14h/QUADRA_03-10-2026_14-49-09.jpg"
-                }
-              ]
-            },
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_15-54-04.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/15h/QUADRA_03-10-2026_15-54-04.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/15h/QUADRA_03-10-2026_15-54-04.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/15h/QUADRA_03-10-2026_15-54-04.jpg"
-                },
-                {
-                  "nome": "QUADRA_03-10-2026_15-57-37.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/03-10-2026/15h/QUADRA_03-10-2026_15-57-37.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/15h/QUADRA_03-10-2026_15-57-37.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/03-10-2026/15h/QUADRA_03-10-2026_15-57-37.jpg"
-                }
-              ]
-            }
-          },
           "05-10-2026": {
             "15h": {
               "_videos": [
@@ -22282,77 +21846,9 @@
                 }
               ]
             }
-          },
-          "30-09-2026": {
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_17-18-44.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/30-09-2026/17h/QUADRA_30-09-2026_17-18-44.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-18-44.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-18-44.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-09-2026_17-28-27.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/30-09-2026/17h/QUADRA_30-09-2026_17-28-27.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-28-27.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-28-27.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-09-2026_17-42-39.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/30-09-2026/17h/QUADRA_30-09-2026_17-42-39.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-42-39.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-42-39.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-09-2026_17-59-37.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/30-09-2026/17h/QUADRA_30-09-2026_17-59-37.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-59-37.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/17h/QUADRA_30-09-2026_17-59-37.jpg"
-                }
-              ]
-            },
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_21-03-39.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/30-09-2026/21h/QUADRA_30-09-2026_21-03-39.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/21h/QUADRA_30-09-2026_21-03-39.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/30-09-2026/21h/QUADRA_30-09-2026_21-03-39.jpg"
-                }
-              ]
-            }
           }
         },
         "QUADRA 4": {
-          "02-10-2026": {
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_18-39-22.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/02-10-2026/18h/QUADRA_02-10-2026_18-39-22.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/02-10-2026/18h/QUADRA_02-10-2026_18-39-22.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/02-10-2026/18h/QUADRA_02-10-2026_18-39-22.jpg"
-                }
-              ]
-            },
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_20-08-29.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/02-10-2026/20h/QUADRA_02-10-2026_20-08-29.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/02-10-2026/20h/QUADRA_02-10-2026_20-08-29.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/02-10-2026/20h/QUADRA_02-10-2026_20-08-29.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_20-10-26.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/02-10-2026/20h/QUADRA_02-10-2026_20-10-26.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/02-10-2026/20h/QUADRA_02-10-2026_20-10-26.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/02-10-2026/20h/QUADRA_02-10-2026_20-10-26.jpg"
-                }
-              ]
-            }
-          },
           "03-10-2026": {
             "10h": {
               "_videos": [
@@ -22580,54 +22076,6 @@
                 }
               ]
             }
-          },
-          "30-09-2026": {
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_15-40-17.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/30-09-2026/15h/QUADRA_30-09-2026_15-40-17.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/15h/QUADRA_30-09-2026_15-40-17.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/15h/QUADRA_30-09-2026_15-40-17.jpg"
-                }
-              ]
-            },
-            "16h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_16-13-35.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/30-09-2026/16h/QUADRA_30-09-2026_16-13-35.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/16h/QUADRA_30-09-2026_16-13-35.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/16h/QUADRA_30-09-2026_16-13-35.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_17-22-15.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/30-09-2026/17h/QUADRA_30-09-2026_17-22-15.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/17h/QUADRA_30-09-2026_17-22-15.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/17h/QUADRA_30-09-2026_17-22-15.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-09-2026_17-23-46.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/30-09-2026/17h/QUADRA_30-09-2026_17-23-46.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/17h/QUADRA_30-09-2026_17-23-46.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/17h/QUADRA_30-09-2026_17-23-46.jpg"
-                }
-              ]
-            },
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-09-2026_20-53-37.mp4",
-                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 4/30-09-2026/20h/QUADRA_30-09-2026_20-53-37.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/20h/QUADRA_30-09-2026_20-53-37.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%204/30-09-2026/20h/QUADRA_30-09-2026_20-53-37.jpg"
-                }
-              ]
-            }
           }
         }
       },
@@ -22817,68 +22265,6 @@
           }
         },
         "QUADRA RICAR": {
-          "02-10-2026": {
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_21-24-46.mp4",
-                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/02-10-2026/21h/QUADRA_02-10-2026_21-24-46.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/21h/QUADRA_02-10-2026_21-24-46.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/21h/QUADRA_02-10-2026_21-24-46.jpg"
-                }
-              ]
-            },
-            "22h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_02-10-2026_22-01-38.mp4",
-                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/02-10-2026/22h/QUADRA_02-10-2026_22-01-38.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/22h/QUADRA_02-10-2026_22-01-38.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/22h/QUADRA_02-10-2026_22-01-38.jpg"
-                },
-                {
-                  "nome": "QUADRA_02-10-2026_22-19-48.mp4",
-                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/02-10-2026/22h/QUADRA_02-10-2026_22-19-48.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/22h/QUADRA_02-10-2026_22-19-48.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/02-10-2026/22h/QUADRA_02-10-2026_22-19-48.jpg"
-                }
-              ]
-            }
-          },
-          "03-10-2026": {
-            "02h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_02-04-30.mp4",
-                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/03-10-2026/02h/QUADRA_03-10-2026_02-04-30.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/03-10-2026/02h/QUADRA_03-10-2026_02-04-30.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/03-10-2026/02h/QUADRA_03-10-2026_02-04-30.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_03-10-2026_17-49-16.mp4",
-                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/03-10-2026/17h/QUADRA_03-10-2026_17-49-16.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/03-10-2026/17h/QUADRA_03-10-2026_17-49-16.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/03-10-2026/17h/QUADRA_03-10-2026_17-49-16.jpg"
-                }
-              ]
-            }
-          },
-          "04-10-2026": {
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_04-10-2026_18-27-17.mp4",
-                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/04-10-2026/18h/QUADRA_04-10-2026_18-27-17.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/04-10-2026/18h/QUADRA_04-10-2026_18-27-17.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/04-10-2026/18h/QUADRA_04-10-2026_18-27-17.jpg"
-                }
-              ]
-            }
-          },
           "06-10-2026": {
             "21h": {
               "_videos": [
@@ -24326,109 +23712,9 @@
                 }
               ]
             }
-          },
-          "29-09-2026": {
-            "14h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_29-09-2026_14-58-42.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/29-09-2026/14h/QUADRA_29-09-2026_14-58-42.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/14h/QUADRA_29-09-2026_14-58-42.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/14h/QUADRA_29-09-2026_14-58-42.jpg"
-                }
-              ]
-            },
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_29-09-2026_15-41-05.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/29-09-2026/15h/QUADRA_29-09-2026_15-41-05.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/15h/QUADRA_29-09-2026_15-41-05.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/15h/QUADRA_29-09-2026_15-41-05.jpg"
-                }
-              ]
-            },
-            "16h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_29-09-2026_16-23-27.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/29-09-2026/16h/QUADRA_29-09-2026_16-23-27.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/16h/QUADRA_29-09-2026_16-23-27.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/16h/QUADRA_29-09-2026_16-23-27.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_29-09-2026_17-05-50.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/29-09-2026/17h/QUADRA_29-09-2026_17-05-50.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/17h/QUADRA_29-09-2026_17-05-50.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/17h/QUADRA_29-09-2026_17-05-50.jpg"
-                },
-                {
-                  "nome": "QUADRA_29-09-2026_17-48-16.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/29-09-2026/17h/QUADRA_29-09-2026_17-48-16.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/17h/QUADRA_29-09-2026_17-48-16.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/17h/QUADRA_29-09-2026_17-48-16.jpg"
-                }
-              ]
-            },
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_29-09-2026_21-48-44.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/29-09-2026/21h/QUADRA_29-09-2026_21-48-44.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/21h/QUADRA_29-09-2026_21-48-44.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/29-09-2026/21h/QUADRA_29-09-2026_21-48-44.jpg"
-                }
-              ]
-            }
           }
         },
         "Quadra Caminho do Saber": {
-          "06-10-2026": {
-            "09h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_09-51-32.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-10-2026/09h/QUADRA_06-10-2026_09-51-32.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/09h/QUADRA_06-10-2026_09-51-32.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/09h/QUADRA_06-10-2026_09-51-32.jpg"
-                }
-              ]
-            },
-            "14h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_14-12-39.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-10-2026/14h/QUADRA_06-10-2026_14-12-39.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/14h/QUADRA_06-10-2026_14-12-39.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/14h/QUADRA_06-10-2026_14-12-39.jpg"
-                }
-              ]
-            },
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_20-18-16.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-10-2026/20h/QUADRA_06-10-2026_20-18-16.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/20h/QUADRA_06-10-2026_20-18-16.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/20h/QUADRA_06-10-2026_20-18-16.jpg"
-                }
-              ]
-            },
-            "22h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_06-10-2026_22-30-54.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-10-2026/22h/QUADRA_06-10-2026_22-30-54.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/22h/QUADRA_06-10-2026_22-30-54.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-10-2026/22h/QUADRA_06-10-2026_22-30-54.jpg"
-                }
-              ]
-            }
-          },
           "07-10-2026": {
             "07h": {
               "_videos": [
