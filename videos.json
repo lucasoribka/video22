@@ -9949,6 +9949,12 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Buchaim/12-10-2026/11h/Quadra Buchaim_12-10-2026_11-14-33.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/12-10-2026/11h/Quadra%20Buchaim_12-10-2026_11-14-33.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/12-10-2026/11h/Quadra%20Buchaim_12-10-2026_11-14-33.jpg"
+                },
+                {
+                  "nome": "Quadra Buchaim_12-10-2026_11-22-07.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Buchaim/12-10-2026/11h/Quadra Buchaim_12-10-2026_11-22-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/12-10-2026/11h/Quadra%20Buchaim_12-10-2026_11-22-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/12-10-2026/11h/Quadra%20Buchaim_12-10-2026_11-22-07.jpg"
                 }
               ]
             }
@@ -17763,6 +17769,28 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/02-10-2026/19h/QUADRA_02-10-2026_19-18-45.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-18-45.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-10-2026/19h/QUADRA_02-10-2026_19-18-45.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_02-10-2026_20-17-11.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/02-10-2026/20h/QUADRA_02-10-2026_20-17-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-10-2026/20h/QUADRA_02-10-2026_20-17-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/02-10-2026/20h/QUADRA_02-10-2026_20-17-11.jpg"
+                }
+              ]
+            }
+          },
+          "03-10-2026": {
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-10-2026_12-17-31.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/03-10-2026/12h/QUADRA_03-10-2026_12-17-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/12h/QUADRA_03-10-2026_12-17-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/03-10-2026/12h/QUADRA_03-10-2026_12-17-31.jpg"
                 }
               ]
             }
