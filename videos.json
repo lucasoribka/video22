@@ -15455,6 +15455,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/12-10-2026/19h/QUADRA 4_12-10-2026_19-11-41.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-10-2026/19h/QUADRA%204_12-10-2026_19-11-41.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-10-2026/19h/QUADRA%204_12-10-2026_19-11-41.jpg"
+                },
+                {
+                  "nome": "QUADRA 4_12-10-2026_19-14-45.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/12-10-2026/19h/QUADRA 4_12-10-2026_19-14-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-10-2026/19h/QUADRA%204_12-10-2026_19-14-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-10-2026/19h/QUADRA%204_12-10-2026_19-14-45.jpg"
                 }
               ]
             }
@@ -19239,6 +19245,18 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/09-10-2026/21h/QUADRA_09-10-2026_21-24-22.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/09-10-2026/21h/QUADRA_09-10-2026_21-24-22.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/09-10-2026/21h/QUADRA_09-10-2026_21-24-22.jpg"
+                }
+              ]
+            }
+          },
+          "12-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-10-2026_19-13-51.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/12-10-2026/19h/QUADRA_12-10-2026_19-13-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/12-10-2026/19h/QUADRA_12-10-2026_19-13-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/12-10-2026/19h/QUADRA_12-10-2026_19-13-51.jpg"
                 }
               ]
             }
