@@ -17873,6 +17873,22 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/15h/QUADRA_30-09-2026_15-54-53.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-54-53.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-54-53.jpg"
+                },
+                {
+                  "nome": "QUADRA_30-09-2026_15-55-53.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/15h/QUADRA_30-09-2026_15-55-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-55-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/15h/QUADRA_30-09-2026_15-55-53.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_30-09-2026_18-52-10.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/30-09-2026/18h/QUADRA_30-09-2026_18-52-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/18h/QUADRA_30-09-2026_18-52-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/30-09-2026/18h/QUADRA_30-09-2026_18-52-10.jpg"
                 }
               ]
             }
@@ -19085,6 +19101,18 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/11-10-2026/16h/QUADRA_11-10-2026_16-01-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/11-10-2026/16h/QUADRA_11-10-2026_16-01-20.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/11-10-2026/16h/QUADRA_11-10-2026_16-01-20.jpg"
+                }
+              ]
+            }
+          },
+          "12-10-2026": {
+            "11h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-10-2026_11-18-41.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/12-10-2026/11h/QUADRA_12-10-2026_11-18-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/12-10-2026/11h/QUADRA_12-10-2026_11-18-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/12-10-2026/11h/QUADRA_12-10-2026_11-18-41.jpg"
                 }
               ]
             }
