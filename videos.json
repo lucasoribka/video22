@@ -1997,6 +1997,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/14-10-2026/17h/QUADRA_14-10-2026_17-58-00.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-10-2026_18-01-06.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/14-10-2026/18h/QUADRA_14-10-2026_18-01-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/14-10-2026/18h/QUADRA_14-10-2026_18-01-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/14-10-2026/18h/QUADRA_14-10-2026_18-01-06.jpg"
+                }
+              ]
             }
           }
         },
@@ -7815,6 +7825,18 @@
                   "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/13-10-2026/21h/QUADRA 1_13-10-2026_21-36-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/13-10-2026/21h/QUADRA%201_13-10-2026_21-36-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/13-10-2026/21h/QUADRA%201_13-10-2026_21-36-37.jpg"
+                }
+              ]
+            }
+          },
+          "14-10-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_14-10-2026_17-59-07.mp4",
+                  "path": "/PR/RIO NEGRO-PR/MF BEACH TENNIS/QUADRA 1/14-10-2026/17h/QUADRA 1_14-10-2026_17-59-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/14-10-2026/17h/QUADRA%201_14-10-2026_17-59-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/MF%20BEACH%20TENNIS/QUADRA%201/14-10-2026/17h/QUADRA%201_14-10-2026_17-59-07.jpg"
                 }
               ]
             }
