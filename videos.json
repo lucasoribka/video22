@@ -12243,6 +12243,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/14-10-2026/18h/PADEL 1_14-10-2026_18-20-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/14-10-2026/18h/PADEL%201_14-10-2026_18-20-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/14-10-2026/18h/PADEL%201_14-10-2026_18-20-48.jpg"
+                },
+                {
+                  "nome": "PADEL 1_14-10-2026_18-41-43.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/14-10-2026/18h/PADEL 1_14-10-2026_18-41-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/14-10-2026/18h/PADEL%201_14-10-2026_18-41-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/14-10-2026/18h/PADEL%201_14-10-2026_18-41-43.jpg"
                 }
               ]
             }
@@ -22085,6 +22091,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/14-10-2026/14h/QUADRA_14-10-2026_14-52-21.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-10-2026_18-40-57.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/14-10-2026/18h/QUADRA_14-10-2026_18-40-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/14-10-2026/18h/QUADRA_14-10-2026_18-40-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/14-10-2026/18h/QUADRA_14-10-2026_18-40-57.jpg"
+                }
+              ]
             }
           }
         },
@@ -25111,6 +25127,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/13-10-2026/20h/QUADRA_13-10-2026_20-34-36.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/13-10-2026/20h/QUADRA_13-10-2026_20-34-36.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/13-10-2026/20h/QUADRA_13-10-2026_20-34-36.jpg"
+                }
+              ]
+            }
+          },
+          "14-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-10-2026_18-40-50.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/14-10-2026/18h/QUADRA_14-10-2026_18-40-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/18h/QUADRA_14-10-2026_18-40-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/18h/QUADRA_14-10-2026_18-40-50.jpg"
                 }
               ]
             }
