@@ -2447,6 +2447,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/14-10-2026/18h/QUADRA_14-10-2026_18-32-56.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_14-10-2026_19-29-48.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/14-10-2026/19h/QUADRA_14-10-2026_19-29-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/14-10-2026/19h/QUADRA_14-10-2026_19-29-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/14-10-2026/19h/QUADRA_14-10-2026_19-29-48.jpg"
+                }
+              ]
             }
           },
           "29-09-2026": {
@@ -12145,6 +12155,24 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/13-10-2026/20h/BEACH 2_13-10-2026_20-33-59.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/13-10-2026/20h/BEACH%202_13-10-2026_20-33-59.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/13-10-2026/20h/BEACH%202_13-10-2026_20-33-59.jpg"
+                }
+              ]
+            }
+          },
+          "14-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "BEACH 2_14-10-2026_19-27-06.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/14-10-2026/19h/BEACH 2_14-10-2026_19-27-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/14-10-2026/19h/BEACH%202_14-10-2026_19-27-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/14-10-2026/19h/BEACH%202_14-10-2026_19-27-06.jpg"
+                },
+                {
+                  "nome": "BEACH 2_14-10-2026_19-27-22.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/BEACH 2/14-10-2026/19h/BEACH 2_14-10-2026_19-27-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/14-10-2026/19h/BEACH%202_14-10-2026_19-27-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/BEACH%202/14-10-2026/19h/BEACH%202_14-10-2026_19-27-22.jpg"
                 }
               ]
             }
@@ -26085,6 +26113,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/14-10-2026/19h/QUADRA_14-10-2026_19-24-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/14-10-2026/19h/QUADRA_14-10-2026_19-24-47.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/14-10-2026/19h/QUADRA_14-10-2026_19-24-47.jpg"
+                },
+                {
+                  "nome": "QUADRA_14-10-2026_19-27-03.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/14-10-2026/19h/QUADRA_14-10-2026_19-27-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/14-10-2026/19h/QUADRA_14-10-2026_19-27-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/14-10-2026/19h/QUADRA_14-10-2026_19-27-03.jpg"
                 }
               ]
             }
