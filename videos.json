@@ -3571,6 +3571,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/14-10-2026/09h/CAMPO%201%20DIREITA_14-10-2026_09-44-23.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_14-10-2026_10-24-44.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/14-10-2026/10h/CAMPO 1 DIREITA_14-10-2026_10-24-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/14-10-2026/10h/CAMPO%201%20DIREITA_14-10-2026_10-24-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/14-10-2026/10h/CAMPO%201%20DIREITA_14-10-2026_10-24-44.jpg"
+                }
+              ]
             }
           }
         },
@@ -6827,96 +6837,6 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
-          "09-10-2026": {
-            "08h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_09-10-2026_08-25-08.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-25-08.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-25-08.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-25-08.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_08-45-05.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-45-05.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-45-05.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-45-05.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_08-49-52.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-49-52.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-49-52.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/08h/QUADRA_09-10-2026_08-49-52.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_09-10-2026_17-21-23.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/17h/QUADRA_09-10-2026_17-21-23.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/17h/QUADRA_09-10-2026_17-21-23.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/17h/QUADRA_09-10-2026_17-21-23.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_17-39-58.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/17h/QUADRA_09-10-2026_17-39-58.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/17h/QUADRA_09-10-2026_17-39-58.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/17h/QUADRA_09-10-2026_17-39-58.jpg"
-                }
-              ]
-            },
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_09-10-2026_18-15-30.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-15-30.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-15-30.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-15-30.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_18-25-36.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-25-36.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-25-36.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-25-36.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_18-35-25.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-35-25.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-35-25.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-35-25.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_18-55-33.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-55-33.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-55-33.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/18h/QUADRA_09-10-2026_18-55-33.jpg"
-                }
-              ]
-            },
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_09-10-2026_19-42-01.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-42-01.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-42-01.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-42-01.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_19-47-34.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-47-34.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-47-34.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-47-34.jpg"
-                },
-                {
-                  "nome": "QUADRA_09-10-2026_19-58-16.mp4",
-                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-58-16.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-58-16.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/09-10-2026/19h/QUADRA_09-10-2026_19-58-16.jpg"
-                }
-              ]
-            }
-          },
           "10-10-2026": {
             "09h": {
               "_videos": [
@@ -12794,30 +12714,6 @@
           "08-10-2026": {
             "11h": {
               "_videos": [
-                {
-                  "nome": "QUADRA_08-10-2026_11-02-59.mp4",
-                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-10-2026/11h/QUADRA_08-10-2026_11-02-59.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-02-59.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-02-59.jpg"
-                },
-                {
-                  "nome": "QUADRA_08-10-2026_11-11-48.mp4",
-                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-10-2026/11h/QUADRA_08-10-2026_11-11-48.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-11-48.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-11-48.jpg"
-                },
-                {
-                  "nome": "QUADRA_08-10-2026_11-13-43.mp4",
-                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-10-2026/11h/QUADRA_08-10-2026_11-13-43.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-13-43.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-13-43.jpg"
-                },
-                {
-                  "nome": "QUADRA_08-10-2026_11-14-50.mp4",
-                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-10-2026/11h/QUADRA_08-10-2026_11-14-50.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-14-50.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%201/08-10-2026/11h/QUADRA_08-10-2026_11-14-50.jpg"
-                },
                 {
                   "nome": "QUADRA_08-10-2026_11-38-30.mp4",
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 1/08-10-2026/11h/QUADRA_08-10-2026_11-38-30.mp4",
