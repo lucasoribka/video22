@@ -1333,6 +1333,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/17h/QUADRA_15-10-2026_17-56-27.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-10-2026_18-41-58.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/15-10-2026/18h/QUADRA_15-10-2026_18-41-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-41-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-41-58.jpg"
+                }
+              ]
             }
           }
         },
@@ -11270,6 +11280,18 @@
                 }
               ]
             }
+          },
+          "15-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Tri Hoteis_15-10-2026_18-40-29.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Tri Hoteis/15-10-2026/18h/Quadra Tri Hoteis_15-10-2026_18-40-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/15-10-2026/18h/Quadra%20Tri%20Hoteis_15-10-2026_18-40-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/15-10-2026/18h/Quadra%20Tri%20Hoteis_15-10-2026_18-40-29.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -13637,6 +13659,12 @@
                   "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/15-10-2026/18h/QUADRA_15-10-2026_18-13-45.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/15-10-2026/18h/QUADRA_15-10-2026_18-13-45.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/15-10-2026/18h/QUADRA_15-10-2026_18-13-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-10-2026_18-39-53.mp4",
+                  "path": "/RS/XANGRILÁ/ATL PADEL/QUADRA 2/15-10-2026/18h/QUADRA_15-10-2026_18-39-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/15-10-2026/18h/QUADRA_15-10-2026_18-39-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/XANGRILÁ/ATL%20PADEL/QUADRA%202/15-10-2026/18h/QUADRA_15-10-2026_18-39-53.jpg"
                 }
               ]
             }
