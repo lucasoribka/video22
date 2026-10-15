@@ -1377,6 +1377,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/15-10-2026/18h/QUADRA_15-10-2026_18-57-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-57-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-57-05.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-10-2026_18-58-24.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/15-10-2026/18h/QUADRA_15-10-2026_18-58-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-58-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-58-24.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-10-2026_18-59-02.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/15-10-2026/18h/QUADRA_15-10-2026_18-59-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-59-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/15-10-2026/18h/QUADRA_15-10-2026_18-59-02.jpg"
                 }
               ]
             }
@@ -19044,6 +19056,18 @@
                 }
               ]
             }
+          },
+          "15-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-10-2026_18-57-03.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/15-10-2026/18h/QUADRA_15-10-2026_18-57-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/15-10-2026/18h/QUADRA_15-10-2026_18-57-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/15-10-2026/18h/QUADRA_15-10-2026_18-57-03.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2": {
@@ -26169,6 +26193,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/15-10-2026/18h/QUADRA_15-10-2026_18-29-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/18h/QUADRA_15-10-2026_18-29-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/18h/QUADRA_15-10-2026_18-29-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_15-10-2026_18-56-06.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/15-10-2026/18h/QUADRA_15-10-2026_18-56-06.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/18h/QUADRA_15-10-2026_18-56-06.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/18h/QUADRA_15-10-2026_18-56-06.jpg"
                 }
               ]
             }
