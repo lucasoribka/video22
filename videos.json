@@ -3243,6 +3243,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-10-2026/17h/CAMPO%201%20DIREITA_15-10-2026_17-14-15.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_15-10-2026_18-31-30.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/15-10-2026/18h/CAMPO 1 DIREITA_15-10-2026_18-31-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-10-2026/18h/CAMPO%201%20DIREITA_15-10-2026_18-31-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-10-2026/18h/CAMPO%201%20DIREITA_15-10-2026_18-31-30.jpg"
+                }
+              ]
             }
           }
         },
@@ -4275,6 +4285,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/15-10-2026/17h/CAMPO 1 ESQUERDA_15-10-2026_17-14-28.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/15-10-2026/17h/CAMPO%201%20ESQUERDA_15-10-2026_17-14-28.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/15-10-2026/17h/CAMPO%201%20ESQUERDA_15-10-2026_17-14-28.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_15-10-2026_18-31-17.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/15-10-2026/18h/CAMPO 1 ESQUERDA_15-10-2026_18-31-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/15-10-2026/18h/CAMPO%201%20ESQUERDA_15-10-2026_18-31-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/15-10-2026/18h/CAMPO%201%20ESQUERDA_15-10-2026_18-31-17.jpg"
                 }
               ]
             }
@@ -12049,6 +12069,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/15-10-2026/18h/PADEL 1_15-10-2026_18-27-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/15-10-2026/18h/PADEL%201_15-10-2026_18-27-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/15-10-2026/18h/PADEL%201_15-10-2026_18-27-23.jpg"
+                },
+                {
+                  "nome": "PADEL 1_15-10-2026_18-30-31.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/15-10-2026/18h/PADEL 1_15-10-2026_18-30-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/15-10-2026/18h/PADEL%201_15-10-2026_18-30-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/15-10-2026/18h/PADEL%201_15-10-2026_18-30-31.jpg"
                 }
               ]
             }
@@ -25969,6 +25995,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/15-10-2026/16h/QUADRA_15-10-2026_16-36-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/16h/QUADRA_15-10-2026_16-36-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/16h/QUADRA_15-10-2026_16-36-05.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-10-2026_18-29-04.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/15-10-2026/18h/QUADRA_15-10-2026_18-29-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/18h/QUADRA_15-10-2026_18-29-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/15-10-2026/18h/QUADRA_15-10-2026_18-29-04.jpg"
                 }
               ]
             }
