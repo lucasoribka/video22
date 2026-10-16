@@ -4483,6 +4483,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/16-10-2026/16h/CAMPO%201%20DIREITA_16-10-2026_16-17-47.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_16-10-2026_17-07-40.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/16-10-2026/17h/CAMPO 1 DIREITA_16-10-2026_17-07-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/16-10-2026/17h/CAMPO%201%20DIREITA_16-10-2026_17-07-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/16-10-2026/17h/CAMPO%201%20DIREITA_16-10-2026_17-07-40.jpg"
+                }
+              ]
             }
           }
         },
@@ -5797,6 +5807,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/16-10-2026/16h/CAMPO 1 ESQUERDA_16-10-2026_16-17-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-10-2026/16h/CAMPO%201%20ESQUERDA_16-10-2026_16-17-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-10-2026/16h/CAMPO%201%20ESQUERDA_16-10-2026_16-17-34.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_16-10-2026_17-07-54.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/16-10-2026/17h/CAMPO 1 ESQUERDA_16-10-2026_17-07-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-10-2026/17h/CAMPO%201%20ESQUERDA_16-10-2026_17-07-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-10-2026/17h/CAMPO%201%20ESQUERDA_16-10-2026_17-07-54.jpg"
                 }
               ]
             }
@@ -20971,6 +20991,18 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/15-10-2026/20h/QUADRA_15-10-2026_20-59-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/15-10-2026/20h/QUADRA_15-10-2026_20-59-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/15-10-2026/20h/QUADRA_15-10-2026_20-59-13.jpg"
+                }
+              ]
+            }
+          },
+          "16-10-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-10-2026_17-06-46.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/16-10-2026/17h/QUADRA_16-10-2026_17-06-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/16-10-2026/17h/QUADRA_16-10-2026_17-06-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/16-10-2026/17h/QUADRA_16-10-2026_17-06-46.jpg"
                 }
               ]
             }
