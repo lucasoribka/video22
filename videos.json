@@ -2199,6 +2199,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/16-10-2026/20h/QUADRA_16-10-2026_20-29-14.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-10-2026/20h/QUADRA_16-10-2026_20-29-14.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-10-2026/20h/QUADRA_16-10-2026_20-29-14.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-10-2026_20-30-19.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/16-10-2026/20h/QUADRA_16-10-2026_20-30-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-10-2026/20h/QUADRA_16-10-2026_20-30-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-10-2026/20h/QUADRA_16-10-2026_20-30-19.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-10-2026_20-30-56.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/16-10-2026/20h/QUADRA_16-10-2026_20-30-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-10-2026/20h/QUADRA_16-10-2026_20-30-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/16-10-2026/20h/QUADRA_16-10-2026_20-30-56.jpg"
                 }
               ]
             }
@@ -29161,6 +29173,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/16-10-2026/19h/QUADRA_16-10-2026_19-48-42.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-10-2026_20-26-16.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/16-10-2026/20h/QUADRA_16-10-2026_20-26-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/16-10-2026/20h/QUADRA_16-10-2026_20-26-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/16-10-2026/20h/QUADRA_16-10-2026_20-26-16.jpg"
+                }
+              ]
             }
           }
         },
@@ -29723,6 +29745,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/16-10-2026/17h/QUADRA_16-10-2026_17-24-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/16-10-2026/17h/QUADRA_16-10-2026_17-24-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/16-10-2026/17h/QUADRA_16-10-2026_17-24-48.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-10-2026_20-27-50.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/16-10-2026/20h/QUADRA_16-10-2026_20-27-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/16-10-2026/20h/QUADRA_16-10-2026_20-27-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/16-10-2026/20h/QUADRA_16-10-2026_20-27-50.jpg"
                 }
               ]
             }
