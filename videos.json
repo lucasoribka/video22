@@ -2469,6 +2469,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-10-2026/10h/QUADRA_17-10-2026_10-48-51.jpg"
                 }
               ]
+            },
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-10-2026_15-11-09.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/17-10-2026/15h/QUADRA_17-10-2026_15-11-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-10-2026/15h/QUADRA_17-10-2026_15-11-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/17-10-2026/15h/QUADRA_17-10-2026_15-11-09.jpg"
+                }
+              ]
             }
           }
         },
@@ -9681,6 +9691,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-10-2026/14h/QUADRA_17-10-2026_14-53-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-10-2026/14h/QUADRA_17-10-2026_14-53-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-10-2026/14h/QUADRA_17-10-2026_14-53-35.jpg"
+                }
+              ]
+            },
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-10-2026_15-08-53.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-10-2026/15h/QUADRA_17-10-2026_15-08-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-10-2026/15h/QUADRA_17-10-2026_15-08-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-10-2026/15h/QUADRA_17-10-2026_15-08-53.jpg"
                 }
               ]
             }
@@ -17651,6 +17671,24 @@
                   "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/16-10-2026/21h/QUADRA_16-10-2026_21-20-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/16-10-2026/21h/QUADRA_16-10-2026_21-20-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/16-10-2026/21h/QUADRA_16-10-2026_21-20-01.jpg"
+                }
+              ]
+            }
+          },
+          "17-10-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_17-10-2026_15-06-51.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/17-10-2026/15h/QUADRA_17-10-2026_15-06-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/17-10-2026/15h/QUADRA_17-10-2026_15-06-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/17-10-2026/15h/QUADRA_17-10-2026_15-06-51.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-10-2026_15-07-31.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 1/17-10-2026/15h/QUADRA_17-10-2026_15-07-31.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/17-10-2026/15h/QUADRA_17-10-2026_15-07-31.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%201/17-10-2026/15h/QUADRA_17-10-2026_15-07-31.jpg"
                 }
               ]
             }
