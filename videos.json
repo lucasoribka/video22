@@ -9697,6 +9697,12 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-18-09.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-18-09.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-18-09.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-10-2026_18-29-39.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-29-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-29-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-29-39.jpg"
                 }
               ]
             }
@@ -12313,6 +12319,12 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Buchaim/19-10-2026/18h/Quadra Buchaim_19-10-2026_18-03-25.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/19-10-2026/18h/Quadra%20Buchaim_19-10-2026_18-03-25.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/19-10-2026/18h/Quadra%20Buchaim_19-10-2026_18-03-25.jpg"
+                },
+                {
+                  "nome": "Quadra Buchaim_19-10-2026_18-30-20.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Buchaim/19-10-2026/18h/Quadra Buchaim_19-10-2026_18-30-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/19-10-2026/18h/Quadra%20Buchaim_19-10-2026_18-30-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Buchaim/19-10-2026/18h/Quadra%20Buchaim_19-10-2026_18-30-20.jpg"
                 }
               ]
             }
@@ -24687,6 +24699,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/19-10-2026/15h/QUADRA_19-10-2026_15-17-36.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_18-27-13.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/19-10-2026/18h/QUADRA_19-10-2026_18-27-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-27-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-27-13.jpg"
+                }
+              ]
             }
           }
         },
@@ -25909,6 +25931,18 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/18-10-2026/21h/QUADRA_18-10-2026_21-54-43.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/18-10-2026/21h/QUADRA_18-10-2026_21-54-43.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/18-10-2026/21h/QUADRA_18-10-2026_21-54-43.jpg"
+                }
+              ]
+            }
+          },
+          "19-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_18-28-03.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/19-10-2026/18h/QUADRA_19-10-2026_18-28-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/19-10-2026/18h/QUADRA_19-10-2026_18-28-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/19-10-2026/18h/QUADRA_19-10-2026_18-28-03.jpg"
                 }
               ]
             }
