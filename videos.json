@@ -8393,6 +8393,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-10-2026/16h/QUADRA%202_19-10-2026_16-47-08.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_19-10-2026_20-23-40.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/19-10-2026/20h/QUADRA 2_19-10-2026_20-23-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-10-2026/20h/QUADRA%202_19-10-2026_20-23-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/19-10-2026/20h/QUADRA%202_19-10-2026_20-23-40.jpg"
+                }
+              ]
             }
           }
         },
@@ -24325,6 +24335,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/19-10-2026/19h/QUADRA_19-10-2026_19-59-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-10-2026/19h/QUADRA_19-10-2026_19-59-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-10-2026/19h/QUADRA_19-10-2026_19-59-39.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_20-22-39.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/19-10-2026/20h/QUADRA_19-10-2026_20-22-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-10-2026/20h/QUADRA_19-10-2026_20-22-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/19-10-2026/20h/QUADRA_19-10-2026_20-22-39.jpg"
                 }
               ]
             }
