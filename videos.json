@@ -3502,6 +3502,18 @@
                 }
               ]
             }
+          },
+          "19-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_18-33-46.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/19-10-2026/18h/QUADRA_19-10-2026_18-33-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/19-10-2026/18h/QUADRA_19-10-2026_18-33-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/19-10-2026/18h/QUADRA_19-10-2026_18-33-46.jpg"
+                }
+              ]
+            }
           }
         }
       }
@@ -20053,6 +20065,18 @@
               ]
             }
           },
+          "19-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_18-29-08.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/19-10-2026/18h/QUADRA_19-10-2026_18-29-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-29-08.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-29-08.jpg"
+                }
+              ]
+            }
+          },
           "28-09-2026": {
             "15h": {
               "_videos": [
@@ -20703,6 +20727,12 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/19-10-2026/18h/QUADRA_19-10-2026_18-24-17.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/18h/QUADRA_19-10-2026_18-24-17.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/18h/QUADRA_19-10-2026_18-24-17.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-10-2026_18-29-43.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/19-10-2026/18h/QUADRA_19-10-2026_18-29-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/18h/QUADRA_19-10-2026_18-29-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/18h/QUADRA_19-10-2026_18-29-43.jpg"
                 }
               ]
             }
@@ -21735,6 +21765,12 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/19-10-2026/18h/QUADRA_19-10-2026_18-23-42.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-23-42.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-23-42.jpg"
+                },
+                {
+                  "nome": "QUADRA_19-10-2026_18-28-30.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 1/19-10-2026/18h/QUADRA_19-10-2026_18-28-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-28-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%201/19-10-2026/18h/QUADRA_19-10-2026_18-28-30.jpg"
                 }
               ]
             }
