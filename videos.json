@@ -9839,6 +9839,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/18h/QUADRA_19-10-2026_18-57-05.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_19-22-34.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/19-10-2026/19h/QUADRA_19-10-2026_19-22-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/19h/QUADRA_19-10-2026_19-22-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/19-10-2026/19h/QUADRA_19-10-2026_19-22-34.jpg"
+                }
+              ]
             }
           }
         }
@@ -12239,6 +12249,18 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/18-10-2026/19h/Quadra Bclar_18-10-2026_19-28-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/18-10-2026/19h/Quadra%20Bclar_18-10-2026_19-28-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/18-10-2026/19h/Quadra%20Bclar_18-10-2026_19-28-58.jpg"
+                }
+              ]
+            }
+          },
+          "19-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Bclar_19-10-2026_19-23-46.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/19-10-2026/19h/Quadra Bclar_19-10-2026_19-23-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/19-10-2026/19h/Quadra%20Bclar_19-10-2026_19-23-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/19-10-2026/19h/Quadra%20Bclar_19-10-2026_19-23-46.jpg"
                 }
               ]
             }
@@ -20947,6 +20969,16 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/19-10-2026/18h/QUADRA_19-10-2026_18-38-02.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/18h/QUADRA_19-10-2026_18-38-02.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/18h/QUADRA_19-10-2026_18-38-02.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_19-19-59.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/19-10-2026/19h/QUADRA_19-10-2026_19-19-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/19h/QUADRA_19-10-2026_19-19-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/19-10-2026/19h/QUADRA_19-10-2026_19-19-59.jpg"
                 }
               ]
             }
