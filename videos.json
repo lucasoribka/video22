@@ -5212,6 +5212,18 @@
                 }
               ]
             }
+          },
+          "19-10-2026": {
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_19-10-2026_22-02-33.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/19-10-2026/22h/CAMPO 1 DIREITA_19-10-2026_22-02-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/19-10-2026/22h/CAMPO%201%20DIREITA_19-10-2026_22-02-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/19-10-2026/22h/CAMPO%201%20DIREITA_19-10-2026_22-02-33.jpg"
+                }
+              ]
+            }
           }
         },
         "CAMPO 1 ESQUERDA": {
@@ -22447,6 +22459,16 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/19-10-2026/21h/QUADRA_19-10-2026_21-56-53.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/19-10-2026/21h/QUADRA_19-10-2026_21-56-53.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/19-10-2026/21h/QUADRA_19-10-2026_21-56-53.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_19-10-2026_22-00-52.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 1/19-10-2026/22h/QUADRA_19-10-2026_22-00-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/19-10-2026/22h/QUADRA_19-10-2026_22-00-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%201/19-10-2026/22h/QUADRA_19-10-2026_22-00-52.jpg"
                 }
               ]
             }
