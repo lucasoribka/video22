@@ -4847,6 +4847,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/22-10-2026/15h/CAMPO 1 ESQUERDA_22-10-2026_15-48-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/22-10-2026/15h/CAMPO%201%20ESQUERDA_22-10-2026_15-48-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/22-10-2026/15h/CAMPO%201%20ESQUERDA_22-10-2026_15-48-04.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_22-10-2026_15-49-12.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/22-10-2026/15h/CAMPO 1 ESQUERDA_22-10-2026_15-49-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/22-10-2026/15h/CAMPO%201%20ESQUERDA_22-10-2026_15-49-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/22-10-2026/15h/CAMPO%201%20ESQUERDA_22-10-2026_15-49-12.jpg"
                 }
               ]
             }
@@ -21148,6 +21154,24 @@
                 }
               ]
             }
+          },
+          "22-10-2026": {
+            "15h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-10-2026_15-47-28.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-10-2026/15h/QUADRA_22-10-2026_15-47-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-10-2026/15h/QUADRA_22-10-2026_15-47-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-10-2026/15h/QUADRA_22-10-2026_15-47-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-10-2026_15-48-13.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/22-10-2026/15h/QUADRA_22-10-2026_15-48-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-10-2026/15h/QUADRA_22-10-2026_15-48-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/22-10-2026/15h/QUADRA_22-10-2026_15-48-13.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -25223,6 +25247,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-10-2026/15h/QUADRA_22-10-2026_15-19-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/15h/QUADRA_22-10-2026_15-19-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/15h/QUADRA_22-10-2026_15-19-38.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-10-2026_15-47-21.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-10-2026/15h/QUADRA_22-10-2026_15-47-21.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/15h/QUADRA_22-10-2026_15-47-21.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/15h/QUADRA_22-10-2026_15-47-21.jpg"
                 }
               ]
             }
