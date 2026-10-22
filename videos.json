@@ -10879,6 +10879,12 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/21-10-2026/21h/PADEL 1_21-10-2026_21-20-42.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/21-10-2026/21h/PADEL%201_21-10-2026_21-20-42.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/21-10-2026/21h/PADEL%201_21-10-2026_21-20-42.jpg"
+                },
+                {
+                  "nome": "PADEL 1_21-10-2026_21-22-23.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 1/21-10-2026/21h/PADEL 1_21-10-2026_21-22-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/21-10-2026/21h/PADEL%201_21-10-2026_21-22-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%201/21-10-2026/21h/PADEL%201_21-10-2026_21-22-23.jpg"
                 }
               ]
             }
@@ -16477,6 +16483,28 @@
               ]
             }
           },
+          "09-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-10-2026_19-49-46.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/09-10-2026/19h/QUADRA_09-10-2026_19-49-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/09-10-2026/19h/QUADRA_09-10-2026_19-49-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/09-10-2026/19h/QUADRA_09-10-2026_19-49-46.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-10-2026_21-23-43.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/QUADRA 1/09-10-2026/21h/QUADRA_09-10-2026_21-23-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/09-10-2026/21h/QUADRA_09-10-2026_21-23-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/QUADRA%201/09-10-2026/21h/QUADRA_09-10-2026_21-23-43.jpg"
+                }
+              ]
+            }
+          },
           "12-10-2026": {
             "19h": {
               "_videos": [
@@ -17487,6 +17515,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/21-10-2026/19h/QUADRA_21-10-2026_19-45-07.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2026_21-21-55.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/21-10-2026/21h/QUADRA_21-10-2026_21-21-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/21-10-2026/21h/QUADRA_21-10-2026_21-21-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/21-10-2026/21h/QUADRA_21-10-2026_21-21-55.jpg"
+                }
+              ]
             }
           }
         }
@@ -17971,6 +18009,24 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/14-10-2026/21h/QUADRA_14-10-2026_21-50-28.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/14-10-2026/21h/QUADRA_14-10-2026_21-50-28.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/14-10-2026/21h/QUADRA_14-10-2026_21-50-28.jpg"
+                }
+              ]
+            }
+          },
+          "16-10-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_16-10-2026_20-24-45.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/16-10-2026/20h/QUADRA_16-10-2026_20-24-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/16-10-2026/20h/QUADRA_16-10-2026_20-24-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/16-10-2026/20h/QUADRA_16-10-2026_20-24-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_16-10-2026_20-57-29.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/16-10-2026/20h/QUADRA_16-10-2026_20-57-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/16-10-2026/20h/QUADRA_16-10-2026_20-57-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/16-10-2026/20h/QUADRA_16-10-2026_20-57-29.jpg"
                 }
               ]
             }
@@ -23901,6 +23957,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/21-10-2026/21h/QUADRA_21-10-2026_21-07-09.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/21-10-2026/21h/QUADRA_21-10-2026_21-07-09.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/21-10-2026/21h/QUADRA_21-10-2026_21-07-09.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-10-2026_21-20-42.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/21-10-2026/21h/QUADRA_21-10-2026_21-20-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/21-10-2026/21h/QUADRA_21-10-2026_21-20-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/21-10-2026/21h/QUADRA_21-10-2026_21-20-42.jpg"
                 }
               ]
             }
