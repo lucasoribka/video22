@@ -2881,6 +2881,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/22-10-2026/20h/QUADRA_22-10-2026_20-16-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/22-10-2026/20h/QUADRA_22-10-2026_20-16-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/22-10-2026/20h/QUADRA_22-10-2026_20-16-37.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-10-2026_20-32-24.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/22-10-2026/20h/QUADRA_22-10-2026_20-32-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/22-10-2026/20h/QUADRA_22-10-2026_20-32-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/22-10-2026/20h/QUADRA_22-10-2026_20-32-24.jpg"
                 }
               ]
             }
@@ -6018,6 +6024,18 @@
                 }
               ]
             }
+          },
+          "22-10-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 2 DIREITA_22-10-2026_20-30-29.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 DIREITA/22-10-2026/20h/CAMPO 2 DIREITA_22-10-2026_20-30-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/22-10-2026/20h/CAMPO%202%20DIREITA_22-10-2026_20-30-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20DIREITA/22-10-2026/20h/CAMPO%202%20DIREITA_22-10-2026_20-30-29.jpg"
+                }
+              ]
+            }
           }
         },
         "CAMPO 2 ESQUERDA": {
@@ -6283,6 +6301,18 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 ESQUERDA/21-10-2026/21h/CAMPO 2 ESQUERDA_21-10-2026_21-19-59.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/21-10-2026/21h/CAMPO%202%20ESQUERDA_21-10-2026_21-19-59.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/21-10-2026/21h/CAMPO%202%20ESQUERDA_21-10-2026_21-19-59.jpg"
+                }
+              ]
+            }
+          },
+          "22-10-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 2 ESQUERDA_22-10-2026_20-30-42.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 2 ESQUERDA/22-10-2026/20h/CAMPO 2 ESQUERDA_22-10-2026_20-30-42.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/22-10-2026/20h/CAMPO%202%20ESQUERDA_22-10-2026_20-30-42.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%202%20ESQUERDA/22-10-2026/20h/CAMPO%202%20ESQUERDA_22-10-2026_20-30-42.jpg"
                 }
               ]
             }
