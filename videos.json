@@ -2207,6 +2207,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/21-10-2026/22h/QUADRA_21-10-2026_22-20-03.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/21-10-2026/22h/QUADRA_21-10-2026_22-20-03.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/21-10-2026/22h/QUADRA_21-10-2026_22-20-03.jpg"
+                },
+                {
+                  "nome": "QUADRA_21-10-2026_22-21-01.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/21-10-2026/22h/QUADRA_21-10-2026_22-21-01.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/21-10-2026/22h/QUADRA_21-10-2026_22-21-01.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/21-10-2026/22h/QUADRA_21-10-2026_22-21-01.jpg"
                 }
               ]
             }
@@ -13809,6 +13815,12 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/21-10-2026/22h/QUADRA 1_21-10-2026_22-17-02.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/21-10-2026/22h/QUADRA%201_21-10-2026_22-17-02.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/21-10-2026/22h/QUADRA%201_21-10-2026_22-17-02.jpg"
+                },
+                {
+                  "nome": "QUADRA 1_21-10-2026_22-20-25.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 1/21-10-2026/22h/QUADRA 1_21-10-2026_22-20-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/21-10-2026/22h/QUADRA%201_21-10-2026_22-20-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%201/21-10-2026/22h/QUADRA%201_21-10-2026_22-20-25.jpg"
                 }
               ]
             }
@@ -22507,6 +22519,16 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/21-10-2026/18h/QUADRA_21-10-2026_18-52-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-10-2026/18h/QUADRA_21-10-2026_18-52-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-10-2026/18h/QUADRA_21-10-2026_18-52-44.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-10-2026_22-19-00.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA RICAR/21-10-2026/22h/QUADRA_21-10-2026_22-19-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-10-2026/22h/QUADRA_21-10-2026_22-19-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20RICAR/21-10-2026/22h/QUADRA_21-10-2026_22-19-00.jpg"
                 }
               ]
             }
