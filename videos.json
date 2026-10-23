@@ -2361,6 +2361,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/23-10-2026/18h/QUADRA_23-10-2026_18-53-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/23-10-2026/18h/QUADRA_23-10-2026_18-53-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/23-10-2026/18h/QUADRA_23-10-2026_18-53-35.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-10-2026_18-57-38.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/23-10-2026/18h/QUADRA_23-10-2026_18-57-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/23-10-2026/18h/QUADRA_23-10-2026_18-57-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/23-10-2026/18h/QUADRA_23-10-2026_18-57-38.jpg"
                 }
               ]
             }
@@ -9069,6 +9075,18 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/Pickleball 1/21-10-2026/19h/Pickleball 1_21-10-2026_19-35-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/21-10-2026/19h/Pickleball%201_21-10-2026_19-35-12.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/21-10-2026/19h/Pickleball%201_21-10-2026_19-35-12.jpg"
+                }
+              ]
+            }
+          },
+          "23-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Pickleball 1_23-10-2026_18-57-03.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/Pickleball 1/23-10-2026/18h/Pickleball 1_23-10-2026_18-57-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/23-10-2026/18h/Pickleball%201_23-10-2026_18-57-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/Pickleball%201/23-10-2026/18h/Pickleball%201_23-10-2026_18-57-03.jpg"
                 }
               ]
             }
@@ -26621,6 +26639,16 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/23-10-2026/17h/QUADRA_23-10-2026_17-17-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/23-10-2026/17h/QUADRA_23-10-2026_17-17-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/23-10-2026/17h/QUADRA_23-10-2026_17-17-16.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-10-2026_18-54-27.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA LK/23-10-2026/18h/QUADRA_23-10-2026_18-54-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/23-10-2026/18h/QUADRA_23-10-2026_18-54-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20LK/23-10-2026/18h/QUADRA_23-10-2026_18-54-27.jpg"
                 }
               ]
             }
