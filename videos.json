@@ -501,6 +501,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/22-10-2026/20h/QUADRA_22-10-2026_20-58-12.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-10-2026_21-21-05.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/22-10-2026/21h/QUADRA_22-10-2026_21-21-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/22-10-2026/21h/QUADRA_22-10-2026_21-21-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/22-10-2026/21h/QUADRA_22-10-2026_21-21-05.jpg"
+                }
+              ]
             }
           }
         }
@@ -10151,6 +10161,12 @@
                   "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/22-10-2026/21h/QUADRA_22-10-2026_21-08-55.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-10-2026/21h/QUADRA_22-10-2026_21-08-55.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-10-2026/21h/QUADRA_22-10-2026_21-08-55.jpg"
+                },
+                {
+                  "nome": "QUADRA_22-10-2026_21-21-45.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/22-10-2026/21h/QUADRA_22-10-2026_21-21-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-10-2026/21h/QUADRA_22-10-2026_21-21-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/22-10-2026/21h/QUADRA_22-10-2026_21-21-45.jpg"
                 }
               ]
             }
@@ -23612,34 +23628,6 @@
                 }
               ]
             }
-          },
-          "30-08-2026": {
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-08-2026_18-11-04.mp4",
-                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/18h/QUADRA_30-08-2026_18-11-04.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/18h/QUADRA_30-08-2026_18-11-04.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/18h/QUADRA_30-08-2026_18-11-04.jpg"
-                },
-                {
-                  "nome": "QUADRA_30-08-2026_18-14-11.mp4",
-                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/18h/QUADRA_30-08-2026_18-14-11.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/18h/QUADRA_30-08-2026_18-14-11.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/18h/QUADRA_30-08-2026_18-14-11.jpg"
-                }
-              ]
-            },
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_30-08-2026_20-16-31.mp4",
-                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/20h/QUADRA_30-08-2026_20-16-31.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/20h/QUADRA_30-08-2026_20-16-31.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/30-08-2026/20h/QUADRA_30-08-2026_20-16-31.jpg"
-                }
-              ]
-            }
           }
         }
       }
@@ -23647,66 +23635,6 @@
     "SÃO BENTO DO SUL-SC": {
       "COLISEU": {
         "AREIA 1": {
-          "15-10-2026": {
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_15-10-2026_19-14-55.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-14-55.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-14-55.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-14-55.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-20-36.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-20-36.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-20-36.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-20-36.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-24-10.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-24-10.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-24-10.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-24-10.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-24-48.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-24-48.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-24-48.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-24-48.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-39-03.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-39-03.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-39-03.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-39-03.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-41-14.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-41-14.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-41-14.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-41-14.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-47-00.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-47-00.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-47-00.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-47-00.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-50-12.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-50-12.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-50-12.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-50-12.jpg"
-                },
-                {
-                  "nome": "QUADRA_15-10-2026_19-58-51.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/15-10-2026/19h/QUADRA_15-10-2026_19-58-51.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-58-51.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/15-10-2026/19h/QUADRA_15-10-2026_19-58-51.jpg"
-                }
-              ]
-            }
-          },
           "17-10-2026": {
             "09h": {
               "_videos": [
@@ -24291,34 +24219,6 @@
           }
         },
         "AREIA 2": {
-          "14-10-2026": {
-            "18h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_14-10-2026_18-40-50.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/14-10-2026/18h/QUADRA_14-10-2026_18-40-50.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/18h/QUADRA_14-10-2026_18-40-50.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/18h/QUADRA_14-10-2026_18-40-50.jpg"
-                },
-                {
-                  "nome": "QUADRA_14-10-2026_18-46-54.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/14-10-2026/18h/QUADRA_14-10-2026_18-46-54.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/18h/QUADRA_14-10-2026_18-46-54.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/18h/QUADRA_14-10-2026_18-46-54.jpg"
-                }
-              ]
-            },
-            "19h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_14-10-2026_19-15-51.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/14-10-2026/19h/QUADRA_14-10-2026_19-15-51.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/19h/QUADRA_14-10-2026_19-15-51.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/14-10-2026/19h/QUADRA_14-10-2026_19-15-51.jpg"
-                }
-              ]
-            }
-          },
           "15-10-2026": {
             "19h": {
               "_videos": [
@@ -24583,64 +24483,6 @@
           }
         },
         "AREIA 3": {
-          "13-10-2026": {
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_13-10-2026_21-08-52.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/13-10-2026/21h/QUADRA_13-10-2026_21-08-52.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/13-10-2026/21h/QUADRA_13-10-2026_21-08-52.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/13-10-2026/21h/QUADRA_13-10-2026_21-08-52.jpg"
-                },
-                {
-                  "nome": "QUADRA_13-10-2026_21-15-06.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/13-10-2026/21h/QUADRA_13-10-2026_21-15-06.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/13-10-2026/21h/QUADRA_13-10-2026_21-15-06.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/13-10-2026/21h/QUADRA_13-10-2026_21-15-06.jpg"
-                }
-              ]
-            }
-          },
-          "14-10-2026": {
-            "20h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_14-10-2026_20-23-48.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/14-10-2026/20h/QUADRA_14-10-2026_20-23-48.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-23-48.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-23-48.jpg"
-                },
-                {
-                  "nome": "QUADRA_14-10-2026_20-43-26.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/14-10-2026/20h/QUADRA_14-10-2026_20-43-26.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-43-26.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-43-26.jpg"
-                },
-                {
-                  "nome": "QUADRA_14-10-2026_20-55-11.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/14-10-2026/20h/QUADRA_14-10-2026_20-55-11.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-55-11.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-55-11.jpg"
-                },
-                {
-                  "nome": "QUADRA_14-10-2026_20-59-53.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/14-10-2026/20h/QUADRA_14-10-2026_20-59-53.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-59-53.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/20h/QUADRA_14-10-2026_20-59-53.jpg"
-                }
-              ]
-            },
-            "21h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_14-10-2026_21-01-57.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 3/14-10-2026/21h/QUADRA_14-10-2026_21-01-57.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/21h/QUADRA_14-10-2026_21-01-57.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%203/14-10-2026/21h/QUADRA_14-10-2026_21-01-57.jpg"
-                }
-              ]
-            }
-          },
           "15-10-2026": {
             "18h": {
               "_videos": [
@@ -24799,104 +24641,6 @@
           }
         },
         "Quadra Caminho do Saber": {
-          "17-10-2026": {
-            "11h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_11-15-12.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/11h/QUADRA_17-10-2026_11-15-12.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/11h/QUADRA_17-10-2026_11-15-12.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/11h/QUADRA_17-10-2026_11-15-12.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_11-19-45.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/11h/QUADRA_17-10-2026_11-19-45.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/11h/QUADRA_17-10-2026_11-19-45.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/11h/QUADRA_17-10-2026_11-19-45.jpg"
-                }
-              ]
-            },
-            "13h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_13-30-27.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/13h/QUADRA_17-10-2026_13-30-27.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/13h/QUADRA_17-10-2026_13-30-27.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/13h/QUADRA_17-10-2026_13-30-27.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_13-46-08.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/13h/QUADRA_17-10-2026_13-46-08.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/13h/QUADRA_17-10-2026_13-46-08.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/13h/QUADRA_17-10-2026_13-46-08.jpg"
-                }
-              ]
-            },
-            "14h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_14-18-45.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/14h/QUADRA_17-10-2026_14-18-45.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-18-45.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-18-45.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_14-19-39.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/14h/QUADRA_17-10-2026_14-19-39.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-19-39.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-19-39.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_14-26-56.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/14h/QUADRA_17-10-2026_14-26-56.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-26-56.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-26-56.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_14-29-46.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/14h/QUADRA_17-10-2026_14-29-46.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-29-46.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/14h/QUADRA_17-10-2026_14-29-46.jpg"
-                }
-              ]
-            },
-            "15h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_15-49-53.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/15h/QUADRA_17-10-2026_15-49-53.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/15h/QUADRA_17-10-2026_15-49-53.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/15h/QUADRA_17-10-2026_15-49-53.jpg"
-                }
-              ]
-            },
-            "16h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_16-11-22.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/16h/QUADRA_17-10-2026_16-11-22.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/16h/QUADRA_17-10-2026_16-11-22.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/16h/QUADRA_17-10-2026_16-11-22.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_16-48-49.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/16h/QUADRA_17-10-2026_16-48-49.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/16h/QUADRA_17-10-2026_16-48-49.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/16h/QUADRA_17-10-2026_16-48-49.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_17-21-13.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/17-10-2026/17h/QUADRA_17-10-2026_17-21-13.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/17h/QUADRA_17-10-2026_17-21-13.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/17-10-2026/17h/QUADRA_17-10-2026_17-21-13.jpg"
-                }
-              ]
-            }
-          },
           "18-10-2026": {
             "10h": {
               "_videos": [
@@ -25177,34 +24921,6 @@
           }
         },
         "Quadra Manchester": {
-          "17-10-2026": {
-            "16h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_16-45-08.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/17-10-2026/16h/QUADRA_17-10-2026_16-45-08.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-10-2026/16h/QUADRA_17-10-2026_16-45-08.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-10-2026/16h/QUADRA_17-10-2026_16-45-08.jpg"
-                },
-                {
-                  "nome": "QUADRA_17-10-2026_16-51-10.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/17-10-2026/16h/QUADRA_17-10-2026_16-51-10.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-10-2026/16h/QUADRA_17-10-2026_16-51-10.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-10-2026/16h/QUADRA_17-10-2026_16-51-10.jpg"
-                }
-              ]
-            },
-            "17h": {
-              "_videos": [
-                {
-                  "nome": "QUADRA_17-10-2026_17-08-52.mp4",
-                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/17-10-2026/17h/QUADRA_17-10-2026_17-08-52.mp4",
-                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-10-2026/17h/QUADRA_17-10-2026_17-08-52.mp4",
-                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/17-10-2026/17h/QUADRA_17-10-2026_17-08-52.jpg"
-                }
-              ]
-            }
-          },
           "18-10-2026": {
             "09h": {
               "_videos": [
@@ -25561,6 +25277,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/22-10-2026/20h/QUADRA_22-10-2026_20-32-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-10-2026/20h/QUADRA_22-10-2026_20-32-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-10-2026/20h/QUADRA_22-10-2026_20-32-01.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-10-2026_21-21-20.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/22-10-2026/21h/QUADRA_22-10-2026_21-21-20.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-10-2026/21h/QUADRA_22-10-2026_21-21-20.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/22-10-2026/21h/QUADRA_22-10-2026_21-21-20.jpg"
                 }
               ]
             }
@@ -26153,6 +25879,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-10-2026/20h/QUADRA_22-10-2026_20-44-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/20h/QUADRA_22-10-2026_20-44-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/20h/QUADRA_22-10-2026_20-44-32.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_22-10-2026_21-20-30.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Truck Center/22-10-2026/21h/QUADRA_22-10-2026_21-20-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/21h/QUADRA_22-10-2026_21-20-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Truck%20Center/22-10-2026/21h/QUADRA_22-10-2026_21-20-30.jpg"
                 }
               ]
             }
