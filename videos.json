@@ -8613,6 +8613,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/24-10-2026/09h/CAMPO%201%20ESQUERDA_24-10-2026_09-44-32.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_24-10-2026_10-22-00.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/24-10-2026/10h/CAMPO 1 ESQUERDA_24-10-2026_10-22-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/24-10-2026/10h/CAMPO%201%20ESQUERDA_24-10-2026_10-22-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/24-10-2026/10h/CAMPO%201%20ESQUERDA_24-10-2026_10-22-00.jpg"
+                }
+              ]
             }
           }
         },
@@ -11137,6 +11147,18 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/23-10-2026/19h/QUADRA_23-10-2026_19-31-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/23-10-2026/19h/QUADRA_23-10-2026_19-31-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/23-10-2026/19h/QUADRA_23-10-2026_19-31-44.jpg"
+                }
+              ]
+            }
+          },
+          "24-10-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_24-10-2026_10-19-56.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/24-10-2026/10h/QUADRA_24-10-2026_10-19-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/24-10-2026/10h/QUADRA_24-10-2026_10-19-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/24-10-2026/10h/QUADRA_24-10-2026_10-19-56.jpg"
                 }
               ]
             }
