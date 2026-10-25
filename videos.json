@@ -443,6 +443,12 @@
                   "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/25-10-2026/19h/QUADRA_25-10-2026_19-14-27.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/25-10-2026/19h/QUADRA_25-10-2026_19-14-27.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/25-10-2026/19h/QUADRA_25-10-2026_19-14-27.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-10-2026_19-19-00.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/25-10-2026/19h/QUADRA_25-10-2026_19-19-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/25-10-2026/19h/QUADRA_25-10-2026_19-19-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/25-10-2026/19h/QUADRA_25-10-2026_19-19-00.jpg"
                 }
               ]
             }
@@ -29135,6 +29141,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/25-10-2026/17h/QUADRA_25-10-2026_17-45-09.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-10-2026_19-19-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/25-10-2026/19h/QUADRA_25-10-2026_19-19-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/25-10-2026/19h/QUADRA_25-10-2026_19-19-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/25-10-2026/19h/QUADRA_25-10-2026_19-19-11.jpg"
+                }
+              ]
             }
           }
         },
@@ -29635,6 +29651,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/25-10-2026/17h/QUADRA_25-10-2026_17-37-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/25-10-2026/17h/QUADRA_25-10-2026_17-37-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/25-10-2026/17h/QUADRA_25-10-2026_17-37-34.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_25-10-2026_19-19-59.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/25-10-2026/19h/QUADRA_25-10-2026_19-19-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/25-10-2026/19h/QUADRA_25-10-2026_19-19-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/25-10-2026/19h/QUADRA_25-10-2026_19-19-59.jpg"
                 }
               ]
             }
