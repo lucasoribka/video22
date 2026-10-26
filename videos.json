@@ -11151,6 +11151,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-10-2026/19h/QUADRA_26-10-2026_19-53-54.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-10-2026_20-38-58.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/26-10-2026/20h/QUADRA_26-10-2026_20-38-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-10-2026/20h/QUADRA_26-10-2026_20-38-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/26-10-2026/20h/QUADRA_26-10-2026_20-38-58.jpg"
+                }
+              ]
             }
           }
         }
@@ -28007,6 +28017,16 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/26-10-2026/17h/QUADRA_26-10-2026_17-01-33.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/26-10-2026/17h/QUADRA_26-10-2026_17-01-33.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/26-10-2026/17h/QUADRA_26-10-2026_17-01-33.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-10-2026_20-38-41.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 3/26-10-2026/20h/QUADRA_26-10-2026_20-38-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/26-10-2026/20h/QUADRA_26-10-2026_20-38-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%203/26-10-2026/20h/QUADRA_26-10-2026_20-38-41.jpg"
                 }
               ]
             }
