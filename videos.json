@@ -9471,6 +9471,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/29-10-2026/15h/Quadra%20Dr.%20Cristiano%20Evaldt_29-10-2026_15-51-02.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Dr. Cristiano Evaldt_29-10-2026_18-05-03.mp4",
+                  "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/29-10-2026/18h/Quadra Dr. Cristiano Evaldt_29-10-2026_18-05-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/29-10-2026/18h/Quadra%20Dr.%20Cristiano%20Evaldt_29-10-2026_18-05-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/29-10-2026/18h/Quadra%20Dr.%20Cristiano%20Evaldt_29-10-2026_18-05-03.jpg"
+                }
+              ]
             }
           }
         },
@@ -13131,6 +13141,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/28-10-2026/21h/QUADRA 3_28-10-2026_21-20-26.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/28-10-2026/21h/QUADRA%203_28-10-2026_21-20-26.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/28-10-2026/21h/QUADRA%203_28-10-2026_21-20-26.jpg"
+                }
+              ]
+            }
+          },
+          "29-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_29-10-2026_18-03-53.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/29-10-2026/18h/QUADRA 3_29-10-2026_18-03-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/29-10-2026/18h/QUADRA%203_29-10-2026_18-03-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/29-10-2026/18h/QUADRA%203_29-10-2026_18-03-53.jpg"
                 }
               ]
             }
