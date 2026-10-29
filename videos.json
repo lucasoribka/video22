@@ -2105,6 +2105,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/16h/QUADRA_29-10-2026_16-51-23.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-10-2026_17-30-41.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-10-2026/17h/QUADRA_29-10-2026_17-30-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/17h/QUADRA_29-10-2026_17-30-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/17h/QUADRA_29-10-2026_17-30-41.jpg"
+                }
+              ]
             }
           }
         },
@@ -21265,6 +21275,16 @@
                   "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/29-10-2026/16h/QUADRA_29-10-2026_16-33-35.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/29-10-2026/16h/QUADRA_29-10-2026_16-33-35.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/29-10-2026/16h/QUADRA_29-10-2026_16-33-35.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-10-2026_17-27-59.mp4",
+                  "path": "/SC/MAFRA-SC/TW PADEL/QUADRA SUSIN/29-10-2026/17h/QUADRA_29-10-2026_17-27-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/29-10-2026/17h/QUADRA_29-10-2026_17-27-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/TW%20PADEL/QUADRA%20SUSIN/29-10-2026/17h/QUADRA_29-10-2026_17-27-59.jpg"
                 }
               ]
             }
