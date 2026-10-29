@@ -3407,6 +3407,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/29-10-2026/19h/QUADRA_29-10-2026_19-08-45.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-10-2026/19h/QUADRA_29-10-2026_19-08-45.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-10-2026/19h/QUADRA_29-10-2026_19-08-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-10-2026_19-15-12.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/29-10-2026/19h/QUADRA_29-10-2026_19-15-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-10-2026/19h/QUADRA_29-10-2026_19-15-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/29-10-2026/19h/QUADRA_29-10-2026_19-15-12.jpg"
                 }
               ]
             }
@@ -5349,6 +5355,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-10-2026/18h/QUADRA%201_29-10-2026_18-14-28.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_29-10-2026_19-13-32.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/29-10-2026/19h/QUADRA 1_29-10-2026_19-13-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-10-2026/19h/QUADRA%201_29-10-2026_19-13-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/29-10-2026/19h/QUADRA%201_29-10-2026_19-13-32.jpg"
+                }
+              ]
             }
           }
         },
@@ -6691,6 +6707,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/29-10-2026/19h/QUADRA_29-10-2026_19-06-28.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/29-10-2026/19h/QUADRA_29-10-2026_19-06-28.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/29-10-2026/19h/QUADRA_29-10-2026_19-06-28.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-10-2026_19-12-28.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/29-10-2026/19h/QUADRA_29-10-2026_19-12-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/29-10-2026/19h/QUADRA_29-10-2026_19-12-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/29-10-2026/19h/QUADRA_29-10-2026_19-12-28.jpg"
                 }
               ]
             }
@@ -9131,6 +9153,18 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/28-10-2026/21h/Quadra Bclar_28-10-2026_21-44-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/28-10-2026/21h/Quadra%20Bclar_28-10-2026_21-44-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/28-10-2026/21h/Quadra%20Bclar_28-10-2026_21-44-01.jpg"
+                }
+              ]
+            }
+          },
+          "29-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Bclar_29-10-2026_19-13-19.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/29-10-2026/19h/Quadra Bclar_29-10-2026_19-13-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/29-10-2026/19h/Quadra%20Bclar_29-10-2026_19-13-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/29-10-2026/19h/Quadra%20Bclar_29-10-2026_19-13-19.jpg"
                 }
               ]
             }
@@ -22731,6 +22765,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/27-10-2026/20h/QUADRA_27-10-2026_20-01-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/27-10-2026/20h/QUADRA_27-10-2026_20-01-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/27-10-2026/20h/QUADRA_27-10-2026_20-01-54.jpg"
+                }
+              ]
+            }
+          },
+          "29-10-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-10-2026_19-12-04.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/29-10-2026/19h/QUADRA_29-10-2026_19-12-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/29-10-2026/19h/QUADRA_29-10-2026_19-12-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/29-10-2026/19h/QUADRA_29-10-2026_19-12-04.jpg"
                 }
               ]
             }
