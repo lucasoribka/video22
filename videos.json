@@ -2159,6 +2159,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-10-2026/18h/QUADRA_29-10-2026_18-32-33.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/18h/QUADRA_29-10-2026_18-32-33.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/18h/QUADRA_29-10-2026_18-32-33.jpg"
+                },
+                {
+                  "nome": "QUADRA_29-10-2026_18-33-11.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/29-10-2026/18h/QUADRA_29-10-2026_18-33-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/18h/QUADRA_29-10-2026_18-33-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/29-10-2026/18h/QUADRA_29-10-2026_18-33-11.jpg"
                 }
               ]
             }
@@ -16579,6 +16585,18 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/27-10-2026/18h/QUADRA_27-10-2026_18-57-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/27-10-2026/18h/QUADRA_27-10-2026_18-57-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/27-10-2026/18h/QUADRA_27-10-2026_18-57-16.jpg"
+                }
+              ]
+            }
+          },
+          "29-10-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_29-10-2026_18-32-11.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 1/29-10-2026/18h/QUADRA_29-10-2026_18-32-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/29-10-2026/18h/QUADRA_29-10-2026_18-32-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%201/29-10-2026/18h/QUADRA_29-10-2026_18-32-11.jpg"
                 }
               ]
             }
