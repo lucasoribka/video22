@@ -6323,6 +6323,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/31-10-2026/17h/QUADRA%201_31-10-2026_17-39-35.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 1_31-10-2026_18-01-59.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 1/31-10-2026/18h/QUADRA 1_31-10-2026_18-01-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/31-10-2026/18h/QUADRA%201_31-10-2026_18-01-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%201/31-10-2026/18h/QUADRA%201_31-10-2026_18-01-59.jpg"
+                }
+              ]
             }
           }
         },
@@ -21177,6 +21187,22 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2026/17h/QUADRA_31-10-2026_17-58-54.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2026/17h/QUADRA_31-10-2026_17-58-54.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2026/17h/QUADRA_31-10-2026_17-58-54.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_31-10-2026_18-01-15.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2026/18h/QUADRA_31-10-2026_18-01-15.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2026/18h/QUADRA_31-10-2026_18-01-15.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2026/18h/QUADRA_31-10-2026_18-01-15.jpg"
+                },
+                {
+                  "nome": "QUADRA_31-10-2026_18-01-44.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/31-10-2026/18h/QUADRA_31-10-2026_18-01-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2026/18h/QUADRA_31-10-2026_18-01-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/31-10-2026/18h/QUADRA_31-10-2026_18-01-44.jpg"
                 }
               ]
             }
