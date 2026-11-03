@@ -1027,6 +1027,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/18h/QUADRA_03-11-2026_18-02-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/18h/QUADRA_03-11-2026_18-02-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/18h/QUADRA_03-11-2026_18-02-05.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_18-34-39.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/18h/QUADRA_03-11-2026_18-34-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/18h/QUADRA_03-11-2026_18-34-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/18h/QUADRA_03-11-2026_18-34-39.jpg"
                 }
               ]
             }
@@ -9875,6 +9881,18 @@
               ]
             }
           },
+          "03-11-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Rifa Padel_03-11-2026_18-33-03.mp4",
+                  "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Rifa Padel/03-11-2026/18h/Quadra Rifa Padel_03-11-2026_18-33-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Rifa%20Padel/03-11-2026/18h/Quadra%20Rifa%20Padel_03-11-2026_18-33-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Rifa%20Padel/03-11-2026/18h/Quadra%20Rifa%20Padel_03-11-2026_18-33-03.jpg"
+                }
+              ]
+            }
+          },
           "26-10-2026": {
             "20h": {
               "_videos": [
@@ -17155,6 +17173,18 @@
                   "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/02-11-2026/20h/QUADRA_02-11-2026_20-01-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/02-11-2026/20h/QUADRA_02-11-2026_20-01-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/02-11-2026/20h/QUADRA_02-11-2026_20-01-56.jpg"
+                }
+              ]
+            }
+          },
+          "03-11-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-11-2026_18-32-13.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/03-11-2026/18h/QUADRA_03-11-2026_18-32-13.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/03-11-2026/18h/QUADRA_03-11-2026_18-32-13.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/03-11-2026/18h/QUADRA_03-11-2026_18-32-13.jpg"
                 }
               ]
             }
