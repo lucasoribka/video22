@@ -1253,6 +1253,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/20h/QUADRA_03-11-2026_20-59-22.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-11-2026_21-00-36.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-00-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-00-36.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-00-36.jpg"
+                }
+              ]
             }
           },
           "29-10-2026": {
@@ -6723,6 +6733,18 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-55-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-55-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-55-21.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_20-55-59.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-55-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-55-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-55-59.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_20-57-56.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-57-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-57-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/03-11-2026/20h/QUADRA_03-11-2026_20-57-56.jpg"
                 }
               ]
             }
@@ -13469,6 +13491,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/03-11-2026/20h/TRAVE 1 - BAR_03-11-2026_20-34-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/03-11-2026/20h/TRAVE%201%20-%20BAR_03-11-2026_20-34-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/03-11-2026/20h/TRAVE%201%20-%20BAR_03-11-2026_20-34-01.jpg"
+                },
+                {
+                  "nome": "TRAVE 1 - BAR_03-11-2026_20-59-17.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/03-11-2026/20h/TRAVE 1 - BAR_03-11-2026_20-59-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/03-11-2026/20h/TRAVE%201%20-%20BAR_03-11-2026_20-59-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/03-11-2026/20h/TRAVE%201%20-%20BAR_03-11-2026_20-59-17.jpg"
                 }
               ]
             }
@@ -14135,6 +14163,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/03-11-2026/20h/TRAVE 2 - RUA_03-11-2026_20-34-01.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/03-11-2026/20h/TRAVE%202%20-%20RUA_03-11-2026_20-34-01.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/03-11-2026/20h/TRAVE%202%20-%20RUA_03-11-2026_20-34-01.jpg"
+                },
+                {
+                  "nome": "TRAVE 2 - RUA_03-11-2026_20-59-17.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/03-11-2026/20h/TRAVE 2 - RUA_03-11-2026_20-59-17.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/03-11-2026/20h/TRAVE%202%20-%20RUA_03-11-2026_20-59-17.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/03-11-2026/20h/TRAVE%202%20-%20RUA_03-11-2026_20-59-17.jpg"
                 }
               ]
             }
@@ -23477,6 +23511,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/03-11-2026/20h/QUADRA_03-11-2026_20-44-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/03-11-2026/20h/QUADRA_03-11-2026_20-44-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/03-11-2026/20h/QUADRA_03-11-2026_20-44-56.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_20-58-02.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 1/03-11-2026/20h/QUADRA_03-11-2026_20-58-02.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/03-11-2026/20h/QUADRA_03-11-2026_20-58-02.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%201/03-11-2026/20h/QUADRA_03-11-2026_20-58-02.jpg"
                 }
               ]
             }
@@ -24851,6 +24891,12 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-11-2026/20h/QUADRA_03-11-2026_20-55-00.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-11-2026/20h/QUADRA_03-11-2026_20-55-00.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-11-2026/20h/QUADRA_03-11-2026_20-55-00.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_20-57-36.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/03-11-2026/20h/QUADRA_03-11-2026_20-57-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-11-2026/20h/QUADRA_03-11-2026_20-57-36.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/03-11-2026/20h/QUADRA_03-11-2026_20-57-36.jpg"
                 }
               ]
             }
