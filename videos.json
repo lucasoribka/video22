@@ -1749,6 +1749,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/04-11-2026/20h/QUADRA_04-11-2026_20-17-22.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/04-11-2026/20h/QUADRA_04-11-2026_20-17-22.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/04-11-2026/20h/QUADRA_04-11-2026_20-17-22.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-11-2026_20-21-50.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/04-11-2026/20h/QUADRA_04-11-2026_20-21-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/04-11-2026/20h/QUADRA_04-11-2026_20-21-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/04-11-2026/20h/QUADRA_04-11-2026_20-21-50.jpg"
                 }
               ]
             }
@@ -7413,6 +7419,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/04-11-2026/20h/QUADRA_04-11-2026_20-10-24.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/04-11-2026/20h/QUADRA_04-11-2026_20-10-24.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/04-11-2026/20h/QUADRA_04-11-2026_20-10-24.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-11-2026_20-18-23.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/04-11-2026/20h/QUADRA_04-11-2026_20-18-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/04-11-2026/20h/QUADRA_04-11-2026_20-18-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/04-11-2026/20h/QUADRA_04-11-2026_20-18-23.jpg"
                 }
               ]
             }
@@ -15217,6 +15229,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/04-11-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_04-11-2026_19-56-56.jpg"
                 }
               ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_04-11-2026_20-19-34.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/04-11-2026/20h/TRAVE 3 - ESTACIONAMENTO_04-11-2026_20-19-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/04-11-2026/20h/TRAVE%203%20-%20ESTACIONAMENTO_04-11-2026_20-19-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/04-11-2026/20h/TRAVE%203%20-%20ESTACIONAMENTO_04-11-2026_20-19-34.jpg"
+                }
+              ]
             }
           },
           "26-10-2026": {
@@ -15373,6 +15395,16 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/04-11-2026/19h/TRAVE 4 - PORTÃO_04-11-2026_19-56-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/04-11-2026/19h/TRAVE%204%20-%20PORTÃO_04-11-2026_19-56-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/04-11-2026/19h/TRAVE%204%20-%20PORTÃO_04-11-2026_19-56-56.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 4 - PORTÃO_04-11-2026_20-19-34.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/04-11-2026/20h/TRAVE 4 - PORTÃO_04-11-2026_20-19-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/04-11-2026/20h/TRAVE%204%20-%20PORTÃO_04-11-2026_20-19-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/04-11-2026/20h/TRAVE%204%20-%20PORTÃO_04-11-2026_20-19-34.jpg"
                 }
               ]
             }
