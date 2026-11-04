@@ -21063,6 +21063,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-11-2026/17h/QUADRA_04-11-2026_17-27-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-11-2026/17h/QUADRA_04-11-2026_17-27-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-11-2026/17h/QUADRA_04-11-2026_17-27-39.jpg"
+                },
+                {
+                  "nome": "QUADRA_04-11-2026_17-50-27.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/04-11-2026/17h/QUADRA_04-11-2026_17-50-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-11-2026/17h/QUADRA_04-11-2026_17-50-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/04-11-2026/17h/QUADRA_04-11-2026_17-50-27.jpg"
                 }
               ]
             }
@@ -24645,6 +24651,18 @@
                   "path": "/SP/DESCALVADO/W10/Trave 1/03-11-2026/21h/Trave 1_03-11-2026_21-39-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%201/03-11-2026/21h/Trave%201_03-11-2026_21-39-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%201/03-11-2026/21h/Trave%201_03-11-2026_21-39-58.jpg"
+                }
+              ]
+            }
+          },
+          "04-11-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "Trave 1_04-11-2026_17-52-05.mp4",
+                  "path": "/SP/DESCALVADO/W10/Trave 1/04-11-2026/17h/Trave 1_04-11-2026_17-52-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%201/04-11-2026/17h/Trave%201_04-11-2026_17-52-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%201/04-11-2026/17h/Trave%201_04-11-2026_17-52-05.jpg"
                 }
               ]
             }
