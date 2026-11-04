@@ -1541,6 +1541,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/22h/QUADRA_03-11-2026_22-07-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/22h/QUADRA_03-11-2026_22-07-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/22h/QUADRA_03-11-2026_22-07-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_22-15-58.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/22h/QUADRA_03-11-2026_22-15-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/22h/QUADRA_03-11-2026_22-15-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/22h/QUADRA_03-11-2026_22-15-58.jpg"
                 }
               ]
             }
@@ -3225,6 +3231,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/21h/QUADRA_03-11-2026_21-59-18.jpg"
                 }
               ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-11-2026_22-15-50.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/03-11-2026/22h/QUADRA_03-11-2026_22-15-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/22h/QUADRA_03-11-2026_22-15-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/22h/QUADRA_03-11-2026_22-15-50.jpg"
+                }
+              ]
             }
           },
           "29-10-2026": {
@@ -3889,6 +3905,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/03-11-2026/22h/CAMPO 1 DIREITA_03-11-2026_22-11-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-11-2026/22h/CAMPO%201%20DIREITA_03-11-2026_22-11-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-11-2026/22h/CAMPO%201%20DIREITA_03-11-2026_22-11-32.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_03-11-2026_22-14-37.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/03-11-2026/22h/CAMPO 1 DIREITA_03-11-2026_22-14-37.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-11-2026/22h/CAMPO%201%20DIREITA_03-11-2026_22-14-37.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-11-2026/22h/CAMPO%201%20DIREITA_03-11-2026_22-14-37.jpg"
                 }
               ]
             }
@@ -4033,6 +4055,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/03-11-2026/22h/CAMPO 1 ESQUERDA_03-11-2026_22-11-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-11-2026/22h/CAMPO%201%20ESQUERDA_03-11-2026_22-11-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-11-2026/22h/CAMPO%201%20ESQUERDA_03-11-2026_22-11-44.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 ESQUERDA_03-11-2026_22-14-24.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/03-11-2026/22h/CAMPO 1 ESQUERDA_03-11-2026_22-14-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-11-2026/22h/CAMPO%201%20ESQUERDA_03-11-2026_22-14-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-11-2026/22h/CAMPO%201%20ESQUERDA_03-11-2026_22-14-24.jpg"
                 }
               ]
             }
@@ -10175,6 +10203,12 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Tri Hoteis/03-11-2026/22h/Quadra Tri Hoteis_03-11-2026_22-10-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/03-11-2026/22h/Quadra%20Tri%20Hoteis_03-11-2026_22-10-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/03-11-2026/22h/Quadra%20Tri%20Hoteis_03-11-2026_22-10-13.jpg"
+                },
+                {
+                  "nome": "Quadra Tri Hoteis_03-11-2026_22-13-56.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Tri Hoteis/03-11-2026/22h/Quadra Tri Hoteis_03-11-2026_22-13-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/03-11-2026/22h/Quadra%20Tri%20Hoteis_03-11-2026_22-13-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/03-11-2026/22h/Quadra%20Tri%20Hoteis_03-11-2026_22-13-56.jpg"
                 }
               ]
             }
@@ -18899,6 +18933,16 @@
                   "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/03-11-2026/16h/QUADRA_03-11-2026_16-59-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/03-11-2026/16h/QUADRA_03-11-2026_16-59-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/03-11-2026/16h/QUADRA_03-11-2026_16-59-38.jpg"
+                }
+              ]
+            },
+            "22h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-11-2026_22-12-26.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/03-11-2026/22h/QUADRA_03-11-2026_22-12-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/03-11-2026/22h/QUADRA_03-11-2026_22-12-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/03-11-2026/22h/QUADRA_03-11-2026_22-12-26.jpg"
                 }
               ]
             }
