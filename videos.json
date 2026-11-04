@@ -1339,6 +1339,18 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-27-30.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-27-30.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-27-30.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-28-50.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-28-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-28-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-28-50.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-29-33.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-29-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-29-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-29-33.jpg"
                 }
               ]
             }
@@ -8665,6 +8677,18 @@
                   "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/02-11-2026/22h/QUADRA_02-11-2026_22-36-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/02-11-2026/22h/QUADRA_02-11-2026_22-36-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/02-11-2026/22h/QUADRA_02-11-2026_22-36-13.jpg"
+                }
+              ]
+            }
+          },
+          "03-11-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_03-11-2026_21-26-03.mp4",
+                  "path": "/PR/RIO NEGRO-PR/RESENHA SOCIETY/TRAVE 1/03-11-2026/21h/QUADRA_03-11-2026_21-26-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/03-11-2026/21h/QUADRA_03-11-2026_21-26-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/RESENHA%20SOCIETY/TRAVE%201/03-11-2026/21h/QUADRA_03-11-2026_21-26-03.jpg"
                 }
               ]
             }
