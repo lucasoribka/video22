@@ -1435,6 +1435,24 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-43-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-43-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-43-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-45-32.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-45-32.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-45-32.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-45-32.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-46-08.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-46-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-46-08.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-46-08.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-46-22.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/03-11-2026/21h/QUADRA_03-11-2026_21-46-22.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-46-22.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/03-11-2026/21h/QUADRA_03-11-2026_21-46-22.jpg"
                 }
               ]
             }
@@ -3069,6 +3087,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/03-11-2026/21h/QUADRA_03-11-2026_21-45-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/21h/QUADRA_03-11-2026_21-45-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/21h/QUADRA_03-11-2026_21-45-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-46-12.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/03-11-2026/21h/QUADRA_03-11-2026_21-46-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/21h/QUADRA_03-11-2026_21-46-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/03-11-2026/21h/QUADRA_03-11-2026_21-46-12.jpg"
                 }
               ]
             }
@@ -3925,6 +3949,18 @@
               ]
             }
           },
+          "03-11-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_03-11-2026_21-44-27.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/03-11-2026/21h/CAMPO 1 DIREITA_03-11-2026_21-44-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-11-2026/21h/CAMPO%201%20DIREITA_03-11-2026_21-44-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/03-11-2026/21h/CAMPO%201%20DIREITA_03-11-2026_21-44-27.jpg"
+                }
+              ]
+            }
+          },
           "28-10-2026": {
             "20h": {
               "_videos": [
@@ -4121,6 +4157,18 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/01-11-2026/11h/CAMPO 1 ESQUERDA_01-11-2026_11-10-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-11-2026/11h/CAMPO%201%20ESQUERDA_01-11-2026_11-10-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/01-11-2026/11h/CAMPO%201%20ESQUERDA_01-11-2026_11-10-48.jpg"
+                }
+              ]
+            }
+          },
+          "03-11-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_03-11-2026_21-44-39.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/03-11-2026/21h/CAMPO 1 ESQUERDA_03-11-2026_21-44-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-11-2026/21h/CAMPO%201%20ESQUERDA_03-11-2026_21-44-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/03-11-2026/21h/CAMPO%201%20ESQUERDA_03-11-2026_21-44-39.jpg"
                 }
               ]
             }
@@ -21139,6 +21187,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/03-11-2026/21h/QUADRA_03-11-2026_21-37-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/03-11-2026/21h/QUADRA_03-11-2026_21-37-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/03-11-2026/21h/QUADRA_03-11-2026_21-37-34.jpg"
+                },
+                {
+                  "nome": "QUADRA_03-11-2026_21-42-36.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/03-11-2026/21h/QUADRA_03-11-2026_21-42-36.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/03-11-2026/21h/QUADRA_03-11-2026_21-42-36.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/03-11-2026/21h/QUADRA_03-11-2026_21-42-36.jpg"
                 }
               ]
             }
