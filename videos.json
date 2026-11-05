@@ -2545,6 +2545,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/05-11-2026/18h/QUADRA_05-11-2026_18-53-37.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/18h/QUADRA_05-11-2026_18-53-37.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/18h/QUADRA_05-11-2026_18-53-37.jpg"
+                },
+                {
+                  "nome": "QUADRA_05-11-2026_18-54-33.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/05-11-2026/18h/QUADRA_05-11-2026_18-54-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/18h/QUADRA_05-11-2026_18-54-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/18h/QUADRA_05-11-2026_18-54-33.jpg"
                 }
               ]
             }
@@ -9887,6 +9893,18 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/04-11-2026/21h/Quadra Bclar_04-11-2026_21-52-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/04-11-2026/21h/Quadra%20Bclar_04-11-2026_21-52-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/04-11-2026/21h/Quadra%20Bclar_04-11-2026_21-52-13.jpg"
+                }
+              ]
+            }
+          },
+          "05-11-2026": {
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Bclar_05-11-2026_18-53-53.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/05-11-2026/18h/Quadra Bclar_05-11-2026_18-53-53.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/05-11-2026/18h/Quadra%20Bclar_05-11-2026_18-53-53.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/05-11-2026/18h/Quadra%20Bclar_05-11-2026_18-53-53.jpg"
                 }
               ]
             }
@@ -22301,6 +22319,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/05-11-2026/17h/QUADRA_05-11-2026_17-15-39.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/05-11-2026/17h/QUADRA_05-11-2026_17-15-39.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/05-11-2026/17h/QUADRA_05-11-2026_17-15-39.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-11-2026_18-53-12.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/05-11-2026/18h/QUADRA_05-11-2026_18-53-12.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/05-11-2026/18h/QUADRA_05-11-2026_18-53-12.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/05-11-2026/18h/QUADRA_05-11-2026_18-53-12.jpg"
                 }
               ]
             }
