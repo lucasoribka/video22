@@ -3091,6 +3091,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/22h/QUADRA_05-11-2026_22-58-14.jpg"
                 }
               ]
+            },
+            "23h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-11-2026_23-01-03.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/05-11-2026/23h/QUADRA_05-11-2026_23-01-03.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/23h/QUADRA_05-11-2026_23-01-03.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/05-11-2026/23h/QUADRA_05-11-2026_23-01-03.jpg"
+                }
+              ]
             }
           },
           "31-10-2026": {
@@ -4647,6 +4657,16 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/05-11-2026/22h/QUADRA_05-11-2026_22-58-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/05-11-2026/22h/QUADRA_05-11-2026_22-58-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/05-11-2026/22h/QUADRA_05-11-2026_22-58-16.jpg"
+                }
+              ]
+            },
+            "23h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_05-11-2026_23-00-55.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/05-11-2026/23h/QUADRA_05-11-2026_23-00-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/05-11-2026/23h/QUADRA_05-11-2026_23-00-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/05-11-2026/23h/QUADRA_05-11-2026_23-00-55.jpg"
                 }
               ]
             }
