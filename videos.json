@@ -21917,6 +21917,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/06-11-2026/14h/QUADRA_06-11-2026_14-50-19.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-11-2026_16-41-41.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/06-11-2026/16h/QUADRA_06-11-2026_16-41-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/06-11-2026/16h/QUADRA_06-11-2026_16-41-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/06-11-2026/16h/QUADRA_06-11-2026_16-41-41.jpg"
+                }
+              ]
             }
           },
           "31-10-2026": {
@@ -27417,6 +27427,16 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/06-11-2026/15h/QUADRA_06-11-2026_15-51-32.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-11-2026/15h/QUADRA_06-11-2026_15-51-32.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-11-2026/15h/QUADRA_06-11-2026_15-51-32.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_06-11-2026_16-41-43.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Manchester/06-11-2026/16h/QUADRA_06-11-2026_16-41-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-11-2026/16h/QUADRA_06-11-2026_16-41-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Manchester/06-11-2026/16h/QUADRA_06-11-2026_16-41-43.jpg"
                 }
               ]
             }
