@@ -24727,6 +24727,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/07-11-2026/09h/QUADRA_07-11-2026_09-54-42.jpg"
                 }
               ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-11-2026_10-04-44.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/07-11-2026/10h/QUADRA_07-11-2026_10-04-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/07-11-2026/10h/QUADRA_07-11-2026_10-04-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/07-11-2026/10h/QUADRA_07-11-2026_10-04-44.jpg"
+                }
+              ]
             }
           }
         },
@@ -26509,6 +26519,16 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/07-11-2026/09h/QUADRA_07-11-2026_09-52-34.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-11-2026/09h/QUADRA_07-11-2026_09-52-34.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-11-2026/09h/QUADRA_07-11-2026_09-52-34.jpg"
+                }
+              ]
+            },
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-11-2026_10-05-50.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 2/07-11-2026/10h/QUADRA_07-11-2026_10-05-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-11-2026/10h/QUADRA_07-11-2026_10-05-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%202/07-11-2026/10h/QUADRA_07-11-2026_10-05-50.jpg"
                 }
               ]
             }
@@ -29695,6 +29715,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/06-11-2026/22h/QUADRA_06-11-2026_22-07-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-11-2026/22h/QUADRA_06-11-2026_22-07-18.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/06-11-2026/22h/QUADRA_06-11-2026_22-07-18.jpg"
+                }
+              ]
+            }
+          },
+          "07-11-2026": {
+            "10h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_07-11-2026_10-05-43.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/07-11-2026/10h/QUADRA_07-11-2026_10-05-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/07-11-2026/10h/QUADRA_07-11-2026_10-05-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/07-11-2026/10h/QUADRA_07-11-2026_10-05-43.jpg"
                 }
               ]
             }
