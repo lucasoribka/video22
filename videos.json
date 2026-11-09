@@ -6075,6 +6075,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/09-11-2026/12h/CAMPO 1 DIREITA_09-11-2026_12-46-20.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/09-11-2026/12h/CAMPO%201%20DIREITA_09-11-2026_12-46-20.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/09-11-2026/12h/CAMPO%201%20DIREITA_09-11-2026_12-46-20.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_09-11-2026_12-52-52.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/09-11-2026/12h/CAMPO 1 DIREITA_09-11-2026_12-52-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/09-11-2026/12h/CAMPO%201%20DIREITA_09-11-2026_12-52-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/09-11-2026/12h/CAMPO%201%20DIREITA_09-11-2026_12-52-52.jpg"
                 }
               ]
             }
@@ -22613,6 +22619,18 @@
                   "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/07-11-2026/18h/QUADRA_07-11-2026_18-44-06.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/07-11-2026/18h/QUADRA_07-11-2026_18-44-06.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/07-11-2026/18h/QUADRA_07-11-2026_18-44-06.jpg"
+                }
+              ]
+            }
+          },
+          "09-11-2026": {
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_09-11-2026_12-51-23.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ITA PADEL/QUADRA 2/09-11-2026/12h/QUADRA_09-11-2026_12-51-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/09-11-2026/12h/QUADRA_09-11-2026_12-51-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ITA%20PADEL/QUADRA%202/09-11-2026/12h/QUADRA_09-11-2026_12-51-23.jpg"
                 }
               ]
             }
