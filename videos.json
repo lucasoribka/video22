@@ -1887,6 +1887,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/17h/QUADRA_11-11-2026_17-38-05.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-11-2026_18-40-28.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-11-2026/18h/QUADRA_11-11-2026_18-40-28.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/18h/QUADRA_11-11-2026_18-40-28.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/18h/QUADRA_11-11-2026_18-40-28.jpg"
+                }
+              ]
             }
           }
         },
@@ -12417,6 +12427,16 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/11-11-2026/11h/Quadra Bclar_11-11-2026_11-34-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/11-11-2026/11h/Quadra%20Bclar_11-11-2026_11-34-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/11-11-2026/11h/Quadra%20Bclar_11-11-2026_11-34-23.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Bclar_11-11-2026_18-38-26.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Bclar/11-11-2026/18h/Quadra Bclar_11-11-2026_18-38-26.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/11-11-2026/18h/Quadra%20Bclar_11-11-2026_18-38-26.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Bclar/11-11-2026/18h/Quadra%20Bclar_11-11-2026_18-38-26.jpg"
                 }
               ]
             }
