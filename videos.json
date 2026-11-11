@@ -1911,6 +1911,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-11-2026/19h/QUADRA_11-11-2026_19-42-23.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/19h/QUADRA_11-11-2026_19-42-23.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/19h/QUADRA_11-11-2026_19-42-23.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-11-2026_19-56-08.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/11-11-2026/19h/QUADRA_11-11-2026_19-56-08.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/19h/QUADRA_11-11-2026_19-56-08.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/11-11-2026/19h/QUADRA_11-11-2026_19-56-08.jpg"
                 }
               ]
             }
@@ -13681,6 +13687,12 @@
                   "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/11-11-2026/19h/Quadra Dr. Cristiano Evaldt_11-11-2026_19-43-47.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/11-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_11-11-2026_19-43-47.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/11-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_11-11-2026_19-43-47.jpg"
+                },
+                {
+                  "nome": "Quadra Dr. Cristiano Evaldt_11-11-2026_19-54-44.mp4",
+                  "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/11-11-2026/19h/Quadra Dr. Cristiano Evaldt_11-11-2026_19-54-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/11-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_11-11-2026_19-54-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/11-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_11-11-2026_19-54-44.jpg"
                 }
               ]
             }
@@ -16740,6 +16752,18 @@
                 }
               ]
             }
+          },
+          "11-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_11-11-2026_19-54-10.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 1 - BAR/11-11-2026/19h/TRAVE 1 - BAR_11-11-2026_19-54-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/11-11-2026/19h/TRAVE%201%20-%20BAR_11-11-2026_19-54-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%201%20-%20BAR/11-11-2026/19h/TRAVE%201%20-%20BAR_11-11-2026_19-54-10.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 1 - CAMPO GRANDE": {
@@ -17820,6 +17844,18 @@
                 }
               ]
             }
+          },
+          "11-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - RUA_11-11-2026_19-54-10.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 2 - RUA/11-11-2026/19h/TRAVE 2 - RUA_11-11-2026_19-54-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/11-11-2026/19h/TRAVE%202%20-%20RUA_11-11-2026_19-54-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%202%20-%20RUA/11-11-2026/19h/TRAVE%202%20-%20RUA_11-11-2026_19-54-10.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 3 - ESTACIONAMENTO": {
@@ -17963,6 +17999,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/11-11-2026/19h/TRAVE 3 - ESTACIONAMENTO_11-11-2026_19-47-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/11-11-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_11-11-2026_19-47-18.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/11-11-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_11-11-2026_19-47-18.jpg"
+                },
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_11-11-2026_19-53-45.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 3 - ESTACIONAMENTO/11-11-2026/19h/TRAVE 3 - ESTACIONAMENTO_11-11-2026_19-53-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/11-11-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_11-11-2026_19-53-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/11-11-2026/19h/TRAVE%203%20-%20ESTACIONAMENTO_11-11-2026_19-53-45.jpg"
                 }
               ]
             }
@@ -18181,6 +18223,12 @@
                   "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/11-11-2026/19h/TRAVE 4 - PORTÃO_11-11-2026_19-47-18.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/11-11-2026/19h/TRAVE%204%20-%20PORTÃO_11-11-2026_19-47-18.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/11-11-2026/19h/TRAVE%204%20-%20PORTÃO_11-11-2026_19-47-18.jpg"
+                },
+                {
+                  "nome": "TRAVE 4 - PORTÃO_11-11-2026_19-53-45.mp4",
+                  "path": "/SC/BRUSQUE/HELINHO/TRAVE 4 - PORTÃO/11-11-2026/19h/TRAVE 4 - PORTÃO_11-11-2026_19-53-45.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/11-11-2026/19h/TRAVE%204%20-%20PORTÃO_11-11-2026_19-53-45.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/HELINHO/TRAVE%204%20-%20PORTÃO/11-11-2026/19h/TRAVE%204%20-%20PORTÃO_11-11-2026_19-53-45.jpg"
                 }
               ]
             }
