@@ -2317,6 +2317,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-11-2026/19h/QUADRA_12-11-2026_19-21-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-21-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-21-46.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-11-2026_19-26-52.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-11-2026/19h/QUADRA_12-11-2026_19-26-52.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-26-52.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-26-52.jpg"
                 }
               ]
             }
@@ -23171,6 +23177,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-11-2026/18h/QUADRA_12-11-2026_18-57-37.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-11-2026_19-22-29.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 3/12-11-2026/19h/QUADRA_12-11-2026_19-22-29.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-11-2026/19h/QUADRA_12-11-2026_19-22-29.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%203/12-11-2026/19h/QUADRA_12-11-2026_19-22-29.jpg"
+                }
+              ]
             }
           }
         },
@@ -24433,6 +24449,16 @@
                   "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/12-11-2026/14h/QUADRA_12-11-2026_14-47-43.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/12-11-2026/14h/QUADRA_12-11-2026_14-47-43.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/12-11-2026/14h/QUADRA_12-11-2026_14-47-43.jpg"
+                }
+              ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_12-11-2026_19-22-47.mp4",
+                  "path": "/SC/MAFRA-SC/RIOMAFRA PADEL/QUADRA 1/12-11-2026/19h/QUADRA_12-11-2026_19-22-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-22-47.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/RIOMAFRA%20PADEL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-22-47.jpg"
                 }
               ]
             }
