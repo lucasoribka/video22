@@ -2305,6 +2305,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-11-2026/19h/QUADRA_12-11-2026_19-16-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-16-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-16-04.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-11-2026_19-18-05.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/12-11-2026/19h/QUADRA_12-11-2026_19-18-05.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-18-05.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/12-11-2026/19h/QUADRA_12-11-2026_19-18-05.jpg"
                 }
               ]
             }
@@ -4097,6 +4103,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/12-11-2026/19h/QUADRA_12-11-2026_19-15-58.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/12-11-2026/19h/QUADRA_12-11-2026_19-15-58.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/12-11-2026/19h/QUADRA_12-11-2026_19-15-58.jpg"
+                },
+                {
+                  "nome": "QUADRA_12-11-2026_19-17-59.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/12-11-2026/19h/QUADRA_12-11-2026_19-17-59.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/12-11-2026/19h/QUADRA_12-11-2026_19-17-59.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/12-11-2026/19h/QUADRA_12-11-2026_19-17-59.jpg"
                 }
               ]
             }
@@ -17783,6 +17795,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/11-11-2026/20h/QUADRA 4_11-11-2026_20-55-49.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/11-11-2026/20h/QUADRA%204_11-11-2026_20-55-49.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/11-11-2026/20h/QUADRA%204_11-11-2026_20-55-49.jpg"
+                }
+              ]
+            }
+          },
+          "12-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 4_12-11-2026_19-17-11.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 4/12-11-2026/19h/QUADRA 4_12-11-2026_19-17-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-11-2026/19h/QUADRA%204_12-11-2026_19-17-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%204/12-11-2026/19h/QUADRA%204_12-11-2026_19-17-11.jpg"
                 }
               ]
             }
