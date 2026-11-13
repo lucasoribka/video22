@@ -7831,6 +7831,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-11-2026/18h/QUADRA%202_13-11-2026_18-58-34.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_13-11-2026_19-00-44.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-11-2026/19h/QUADRA 2_13-11-2026_19-00-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-11-2026/19h/QUADRA%202_13-11-2026_19-00-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-11-2026/19h/QUADRA%202_13-11-2026_19-00-44.jpg"
+                }
+              ]
             }
           }
         },
@@ -15516,6 +15526,18 @@
                 }
               ]
             }
+          },
+          "13-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_13-11-2026_19-01-25.mp4",
+                  "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 1 - CAMPO GRANDE/13-11-2026/19h/TRAVE 1 - CAMPO GRANDE_13-11-2026_19-01-25.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/13-11-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_13-11-2026_19-01-25.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/13-11-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_13-11-2026_19-01-25.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 2 - CAMPO GRANDE": {
@@ -15627,6 +15649,18 @@
                   "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 2 - CAMPO GRANDE/12-11-2026/21h/TRAVE 2 - CAMPO GRANDE_12-11-2026_21-28-07.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/12-11-2026/21h/TRAVE%202%20-%20CAMPO%20GRANDE_12-11-2026_21-28-07.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/12-11-2026/21h/TRAVE%202%20-%20CAMPO%20GRANDE_12-11-2026_21-28-07.jpg"
+                }
+              ]
+            }
+          },
+          "13-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 2 - CAMPO GRANDE_13-11-2026_19-00-58.mp4",
+                  "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 2 - CAMPO GRANDE/13-11-2026/19h/TRAVE 2 - CAMPO GRANDE_13-11-2026_19-00-58.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/13-11-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_13-11-2026_19-00-58.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%202%20-%20CAMPO%20GRANDE/13-11-2026/19h/TRAVE%202%20-%20CAMPO%20GRANDE_13-11-2026_19-00-58.jpg"
                 }
               ]
             }
