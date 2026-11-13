@@ -7651,6 +7651,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-11-2026/11h/QUADRA%202_13-11-2026_11-28-43.jpg"
                 }
               ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_13-11-2026_12-03-57.mp4",
+                  "path": "/PR/FOZ DO IGUAÇU/CT LUCAS MENDES/QUADRA 2/13-11-2026/12h/QUADRA 2_13-11-2026_12-03-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-11-2026/12h/QUADRA%202_13-11-2026_12-03-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/FOZ%20DO%20IGUAÇU/CT%20LUCAS%20MENDES/QUADRA%202/13-11-2026/12h/QUADRA%202_13-11-2026_12-03-57.jpg"
+                }
+              ]
             }
           }
         },
@@ -14621,6 +14631,34 @@
                   "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/13-11-2026/10h/PADEL 3_13-11-2026_10-15-46.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/10h/PADEL%203_13-11-2026_10-15-46.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/10h/PADEL%203_13-11-2026_10-15-46.jpg"
+                }
+              ]
+            },
+            "12h": {
+              "_videos": [
+                {
+                  "nome": "PADEL 3_13-11-2026_12-03-40.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/13-11-2026/12h/PADEL 3_13-11-2026_12-03-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-03-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-03-40.jpg"
+                },
+                {
+                  "nome": "PADEL 3_13-11-2026_12-03-55.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/13-11-2026/12h/PADEL 3_13-11-2026_12-03-55.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-03-55.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-03-55.jpg"
+                },
+                {
+                  "nome": "PADEL 3_13-11-2026_12-04-11.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/13-11-2026/12h/PADEL 3_13-11-2026_12-04-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-04-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-04-11.jpg"
+                },
+                {
+                  "nome": "PADEL 3_13-11-2026_12-04-27.mp4",
+                  "path": "/RS/PASSO FUNDO/ROCKET/PADEL 3/13-11-2026/12h/PADEL 3_13-11-2026_12-04-27.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-04-27.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/PASSO%20FUNDO/ROCKET/PADEL%203/13-11-2026/12h/PADEL%203_13-11-2026_12-04-27.jpg"
                 }
               ]
             }
