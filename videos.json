@@ -2763,6 +2763,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/13-11-2026/17h/QUADRA_13-11-2026_17-50-08.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-11-2026_18-39-30.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 1/13-11-2026/18h/QUADRA_13-11-2026_18-39-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/13-11-2026/18h/QUADRA_13-11-2026_18-39-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%201/13-11-2026/18h/QUADRA_13-11-2026_18-39-30.jpg"
+                }
+              ]
             }
           }
         },
@@ -23061,6 +23071,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/13-11-2026/08h/QUADRA_13-11-2026_08-05-48.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_13-11-2026_18-35-00.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/TRAVE 1/13-11-2026/18h/QUADRA_13-11-2026_18-35-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/13-11-2026/18h/QUADRA_13-11-2026_18-35-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/TRAVE%201/13-11-2026/18h/QUADRA_13-11-2026_18-35-00.jpg"
+                }
+              ]
             }
           }
         },
@@ -28379,6 +28399,16 @@
                   "path": "/SP/DESCALVADO/W10/Trave 2/13-11-2026/17h/Trave 2_13-11-2026_17-49-08.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%202/13-11-2026/17h/Trave%202_13-11-2026_17-49-08.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%202/13-11-2026/17h/Trave%202_13-11-2026_17-49-08.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "Trave 2_13-11-2026_18-37-09.mp4",
+                  "path": "/SP/DESCALVADO/W10/Trave 2/13-11-2026/18h/Trave 2_13-11-2026_18-37-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%202/13-11-2026/18h/Trave%202_13-11-2026_18-37-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SP/DESCALVADO/W10/Trave%202/13-11-2026/18h/Trave%202_13-11-2026_18-37-09.jpg"
                 }
               ]
             }
