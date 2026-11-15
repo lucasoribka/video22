@@ -4439,6 +4439,12 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/15-11-2026/16h/CAMPO 1 DIREITA_15-11-2026_16-30-05.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-11-2026/16h/CAMPO%201%20DIREITA_15-11-2026_16-30-05.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-11-2026/16h/CAMPO%201%20DIREITA_15-11-2026_16-30-05.jpg"
+                },
+                {
+                  "nome": "CAMPO 1 DIREITA_15-11-2026_16-40-57.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/15-11-2026/16h/CAMPO 1 DIREITA_15-11-2026_16-40-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-11-2026/16h/CAMPO%201%20DIREITA_15-11-2026_16-40-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/15-11-2026/16h/CAMPO%201%20DIREITA_15-11-2026_16-40-57.jpg"
                 }
               ]
             }
@@ -7759,6 +7765,16 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-11-2026/10h/QUADRA_15-11-2026_10-56-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-11-2026/10h/QUADRA_15-11-2026_10-56-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-11-2026/10h/QUADRA_15-11-2026_10-56-13.jpg"
+                }
+              ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_15-11-2026_16-38-48.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/15-11-2026/16h/QUADRA_15-11-2026_16-38-48.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-11-2026/16h/QUADRA_15-11-2026_16-38-48.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/15-11-2026/16h/QUADRA_15-11-2026_16-38-48.jpg"
                 }
               ]
             }
@@ -16343,6 +16359,18 @@
                   "path": "/SC/CRICIÚMA/SPADEL/QUADRA 2/12-11-2026/20h/QUADRA 2_12-11-2026_20-59-21.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/12-11-2026/20h/QUADRA%202_12-11-2026_20-59-21.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/12-11-2026/20h/QUADRA%202_12-11-2026_20-59-21.jpg"
+                }
+              ]
+            }
+          },
+          "15-11-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 2_15-11-2026_16-39-16.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 2/15-11-2026/16h/QUADRA 2_15-11-2026_16-39-16.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/15-11-2026/16h/QUADRA%202_15-11-2026_16-39-16.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%202/15-11-2026/16h/QUADRA%202_15-11-2026_16-39-16.jpg"
                 }
               ]
             }
