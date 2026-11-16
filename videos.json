@@ -4369,6 +4369,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/16-11-2026/05h/CAMPO%201%20DIREITA_16-11-2026_05-56-43.jpg"
                 }
               ]
+            },
+            "06h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_16-11-2026_06-41-43.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/16-11-2026/06h/CAMPO 1 DIREITA_16-11-2026_06-41-43.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/16-11-2026/06h/CAMPO%201%20DIREITA_16-11-2026_06-41-43.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/16-11-2026/06h/CAMPO%201%20DIREITA_16-11-2026_06-41-43.jpg"
+                }
+              ]
             }
           }
         },
@@ -4817,6 +4827,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/16-11-2026/05h/CAMPO 1 ESQUERDA_16-11-2026_05-56-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-11-2026/05h/CAMPO%201%20ESQUERDA_16-11-2026_05-56-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-11-2026/05h/CAMPO%201%20ESQUERDA_16-11-2026_05-56-56.jpg"
+                }
+              ]
+            },
+            "06h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_16-11-2026_06-41-56.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/16-11-2026/06h/CAMPO 1 ESQUERDA_16-11-2026_06-41-56.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-11-2026/06h/CAMPO%201%20ESQUERDA_16-11-2026_06-41-56.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/16-11-2026/06h/CAMPO%201%20ESQUERDA_16-11-2026_06-41-56.jpg"
                 }
               ]
             }
