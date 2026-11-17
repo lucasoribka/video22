@@ -87,6 +87,32 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/07h/QUADRA_11-11-2026_07-07-40.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-11-2026_18-35-23.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/11-11-2026/18h/QUADRA_11-11-2026_18-35-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/18h/QUADRA_11-11-2026_18-35-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/18h/QUADRA_11-11-2026_18-35-23.jpg"
+                }
+              ]
+            },
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-11-2026_20-48-34.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/11-11-2026/20h/QUADRA_11-11-2026_20-48-34.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/20h/QUADRA_11-11-2026_20-48-34.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/20h/QUADRA_11-11-2026_20-48-34.jpg"
+                },
+                {
+                  "nome": "QUADRA_11-11-2026_20-49-51.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/11-11-2026/20h/QUADRA_11-11-2026_20-49-51.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/20h/QUADRA_11-11-2026_20-49-51.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/20h/QUADRA_11-11-2026_20-49-51.jpg"
+                }
+              ]
             }
           },
           "23-10-2026": {
@@ -6969,6 +6995,12 @@
                   "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-11-2026/19h/QUADRA_17-11-2026_19-24-45.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-11-2026/19h/QUADRA_17-11-2026_19-24-45.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-11-2026/19h/QUADRA_17-11-2026_19-24-45.jpg"
+                },
+                {
+                  "nome": "QUADRA_17-11-2026_19-30-07.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/17-11-2026/19h/QUADRA_17-11-2026_19-30-07.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-11-2026/19h/QUADRA_17-11-2026_19-30-07.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/17-11-2026/19h/QUADRA_17-11-2026_19-30-07.jpg"
                 }
               ]
             }
