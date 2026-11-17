@@ -65,6 +65,28 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-11-2026/19h/QUADRA_10-11-2026_19-04-16.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_10-11-2026_21-00-04.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/10-11-2026/21h/QUADRA_10-11-2026_21-00-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-11-2026/21h/QUADRA_10-11-2026_21-00-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/10-11-2026/21h/QUADRA_10-11-2026_21-00-04.jpg"
+                }
+              ]
+            }
+          },
+          "11-11-2026": {
+            "07h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_11-11-2026_07-07-40.mp4",
+                  "path": "/BA/SÃO GONÇALO DOS CAMPOS/ESCOLA MURILO PAIM/QUADRA/11-11-2026/07h/QUADRA_11-11-2026_07-07-40.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/07h/QUADRA_11-11-2026_07-07-40.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/BA/SÃO%20GONÇALO%20DOS%20CAMPOS/ESCOLA%20MURILO%20PAIM/QUADRA/11-11-2026/07h/QUADRA_11-11-2026_07-07-40.jpg"
+                }
+              ]
             }
           },
           "23-10-2026": {
@@ -10123,6 +10145,12 @@
                   "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/17-11-2026/19h/Quadra Dr. Cristiano Evaldt_17-11-2026_19-21-30.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/17-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_17-11-2026_19-21-30.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/17-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_17-11-2026_19-21-30.jpg"
+                },
+                {
+                  "nome": "Quadra Dr. Cristiano Evaldt_17-11-2026_19-22-38.mp4",
+                  "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/17-11-2026/19h/Quadra Dr. Cristiano Evaldt_17-11-2026_19-22-38.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/17-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_17-11-2026_19-22-38.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/17-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_17-11-2026_19-22-38.jpg"
                 }
               ]
             }
