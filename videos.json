@@ -7211,6 +7211,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-11-2026/10h/QUADRA_18-11-2026_10-02-30.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-11-2026_19-33-14.mp4",
+                  "path": "/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/18-11-2026/19h/QUADRA_18-11-2026_19-33-14.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-11-2026/19h/QUADRA_18-11-2026_19-33-14.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/CENTRAL%20ARENA/QUADRA/18-11-2026/19h/QUADRA_18-11-2026_19-33-14.jpg"
+                }
+              ]
             }
           }
         }
@@ -8173,6 +8183,12 @@
                   "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/18-11-2026/19h/QUADRA_18-11-2026_19-19-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/18-11-2026/19h/QUADRA_18-11-2026_19-19-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/18-11-2026/19h/QUADRA_18-11-2026_19-19-48.jpg"
+                },
+                {
+                  "nome": "QUADRA_18-11-2026_19-31-46.mp4",
+                  "path": "/PR/RIO NEGRO-PR/PAIOL/TRAVE 2/18-11-2026/19h/QUADRA_18-11-2026_19-31-46.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/18-11-2026/19h/QUADRA_18-11-2026_19-31-46.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/PAIOL/TRAVE%202/18-11-2026/19h/QUADRA_18-11-2026_19-31-46.jpg"
                 }
               ]
             }
@@ -10559,6 +10575,12 @@
                   "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/18-11-2026/19h/Quadra Dr. Cristiano Evaldt_18-11-2026_19-31-04.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/18-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_18-11-2026_19-31-04.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/18-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_18-11-2026_19-31-04.jpg"
+                },
+                {
+                  "nome": "Quadra Dr. Cristiano Evaldt_18-11-2026_19-34-00.mp4",
+                  "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/18-11-2026/19h/Quadra Dr. Cristiano Evaldt_18-11-2026_19-34-00.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/18-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_18-11-2026_19-34-00.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/18-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_18-11-2026_19-34-00.jpg"
                 }
               ]
             }
@@ -24265,6 +24287,18 @@
                   "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-11-2026/20h/QUADRA_17-11-2026_20-53-38.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-11-2026/20h/QUADRA_17-11-2026_20-53-38.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/17-11-2026/20h/QUADRA_17-11-2026_20-53-38.jpg"
+                }
+              ]
+            }
+          },
+          "18-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_18-11-2026_19-31-39.mp4",
+                  "path": "/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-11-2026/19h/QUADRA_18-11-2026_19-31-39.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-11-2026/19h/QUADRA_18-11-2026_19-31-39.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/PAPANDUVA-SC/RAVENNA/QUADRA/18-11-2026/19h/QUADRA_18-11-2026_19-31-39.jpg"
                 }
               ]
             }
