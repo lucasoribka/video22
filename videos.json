@@ -16705,6 +16705,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/15h/QUADRA_21-11-2026_15-41-08.jpg"
                 }
               ]
+            },
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-11-2026_16-07-41.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/21-11-2026/16h/QUADRA_21-11-2026_16-07-41.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/16h/QUADRA_21-11-2026_16-07-41.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/16h/QUADRA_21-11-2026_16-07-41.jpg"
+                }
+              ]
             }
           }
         }
@@ -25553,6 +25563,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/19-11-2026/21h/QUADRA_19-11-2026_21-09-16.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/19-11-2026/21h/QUADRA_19-11-2026_21-09-16.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/19-11-2026/21h/QUADRA_19-11-2026_21-09-16.jpg"
+                }
+              ]
+            }
+          },
+          "21-11-2026": {
+            "16h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-11-2026_16-07-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/21-11-2026/16h/QUADRA_21-11-2026_16-07-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/21-11-2026/16h/QUADRA_21-11-2026_16-07-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/21-11-2026/16h/QUADRA_21-11-2026_16-07-11.jpg"
                 }
               ]
             }
