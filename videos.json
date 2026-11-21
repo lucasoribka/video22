@@ -15983,6 +15983,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/21-11-2026/16h/QUADRA%203_21-11-2026_16-57-09.jpg"
                 }
               ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA 3_21-11-2026_18-06-54.mp4",
+                  "path": "/SC/CRICIÚMA/SPADEL/QUADRA 3/21-11-2026/18h/QUADRA 3_21-11-2026_18-06-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/21-11-2026/18h/QUADRA%203_21-11-2026_18-06-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/CRICIÚMA/SPADEL/QUADRA%203/21-11-2026/18h/QUADRA%203_21-11-2026_18-06-54.jpg"
+                }
+              ]
             }
           }
         },
@@ -16661,6 +16671,16 @@
                   "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/21-11-2026/17h/QUADRA_21-11-2026_17-49-56.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/17h/QUADRA_21-11-2026_17-49-56.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/17h/QUADRA_21-11-2026_17-49-56.jpg"
+                }
+              ]
+            },
+            "18h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_21-11-2026_18-05-09.mp4",
+                  "path": "/SC/FLORIANÓPOLIS/CLUBE 93/QUADRA 2/21-11-2026/18h/QUADRA_21-11-2026_18-05-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/18h/QUADRA_21-11-2026_18-05-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/FLORIANÓPOLIS/CLUBE%2093/QUADRA%202/21-11-2026/18h/QUADRA_21-11-2026_18-05-09.jpg"
                 }
               ]
             }
