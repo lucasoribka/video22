@@ -5229,6 +5229,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/23-11-2026/08h/CAMPO%201%20DIREITA_23-11-2026_08-53-18.jpg"
                 }
               ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 DIREITA_23-11-2026_17-39-10.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 DIREITA/23-11-2026/17h/CAMPO 1 DIREITA_23-11-2026_17-39-10.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/23-11-2026/17h/CAMPO%201%20DIREITA_23-11-2026_17-39-10.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20DIREITA/23-11-2026/17h/CAMPO%201%20DIREITA_23-11-2026_17-39-10.jpg"
+                }
+              ]
             }
           }
         },
@@ -5857,6 +5867,16 @@
                   "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/23-11-2026/08h/CAMPO 1 ESQUERDA_23-11-2026_08-53-31.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/23-11-2026/08h/CAMPO%201%20ESQUERDA_23-11-2026_08-53-31.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/23-11-2026/08h/CAMPO%201%20ESQUERDA_23-11-2026_08-53-31.jpg"
+                }
+              ]
+            },
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "CAMPO 1 ESQUERDA_23-11-2026_17-39-23.mp4",
+                  "path": "/MS/CAMPO GRANDE/SANTO GOL/CAMPO 1 ESQUERDA/23-11-2026/17h/CAMPO 1 ESQUERDA_23-11-2026_17-39-23.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/23-11-2026/17h/CAMPO%201%20ESQUERDA_23-11-2026_17-39-23.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MS/CAMPO%20GRANDE/SANTO%20GOL/CAMPO%201%20ESQUERDA/23-11-2026/17h/CAMPO%201%20ESQUERDA_23-11-2026_17-39-23.jpg"
                 }
               ]
             }
@@ -25199,6 +25219,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/22-11-2026/17h/QUADRA_22-11-2026_17-49-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/22-11-2026/17h/QUADRA_22-11-2026_17-49-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/22-11-2026/17h/QUADRA_22-11-2026_17-49-13.jpg"
+                }
+              ]
+            }
+          },
+          "23-11-2026": {
+            "17h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-11-2026_17-38-09.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/Quadra Caminho do Saber/23-11-2026/17h/QUADRA_23-11-2026_17-38-09.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/23-11-2026/17h/QUADRA_23-11-2026_17-38-09.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/Quadra%20Caminho%20do%20Saber/23-11-2026/17h/QUADRA_23-11-2026_17-38-09.jpg"
                 }
               ]
             }
