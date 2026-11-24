@@ -8129,6 +8129,12 @@
                   "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/24-11-2026/20h/QUADRA_24-11-2026_20-18-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-11-2026/20h/QUADRA_24-11-2026_20-18-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-11-2026/20h/QUADRA_24-11-2026_20-18-57.jpg"
+                },
+                {
+                  "nome": "QUADRA_24-11-2026_20-23-30.mp4",
+                  "path": "/PR/RIO NEGRO-PR/ARENA MAIDL/QUADRA/24-11-2026/20h/QUADRA_24-11-2026_20-23-30.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-11-2026/20h/QUADRA_24-11-2026_20-23-30.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/PR/RIO%20NEGRO-PR/ARENA%20MAIDL/QUADRA/24-11-2026/20h/QUADRA_24-11-2026_20-23-30.jpg"
                 }
               ]
             }
@@ -10833,6 +10839,12 @@
                   "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Tri Hoteis/24-11-2026/20h/Quadra Tri Hoteis_24-11-2026_20-10-57.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/24-11-2026/20h/Quadra%20Tri%20Hoteis_24-11-2026_20-10-57.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/24-11-2026/20h/Quadra%20Tri%20Hoteis_24-11-2026_20-10-57.jpg"
+                },
+                {
+                  "nome": "Quadra Tri Hoteis_24-11-2026_20-24-19.mp4",
+                  "path": "/RS/CAPÃO DA CANOA/PADEL LIFE/Quadra Tri Hoteis/24-11-2026/20h/Quadra Tri Hoteis_24-11-2026_20-24-19.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/24-11-2026/20h/Quadra%20Tri%20Hoteis_24-11-2026_20-24-19.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/CAPÃO%20DA%20CANOA/PADEL%20LIFE/Quadra%20Tri%20Hoteis/24-11-2026/20h/Quadra%20Tri%20Hoteis_24-11-2026_20-24-19.jpg"
                 }
               ]
             }
@@ -14018,6 +14030,18 @@
                 }
               ]
             }
+          },
+          "24-11-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - BAR_24-11-2026_20-24-24.mp4",
+                  "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 1 - BAR/24-11-2026/20h/TRAVE 1 - BAR_24-11-2026_20-24-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20BAR/24-11-2026/20h/TRAVE%201%20-%20BAR_24-11-2026_20-24-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20BAR/24-11-2026/20h/TRAVE%201%20-%20BAR_24-11-2026_20-24-24.jpg"
+                }
+              ]
+            }
           }
         },
         "TRAVE 1 - CAMPO GRANDE": {
@@ -14261,6 +14285,18 @@
                   "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 1 - CAMPO GRANDE/23-11-2026/19h/TRAVE 1 - CAMPO GRANDE_23-11-2026_19-59-13.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/23-11-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_23-11-2026_19-59-13.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/23-11-2026/19h/TRAVE%201%20-%20CAMPO%20GRANDE_23-11-2026_19-59-13.jpg"
+                }
+              ]
+            }
+          },
+          "24-11-2026": {
+            "20h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_24-11-2026_20-23-57.mp4",
+                  "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 1 - CAMPO GRANDE/24-11-2026/20h/TRAVE 1 - CAMPO GRANDE_24-11-2026_20-23-57.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/24-11-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_24-11-2026_20-23-57.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/24-11-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_24-11-2026_20-23-57.jpg"
                 }
               ]
             }
