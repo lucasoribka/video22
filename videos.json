@@ -4705,6 +4705,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/23-11-2026/21h/QUADRA_23-11-2026_21-01-44.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-11-2026/21h/QUADRA_23-11-2026_21-01-44.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-11-2026/21h/QUADRA_23-11-2026_21-01-44.jpg"
+                },
+                {
+                  "nome": "QUADRA_23-11-2026_21-05-33.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/23-11-2026/21h/QUADRA_23-11-2026_21-05-33.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-11-2026/21h/QUADRA_23-11-2026_21-05-33.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/23-11-2026/21h/QUADRA_23-11-2026_21-05-33.jpg"
                 }
               ]
             }
@@ -21345,6 +21351,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/23-11-2026/20h/QUADRA_23-11-2026_20-59-41.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-11-2026_21-00-04.mp4",
+                  "path": "/SC/JOINVILLE/TENNIS CENTER/QUADRA 2/23-11-2026/21h/QUADRA_23-11-2026_21-00-04.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/23-11-2026/21h/QUADRA_23-11-2026_21-00-04.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/JOINVILLE/TENNIS%20CENTER/QUADRA%202/23-11-2026/21h/QUADRA_23-11-2026_21-00-04.jpg"
+                }
+              ]
             }
           }
         }
@@ -26867,6 +26883,18 @@
                   "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/21-11-2026/16h/QUADRA_21-11-2026_16-07-11.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/21-11-2026/16h/QUADRA_21-11-2026_16-07-11.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/21-11-2026/16h/QUADRA_21-11-2026_16-07-11.jpg"
+                }
+              ]
+            }
+          },
+          "23-11-2026": {
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_23-11-2026_21-01-11.mp4",
+                  "path": "/SC/SÃO BENTO DO SUL-SC/COLISEU/AREIA 2/23-11-2026/21h/QUADRA_23-11-2026_21-01-11.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/23-11-2026/21h/QUADRA_23-11-2026_21-01-11.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/SÃO%20BENTO%20DO%20SUL-SC/COLISEU/AREIA%202/23-11-2026/21h/QUADRA_23-11-2026_21-01-11.jpg"
                 }
               ]
             }
