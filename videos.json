@@ -10803,6 +10803,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/26-11-2026/18h/Quadra%20Dr.%20Cristiano%20Evaldt_26-11-2026_18-58-03.jpg"
                 }
               ]
+            },
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "Quadra Dr. Cristiano Evaldt_26-11-2026_19-07-44.mp4",
+                  "path": "/RS/OSÓRIO/PADEL LIFE OSÓRIO/Quadra Dr. Cristiano Evaldt/26-11-2026/19h/Quadra Dr. Cristiano Evaldt_26-11-2026_19-07-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/26-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_26-11-2026_19-07-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/RS/OSÓRIO/PADEL%20LIFE%20OSÓRIO/Quadra%20Dr.%20Cristiano%20Evaldt/26-11-2026/19h/Quadra%20Dr.%20Cristiano%20Evaldt_26-11-2026_19-07-44.jpg"
+                }
+              ]
             }
           }
         },
@@ -18938,6 +18948,18 @@
                 }
               ]
             }
+          },
+          "26-11-2026": {
+            "19h": {
+              "_videos": [
+                {
+                  "nome": "QUADRA_26-11-2026_19-07-47.mp4",
+                  "path": "/SC/ITAIÓPOLIS/ARENA ITAIÓPOLIS/TRAVE 2/26-11-2026/19h/QUADRA_26-11-2026_19-07-47.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/26-11-2026/19h/QUADRA_26-11-2026_19-07-47.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/ITAIÓPOLIS/ARENA%20ITAIÓPOLIS/TRAVE%202/26-11-2026/19h/QUADRA_26-11-2026_19-07-47.jpg"
+                }
+              ]
+            }
           }
         }
       },
@@ -20497,6 +20519,12 @@
                   "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/26-11-2026/19h/QUADRA_26-11-2026_19-00-55.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/26-11-2026/19h/QUADRA_26-11-2026_19-00-55.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/26-11-2026/19h/QUADRA_26-11-2026_19-00-55.jpg"
+                },
+                {
+                  "nome": "QUADRA_26-11-2026_19-04-44.mp4",
+                  "path": "/SC/MAFRA-SC/JR03 - RAFINHA/AREIA 1/26-11-2026/19h/QUADRA_26-11-2026_19-04-44.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/26-11-2026/19h/QUADRA_26-11-2026_19-04-44.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/MAFRA-SC/JR03%20-%20RAFINHA/AREIA%201/26-11-2026/19h/QUADRA_26-11-2026_19-04-44.jpg"
                 }
               ]
             }
