@@ -4815,6 +4815,12 @@
                   "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/25-11-2026/21h/QUADRA_25-11-2026_21-01-12.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/25-11-2026/21h/QUADRA_25-11-2026_21-01-12.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/25-11-2026/21h/QUADRA_25-11-2026_21-01-12.jpg"
+                },
+                {
+                  "nome": "QUADRA_25-11-2026_21-04-54.mp4",
+                  "path": "/MG/BELO HORIZONTE/ARENA TIROL/QUADRA 2/25-11-2026/21h/QUADRA_25-11-2026_21-04-54.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/25-11-2026/21h/QUADRA_25-11-2026_21-04-54.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/MG/BELO%20HORIZONTE/ARENA%20TIROL/QUADRA%202/25-11-2026/21h/QUADRA_25-11-2026_21-04-54.jpg"
                 }
               ]
             }
@@ -14899,6 +14905,16 @@
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/25-11-2026/20h/TRAVE%201%20-%20CAMPO%20GRANDE_25-11-2026_20-59-15.jpg"
                 }
               ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 1 - CAMPO GRANDE_25-11-2026_21-02-50.mp4",
+                  "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 1 - CAMPO GRANDE/25-11-2026/21h/TRAVE 1 - CAMPO GRANDE_25-11-2026_21-02-50.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/25-11-2026/21h/TRAVE%201%20-%20CAMPO%20GRANDE_25-11-2026_21-02-50.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%201%20-%20CAMPO%20GRANDE/25-11-2026/21h/TRAVE%201%20-%20CAMPO%20GRANDE_25-11-2026_21-02-50.jpg"
+                }
+              ]
             }
           }
         },
@@ -15481,6 +15497,16 @@
                   "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 3 - ESTACIONAMENTO/25-11-2026/20h/TRAVE 3 - ESTACIONAMENTO_25-11-2026_20-58-48.mp4",
                   "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/25-11-2026/20h/TRAVE%203%20-%20ESTACIONAMENTO_25-11-2026_20-58-48.mp4",
                   "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/25-11-2026/20h/TRAVE%203%20-%20ESTACIONAMENTO_25-11-2026_20-58-48.jpg"
+                }
+              ]
+            },
+            "21h": {
+              "_videos": [
+                {
+                  "nome": "TRAVE 3 - ESTACIONAMENTO_25-11-2026_21-02-24.mp4",
+                  "path": "/SC/BRUSQUE/CAMPO DO HELINHO/TRAVE 3 - ESTACIONAMENTO/25-11-2026/21h/TRAVE 3 - ESTACIONAMENTO_25-11-2026_21-02-24.mp4",
+                  "url_preview": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/25-11-2026/21h/TRAVE%203%20-%20ESTACIONAMENTO_25-11-2026_21-02-24.mp4",
+                  "thumbnail": "https://f005.backblazeb2.com/file/gravaainet/SC/BRUSQUE/CAMPO%20DO%20HELINHO/TRAVE%203%20-%20ESTACIONAMENTO/25-11-2026/21h/TRAVE%203%20-%20ESTACIONAMENTO_25-11-2026_21-02-24.jpg"
                 }
               ]
             }
